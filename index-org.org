@@ -1,0 +1,51 @@
+@@html:<nav>@@
+
+-  [[/][Home]]
+-  [[/about][About]]
+-  [[/cv][CV]]
+-  [[/blog][Blog]]
+-  [[https://dalesgit.github.io/impress.js][impress.js]]
+
+@@html:</nav>@@
+
+#+BEGIN_HTML
+  <div class="container">
+#+END_HTML
+
+#+BEGIN_HTML
+  <div class="blurb">
+#+END_HTML
+
+* Hi there, I'm Hank Quinlan!
+  :PROPERTIES:
+  :CUSTOM_ID: hi-there-im-hank-quinlan
+  :END:
+
+I'm best known as the horrible cop from /A Touch of Evil/ Don't trust
+me. [[/about][Read more about my life...]]
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+@@html:<!-- /.blurb -->@@
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML
+
+@@html:<!-- /.container -->@@
+
+#+BEGIN_HTML
+  <footer>
+#+END_HTML
+
+- [[mailto:hankquinlanhub@gmail.com][email]]
+- [[https://github.com/hankquinlan][github.com/hankquinlan]]
+
+- [[https://github.com/dalesgit][github.com/dalesgit]]
+
+
+#+BEGIN_HTML
+  </footer>
+#+END_HTML
