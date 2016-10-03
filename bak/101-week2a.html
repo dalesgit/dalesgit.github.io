@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>101-week2a</title>
+<!-- 2016-09-21 Wed 15:35 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/javascript" src="http://orgmode.org/mathjax/MathJax.js"></script>
+<script type="text/javascript">
+<!--/*--><![CDATA[/*><!--*/
+    MathJax.Hub.Config({
+        // Only one of the two following lines, depending on user settings
+        // First allows browser-native MathML display, second forces HTML/CSS
+        //  config: ["MMLorHTML.js"], jax: ["input/TeX"],
+            jax: ["input/TeX", "output/HTML-CSS"],
+        extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js",
+                     "TeX/noUndefined.js"],
+        tex2jax: {
+            inlineMath: [ ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"], ["\\begin{displaymath}","\\end{displaymath}"] ],
+            skipTags: ["script","noscript","style","textarea","pre","code"],
+            ignoreClass: "tex2jax_ignore",
+            processEscapes: false,
+            processEnvironments: true,
+            preview: "TeX"
+        },
+        showProcessingMessages: true,
+        displayAlign: "center",
+        displayIndent: "2em",
+
+        "HTML-CSS": {
+             scale: 100,
+             availableFonts: ["STIX","TeX"],
+             preferredFont: "TeX",
+             webFont: "TeX",
+             imageFont: "TeX",
+             showMathMenu: true,
+        },
+        MMLorHTML: {
+             prefer: {
+                 MSIE:    "MML",
+                 Firefox: "MML",
+                 Opera:   "HTML",
+                 other:   "HTML"
+             }
+        }
+    });
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">101-week2a</h1>
+<p>
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+</p>
+
+<p>
+&lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+</p>
+
+<p>
+&lt;title&gt;#HIST3907b @ Carleton University with Shawn Graham, &lsquo;Final Project&rsquo;&lt;/title&gt;
+</p>
+
+<p>
+&lt;meta name="description&rdquo; content="Made with Reveal.JS, A framework for easily creating beautiful presentations using HTML, by Hakim El Hattab"&gt;
+&lt;meta name="author&rdquo; content="Shawn Graham"&gt;
+</p>
+
+<p>
+&lt;meta name="apple-mobile-web-app-capable&rdquo; content="yes&rdquo; /&gt;
+&lt;meta name="apple-mobile-web-app-status-bar-style&rdquo; content="black-translucent&rdquo; /&gt;
+</p>
+
+<p>
+&lt;meta name="viewport&rdquo; content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
+</p>
+
+<p>
+&lt;link rel="stylesheet&rdquo; href="css/reveal.min.css"&gt;
+&lt;link rel="stylesheet&rdquo; href="css/theme/default.css&rdquo; id="theme"&gt;
+</p>
+
+<p>
+&lt;!&#x2013; For syntax highlighting &#x2013;&gt;
+&lt;link rel="stylesheet&rdquo; href="lib/css/zenburn.css"&gt;
+</p>
+
+<p>
+&lt;!&#x2013; If the query includes &lsquo;print-pdf&rsquo;, include the PDF print sheet &#x2013;&gt;
+&lt;script&gt;
+        if( window.location.search.match( /print-pdf/gi ) ) {
+                var link = document.createElement( &lsquo;link&rsquo; );
+                link.rel = &lsquo;stylesheet&rsquo;;
+                link.type = &lsquo;text/css&rsquo;;
+                link.href = &lsquo;css/print/pdf.css&rsquo;;
+                document.getElementsByTagName( &lsquo;head&rsquo; )<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup>.appendChild( link );
+        }
+&lt;/script&gt;
+</p>
+
+<p>
+        &lt;!&#x2013;[if lt IE 9]&gt;
+        &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+        &lt;![endif]&#x2013;&gt;
+&lt;/head&gt;
+</p>
+
+<p>
+&lt;body&gt;
+</p>
+
+<p>
+&lt;div class="reveal"&gt;
+</p>
+
+<p>
+                        &lt;!&#x2013; Any section element inside of this container is displayed as a slide &#x2013;&gt;
+                        &lt;div class="slides"&gt;
+&lt;section data-markdown="finalproject.md&rdquo;  
+         data-separator="<sup>\n\n\n</sup>&rdquo;  
+         data-vertical="<sup>\n\n</sup>&rdquo;  
+         data-notes="<sup>Note</sup>:&rdquo;  
+         data-charset="iso-8859-15"&gt;
+&lt;/section&gt;
+</p>
+
+<p>
+&lt;/div&gt;
+</p>
+
+<p>
+&lt;/div&gt;
+</p>
+
+<p>
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+</p>
+
+<p>
+&lt;script&gt;
+</p>
+
+<p>
+<i>/ Full list of configuration options available here:
+/</i> <a href="https://github.com/hakimel/reveal.js#configuration">https://github.com/hakimel/reveal.js#configuration</a>
+Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+</p>
+
+<p>
+theme: Reveal.getQueryHash().theme, <i>/ available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || &lsquo;fade&rsquo;, /</i> default/cube/page/concave/zoom/linear/fade/none
+</p>
+
+<p>
+// Parallax scrolling
+parallaxBackgroundImage: &lsquo;https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg&rsquo;,
+parallaxBackgroundSize: &lsquo;2100px 900px&rsquo;,
+</p>
+
+<p>
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+                { src: &lsquo;lib/js/classList.js&rsquo;, condition: function() { return !document.body.classList; } },
+                { src: &lsquo;plugin/markdown/marked.js&rsquo;, condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: &lsquo;plugin/markdown/markdown.js&rsquo;, condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: &lsquo;plugin/highlight/highlight.js&rsquo;, async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: &lsquo;plugin/zoom-js/zoom.js&rsquo;, async: true, condition: function() { return !!document.body.classList; } },
+                { src: &lsquo;plugin/notes/notes.js&rsquo;, async: true, condition: function() { return !!document.body.classList; } }
+        ]
+});
+</p>
+
+<p>
+&lt;/script&gt;
+</p>
+
+<p>
+        &lt;/body&gt;
+&lt;/html&gt;
+</p>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> <p>DEFINITION NOT FOUND.</p></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+    <p class="postamble">Last Updated .</p> 
+</div>
+</body>
+</html>
