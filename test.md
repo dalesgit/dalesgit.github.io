@@ -68,7 +68,7 @@ pretenders: <https://en.wikipedia.org/wiki/List_of_current_pretenders>
 
 ## Texts:<a id="sec-3-2" name="sec-3-2"></a>
 
-###      :BMCOL:<a id="sec-3-2-1" name="sec-3-2-1"></a>
+###     
 
 
 -   birth of Samuel 160
@@ -79,7 +79,7 @@ pretenders: <https://en.wikipedia.org/wiki/List_of_current_pretenders>
 
 ---
 
-###      :BMCOL:<a id="sec-3-2-2" name="sec-3-2-2"></a>
+###     
 
 
 -   David & Jonathan 174
