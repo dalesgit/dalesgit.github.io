@@ -60,8 +60,8 @@ Chapter Seven
 # Responses to the Problem of Evil<a id="sec-9" name="sec-9"></a>
 
 **Evil and Karma: The Indian Context**
-**Karma**, signifies the moral weight of ones actions. Good or proper action results in good karma and in progress toward the goal of enlightenment.
 
+- **Karma**, signifies the moral weight of ones actions. Good or proper action results in good karma and in progress toward the goal of enlightenment.
 - In connection with the problem of evil, **karma** is a kind of inexorable reality that explains the destiny of human beings. People get what they deserveat least, over the long cycle of time.
 - The inexorability of **karma** is the problem addressed in the Buddhist story of The Death of Moggallana.
 
@@ -116,6 +116,7 @@ Chapter Seven
 # Reponses to the Problem of Evil<a id="sec-15" name="sec-15"></a>
 
 **Appeal to Sovereignty**
+
 - The sovereignty appeal finds its power in affirming that, at least from the human standpoint, there are no solutions to the problem of evil.
 - The book of Job may be taken as the archetype of the sovereignty response. As such, it has both baffled and comforted believers throughout generations of Jewish and Christian faith.
 
@@ -133,6 +134,7 @@ Chapter Seven
 # Responses to the Problem of Evil<a id="sec-17" name="sec-17"></a>
 
 **Dualism**
+
 - Evil is the result of a conflict between good and evil powers, both of which share some of the characteristics of sacred reality.
 - From the perspective of dualism, God is good but Gods sovereignty faces a severe challenge from those powers that do evil in the world.
 - Many religious traditions embody elements of dualism, but the best example is in Zoroastrianism.
