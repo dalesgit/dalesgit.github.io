@@ -13,6 +13,7 @@ Chapter Seven
 - acting
 - **address problems of ordering and understanding human existence**
 	- leaving aside *morality* and *salvation*
+	- chapter 7 addresses **problem of evil**
 
 ---
 # The Problem of Evil<a id="sec-2" name="sec-2"></a>
