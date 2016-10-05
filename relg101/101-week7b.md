@@ -61,7 +61,7 @@ Chapter Seven
 --
 
 
-- For Jews, the challenge of the Holocaust involves the relationship of the destruction of Europes Jews to the notion that there is a God who governs history according to a plan and that all the events of Jewish history have a meaning in the plan of God.
+- For Jews, the challenge of the Holocaust involves the relationship of the destruction of Europe's Jews to the notion that there is a God who governs history according to a plan and that all the events of Jewish history have a meaning in the plan of God.
 - For Christians, the problem is slightly different and involves the following question: In the death camps, where was Christ?
 
 ---
