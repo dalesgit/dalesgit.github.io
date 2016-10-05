@@ -21,8 +21,8 @@ Chapter Seven
 **What is the Problem of Evil?**
 
 - The problem of evil actually represents not a single problem but a cluster of issues arising from the attempt to relate a diverse set of experiences to notions of sacred reality.
-- Drawing on the tradition of his faith community, for example, the psalmist asks, in effect, Why does good fortune turn to bad?
-- In a very different context, a critic of Hindu beliefs asks a different sort of question: Why do the righteous suffer and the wicked flourish?
+- Drawing on the tradition of his faith community, for example, the psalmist asks, in effect, **Why does good fortune turn to bad?**
+- In a very different context, a critic of Hindu beliefs asks a different sort of question: **Why do the righteous suffer and the wicked flourish?**
 
 --
 
@@ -62,7 +62,7 @@ Chapter Seven
 
 
 - For Jews, the challenge of the Holocaust involves the relationship of the destruction of Europe's Jews to the notion that there is a God who governs history according to a plan and that all the events of Jewish history have a meaning in the plan of God.
-- For Christians, the problem is slightly different and involves the following question: In the death camps, where was Christ?
+- For Christians, the problem is slightly different and involves the following question: In the death camps, **where was Christ?**
 
 ---
 ## 4 basic responses to the "problem" of evil
