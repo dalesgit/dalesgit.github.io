@@ -6,7 +6,15 @@ Chapter Seven
 
 ---
 
+## Religion and ways of 
 
+- thinking
+- feeling
+- acting
+- **address problems of ordering and understanding human existence**
+	- leaving aside *morality* and *salvation*
+
+---
 # The Problem of Evil<a id="sec-2" name="sec-2"></a>
 
 **What is the Problem of Evil?**
