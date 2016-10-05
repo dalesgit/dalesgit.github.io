@@ -18,7 +18,11 @@
 
 -   This is the period when transition from the **Bronze Age** to the **Iron Age**
     
+<<<<<<< HEAD
     -   invasion of the “sea peoples” (*Philistines*)
+=======
+    -   invasion of the “sea peoples” (*Philistines*)
+>>>>>>> origin/master
     
 ---
 

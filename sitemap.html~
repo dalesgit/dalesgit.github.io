@@ -4,7 +4,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>Sitemap</title>
+<<<<<<< HEAD
+<!-- 2016-10-05 Wed 16:02 -->
+=======
 <!-- 2016-10-03 Mon 07:53 -->
+>>>>>>> origin/master
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Dale Hathaway" />
@@ -139,6 +143,8 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">Sitemap</h1>
 <ul class="org-ul">
+<<<<<<< HEAD
+=======
 <li>bak
 <ul class="org-ul">
 <li><a href="bak/101-week2a.html">101-week2a</a>
@@ -149,6 +155,7 @@ for the JavaScript code in this tag.
 </li>
 </ul>
 </li>
+>>>>>>> origin/master
 <li>relg101
 <ul class="org-ul">
 <li><a href="relg101/101-week2a.html">101-week2a</a>
@@ -169,6 +176,11 @@ for the JavaScript code in this tag.
 </li>
 <li>relg313
 <ul class="org-ul">
+<<<<<<< HEAD
+<li><a href="relg313/index.html">Dropbox Web subfolder test</a>
+</li>
+=======
+>>>>>>> origin/master
 <li><a href="relg313/relg313-index.html">RELG 313: Introduction to Hebrew Scriptures</a>
 </li>
 <li><a href="relg313/313-journals.html">RELG 313: Reading Journal Assignments</a>
@@ -177,8 +189,29 @@ for the JavaScript code in this tag.
 </li>
 </ul>
 </li>
+<<<<<<< HEAD
+<li><a href="101-week2a.html">101-week2a</a>
+</li>
+<li><a href="relg101-index.html">RELG 101</a>
+</li>
+<li><a href="relg101-02-index.html">RELG 101</a>
+</li>
+<li><a href="101-2-journals.html">RELG 101 Journal assignments</a>
+</li>
+<li><a href="101-1-journals.html">RELG 101 Journal assignments</a>
+</li>
+<li><a href="relg313-index.html">RELG 313: Introduction to Hebrew Scriptures</a>
+</li>
+<li><a href="313-journals.html">RELG 313: Reading Journal Assignments</a>
+</li>
 <li><a href="index.html">Religion Classes F-16</a>
 </li>
+<li><a href="index-org.html">index-org</a>
+</li>
+=======
+<li><a href="index.html">Religion Classes F-16</a>
+</li>
+>>>>>>> origin/master
 </ul>
 </div>
 <div id="postamble" class="status">

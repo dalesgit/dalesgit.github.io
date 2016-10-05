@@ -6,6 +6,10 @@ Chapter Seven
 
 ---
 
+<<<<<<< HEAD
+
+# The Problem of Evil<a id="sec-2" name="sec-2"></a>
+=======
 ## Religion and ways of 
 
 - thinking
@@ -17,12 +21,18 @@ Chapter Seven
 
 ---
 ## The Problem of Evil<a id="sec-2" name="sec-2"></a>
+>>>>>>> origin/master
 
 **What is the Problem of Evil?**
 
 - The problem of evil actually represents not a single problem but a cluster of issues arising from the attempt to relate a diverse set of experiences to notions of sacred reality.
+<<<<<<< HEAD
+- Drawing on the tradition of his faith community, for example, the psalmist asks, in effect, Why does good fortune turn to bad?
+- In a very different context, a critic of Hindu beliefs asks a different sort of question: Why do the righteous suffer and the wicked flourish?
+=======
 - Drawing on the tradition of his faith community, for example, the psalmist asks, in effect, **Why does good fortune turn to bad?**
 - In a very different context, a critic of Hindu beliefs asks a different sort of question: **Why do the righteous suffer and the wicked flourish?**
+>>>>>>> origin/master
 
 --
 
@@ -33,26 +43,42 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# Problem of Evil (Christianity)<a id="sec-4" name="sec-4"></a>
+=======
 ## Problem of Evil (Christianity)<a id="sec-4" name="sec-4"></a>
+>>>>>>> origin/master
 
 *We have heard with our ears, O God, our ancestors have told us, what deeds you performed in their days, in the days of old; you with your own hand drove out the nations. . . . Yet you have rejected us and abased us, and have not gone out with our armies. You made us turn back from the foe, and our enemies have gotten spoil*. (Psalm 44:12a, 910)
 
 --
 
+<<<<<<< HEAD
+# Problem of Evil Hinduism<a id="sec-5" name="sec-5"></a>
+=======
 ## Problem of Evil Hinduism<a id="sec-5" name="sec-5"></a>
+>>>>>>> origin/master
 
 *The world is so confused and out of joint, why does Brahma not set it straight? If he is master of the whole world, Brahma, lord of the many beings born, why in the whole world did he ordain misfortune? Why did he not make the whole world happy? . . .Why did he make the world with deception, lies, and excess, with injustice?*
 
 ---
 
+<<<<<<< HEAD
+# Theodicy<a id="sec-6" name="sec-6"></a>
+=======
 ## Theodicy<a id="sec-6" name="sec-6"></a>
+>>>>>>> origin/master
 
 - When the problem of evil is raised in connection with belief in God or gods, we may describe them as issues of **theodicy**, or divine justice.
 - However, even those religious traditions that stress the impersonal nature of the sacred, must seek to explain the existence of evil or suffering in the world.
 
 --
 
+<<<<<<< HEAD
+# The Holocaust<a id="sec-7" name="sec-7"></a>
+=======
 ## The Holocaust<a id="sec-7" name="sec-7"></a>
+>>>>>>> origin/master
 
 - In the modern West, no single experience raises the questions associated with the problem of evil with greater power than the **Holocaust**.
 - The **Holocaust** illustrates the general point of how religious people identify evil in terms of a contradiction between the facts of experience and the reality of the sacred.
@@ -61,6 +87,14 @@ Chapter Seven
 --
 
 
+<<<<<<< HEAD
+- For Jews, the challenge of the Holocaust involves the relationship of the destruction of Europes Jews to the notion that there is a God who governs history according to a plan and that all the events of Jewish history have a meaning in the plan of God.
+- For Christians, the problem is slightly different and involves the following question: In the death camps, where was Christ?
+
+---
+
+# Responses to the Problem of Evil<a id="sec-9" name="sec-9"></a>
+=======
 - For Jews, the challenge of the Holocaust involves the relationship of the destruction of Europe's Jews to the notion that there is a God who governs history according to a plan and that all the events of Jewish history have a meaning in the plan of God.
 - For Christians, the problem is slightly different and involves the following question: In the death camps, **where was Christ?**
 
@@ -74,6 +108,7 @@ Chapter Seven
 
 ---
 ## Responses to the Problem of Evil<a id="sec-9" name="sec-9"></a>
+>>>>>>> origin/master
 
 **Evil and Karma: The Indian Context**
 
@@ -83,7 +118,11 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# Buddhist Perspective on Evil<a id="sec-10" name="sec-10"></a>
+=======
 ## Buddhist Perspective on Evil<a id="sec-10" name="sec-10"></a>
+>>>>>>> origin/master
 
 - **Evil is located in the self**, with its passions and desires.
 - The brute facts of cruelty and pain are not simply the luck of the draw, nor are they connected with the will of God.
@@ -92,7 +131,11 @@ Chapter Seven
 
 ---
 
+<<<<<<< HEAD
+# Reponses to the Problem of Evil<a id="sec-11" name="sec-11"></a>
+=======
 ## Reponses to the Problem of Evil<a id="sec-11" name="sec-11"></a>
+>>>>>>> origin/master
 
 **The Consolation of Promise**
 
@@ -102,7 +145,11 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# Jewish Perspective on Evil<a id="sec-12" name="sec-12"></a>
+=======
 ## Jewish Perspective on Evil<a id="sec-12" name="sec-12"></a>
+>>>>>>> origin/master
 
 - Jews wait for a Messiah who is yet to come.
 - When the anointed one arrives, he will reestablish the nation of Israel and will rule the other nations with a rod of iron.
@@ -111,7 +158,11 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# Christian Response to Evil<a id="sec-13" name="sec-13"></a>
+=======
 ## Christian Response to Evil<a id="sec-13" name="sec-13"></a>
+>>>>>>> origin/master
 
 - Christianity holds that the Messiah has come: Jesus of Nazareth is the Messiah.
 - His life, death, and resurrection manifest the promise of God to bring about a peaceable kingdom.
@@ -120,7 +171,11 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# Muslim Response to Evil<a id="sec-14" name="sec-14"></a>
+=======
 ## Muslim Response to Evil<a id="sec-14" name="sec-14"></a>
+>>>>>>> origin/master
 
 - Islam also embodies the promise theme common to Judaism and Christianity.
 - An idea appears in the Islamic tradition that the mahdi will come or appear at the time God decides and will establish the rule of justice and equity on earth.
@@ -129,7 +184,11 @@ Chapter Seven
 
 ---
 
+<<<<<<< HEAD
+# Reponses to the Problem of Evil<a id="sec-15" name="sec-15"></a>
+=======
 ## Reponses to the Problem of Evil<a id="sec-15" name="sec-15"></a>
+>>>>>>> origin/master
 
 **Appeal to Sovereignty**
 
@@ -138,7 +197,11 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# The Story of Job<a id="sec-16" name="sec-16"></a>
+=======
 ## The Story of Job<a id="sec-16" name="sec-16"></a>
+>>>>>>> origin/master
 
 - God tests Jobs faith to see if his obedience to God is motivated by his own integrity or desire for personal gain.
 - Job rejects the idea that his suffering is educative.
@@ -147,7 +210,11 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# Responses to the Problem of Evil<a id="sec-17" name="sec-17"></a>
+=======
 ## Responses to the Problem of Evil<a id="sec-17" name="sec-17"></a>
+>>>>>>> origin/master
 
 **Dualism**
 
@@ -157,7 +224,11 @@ Chapter Seven
 
 --
 
+<<<<<<< HEAD
+# Zoroastrian Response to Evil<a id="sec-18" name="sec-18"></a>
+=======
 ## Zoroastrian Response to Evil<a id="sec-18" name="sec-18"></a>
+>>>>>>> origin/master
 
 - Struggle between **Spenta Mainyu** (beneficent spirit) and **Angra Mainyu** (hostile spirit), whose conflict stems from the beginning of all things and continues to the end of time.
 - **Spenta Mainyu** and **Angra Mainyu** are twins, offspring of the wise lord **Ahura Mazda**, the creator of all things.
@@ -165,7 +236,11 @@ Chapter Seven
 
 ---
 
+<<<<<<< HEAD
+# Evaluating Responses to the Problem of Evil<a id="sec-19" name="sec-19"></a>
+=======
 ## Evaluating Responses to the Problem of Evil<a id="sec-19" name="sec-19"></a>
+>>>>>>> origin/master
 
 - Are the answers adequate?
 - Are the answers logical?

@@ -5,6 +5,7 @@
 ---
 
 ## From responses
+<<<<<<< HEAD
 - "mythic elements" -- the truth?
 - Nature of God
 	- violent?
@@ -12,6 +13,15 @@
 	- changing/unchanging?
 - historicity and the bible
 - landscapes
+=======
+- "mythic elements" -- the truth?
+- Nature of God
+	- violent?
+	- just?
+	- changing/unchanging?
+- historicity and the bible
+- landscapes
+>>>>>>> origin/master
 
 
 ---
