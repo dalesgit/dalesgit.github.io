@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>RELG 313: Introduction to Hebrew Scriptures</title>
-<!-- 2016-10-05 Wed 16:02 -->
+<!-- 2016-10-06 Thu 19:49 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Prof. Dale Hathaway" />
@@ -88,8 +88,7 @@
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/386398/dalesgit.github.io/css/mystyle.css?raw=1" />
-<link rel="alternate stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/386398/dalesgit.github.io/css/mystyle.css?raw=1" />
+<link rel="stylesheet" type="text/css" href="../css/mystyle.css">
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -191,6 +190,11 @@ for the JavaScript code in this tag.
 
 <tr>
 <td class="left"><a href="313-week7a.html">Monarchy 1</a></td>
+<td class="left"><a href="313-week7b.html">Monarchy 2</a></td>
+</tr>
+
+<tr>
+<td class="left">&#xa0;</td>
 <td class="left">&#xa0;</td>
 </tr>
 </tbody>
