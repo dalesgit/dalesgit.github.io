@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Monarchy 2
 
 ## Posting
@@ -61,7 +61,9 @@ Note:
 -   God's covenant with David 179
 -   David & Bathsheba
 -   Trouble in David's House
-=======
+
+---
+
 ## Monarchy 2
 
 ## Posting
@@ -124,4 +126,4 @@ Note:
 -   God's covenant with David 179
 -   David & Bathsheba
 -   Trouble in David's House
->>>>>>> 31f64f9ba06631b48457e57ac4f039983226f164
+
