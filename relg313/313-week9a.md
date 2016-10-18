@@ -20,7 +20,7 @@ https://youtu.be/1EMv0TtIhd0
 
 - I will sing of loyalty and of justice (101:1a)
 <li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>
-<li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>  My heart is steadfast, O God, my heart is steadfast (108:1a)
+<li class="fragment">  My heart is steadfast, O God, my heart is steadfast (108:1a)</li>  
 <li class="fragment">  The Lord sits enthroned over the flood; (29:10a) </li>
 
 --
