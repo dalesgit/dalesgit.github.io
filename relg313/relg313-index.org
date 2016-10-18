@@ -1,0 +1,34 @@
+#+TITLE: RELG 313: Introduction to Hebrew Scriptures
+#+AUTHOR: Prof. Dale Hathaway
+#+OPTIONS:     H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t f:t TeX:t ...
+#     H:         set the number of headline levels for export
+#     num:       turn on/off section-numbers
+#     toc:nil       turn on/off table of contents, or set level limit (integer)
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/mystyle.css">
+
+#+BEGIN_CENTER
+*Introduction to Hebrew Scriptures*
+#+END_CENTER
+
+- RELG 313 :: As an *introduction* this course will provide a variety of tools to enable the student to appreciate and to read with insight the Hebrew Scriptures. As it is about the *Hebrew Scriptures* (Old Testament) it will emphasize the reading of the text through a variety of lenses that will include but not be limited to the more familiar Christian (New Testament) lens. A major goal of the course is simply to read large sections of the text because this is one of the best ways to become familiar with an original text. The course intends to help the students gain a general familiarity with the contents of the Hebrew Scriptures which span an enormous time frame and include a wide variety of different genre. The course will provide basic tools for interpreting the text and a framework for developing more sophisticated abilities in interpretation.
+
+
+* Presentations
+| [[file:313-week1a.html][Opening]]                             | [[file:313-week1b.html][Reading a "dusty" old book]] |
+| [[file:313-week2a.html][Opening Genesis]]                     | [[file:313-week2b.html][Listening to the text]]      |
+| [[file:313-week3a.html][questioning the text]]                | [[file:313-week3b.html][Exodus]]                     |
+| [[file:313-week4a.html][Covenant]]                            | [[file:313-week4b.html][Deuteronomy]]                |
+| [[file:313-week6a.html][Deuteronomic History]]                | [[file:313-week6b.html][Josh-Judges]]                |
+| [[file:313-week7a.html][Monarchy 1] | [[file:313-week7b.html][Monarchy 2]]                 |
+| [[file:313-week9a.html][Hebrew Poetry]]                       |                            |
+
+
+* Reading Journals
+[[file:313-journals.org][Reading Journal Assignments]]
+
+* Resources
+[[file:biblical-research-101.org][Internet based research]]
+
+[[file:library-bible-resources.html][Library based references]]
+
