@@ -8,7 +8,7 @@
 
 ---
 
-### Respond with "B" phrase<a id="sec-1" name="sec-1"></a>
+### Respond with "B" phrase
 
 - I will sing of loyalty and of justice (101:1a)
 <li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>
@@ -17,7 +17,7 @@
 
 ---
 
-### Respond with next verse<a id="sec-2" name="sec-2"></a>
+### Respond with next verse
 
 
 - Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah is my scepter. (108:8) 
