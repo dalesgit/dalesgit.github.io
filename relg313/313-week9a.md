@@ -56,10 +56,10 @@ reason be happy.
 
 ## Ps 91 in various<a id="sec-3" name="sec-3"></a>
 
-- contemporary worship <https://youtu.be/SWe4nqgZrao>
-- Anglican chant <https://youtu.be/zPANIOmWxmU?list=PLHWYH4LwoTigk4krf8RoK-Pj3usnPGbrP>
-- Gregorian chant <https://youtu.be/J3okjCPQyms>
-- Hebrew chant <https://youtu.be/jwQ0waPkEqU>
+- contemporary worship <https://youtu.be/SWe4nqgZrao>  
+- Anglican chant <https://youtu.be/zPANIOmWxmU?list=PLHWYH4LwoTigk4krf8RoK-Pj3usnPGbrP>  
+- Gregorian chant <https://youtu.be/J3okjCPQyms>  
+- Hebrew chant <https://youtu.be/jwQ0waPkEqU>  
 
 ---
 
