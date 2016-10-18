@@ -56,28 +56,28 @@ reason be happy.
 
 ## Ps 91 in various<a id="sec-3" name="sec-3"></a>
 
--   contemporary worship <https://youtu.be/SWe4nqgZrao>
--   Anglican chant <https://youtu.be/zPANIOmWxmU?list=PLHWYH4LwoTigk4krf8RoK-Pj3usnPGbrP>
--   Gregorian chant <https://youtu.be/J3okjCPQyms>
--   Hebrew chant <https://youtu.be/jwQ0waPkEqU>
+- contemporary worship <https://youtu.be/SWe4nqgZrao>
+- Anglican chant <https://youtu.be/zPANIOmWxmU?list=PLHWYH4LwoTigk4krf8RoK-Pj3usnPGbrP>
+- Gregorian chant <https://youtu.be/J3okjCPQyms>
+- Hebrew chant <https://youtu.be/jwQ0waPkEqU>
 
 ---
 
 ## types of psalms<a id="sec-4" name="sec-4"></a>
 
--   Praise
--   lament
+- Praise
+- lament
 
 ---
 
 ## common metaphors (cf. 220)<a id="sec-5" name="sec-5"></a>
 
--   enemies, wild animals, thieves
--   Davids flock
--   temple, Zion, tent
--   royal images, kings-shepherds
--   crisis and divine warrior
-
+- enemies, wild animals, thieves
+- David's flock
+- temple, Zion, tent
+- royal images, kings-shepherds
+- crisis and divine warrior
+f
 ---
 
 ## table of psalms in Carvalho<a id="sec-6" name="sec-6"></a>
