@@ -10,17 +10,17 @@
 
 ### Respond with "B" phrase<a id="sec-1" name="sec-1"></a>
 
-<li class="fragment">  I will sing of loyalty and of justice (101:1a)</li>
+- I will sing of loyalty and of justice (101:1a)
 <li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>
 <li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>  My heart is steadfast, O God, my heart is steadfast (108:1a)
 <li class="fragment">  The Lord sits enthroned over the flood; (29:10a) </li>
 
---
+---
 
 ### Respond with next verse<a id="sec-2" name="sec-2"></a>
 
 
-<li class="fragment">  Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah is my scepter. (108:8) </li>
+- Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah is my scepter. (108:8) 
 <li class="fragment">  Those who trust in the Lord are like Mount Zion, which cannot be shaken but endures forever. (125:1) </li>
 <li class="fragment">   Why do the nations conspire and the peoples plot in vain? (2:1) </li>
 <li class="fragment">   The Lord sits enthroned over the flood; the Lord is enthroned as King forever. (29:10) </li>
