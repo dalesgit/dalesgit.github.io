@@ -40,10 +40,7 @@ https://youtu.be/1EMv0TtIhd0
 Blessed    : The word that inaugurates the psalm and the book of psalms has sometimes been
 translated as praises, a noun form, though this would be an unusual rendering--not to mention
 the fact that many of the psalms are, in fact, more complaints than praises. More likely it should
-be read adjectivally, meaning praised or blessed. The medieval Jewish commentator Malbim sees
-it as particularly referring to contentment in the spiritual realm, an understanding that I share.
-The idea of longevity of spiritual contentment is a connotation that I was unable to easily
-represent in translation, but which I attempt to convey through this word.
+be read adjectivally, meaning praised or blessed.
 
 
 ---
