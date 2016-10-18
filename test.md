@@ -8,25 +8,6 @@
 
 ---
 
-### Respond with "B" phrase<a id="sec-1" name="sec-1"></a>
-
-<li class="fragment">  I will sing of loyalty and of justice (101:1a)</li>
-<li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>
-<li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>  My heart is steadfast, O God, my heart is steadfast (108:1a)
-<li class="fragment">  The Lord sits enthroned over the flood; (29:10a) </li>
-
---
-
-### Respond with next verse<a id="sec-2" name="sec-2"></a>
-
-
-<li class="fragment">  Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah is my scepter. (108:8) </li>
-<li class="fragment">  Those who trust in the Lord are like Mount Zion, which cannot be shaken but endures forever. (125:1) </li>
-<li class="fragment">   Why do the nations conspire and the peoples plot in vain? (2:1) </li>
-<li class="fragment">   The Lord sits enthroned over the flood; the Lord is enthroned as King forever. (29:10) </li>
-
----
-
 ## This is poetry
 - psalm 1 in hebrew
 https://youtu.be/9pSe4xLNMmI
@@ -35,14 +16,31 @@ https://youtu.be/1EMv0TtIhd0
 
 ---
 
+ Respond with "B" phrase
+
+- I will sing of loyalty and of justice (101:1a)
+<li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>
+<li class="fragment">  Moses and Aaron were among his priests (99:6a) </li>  My heart is steadfast, O God, my heart is steadfast (108:1a)
+<li class="fragment">  The Lord sits enthroned over the flood; (29:10a) </li>
+
+--
+
+ Respond with next verse
+
+
+- Gilead is mine, Manasseh is mine; Ephraim is my helmet, Judah is my scepter. (108:8) 
+<li class="fragment">  Those who trust in the Lord are like Mount Zion, which cannot be shaken but endures forever. (125:1) </li>
+<li class="fragment">   Why do the nations conspire and the peoples plot in vain? (2:1) </li>
+<li class="fragment">   The Lord sits enthroned over the flood; the Lord is enthroned as King forever. (29:10) </li>
+
+---
+
+
 ##  Word Play
 Blessed    : The word that inaugurates the psalm and the book of psalms has sometimes been
 translated as praises, a noun form, though this would be an unusual rendering--not to mention
 the fact that many of the psalms are, in fact, more complaints than praises. More likely it should
-be read adjectivally, meaning praised or blessed. The medieval Jewish commentator Malbim sees
-it as particularly referring to contentment in the spiritual realm, an understanding that I share.
-The idea of longevity of spiritual contentment is a connotation that I was unable to easily
-represent in translation, but which I attempt to convey through this word.
+be read adjectivally, meaning praised or blessed.
 
 
 ---
