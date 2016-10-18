@@ -16,7 +16,6 @@ https://youtu.be/1EMv0TtIhd0
 
 ---
 
-
  Respond with "B" phrase
 
 - I will sing of loyalty and of justice (101:1a)
