@@ -72,25 +72,18 @@ When a member of our "family" does something illegal, immoral or shameful, we al
 
 And when a member of our "family" accomplishes something significant, we all feel proud. A perfect example of Jews (even completely secular ones) delighting in the accomplishments of our fellow Jews is the perennial popularity of Adam Sandler's Chanukkah songs, listing famous people who are Jewish. We all take pride in scientists like Albert Einstein or political leaders like Joe Lieberman (we don't all agree with his politics or his religious views, but we were all proud to see him on a national ticket). And is there a Jew who doesn't know (or at least feel pride upon learning) that Sandy Koufax declined to pitch in a World Series game that fell on Yom Kippur?
 
-© Copyright 5761-5771 (2001-2011), Tracey R Rich
+ Copyright 5761-5771 (2001-2011), Tracey R Rich
 
 
---- 
+-- 
 
-## What do Jews believe? (A Christian question)
-
-**Question**: "What is Judaism and what do Jews believe?"
-
-**Answer**: What is Judaism, and who or what is a Jew? Is Judaism simply a religion? Is it a cultural identity or just an ethnic group? Are Jews a clan of people or are they a nation? What do Jews believe, and do they all believe the same things?
-
---- 
 
 ## Definitions
 
-Dictionary definitions of a “Jew” include “a member of the tribe of Judah,” “an Israelite,” “a member of a nation existing in the land of Israel from the 6th century B.C. to the 1st century A.D.,” “a person belonging to a continuation through descent or conversion of the ancient Jewish people,” and “one whose religion is Judaism.”
+Dictionary definitions of a Jew include a member of the tribe of Judah, an Israelite, a member of a nation existing in the land of Israel from the 6th century B.C. to the 1st century A.D., a person belonging to a continuation through descent or conversion of the ancient Jewish people, and one whose religion is Judaism.
 
 
---- 
+-- 
 
 ## Who Is a Jew?
 
@@ -114,7 +107,7 @@ So, what is it that Jews believe, and what are the basic precepts of Judaism? Th
 Note:
 The beliefs and requirements in each group differ dramatically; 
 
---- 
+-- 
 
 ## Traditional beliefs
 a short list of the traditional beliefs of Judaism would include the following:
@@ -124,7 +117,7 @@ a short list of the traditional beliefs of Judaism would include the following:
 - God has communicated to the Jewish people through prophets.
 - God monitors the activities of humans; He rewards individuals for good deeds and punishes evil.
 
---- 
+-- 
 
 ## Scripture
 
@@ -143,7 +136,7 @@ a short list of the traditional beliefs of Judaism would include the following:
 - The **613 commandments** found in Leviticus and other books regulate all aspects of Jewish life. The Ten Commandments, as delineated in Exodus 20:1-17 and Deuteronomy 5:6-21, form a brief synopsis of the Law.
 - The **Messiah** (anointed one of God) will arrive in the future and gather Jews once more into the land of Israel. There will be a general resurrection of the dead at that time. The Jerusalem Temple, destroyed in A.D. 70 by the Romans, will be rebuilt.
 
---- 
+-- 
 
 ## Jesus and Judaism
 
@@ -154,7 +147,7 @@ Note:
 cf.  resource: *What Do Jews Believe?: The Spiritual Foundations of Judaism* by David Ariel and Logos Bible Software.
 
 
---- 
+-- 
 
 ## Patriarchs and women
 
@@ -165,7 +158,7 @@ cf.  resource: *What Do Jews Believe?: The Spiritual Foundations of Judaism* by 
 - Jewish sages and scholars, including Hillel, Shammai, Rabbi Akiba, Judah Ha-Nasi, Rashi, Maimonides and the Baal Shem Tov.
 
 
---- 
+-- 
 
 ## The Name of G-d
 
@@ -177,7 +170,7 @@ cf.  resource: *What Do Jews Believe?: The Spiritual Foundations of Judaism* by 
 
 --- 
 
-## Rambam's list Maimonides
+## Rambam's list (Maimonides)
 
 The closest that anyone has ever come to creating a widely-accepted list of Jewish beliefs is **Rambam**'s thirteen principles of faith. These principles, which **Rambam** thought were the minimum requirements of Jewish belief, are:
 
@@ -202,48 +195,54 @@ The closest that anyone has ever come to creating a widely-accepted list of Jewi
 
 ## Who knows one? (From Seder)
 
-1.  Who knows one? 
-  - I know one!  One is Hashem! In the Heaven and the Earth
-2.  Who knows two?  
-  - I know two! Two are the tablets that Moses brought, and one is Hashem, etc&#x2026;
-3.  Who knows three?  
-  - I know three! Three are the fathers, and two are the tablets that Moses brought, and one is Hashem, etc.
-4.  Who knows four? 
-  - I know four! Four are the Mothers, and three are the fathers, and two are the tablets that Moses brought, and one is Hashem&#x2026;..
-5.  Who knows five? 
-  - I know five! Five are the books of the **clap** Torah, Four are the mothers, and three are the fathers and two are the tablets that Moses brought, and one is Hashem&#x2026;
---- 
+-  Who knows one? 
+ <li class="fragment">I know one!  One is Hashem! In the Heaven and the Earth </li> 
+<li class="fragment"> Who knows two?   </li>
+ <li class="fragment"> I know two! Two are the tablets that Moses brought, and one is Hashem, etc&#x2026; </li>
+<li class="fragment"> Who knows three?   </li>
+<li class="fragment"> I know three! Three are the fathers, and two are the tablets that Moses brought, and one is Hashem, etc. </li>
 
-## 
-1.  Who knows six? 
-  - I know six! Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem&#x2026;
-2.  Who knows seven? 
-  - I know seven! Seven are the days of the week **clap, clap**, Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem
---- 
+--
 
-## 
+- Who knows four? 
+  <li class="fragment">I know four! Four are the Mothers, and three are the fathers, and two are the tablets that Moses brought, and one is Hashem etc... </li>
+<li class="fragment"> Who knows five?  </li>
+<li class="fragment"> I know five! Five are the books of the **clap** Torah, Four are the mothers, and three are the fathers and two are the tablets that Moses brought, and one is Hashem etc. </li>
 
-1.  Who knows eight?
-  - I know eight! Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** **Mishnah**, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem&#x2026;
-2.  Who knows nine?
-  - I know nine! Nine are the months til the baby's born Eight are the days til the Brit Milah Seven are the days of the week **clap, clap**, Six are the books of the **clap** **Mishnah**, and five are the books of the **clap** **Torah**, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem&#x2026;
+-- 
 
---- 
 
-## 
+- Who knows six? 
+ <li class="fragment"> I know six! Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem etc. </li>
+<li class="fragment"> Who knows seven?  </li>
+<li class="fragment"> I know seven! Seven are the days of the week **clap, clap**, Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem </li>
 
-1.  Who know ten?
-  - I know ten! Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** **Mishnah**, and five are the books of the **clap** **Torah**, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem&#x2026;
+-- 
 
-2.  Who knows eleven?
-  - I know eleven! Eleven are the stars in Joseph's dream Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem&#x2026;
 
---- 
+- Who knows eight?
+ <li class="fragment"> I know eight! Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** **Mishnah**, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem etc. </li>
 
-## 
+--
 
-1.  Who knows twelve?
-  - I know twelve! Twelve are the tribes of Israel Eleven are the stars in Joseph's dream Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem&#x2026;
+- Who knows nine? 
+<li class="fragment"> I know nine! Nine are the months til the baby's born Eight are the days til the Brit Milah Seven are the days of the week **clap, clap**, Six are the books of the **clap** **Mishnah**, and five are the books of the **clap** **Torah**, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem etc. </li>
+
+-- 
+
+
+- Who know ten?
+ <li class="fragment"> I know ten! Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** **Mishnah**, and five are the books of the **clap** **Torah**, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem etc. </li>
+
+--
+
+- Who knows eleven?
+<li class="fragment"> I know eleven! Eleven are the stars in Joseph's dream Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem etc. </li>
+
+-- 
+
+- Who knows twelve?
+ <li class="fragment"> I know twelve! Twelve are the tribes of Israel Eleven are the stars in Joseph's dream Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the **Brit Milah** Seven are the days of the week **clap, clap**, Six are the books of the **clap** Mishnah, and five are the books of the **clap** Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem etc. </li>
 
 --- 
 
@@ -264,7 +263,7 @@ The word "Torah" is a tricky one, because it can mean different things in differ
 
 - the importance of prayer in Judaism and the form and content of prayers and blessings.
 - The Hebrew word for prayer is **tefilah**. 
-- The Yiddish word meaning "pray" is "daven," which ultimately comes from the same Latin root as the English word "divine" and emphasizes the One to whom prayer is directed.
+- The Yiddish word meaning "pray" is "**davens**," which ultimately comes from the same Latin root as the English word "divine" and emphasizes the One to whom prayer is directed.
 - For an observant Jew, prayer is not simply something that happens in synagogue once a week (or even three times a day). Prayer an integral part of everyday life. In fact, one of the most important prayers in Judaism, the Birkat Ha-Mazon, is never recited in synagogue!
  
 Note:
