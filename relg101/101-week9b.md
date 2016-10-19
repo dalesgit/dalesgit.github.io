@@ -52,9 +52,11 @@ There are certainly cultural traits and behaviors that are shared by many Jews, 
 ## Are the Jews a Nation?
    
 
-The traditional explanation, and the one given in the Torah, is that the Jews are a nation. The Hebrew word, believe it or not, is "goy." The Torah and the rabbis used this term not in the modern sense meaning a territorial and political entity, but in the ancient sense meaning a group of people with a common history, a common destiny, and a sense that we are all connected to each other.
+The traditional explanation, and the one given in the Torah, is that the Jews are a nation. The Hebrew word is "goy." 
 
 Note:
+The Torah and the rabbis used this term not in the modern sense meaning a territorial and political entity, but in the ancient sense meaning a group of people with a common history, a common destiny, and a sense that we are all connected to each other.
+
 Unfortunately, in modern times, the term "nation" has become too contaminated by ugly, jingoistic notions of a country obsessed with its own superiority and bent on world domination. Because of this notion of "nationhood," Jews are often falsely accused of being disloyal to their own country in favor of their loyalty to the Jewish "nation," of being more loyal to Israel than to their home country. Some have gone so far as to use this distorted interpretation of "nationhood" to prove that Jews do, or seek to, control the world. In fact, a surprising number of antisemitic websites and newsgroup postings linked to this page (in an earlier form) as proof of their antisemitic delusions that Jews are nationalistic, that Israel is a colonial power and so forth.
 
 Because of the inaccurate connotations that have attached themselves to the term "nation," the term can no longer be used to accurately describe the Jewish people.
@@ -62,7 +64,7 @@ Because of the inaccurate connotations that have attached themselves to the term
 
 ## The Jewish People are a Family
 
-It is clear from the discussion above that there is a certain amount of truth in the claims that it is a religion, a race, or an ethnic group, none of these descriptions is entirely adequate to describe what connects Jews to other Jews. And yet, almost all Jews feel a sense of connectedness to each other that many find hard to explain, define, or even understand. Traditionally, this interconnectedness was understood as "nationhood" or "peoplehood," but those terms have become so distorted over time that they are no longer accurate.
+There is a certain amount of truth in the claims that it is a **religion**, a **race**, or an **ethnic group**, none of these descriptions is entirely adequate to describe what connects Jews to other Jews. And yet, almost all Jews feel a sense of connectedness to each other that many find hard to explain, define, or even understand. Traditionally, this interconnectedness was understood as "nationhood" or "peoplehood," but those terms have become so distorted over time that they are no longer accurate.
 
 Note:
 Rabbi Adin Steinsaltz has suggested a better analogy for the Jewish people: We are a family. See the third essay in his 2005 book, We Jews: Who Are We and What Should We Do. But though this is a relatively new book, it is certainly not a new concept: throughout the Bible and Jewish literature, the Jewish people are referred to as "the Children of Israel," a reference to the fact that we are all the physical or spiritual descendants of the Patriarch Jacob, who was later called Israel. In other words, we are part of his extended family.
@@ -136,7 +138,12 @@ a short list of the traditional beliefs of Judaism would include the following:
 
 - Jewish believers are able to sanctify their lives and draw closer to God by fulfilling *mitzvoth* (divine commandments).
 - No savior is needed or is available as an intermediary.
-- The **613 commandments** found in Leviticus and other books regulate all aspects of Jewish life. The Ten Commandments, as delineated in Exodus 20:1-17 and Deuteronomy 5:6-21, form a brief synopsis of the Law.
+- The **613 commandments** found in Leviticus and other books regulate all aspects of Jewish life. The Ten Commandments, as delineated in Exodus 20:1-17 and Deuteronomy 5:6-21, form a brief synopsis of the Law. <http://www.jewfaq.org/613.htm>
+
+--
+
+- **Kosher** dietary laws <http://www.jewfaq.org/613.htm#Kashrut>
+- **Sabbath** observance <http://www.chabad.org/library/article_cdo/aid/95907/jewish/The-Shabbat-Laws.htm> and <http://www.jewfaq.org/shabbat.htm>
 - The **Messiah** (anointed one of God) will arrive in the future and gather Jews once more into the land of Israel. There will be a general resurrection of the dead at that time. The Jerusalem Temple, destroyed in A.D. 70 by the Romans, will be rebuilt.
 
 -- 
@@ -313,7 +320,7 @@ that the first paragraph commands us to speak of these matters "when you retire 
 
 ## Shabbat
 
-The Sabbath (or Shabbat, as it is called in Hebrew) is one of the best known and least understood of all Jewish observances. People who do not observe Shabbat think of it as a day filled with stifling restrictions, or as a day of prayer like the Christian Sabbath. But to those who observe Shabbat, it is a precious gift from G-d, a day of great joy eagerly awaited throughout the week, a time when we can set aside all of our weekday concerns and devote ourselves to higher pursuits. 
+The Sabbath (or Shabbat, as it is called in Hebrew) is one of the best known and least understood of all Jewish observances. People who do not observe Shabbat think of it as a day filled with stifling restrictions, or as a day of prayer like the Christian Sabbath. But to those who observe **Shabbat**, it is a precious gift from G-d, a day of great joy eagerly awaited throughout the week, a time when we can set aside all of our weekday concerns and devote ourselves to higher pursuits. 
 
 
 Note: 
