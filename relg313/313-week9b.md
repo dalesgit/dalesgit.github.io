@@ -10,10 +10,10 @@
 
 --
 
-## Rabbinic Interpretation and Its Legacy (150–1500 C.E.)
--   concern with *halakah* — what does the text tell us about how to observe the commandments?
+## Rabbinic Interpretation and Its Legacy (1501500 C.E.)
+-   concern with *halakah*  what does the text tell us about how to observe the commandments?
 -   development of the Mishnah, Talmud
--   Haggadic interpretation — interpreting via story
+-   Haggadic interpretation  interpreting via story
 -   late in developing a **systematic** interpretation
 
 --
@@ -27,10 +27,10 @@
 
 --
 
-## Modern Interpretation (1500–Present)
--   Renaissance scholarship — interpreting classical literature
+## Modern Interpretation (1500Present)
+-   Renaissance scholarship  interpreting classical literature
 -   allegorical interpretation and discovering authorial intent
--   enlightenment rationality leading to …
+-   enlightenment rationality leading to 
 -   historical criticism
 -   archaeology, growing awareness of the disconnect between ancient and modern worldviews
 
@@ -46,9 +46,9 @@
 
 ## Overview
 cf.  <http://www.religioustolerance.org/chr_inte1.htm>
--   Using a literal interpretation: The events happened exactly as described.
--   Viewing the Bible as a historical document: The passages contain a great deal of mythical content:  magical occurrences which never happened. However the stories themselves are spiritually very significant.
--   Using Midrash. The events probably never happened. However, they demonstrate God&rsquo;s ancient presence with believers continues through history.
+- Using a literal interpretation: The events happened exactly as described.
+- Viewing the Bible as a historical document: The passages contain a great deal of mythical content:  magical occurrences which never happened. However the stories themselves are spiritually very significant.
+- Using Midrash. The events probably never happened. However, they demonstrate God&rsquo;s ancient presence with believers continues through history.
 
 
 ---
@@ -65,7 +65,7 @@ cf.  <http://www.religioustolerance.org/chr_inte1.htm>
 - enemies, wild animals, thieves
 - farming, nature, war
     - *importance of knowing about everyday life in ancient Israel*
-- David’s flock, vine, branch
+- Davids flock, vine, branch
 - temple, Zion, tent
 - royal images, kings-shepherds, justice
 - crisis and divine warrior
