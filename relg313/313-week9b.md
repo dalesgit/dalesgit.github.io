@@ -96,7 +96,7 @@ cf.  <http://www.religioustolerance.org/chr_inte1.htm>
 ## Song of Songs
 
 - many examples of explicit love poetry in ancient near east
-- n.b. that **celibacy** is regarded as an aberration in the culture of the time and **family** was held in the highest esteem
-- both Judaism in the centuries before Christianity and Christian interpreters later were **embarrased** by the text, asking "How is this scripture?" "What does it mean?"
-- with the rise of dualism (from Greeks) an allegorical interpretation of the text became dominant
+<li class="fragment"> n.b. that **celibacy** is regarded as an aberration in the culture of the time and **family** was held in the highest esteem </li>
+<li class="fragment"> both Judaism in the centuries before Christianity and Christian interpreters later were **embarrased** by the text, asking "How is this scripture?" "What does it mean?" </li>
+<li class="fragment"> with the rise of dualism (from Greeks) an allegorical interpretation of the text became dominant </li>
 
