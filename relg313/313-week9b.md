@@ -1,4 +1,4 @@
-## History of Biblical Interpretation (2016)
+# Historic of Biblical Interpretation (2016)
 
 cf. an overview of contemporary methods of interpretation
 
@@ -87,5 +87,16 @@ cf.  <http://www.religioustolerance.org/chr_inte1.htm>
 |  2  | 228 | In praise of God     | Psalm 23; Psalm 96; Psalm 103; Psalm 104  |
 |  3  | 229 | The righteous and the poor | Psalm 112; Psalm 113        |
 |  4  | 230 | Israel cries out to God  | Psalm 3; Psalms 5-7; Psalm 38; Psalms 55-60 |
-|  5  | 233 | To Mordor and Back again | Psalm 126; Psalm 137        |
-|  6  | 235 | Song of Songs      | Song of Songs           |
+|   5 |      |                         | Psalms 55-60  |
+|  6  | 233 | To Mordor and Back again | Psalm 126; Psalm 137        |
+
+
+---
+
+## Song of Songs
+
+- many examples of explicit love poetry in ancient near east
+- n.b. that **celibacy** is regarded as an aberration in the culture of the time and **family** was held in the highest esteem
+- both Judaism in the centuries before Christianity and Christian interpreters later were **embarrased** by the text, asking "How is this scripture?" "What does it mean?"
+- with the rise of dualism (from Greeks) an allegorical interpretation of the text became dominant
+
