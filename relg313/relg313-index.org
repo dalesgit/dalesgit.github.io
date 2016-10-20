@@ -1,4 +1,4 @@
-#+TITLE: RELG 313: Introduction to Hebrew Scriptures
+#+TITLE: RELG 313: Introduction to Hebrew Scriptures 
 #+AUTHOR: Prof. Dale Hathaway
 #+OPTIONS:     H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t f:t TeX:t ...
 #     H:         set the number of headline levels for export
@@ -15,13 +15,14 @@
 
 
 * Presentations
-| [[file:313-week1a.html][Opening]]                             | [[file:313-week1b.html][Reading a "dusty" old book]] |
-| [[file:313-week2a.html][Opening Genesis]]                     | [[file:313-week2b.html][Listening to the text]]      |
-| [[file:313-week3a.html][questioning the text]]                | [[file:313-week3b.html][Exodus]]                     |
-| [[file:313-week4a.html][Covenant]]                            | [[file:313-week4b.html][Deuteronomy]]                |
-| [[file:313-week6a.html][Deuteronomic History]]                | [[file:313-week6b.html][Josh-Judges]]                |
-| [[file:313-week7a.html][Monarchy 1] | [[file:313-week7b.html][Monarchy 2]]                 |
-| [[file:313-week9a.html][Hebrew Poetry]]                       |                            |
+| [[file:313-week1a.html][Opening]]              | [[file:313-week1b.html][Reading a "dusty" old book]] |
+| [[file:313-week2a.html][Opening Genesis]]      | [[file:313-week2b.html][Listening to the text]]      |
+| [[file:313-week3a.html][questioning the text]] | [[file:313-week3b.html][Exodus]]                     |
+| [[file:313-week4a.html][Covenant]]             | [[file:313-week4b.html][Deuteronomy]]                |
+| [[file:313-week6a.html][Deuteronomic History]] | [[file:313-week6b.html][Josh-Judges]]                |
+| [[file:313-week7a.html][Monarchy 1]]           | [[file:313-week7b.html][Monarchy 2]]                 |
+| [[file:313-week9a.html][Hebrew Poetry]]        | [[file:313-week9b.html][Hebrew Poetry, pt2]]         |
+|                      |                            |
 
 
 * Reading Journals
