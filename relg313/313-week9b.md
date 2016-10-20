@@ -45,12 +45,14 @@
 --
 
 ## Overview
+
+
+-  Using a literal interpretation: The events happened exactly as described.
+-  Viewing the Bible as a historical document: The passages contain a great deal of mythical content:  magical occurrences which never happened. However the stories themselves are spiritually very significant.
+-  Using Midrash. The events probably never happened. However, they demonstrate God&rsquo;s ancient presence with believers continues through history.
+
 cf.  <http://www.religioustolerance.org/chr_inte1.htm>
 
-
-- Using a literal interpretation: The events happened exactly as described.
-- Viewing the Bible as a historical document: The passages contain a great deal of mythical content:  magical occurrences which never happened. However the stories themselves are spiritually very significant.
-- Using Midrash. The events probably never happened. However, they demonstrate God&rsquo;s ancient presence with believers continues through history.
 
 
 ---
