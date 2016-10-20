@@ -1,4 +1,4 @@
-# Historic of Biblical Interpretation (2016)
+## History of Biblical Interpretation (2016)
 
 cf. an overview of contemporary methods of interpretation
 
