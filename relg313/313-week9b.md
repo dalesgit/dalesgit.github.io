@@ -1,5 +1,9 @@
 # Historic of Biblical Interpretation (2016)
 
+cf. an overview of contemporary methods of interpretation
+
+http://catholic-resources.org/Bible/Exegesis.htm
+
 --
 
 ## Prerabbinic Jewish Interpretation (150 B.C.E.-70 C.E.)
