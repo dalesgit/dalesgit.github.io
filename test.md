@@ -1,264 +1,199 @@
+Mysticism
+=========
 
-# Night an introduction<a id="sec-1" name="sec-1"></a>
-
-
-
-## Setting<a id="sec-1-1" name="sec-1-1"></a>
-
-On March 19, 1944, German Schutzstaffeln (SS) troops under Adolf Eichmann entered Hungary for the express purpose of rounding up the Jews of that country for extermination. 
-
-Note:
-Even as German armies elsewhere were retreating under pounding Russian advances, Adolf Hitler’s so-called final solution was extended to Hungarian Jews—who had mistakenly thought themselves safe from German danger. 
-
-A few days after the invasion, SS troops appeared in the Transylvanian town of Sighet and began the brutal process that would send almost all Sighet’s fifteen thousand Jews to their deaths at Auschwitz in Poland. Among those Jews who lives were totally uprooted was a devout fourteen-year-old student of the Talmud, Eliezer Wiesel.
-
----
-
-## Beginning to record<a id="sec-1-2" name="sec-1-2"></a>
-
-- Wiesel’s experiences from that point to eventual liberation at Buchenwald on April 11, 1945, made up an eight-hundred-page Yiddish manuscript, written after the completion of a self-imposed ten-year period of silence, study, and reflection concerning the Holocaust. 
-
-- Night, outlined within weeks after his liberation (and only one-seventh of the Yiddish original), is Wiesel’s only book devoted completely to the Holocaust, although his experiences of life in Auschwitz and the loss of the six million dictate almost all Wiesel’s thought and writing.
-
----
-
-## Organization<a id="sec-1-3" name="sec-1-3"></a>
-
-- gradual loss of the illusion of hope
-- loss of faith in the God of his childhood
-- gradual loss of his relationship with his father
-
-Note:
-The book’s nine chapters demarcate key events for Wiesel, detailing the gradual loss of the illusion of hope as the grim realities become paramount. Two interrelated concerns are woven throughout the narrative: Wiesel’s agonizing loss of faith in the God of his childhood and his excruciating relationship with his weakening father. The latter is marked by filial love and concern, but also by his own devastating guilt as his father slips inexorably toward death and Wiesel anticipates freedom from his burden of devotion.
-
----
-
-## Never shall I forget<a id="sec-1-4" name="sec-1-4"></a>
-
->… Never shall I forget that night, the first night in camp, which has turned my life into one long night, seven times cursed and seven times sealed. Never shall I forget that smoke. Never shall I forget the little faces of the children. . . . Never shall I forget those flames which consumed my faith forever … 
+Definition of Mysticism
+-----------------------
 
 --
 
->Never shall I forget those moments which murdered my God and my soul and turned my dreams to dust. Never shall I forget these things, even if I am condemned to live as long as God Himself. Never.
+Evelyn Underwood, *Practical Mysticism: Mysticism is the art of union
+with Reality*, The mystic is a person who has attained that union in
+greater or less degree; or who aims at and believes in such attainment
 
-Note:
-Night reveals the destruction of all aspects of the accepted universe—the shtetl (the Jewish enclave) of Sighet, family life, the training of a deeply religious child, and the illusion of a caring humanity. Yet above all, it sets forth a sequence of experiences that results in Wiesel’s becoming “the accuser, God the accused.” A universe is revealed in Night in which “anything is allowed.” After seeing a truck dump babies into a burning pit, Wiesel cries,
-
----
-
-## God is on the gallows<a id="sec-1-5" name="sec-1-5"></a>
-
-Following the execution of a child possessing “the face of a sad angel,” a voice asserts that God “is hanging here on this gallows.” 
-
-*Wiesel is deliberately ambiguous about the source of this assertion.*
-
-Note:
-The nine chapters in Night are devoted to specific aspects of Wiesel’s Holocaust experience: the warnings and illusion-filled prelude before deportation, the terrifying train ride to Auschwitz, the arrival at the gates of the SS hell, the loss of family members, and the early signs of a shattering faith. Wiesel recalls the slave labor at the Buna works adjacent to the central Auschwitz complex, the promise of the approaching Russian army’s liberation destroyed by the SS evacuation of camp inmates, the march away from Auschwitz toward Germany, the train ride to Buchenwald, the death of his father, and his own liberation. The book’s tone varies from irony to bitterness to terrible despair, with the latter perhaps being dominant. As its Yiddish title suggests (literally, “and the world remained silent”), Wiesel’s book is addressed to the world that did nothing, but it also challenges a God who did nothing.
-
-Wiesel is acutely conscious of the duty of the survivor and writer following the Holocaust to educate that apathetic world and to provide a voice for the six million murdered Jewish victims. In an interview published in the Journal of Education (1980), he noted, “I do not write to please the reader. . . . I write for the dead.” Wiesel himself calls Night the literature of testimony.
+-   What is **Reality**? From this definition only a mystic can answer
+    and in terms which only other mystics can understand
+-   What is **Union**? From the mystic’s perspective it is not an
+    “operation” but an activity which is being done, every conscious
+    moment of time with great intensity and thoroughness—we can know a
+    thing by unity with it
 
 ---
 
-## Places<a id="sec-1-6" name="sec-1-6"></a>
+“Marks” of Mysticism
+--------------------
 
-- **Sighet (SEE-get):** Transylvanian village in which the novel’s opening section is set. Scenes in Sighet provide an introduction to life in the Jewish community by focusing on Wiesel’s introduction to his Jewish heritage and religion. The invading Nazi troops establish two ghettoes into which the village’s Jews are herded after being forced to give up all but what they can carry with them.
-- **Birkenau:** Polish town that is the site of the first concentration camp in which the Wiesel family is imprisoned.
+(James, *Varieties of Religious Experience*)
+
+-   Ineffability—a negative
+-   Noetic Quality
+-   Transiency
+-   Passivity
 
 --
 
-- **Auschwitz:** Polish city that is the site of another concentration camp to which Wiesel, his father, and numerous workers from their first camp are later sent.
-  - the smell of burning bodies
+Ineffability—a negative
+-----------------------
 
-Note:
-Following their stay in the ghetto, the family, along with their neighbors, are put onto trains and sent to concentration camps. Their first stop is Birkenau, where they are introduced to the horrors that follow. There they see families separated, mothers and children going in one direction and fathers and working-age sons in another. Wiesel’s mother and sister are taken from him and, as he learns later, murdered. At Birkenau young Wiesel witnesses people giving up on life and willing themselves to die. In fact, Wiesel himself contemplates suicide, but the religious teachings he receives at home and the dogged determination of his father keep him from killing himself.
-
-There, Wiesel is briefly separated from his father. Although he is still in a concentration camp, Wiesel finds Auschwitz much more attractive than his previous prison because it is cleaner. Even though his job as a factory worker allows him to prove that he should be allowed to live, Wiesel becomes jaded and numb to the beatings he experiences and the deaths of those around him. About the time he becomes acclimated to his new surroundings, Wiesel is sent to Buna with his father.
-
-The greatest adjustment that Wiesel makes at the new camp is to the smell of burning bodies. There, too, Wiesel undergoes surgery on a seriously injured foot. Acquaintances warn him that he must not remain in the hospital too long or he will be killed. At one point, while still recovering, Wiesel is forced to march in the prison yard with other prisoners to prevent Russian planes from bombing the camp. In fact, the weak and wounded prisoners are forced to make a forty-two mile march to another concentration camp, Buchenwald.
-
-Upon reaching this camp, the prisoners are allowed to rest. However, as a result of their long march and a serious case of dysentery, Wiesel’s father dies, leaving his son to survive on his own. Elie is eventually among the few prisoners who are finally liberated from Buchenwald.
-
-Scenes in the concentration camps become even more focused when Wiesel takes readers into the barracks, factories, hospitals, and death chambers that become the scenes of horror. He survived in part because of the strong religious faith that he had developed through his early education and the examples of his parents.
-
----
-
-
-
-<section data-background="http://drive.google.com/uc?export=view&id=0B8ezT0-tUjVZZ0Q4eEdSRE1HTVU" data-background-size="450px">Elie Wiesel </section>
-
-
-Note:
-## Night Historical Context<a id="sec-1-7" name="sec-1-7"></a>
-
----
-
-<section data-background="http://drive.google.com/uc?export=view&id=0B8ezT0-tUjVZVzdGSHBwbmNFRVE" data-background-size="1000px">Women and children enroute to Auschwitz
-</section>
-
----
-
-<section data-background="http://drive.google.com/uc?export=view&id=0B8ezT0-tUjVZbUhQdUVLNGFhcE0" data-background-size="1000px">Wiesel and other survivors Published by Gale Cengage </section>
-
-
-
----
-
-## “Holocaust”<a id="sec-1-8" name="sec-1-8"></a>
-
-- The mass murder of European Jews and others under Nazi rule during World War II has come to be known simply as the **Holocaust**. "Holocaust" literally means "massive destruction by fire." It is thought that as many as eleven million people were killed by the Nazis. 
-- as noted in an earlier discussion, an alternate name **Shoah** is often used to distinguish from a word that could be used of a sacrifice to God
-
-Note:
-These included political opponents (particularly Communists), Slavs, gypsies, mentally and/or physically disabled, homosexuals, and other "undesirables." An estimated six million men, women, and children were killed merely because they were Jews. The destruction of the Jews in Europe stands as the archetype of genocide in human history.
-
----
-
-## Jews and anti-semitism<a id="sec-1-9" name="sec-1-9"></a>
-
-- Jews had long been victims of persecution
-- Hitler rose to prominence as a charismatic demagogue in 1920's
-- He lost an election for president in 1932
-- in 1933 he became chancellor and set in motion the destruction of democracy in Germany
-
-Note:
-Jews had been the subjects of persecution in Europe at least since the seventeenth century. When Adolph Hitler, the charismatic, Austrian-born demagogue, rose to power in Germany during the 1920s and early 1930s, he rallied the German people with a message that included notions of "Aryan," or white, superiority and the inferiority of other races. The Jews were a special target of his hatred, and they were incorrectly represented during this time of social, political, and economic upheaval as being wealthy and in control of the country's economy. In 1932, Hitler ran for president of Germany. He did not win, but he did well, and when the party in power was unable to end the depression, its leaders turned to Hitler for help. He became chancellor, or prime minister, of Germany in 1933. Within weeks, he set into motion a series of laws that destroyed the nation's democratic government. He eliminated all opposition and launched a program of world domination and extermination of the Jews. His government, like all totalitarian regimes, established complete political, social, and cultural control over its subjects.
-
----
-
-## Gradual progression<a id="sec-1-10" name="sec-1-10"></a>
-
-- In Hitler's program for the "Aryanization" of Germany and world conquest, Jews were subjected first to discrimination, then persecution, and then state-condoned terrorism.
-- the "night of the broken glass" also known as Kristallnacht, which took place in Munich, Germany, in November 1938
-- By the outbreak of war in September 1939, half of Germany's five hundred thousand Jews had fled, as had many Jews from other German-occupied areas.
-
-Note:
-In Hitler's program for the "Aryanization" of Germany and world conquest, Jews were subjected first to discrimination, then persecution, and then state-condoned terrorism. This had as a turning point, the "night of the broken glass" also known as Kristallnacht, which took place in Munich, Germany, in November 1938. Nazi storm troopers burned down synagogues and broke into Jewish homes, terrorizing men, women, and children. Over twenty thousand people were arrested and taken to concentration camps. After Kristallnacht, Jewish businesses were expropriated, employers were urged to fire Jewish employees, and offices were set up to expedite emigration. Jews could buy their freedom and leave the country, but they had to abandon their assets when they left. By the outbreak of war in September 1939, half of Germany's five hundred thousand Jews had fled, as had many Jews from other German-occupied areas.
-
----
-
-## Final Solution<a id="sec-1-11" name="sec-1-11"></a>
-
-- Hitler's Nazi government planned a "Final Solution" to the "Jewish question." After experimenting with different methods of mass extermination, Nazis settled on the gas chamber as the most efficient
-- Death camp operations began in December 1941 at Semlin in Serbia and at Chelmno in Poland
-- More camps opened in the spring and summer of 1942
-
-Note:
-Hitler's Nazi government planned a "Final Solution" to the "Jewish question." After experimenting with different methods of mass extermination, Nazis settled on the gas chamber as the most efficient. Death camp operations began in December 1941 at Semlin in Serbia and at Chelmno in Poland, where people were killed by exhaust fumes in specially modified vans that were driven to nearby sites where bodies were plundered and burnt. At Chelmno and Semlin, 265,000 Jews were killed in this way.
-- The largest of the death camps was at Auschwitz. It was originally a concentration camp for Polish political prisoners but was expanded in 1941 with the addition of a larger camp at nearby Birkenau.
-- The extermination of European Jews reached a new peak in the summer of 1944, after Germany invaded Hungary
-- The Final Solution moved into its last stages as Allied forces closed in on Germany in 1944. The camps were closed and burned down
-- When the war ended and the concentration camps were liberated by Allied troops, thousands of unburied corpses and tens of thousands of sick and dying prisoners were found crammed into overcrowded barracks without food or water.
-
-More camps opened in the spring and summer of 1942, when the Nazis began clearing the ghettos in Poland and rounding up Jews in western Europe for deportation to labor and concentration camps such as those at Treblinka, Belzec, and Sobibor. The largest of the death camps was at Auschwitz. It was originally a concentration camp for Polish political prisoners but was expanded in 1941 with the addition of a larger camp at nearby Birkenau. Auschwitz-Birkenau and its subcamps held 400,000 prisoners, including 205,000 Jews. In the spring of 1942, gas chambers were built at Birkenau, and mass transports of Jews began to arrive there. Some were held as registered prisoners, but the great majority was gassed. These gassing operations were expanded in 1943, and four gas chamber and crematorium complexes were built. Before they were killed, the victims' valuables were stripped from them. Their hair was used to stuff mattresses, and any gold in their teeth was melted down. In total, about one million Jews died at Auschwitz-Birkenau.
-
-The extermination of European Jews reached a new peak in the summer of 1944, after Germany invaded Hungary, and the new (but not yet fully fascist) Hungarian government fully cooperated in the deportation of 430,000 Jews to Auschwitz in only seven weeks, from May 15 to July 9. About 100,000 of the Hungarian Jews were selected for forced labor—they were assigned to work in the construction of factories for German fighter planes and other tasks. Another 80,000 Jews were exempted from deportation and consigned instead to the Hungarian Army's forced Labor Service.
-
-The Final Solution moved into its last stages as Allied forces closed in on Germany in 1944. The camps were closed and burned down. Prisoners remaining at concentration camps in the occupied lands were transported or force-marched to camps in Germany. Thousands of prisoners on these death marches died of starvation, exhaustion, and cold, or they were shot. When the war ended and the concentration camps were liberated by Allied troops, thousands of unburied corpses and tens of thousands of sick and dying prisoners were found crammed into overcrowded barracks without food or water.
-
-Much of Europe was destroyed in the war. Survivors of the camps were in terrible condition, both physically and psychologically. Many lost their faith, committed suicide, or were otherwise unable to resume normal lives. Trials were held in Nuremberg in 1945 at which top surviving Nazi leaders were tried for war crimes. Similar trials followed, but thousands of war criminals eluded justice. Millions of people were displaced, feeling unwelcome or unable to return to their former homes. Israel was established as a state in 1948 and opened its doors to all Jews, and many of them who survived the Holocaust migrated there, as well as to the United States, Australia, and elsewhere.
-
----
-
-## Night Literary Style<a id="sec-1-12" name="sec-1-12"></a>
-
-- **Narrative:** short narrative piece, novella
-
-- **Semantics:** The problem of capturing the unrepresentable,
-- **Allusion:** Night is full of scriptural allusions
-
----
-## Literary style
-
-- **Anti-bildungsroman:** Wiesel's novella turns the tradition on its head.
-- **Hasidic tales:** do not follow western notions but **develop their own time** according to the message of the story. "Time," …  "is represented as a creative force, a bridge sinking man to eternity."
-
-
-Note:
-The novella is a short piece of fiction that is based on the author's eight hundred-page memoir of his time in the Nazi death camps. The shortened tale is told from a first person point of view. There is no attempt to enter other minds and little attempt to explain what is on the narrator's mind. 
-
-or sublime, into an art product has not been impossible since the Roman treatise on the topic by Longinus. Using examples from the Old Testament (particularly Genesis and Job), the Iliad, and poetry, he displayed the successful methods for capturing nature in verse, ecstasy in poetry, the abyss in myth, and supreme beings in mere names. 
-
-, or hints of reference to biblical npassages. In fact, the very timelessness of the constant night is reminiscent of supernatural tales. 
-
-Traditionally, the bildungsroman in German literature is the story of a young, naive man entering the world to seek adventure. He finds his adventure, but it provides him with an important lesson. The denouement finds him happy, wiser, and ready for a productive life. The classic example is J. W. von Goethe's Wilhelm Meister's Apprenticeship.
-
-
-- The sole purpose of the book is to relate briefly and succinctly what happened. The reader's conclusions are meant to be independent, although they have been lead, quite consciously, toward an abhorrence of the moral vacuum presented in the camps.
-- As a result, Occidental aesthetics views nothing as beyond the ability of the well-trained artist to present it in a packaged form.
-
-Nevertheless, the moral chaos and utter hell that was the Holocaust surpassed any previously recorded human abyss. For some, even fifty years later, it has broken the aesthetic mold of Longinus; how is it possible to comprehend, let alone represent, this most awful of all events? Not easily, yet Wiesel's methods resemble those humans who preceded him in the effort to understand the horrible and sublime by representing their experience in one form or other. It is through that artistic effort that comprehension comes.
-
-The means of representing the unrepresentable are the techniques of the sparse and staccato. In this case, those techniques are used to keep the reader, as much as possible, in mind of how precious is the breath of air the death camp inmates survive on. Words are used sparingly and, when possible, blank space is used instead.
-
-The terse sentences remind the reader of the necessity of conserving energy: one is meant to be bothered by the apparent waste of Eliezer's run across the camp (at the end of a workday) to check on his father. Generally, scenes are made up of few words yet loom large; the storyteller relies on the imagination of the audience, rather than on his ability. He places the dots and hints at the color, but the reader creates the image. Sentences like: "An open tomb," "Never," "The gate to the camp opened." They are fragments, scraps of evidence that remain until they are sown together into a narrative which makes sense of what happened. The narrative replaces the useless pictures the GIs took when they liberated the camps. The struggle of representing the unrepresentable horror, as Wiesel discovered, is best accomplished in the same way that Longinus felt the writers of the Talmud did—with few words and plenty of space for digestion.
-- Hasidic tales especially do not follow Occidental notions but develop their own time according to the message of the story. "Time," says Sibelman, "is represented as a creative force, a bridge sinking man to eternity." Within the story time are more direct allusions to particular stories. Two of the most memorable examples will suffice to demonstrate.
-
-Immediately after realizing that the group is not marching into the death pit, there is the incantation, "Never shall I forget that night, the first night in camp … " etc. This passage is a pastiche of Psalm 150. In French (and Wiesel writes in French or Yiddish), the start of each line begins with Jamais (meaning never). Psalm 150 praises God for his works and deeds while the "Never" passage commits just the opposite reality to memory.
-
-Another example of allusion is the execution of the three prisoners. One of these doomed prisoners is an **innocent child, a pipel**. This scene recalls the moment in the Christian Gospel when Christ is crucified. In the Gospel according to Matthew, he is accompanied by two thieves. At the point of expiration, Christ asks God why he has been forsaken. At death, the sky darkens and the onlookers murmur that this was definitely the Son of God. In contradistinction, the death of the pipel bothers the onlookers in the opposite way. There is still a look for God but this time, "[w]here is he? Here He is—He is hanging here on the gallows…."
-
-( says Sibelman) 
-
- He presents an educated, young man forced into a hell made by human hands. There he learns more wisdom than he asked for, even when he dreamed of learning the mystical tradition. What he learns about human behavior he would rather not apply. In the end, he sees himself in the mirror, for the first time in several years, as a corpse. The result is not that he will think about being a productive worker, but about healing humanity.
-
----
-
-## Vocabulary<a id="sec-1-13" name="sec-1-13"></a>
-
-- **penury:** extreme poverty
-- **waiflike:** neglected; uncared for
-- **mysticism:** a system of contemplative prayer and spirituality aimed at achieving direct intuitive experience of the divine
-- **fraught:** full of; involving
-- **peril:** danger
+-   Mysticism defies expression—no words are adequate its content
+-   It must be directly “experienced”
+-   It cannot be imparted or transferred to others
 
 --
 
-- **indulge:** to satisfy or gratify
-- **revelation:** something revealed
-- **insinuate:** to suggest or imply
-- **annihilate:** destroy completely
-- **anguish:** extreme distress, suffering, or pain
+Noetic Quality
+--------------
+
+-   Mysticism is a state of insight into depths of truth unknown through
+    discursive intellect
+-   The areas of knowledge are “illuminations” or “revelations”
 
 --
 
-- **sublime:** supreme or outstanding
-- **edict:** command given by an authority
-- **decree:** formal order or command
-- **ghetto:** a section of a city in which all Jews were required to live
-- **delusion:** a false belief or opinion
+Transiency
+----------
+
+-   Mystical states cannot be sustained for any great amount of time
+-   At times, when faded, their quality can be imperfectly reproduced in
+    memory
 
 --
 
+Passivity
+---------
 
-- **anecdote:** short story about an event
-- **antechamber:** waiting room
-- **relic:** something kept in remembrance; a surviving memorial of something past
-- **phylactery:** either of two small, black, leather cubes containing a piece of parchment inscribed with verses 4::9 of Deut. 6, 13::21 of Deut. 11, and 1::16 of Ex. 13: one is attached with straps to the left arm and the other to the forehead during weekday morning prayers by Orthodox and conservative Jewish men.
-- **hysteria:** an uncontrollable outburst of emotion or fear, often characterized by irrationality, laughter, weeping, etc.
-- **conflagration:** destructive fire
+-   The mystic will feel that his/her own will were in abeyance,
+    sometimes as if grasped and controlled by a superior power
+-   The “control” factor will lead at times to secondary phenemena
+    1.  prophetic speech
+    2.  automatic writing
+    3.  mediumistic trance
 
 ---
 
-## Characters<a id="sec-1-14" name="sec-1-14"></a>
+Characteristics (Underwood, Mysticism)
+--------------------------------------
 
-- Akiba Drummer
-- Franek
-- Hersch Genud
-- Idek
-- Juliek
+-   Mysticism is practical, not theoretical
+-   Mysticism is an entirely spiritual activity
+-   The business and method of mysticism is love—love is:
+    1.  The active, connotative, expression of one’s will and desire for
+        the Absolute
+    2.  One’s innate tendency to that Absolute, one’s spiritual weight
+
+---
+
+Kabbalah
+--------
+
+-   The Torah contains many stories of mystical experiences, from
+    visitations by angels to prophetic dreams and visions.
+-   The Talmud contains vague hints of a mystical school of thought that
+    was taught only to the most advanced students and was not committed
+    to writing.
+-   writings (**Zohar**) were asserted to be secret ancient writings or
+    compilations of secret ancient writing
+-   Kabbalah was popular among Christian intellectuals during the
+    Renaissance and Enlightenment periods, who reinterpreted its
+    doctrines to fit into their Christian dogma
+
+---
+
+Ein Sof and the Ten Sefirot
+---------------------------
+
+-   the true essence of G-d is so **transcendent** that it cannot be
+    described, except with reference to what it is not
+-   his true essence of G-d is known as **Ein Sof**, which literally
+    means "without end," which encompasses the idea of His lack of
+    boundaries in both time and space.
+-   The **Ein Sof** interacts with the universe through ten emanations
+    from this essence, known as the **Ten Sefirot**.
+
+---
+
+10 Sefirot
+----------
+
+-   Keter (the crown),
+-   Chokhmah (wisdom),
+-   Binah (intuition, understanding),
+-   Chesed (mercy) or Gedulah (greatness),
+-   Gevurah (strength),
+-   Tiferet (glory),
+-   Netzach (victory),
+-   Hod (majesty),
+-   Yesod (foundation) and
+-   Malkut (sovereignty).
 
 --
 
-- Meir Katz
-- Louis
-- Moshe the Beadle
-- pipel
-- Madame Schächter
+*The middle five qualities are mentioned explicitly and in order at I
+Chronicles 29:11: Yours, O L-rd, is the greatness (gedulah), the
+strength (gevurah), the glory (tiferet), the power (netzach), and the
+splendor (hod)*.
+
+---
+
+journal responses
+-----------------
+
+### others’ culpability
+
+I was able to visit Dachau in Germany over spring break and reading Night brought up a lot of the same emotions I felt while walking through the concentration camp. Both made me feel ashamed, disgusted, remorseful, and heartbroken. Reading Elie's story after visiting a camp, I feel, enhanced my uneasy emotions, my understanding of places he described ,and the embarrassment of being apart of a country that was oblivious to the events for far too long.
 
 --
 
-- Stein
-- Tibi
-- Chlomo Wiesel
-- Eliezer Wiesel
-- Yossi
+### Survival
+
+It surprised me how much of Elie's survival was because of his father. I think we all have been told or know that things are easier when done with another person, but this story puts a new meaning to that. Sometimes doing it for yourself is not enough to succeed.
+
+--
+
+### Religious faith in the camps
+
+What was the overall religious feeling of the Jews in the camps? Was there a consensus, or was it every man and woman for him/herself?
+
+--
+
+### Losing faith
+
+What should happen to people such as Ellie who lose their faith? How can one lose their faith in an action such as the holocaust?
+
+--
+
+### (answer re. sisters’ survival)
+
+Elie Wiesel's older sisters, Hilda and Beatrice, survived their internment at the Auschwitz concentration camp, met Wiesel after the camps were liberated and eventually immigrated to North America. Wiesel's younger sister, Tzipora, died in Auschwitz. \[link\](<https://www.reference.com/history/happened-elie-wiesel-s-sisters-379bc991669628ef>)
+
+--
+
+### Faith and the holocaust
+
+The time I read the book in high school I did not catch all the religious references I did this time. The Scared Quest chapter regarding the problem of evil references the Jews understanding to the Holocaust as being tested by God. I did not have very good understanding of how religion played a part into the Holocaust until reading both *Night* and the *Scared Quest*. It's surprising that some people were still able to maintain their faith dealing with such harsh conditions.
+
+--
+
+### Faith in the midst of holocaust
+
+Was there any group of people who actually didn't lose their faith? I think it would be interesting to hear of someone who stands up for their religion (be it God, or whomever), and justifies the actions that are taking place.
+
+I would like to know more in regards to people losing their faith during the holocaust. I would be interested to know of anyone who justified the holocaust in their faith and held strongly in their faith.
+
+--
+
+### Others caught up in holocaust?
+
+The book mentioned other people rather than Jews were also kept in the camp, but I was wondering what all the other groups of people were. I also want to know what the German's views were of these other groups of people.
+
+-   gypsies
+-   mentally disabled
+-   homosexuals
+-   Russian prisoners
+-   Society’s expendables
+
+--
+
+### How could it happen?
+
+Even after classes specifically based on holocaust and intolerance and years of studying the Holocaust, I still cannot fathom how something so major and evil could have happened under the nose of the world. I have studied why Hitler was able to rational his orders and the Final Solution, but that is not good enough for me and I cannot imagine how he so casually went about it all.
+
