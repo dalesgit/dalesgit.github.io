@@ -197,3 +197,18 @@ The book mentioned other people rather than Jews were also kept in the camp, but
 
 Even after classes specifically based on holocaust and intolerance and years of studying the Holocaust, I still cannot fathom how something so major and evil could have happened under the nose of the world. I have studied why Hitler was able to rational his orders and the Final Solution, but that is not good enough for me and I cannot imagine how he so casually went about it all.
 
+---
+
+### Themes in Night
+
+**Theme = Topic + Insight**
+
+- death
+- loss of faith
+- fire
+- night
+- fathers and sons
+- silence
+- God
+
+--
