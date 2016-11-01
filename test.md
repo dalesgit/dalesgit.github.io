@@ -1,214 +1,175 @@
-Mysticism
-=========
-
-Definition of Mysticism
------------------------
-
---
-
-Evelyn Underwood, *Practical Mysticism: Mysticism is the art of union
-with Reality*, The mystic is a person who has attained that union in
-greater or less degree; or who aims at and believes in such attainment
-
--   What is **Reality**? From this definition only a mystic can answer
-    and in terms which only other mystics can understand
--   What is **Union**? From the mystic’s perspective it is not an
-    “operation” but an activity which is being done, every conscious
-    moment of time with great intensity and thoroughness—we can know a
-    thing by unity with it
+# Isaiah: a composite composition
 
 ---
 
-“Marks” of Mysticism
---------------------
+## Star Wars analogy
 
-(James, *Varieties of Religious Experience*)
 
--   Ineffability—a negative
--   Noetic Quality
--   Transiency
--   Passivity
+-   <https://www.youtube.com/watch?v=vP_1T4ilm8M>
+-   produced by many different "authors"
+-   over the course of many years (3 year intervals, 16 years apart)
+-   out of order (4,5,6 - 1,2,3 - 7,8,9)
+-   a "franchise" cp. a prophetic "school"
 
---
+Note: interim between the two film trilogies. The franchise depicts a galaxy described as "far, far away" in the distant past, and commonly portrays Jedi as a representation of good, in conflict with the Sith, their evil counterpart. Their weapon of choice, the lightsaber, is commonly recognized in popular culture. The franchise's storylines contain many themes, with strong influences from philosophy and religion.
 
-Ineffability—a negative
------------------------
+The first film in the series was released under the title Star Wars on May 25, 1977, by 20th Century Fox, and became a worldwide pop culture phenomenon followed by two sequels, released at three-year intervals. Sixteen years after the release of the trilogy's final film, the first in a new prequel trilogy of films was released. The three prequel films were also released at three-year intervals, with the final film of the trilogy released on May 19, 2005. In 2012, The Walt Disney Company acquired Lucasfilm for $4.05 billion and announced that it would produce three new films, with the first film, Star Wars: The Force Awakens, planned for release in 2015. 20th Century Fox still retains the distribution rights to the first two Star Wars trilogies, owning permanent rights for the original film Episode IV: A New Hope, while holding the rights to Episodes I–III, V and VI until May 2020.
 
--   Mysticism defies expression—no words are adequate its content
--   It must be directly “experienced”
--   It cannot be imparted or transferred to others
+published in order: 4,5,6 -- 1,2,3 -- 7,8,9
 
---
-
-Noetic Quality
---------------
-
--   Mysticism is a state of insight into depths of truth unknown through
-    discursive intellect
--   The areas of knowledge are “illuminations” or “revelations”
-
---
-
-Transiency
-----------
-
--   Mystical states cannot be sustained for any great amount of time
--   At times, when faded, their quality can be imperfectly reproduced in
-    memory
-
---
-
-Passivity
----------
-
--   The mystic will feel that his/her own will were in abeyance,
-    sometimes as if grasped and controlled by a superior power
--   The “control” factor will lead at times to secondary phenemena
-    1.  prophetic speech
-    2.  automatic writing
-    3.  mediumistic trance
+# Assumptions: The unity and authorship of Isaiah
 
 ---
 
-Characteristics (Underwood, Mysticism)
---------------------------------------
+## assumption: the title for the book intends to communicate who wrote the entire book.
 
--   Mysticism is practical, not theoretical
--   Mysticism is an entirely spiritual activity
--   The business and method of mysticism is love—love is:
-    1.  The active, connotative, expression of one’s will and desire for
-        the Absolute
-    2.  One’s innate tendency to that Absolute, one’s spiritual weight
+
+-   the title doesn't imply authorship, cf. the book of Jonah
+-   Job, Esther, Ruth, and probably Malachi are titles of content rather than authorship
+-   "Titles" are not part of the biblical text. (e.g. different titles in Hebrew and English)
+
+--
+
+## assumption: single books under a single title are the work of a single person
+
+
+-   clear examples in Scripture where book titles were applied to collections of material by various authors.
+-   For example, the book of Jeremiah contains narrative sections describing from a third person perspective actions that Jeremiah took (ch. 37-44).
+-   There are references within the book to Jeremiah’s scribe, Baruch, writing for Jeremiah (36:4-8).
+-   For example, Isaiah 36-39 is largely duplicated in 2 Kings 18:13-20:19. Also, Isaiah 2:2-4 is repeated in Micah 4:1-3. (thus authorship is not a great concern for biblical text
+
+--
+
+## assumption: the concept of "authorship" is a universal idea that applies to any culture in any time period of human history
+
+
+-   our modern, Western concept of "authorship" is alien to the ancient Eastern world
+-   Our assumptions reflect the highly individualized nature of our culture, forgetting that the ancient Near East was far more tribal or communal in its thinking
+-   ideas were shared within the community and even passed on from one generation to the next as part of the community.
+
+-   This allowed people to teach or write in another’s name, carrying on the tradition of a master through pupils or disciples who would not only preserve the original teachings but add to them as heir of the tradition.
+
+--
+
+## authorship & discipleship
+
+
+-   There is evidence within the book of Isaiah that Isaiah of Jerusalem had around him a group of disciples, and that he specifically entrusted them with preserving and transmitting his message (8:16, "Bind up the testimony, seal the teaching among my disciples," cf. 30:8)
+
+--
+
+## assumption: Use by NT writers requires that Isaiah of Jerusalem was the author of all the material
+
+
+-   this assumes that NT writers had our conception of authorship
+-   there is clear indication that NT writers were sometimes uncertain of the origins of their quoted material
 
 ---
 
-Kabbalah
---------
+# A conservative critical reading of the book of Isaiah
 
--   The Torah contains many stories of mystical experiences, from
-    visitations by angels to prophetic dreams and visions.
--   The Talmud contains vague hints of a mystical school of thought that
-    was taught only to the most advanced students and was not committed
-    to writing.
--   writings (**Zohar**) were asserted to be secret ancient writings or
-    compilations of secret ancient writing
--   Kabbalah was popular among Christian intellectuals during the
-    Renaissance and Enlightenment periods, who reinterpreted its
-    doctrines to fit into their Christian dogma
+
+## Tendency today is to see different periods reflected in book of Isaiah
+
+
+-   Assyrian threat, Judean collapse, Restoration
+-   there are numerous references to the Babylonians
+-   Beginning with chapter 40 the Babylonians, and their eventual downfall to the Persians are clearly the main topic
+-   There are several references to the temple in Jerusalem being destroyed as if it were an event some time removed in the past (44:26-28, 52:8-9, possibly 51:3)
+
+--
+
+## 3 periods
+
+
+-   Along the same line, there are numerous references to the devastation of the land and of people carried captive to Babylon (40:1-2, 42:22-24, 43:14, 48:20, 51:17, 52:1-2, etc.).
+-   There are several general references to a new leader emerging in Mesopotamia (41:2-3, 25), and two specific references that name Cyrus the Persian as the instrument of Israel’s deliverance from Babylon (44:28-45:3)
+-   there is clearly a radical shift in tone and theological outlook in the book at chapter 40
+
+# Isaiah in 8th c.
+
+## 1 Isaiah
+
+
+-   7:1-17 Sign of Immanuel
+-   5:1-7 The song of the vineyard
+
+--
+
+## 2-3 Isaiah
+
+-   understood as a "school" of Isaiah
+-   pseudepigrapha will become common
+    -   e.g. *Book of Moses*
+    -   Community of Beloved disciple
 
 ---
 
-Ein Sof and the Ten Sefirot
----------------------------
+# Isaiah of the time of the exile
 
--   the true essence of G-d is so **transcendent** that it cannot be
-    described, except with reference to what it is not
--   his true essence of G-d is known as **Ein Sof**, which literally
-    means "without end," which encompasses the idea of His lack of
-    boundaries in both time and space.
--   The **Ein Sof** interacts with the universe through ten emanations
-    from this essence, known as the **Ten Sefirot**.
+## Isaiah 40:1-11 & Isaiah 52:7-10; Prepare the way of the Lord
 
----
 
-10 Sefirot
-----------
-
--   Keter (the crown),
--   Chokhmah (wisdom),
--   Binah (intuition, understanding),
--   Chesed (mercy) or Gedulah (greatness),
--   Gevurah (strength),
--   Tiferet (glory),
--   Netzach (victory),
--   Hod (majesty),
--   Yesod (foundation) and
--   Malkut (sovereignty).
+-   the "forms" of the former **oracles** are not present in the later chapters
+-   no mention of prophet's experience of God
+-   no messenger formulas, vision reports, or symbolic acts
+-   no call narrative
 
 --
 
-*The middle five qualities are mentioned explicitly and in order at I
-Chronicles 29:11: Yours, O L-rd, is the greatness (gedulah), the
-strength (gevurah), the glory (tiferet), the power (netzach), and the
-splendor (hod)*.
+## Who addressed / How is God depicted?
 
----
 
-journal responses
------------------
-
-### others’ culpability
-
-I was able to visit Dachau in Germany over spring break and reading Night brought up a lot of the same emotions I felt while walking through the concentration camp. Both made me feel ashamed, disgusted, remorseful, and heartbroken. Reading Elie's story after visiting a camp, I feel, enhanced my uneasy emotions, my understanding of places he described ,and the embarrassment of being apart of a country that was oblivious to the events for far too long.
+-   Is 52:7 "how beautiful upon the mountains ..."
+-   Is 40:2 punishment has lasted 2 generations
+-   The city of Jerusalem referred to as "Zion"
+-   YHWH both shepherd and warrior king
+-   paradox of being connected to the past and experiencing a **new beginning**
 
 --
 
-### Survival
 
-It surprised me how much of Elie's survival was because of his father. I think we all have been told or know that things are easier when done with another person, but this story puts a new meaning to that. Sometimes doing it for yourself is not enough to succeed.
+## Isaiah 44:6-20 & Isaiah 45:1-19; Yahweh is God alone
 
---
-
-### Religious faith in the camps
-
-What was the overall religious feeling of the Jews in the camps? Was there a consensus, or was it every man and woman for him/herself?
+-   "All who make idols are nothing."
+-   Cyrus called "Messiah" "anointed" in 45:1
+-   In 45:1-19 how often does God say that there is only one God?
 
 --
 
-### Losing faith
+## Isaiah 42:1-9 & Isaiah 52:13-53:12; Suffering Servant
 
-What should happen to people such as Ellie who lose their faith? How can one lose their faith in an action such as the holocaust?
-
---
-
-### (answer re. sisters’ survival)
-
-Elie Wiesel's older sisters, Hilda and Beatrice, survived their internment at the Auschwitz concentration camp, met Wiesel after the camps were liberated and eventually immigrated to North America. Wiesel's younger sister, Tzipora, died in Auschwitz. \[link\](<https://www.reference.com/history/happened-elie-wiesel-s-sisters-379bc991669628ef>)
+-   The speaker in both passages is God
+-   "Former things" used in postexilic prophets to refer to earlier prophecies and histories
+-   Who is addressed in 42:6-9?
+-   Who is the "we" in these passages?
 
 --
 
-### Faith and the holocaust
+## Suffering Servant
 
-The time I read the book in high school I did not catch all the religious references I did this time. The Scared Quest chapter regarding the problem of evil references the Jews understanding to the Holocaust as being tested by God. I did not have very good understanding of how religion played a part into the Holocaust until reading both *Night* and the *Scared Quest*. It's surprising that some people were still able to maintain their faith dealing with such harsh conditions.
-
---
-
-### Faith in the midst of holocaust
-
-Was there any group of people who actually didn't lose their faith? I think it would be interesting to hear of someone who stands up for their religion (be it God, or whomever), and justifies the actions that are taking place.
-
-I would like to know more in regards to people losing their faith during the holocaust. I would be interested to know of anyone who justified the holocaust in their faith and held strongly in their faith.
-
---
-
-### Others caught up in holocaust?
-
-The book mentioned other people rather than Jews were also kept in the camp, but I was wondering what all the other groups of people were. I also want to know what the German's views were of these other groups of people.
-
--   gypsies
--   mentally disabled
--   homosexuals
--   Russian prisoners
--   Society’s expendables
+-   Christian ears hear Jesus as the suffering servant
+    -   the one who suffers punishment for the sake of another
+    -   "redemptive suffering"
+-   How would Jews in the time of the exile have heard the words?
+-   Does the Christian understanding overturn the earlier meaning?
+-   Possible to have two literal meanings?
+    -   one a royal figure addressed to exilic audience
+    -   another Jesus, the Christ ("annointed one")
 
 --
 
-### How could it happen?
+## the earlier meaning
 
-Even after classes specifically based on holocaust and intolerance and years of studying the Holocaust, I still cannot fathom how something so major and evil could have happened under the nose of the world. I have studied why Hitler was able to rational his orders and the Final Solution, but that is not good enough for me and I cannot imagine how he so casually went about it all.
 
----
+-   the identity is contradictory and ambiguous.
+    -   some say it is Israel, others a suffering individual
+-   The text establishes
+    -   servant suffers
+    -   servant does not deserve to suffer
+    -   servant's suffering pays God back for the sins of others in Israel
+    -   Israel is redeemed because of the suffering of the servant
+-   servant will be in charge of bringing justice
+-   royal imagery is used
+-   the people describe themselves as "sheep" (53:6) which suggests the servant is a shepherd
 
-### Themes in Night
-
-**Theme = Topic + Insight**
-
-- death
-- loss of faith
-- fire
-- night
-- fathers and sons
-- silence
-- God
-
---
