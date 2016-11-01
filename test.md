@@ -13,7 +13,7 @@
 
 Note: interim between the two film trilogies. The franchise depicts a galaxy described as "far, far away" in the distant past, and commonly portrays Jedi as a representation of good, in conflict with the Sith, their evil counterpart. Their weapon of choice, the lightsaber, is commonly recognized in popular culture. The franchise's storylines contain many themes, with strong influences from philosophy and religion.
 
-The first film in the series was released under the title Star Wars on May 25, 1977, by 20th Century Fox, and became a worldwide pop culture phenomenon followed by two sequels, released at three-year intervals. Sixteen years after the release of the trilogy's final film, the first in a new prequel trilogy of films was released. The three prequel films were also released at three-year intervals, with the final film of the trilogy released on May 19, 2005. In 2012, The Walt Disney Company acquired Lucasfilm for $4.05 billion and announced that it would produce three new films, with the first film, Star Wars: The Force Awakens, planned for release in 2015. 20th Century Fox still retains the distribution rights to the first two Star Wars trilogies, owning permanent rights for the original film Episode IV: A New Hope, while holding the rights to Episodes I–III, V and VI until May 2020.
+The first film in the series was released under the title Star Wars on May 25, 1977, by 20th Century Fox, and became a worldwide pop culture phenomenon followed by two sequels, released at three-year intervals. Sixteen years after the release of the trilogy's final film, the first in a new prequel trilogy of films was released. The three prequel films were also released at three-year intervals, with the final film of the trilogy released on May 19, 2005. In 2012, The Walt Disney Company acquired Lucasfilm for $4.05 billion and announced that it would produce three new films, with the first film, Star Wars: The Force Awakens, planned for release in 2015. 20th Century Fox still retains the distribution rights to the first two Star Wars trilogies, owning permanent rights for the original film Episode IV: A New Hope, while holding the rights to Episodes IIII, V and VI until May 2020.
 
 published in order: 4,5,6 -- 1,2,3 -- 7,8,9
 
@@ -38,7 +38,7 @@ single books under a single title are the work of a single person
 
 -   clear examples in Scripture where book titles were applied to collections of material by various authors.
 -   For example, the book of Jeremiah contains narrative sections describing from a third person perspective actions that Jeremiah took (ch. 37-44).
--   There are references within the book to Jeremiah’s scribe, Baruch, writing for Jeremiah (36:4-8).
+-   There are references within the book to Jeremiahs scribe, Baruch, writing for Jeremiah (36:4-8).
 
 Note:
   For example, Isaiah 36-39 is largely duplicated in 2 Kings 18:13-20:19. Also, Isaiah 2:2-4 is repeated in Micah 4:1-3. (thus authorship is not a great concern for biblical text
@@ -48,12 +48,10 @@ Note:
 ## assumption: 
 the concept of "authorship" is a universal idea that applies to any culture in any time period of human history
 
-
 -   our modern, Western concept of "authorship" is alien to the ancient Eastern world
 -   Our assumptions reflect the highly individualized nature of our culture, forgetting that the ancient Near East was far more tribal or communal in its thinking
 -   ideas were shared within the community and even passed on from one generation to the next as part of the community.
-
--   This allowed people to teach or write in another’s name, carrying on the tradition of a master through pupils or disciples who would not only preserve the original teachings but add to them as heir of the tradition.
+-   This allowed people to teach or write in anothers name, carrying on the tradition of a master through pupils or disciples who would not only preserve the original teachings but add to them as heir of the tradition.
 
 --
 
@@ -64,7 +62,8 @@ the concept of "authorship" is a universal idea that applies to any culture in a
 
 --
 
-## assumption: Use by NT writers requires that Isaiah of Jerusalem was the author of all the material
+## assumption: 
+Use by NT writers requires that Isaiah of Jerusalem was the author of all the material
 
 
 -   this assumes that NT writers had our conception of authorship
@@ -90,7 +89,7 @@ the concept of "authorship" is a universal idea that applies to any culture in a
 
 
 -   Along the same line, there are numerous references to the devastation of the land and of people carried captive to Babylon (40:1-2, 42:22-24, 43:14, 48:20, 51:17, 52:1-2, etc.).
--   There are several general references to a new leader emerging in Mesopotamia (41:2-3, 25), and two specific references that name Cyrus the Persian as the instrument of Israel’s deliverance from Babylon (44:28-45:3)
+-   There are several general references to a new leader emerging in Mesopotamia (41:2-3, 25), and two specific references that name Cyrus the Persian as the instrument of Israels deliverance from Babylon (44:28-45:3)
 -  there is clearly a radical shift in tone and theological outlook in the book at chapter 40
 
 ---
