@@ -1,0 +1,55 @@
+#+TITLE: RELG 313: Reading Journal Assignments
+#+AUTHOR: Prof. Dale Hathaway
+#+OPTIONS:     H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t f:t TeX:t ...
+#     H:         set the number of headline levels for export
+#     num:       turn on/off section-numbers
+#     toc:nil       turn on/off table of contents, or set level limit (integer)
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/386398/dalesgit.github.io/css/mystyle.css?raw=1" />
+#+HTML_HEAD_EXTRA: <link rel="alternate stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/386398/dalesgit.github.io/css/mystyle.css?raw=1" />
+
+#+BEGIN_CENTER
+*Introduction to Hebrew Scriptures*
+
+[[file:relg313-index.org][Return to previous]]
+
+#+END_CENTER
+
+
+* Rubrics
+
+  - *An A reflection* will demonstrate an awareness of the complexities of the assigned reading, making connections with the students' own experience and prior education.
+  - *A B reflection* will demonstrate that the student read the material with accuracy and with some insight, but not making deeper connections.
+  - *A C reflection* gives a cursory, if accurate, response to the readings.
+
+* Journal #1: Due 8/30
+[[https://goo.gl/forms/CyhhJiK6HREJkEPp2][Form to Submit]] 
+
+The link that follows is to a spreadsheet that contains the responses to date.
+
+[[https://docs.google.com/spreadsheets/d/1MqG4ElqWgKscjqTdfHtjtezo-n9XLRINTlP6pKtlEkk/edit?usp=sharing][Link to view responses]]
+
+* Journal #2:
+[[https://goo.gl/forms/3ojgAdrv10RABpsL2][Form to Submit]] The link that follows is to the spreadsheet with responses.
+
+[[https://docs.google.com/spreadsheets/d/1Y-B1ZYD1ompcFZpP5vvSbHJVT8srbhKZajmWwl5k-dE/edit?usp=sharing][Link to view responses]]
+
+* Journal #3: Due 9/13
+Form: [[https://goo.gl/forms/Dysb5kbEAVLBWeQw1][Form to Submit]]
+Responses: [[https://docs.google.com/spreadsheets/d/1CkiZVr-j6TDKGVS7D0txjovJoG18dVeFFcGx3loqd5o/edit?usp=sharing][Link to view responses]]
+* Journal #4 on “Conquest”: Due 9/27
+Form: [[https://goo.gl/forms/Yc6LYNvDNKJ6lS1s2][Link to Form]]
+
+Responses: [[https://docs.google.com/spreadsheets/d/1eOzCxtGNp6F768kv1lKgWh5wjegYzNu5BOD5i1mVfjo/edit?usp=sharing][Link to responses]]
+* Journal #5 on “Rise of Monarchy”: Due 10/4 – extended to 10/5
+Form:  [[file:https://goo.gl/forms/rJH6b28u88QsUwwm1][Link to Form]]
+
+Responses: [[file:https://docs.google.com/spreadsheets/d/1m-meL9IIcDQ5Tn2BNMXy3YSQhQV4FZ902SDDXmHiwFQ/edit?usp=sharing][Link to Responses]]
+* Journal #6 on “Prophets”: Due Oct. 27 (N.B. originally due 10/25)
+Form for submission: [[https://docs.google.com/forms/d/e/1FAIpQLScHVbvd2FQl41gPI9lrzOJkngeoSgWxOLAgVRNYCzxaphr0kw/viewform][Link to form]]
+
+Responses to form: [[https://docs.google.com/spreadsheets/d/1jawJZmoyqoPgsvAa-plWOTScZgMwofxDD_M2qs27N-M/edit?usp=sharing][Link to responses]]
+* Journal #7 “Judah Stands Alone: Due Nov. Nov. 17
+Form for submission: [[https://goo.gl/forms/IUzBhQK0l1X4Ygqm2][Link to form]]
+
+Responses to form: [[https://goo.gl/forms/IUzBhQK0l1X4Ygqm2][Link to responses]]
