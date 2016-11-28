@@ -1,187 +1,164 @@
-# Isaiah: a composite composition
+Origins of 3 Faiths
+===================
+
+## Judaism
+
+--
+
+| Judaism                           | Dates            | Notes                     |
+|-----------------------------------|------------------|---------------------------|
+| Life without a temple             | 587-500 bce      | synagogues, written torah |
+| growth apocalyptic and Messianism | 250 bce - 135 ce |                           |
+| growth apocalyptic and Messianism    |  250 bce - 135 ce |              |
+
+--
+
+| Judaism                           | Dates            | Notes                     |
+|-----------------------------------|------------------|---------------------------|
+ | conflict over influence of Hellenism |  300 bce - 100 ce |             |
+ | Qumran community - Dead Sea Scrolls  |  200 bce - 150 ce |              |
+ | Schools of Rabbis                    |  100 bce - 250 ce |  writing Mishnah, e.g. Hillel & Shammai  |
+ | Diaspora                             |                   | commentary on Mishnah (Gemara) - Talmud  |
+
+--
+
+### 3 "parties" + 1 in 1st c. Judaism:
+
+- Pharisees: reforming religion
+- Sadduccees: traditional religion
+- Zealots: resistance to Romans
+- Essenes: Qumran, apocalyptic, messianic
+
+cf. e.g. PBS notes:[Essenes & the Dead Sea Scrolls](http://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/essenes.html)
+
+
+--
+
+### Qumran:
+
+- digital texts (see e.g. Isaiah scroll) [Link](http://dss.collections.imj.org.il/)
+- sites: [Maps & timeline](http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites?locale=en_US)
+
+--
+
+### schools of Hilllel & Shammai 
+**during formative period**
+
+  
+- [about Hillel](http://www.jewishvirtuallibrary.org/jsource/biography/hillel.html)
+- [read from /Pirke Aboth/](http://www.jewishvirtuallibrary.org/jsource/Judaism/pirkei_avot.html)
+
+--
+
+In the first century BCE, Babylonian born Hillel (later known as Hillel the Elder) migrated to the Land of Israel to study and worked as a woodcutter, eventually becoming the most influential force in Jewish life. Hillel is said to have lived in such great poverty that he was sometimes unable to pay the admission fee to study Torah, and because of him that fee was abolished. He was known for his kindness, gentleness, concern for humanity. 
+
+--
+
+### Shammai
+
+Hillel the Elder’s friendly adversary was Shammai, a native of the Land of Israel about whom little is known except that he was a builder, known for the strictness of his views. He was reputed to be quick-tempered and impatient. Both lived during the reign of King Herod (37-4 BCE), an oppressive period in Jewish history because of the Roman occupation of the Land of Israel. Shammai was concerned that if Jews had too much contact with the Romans, the Jewish community would be weakened, and this attitude was reflected in his strict interpretation of Jewish law. Hillel did not share Shammai's fear and therefore was more liberal in his view of law.
+
+
+--
+
+### Hillel
+
+**On the "Golden Rule"**
+Once there was a gentile who came before Shammai, and said to him: "Convert me on the condition that you teach me the whole Torah while I stand on one foot. Shammai pushed him aside with the measuring stick he was holding. The same fellow came before Hillel, and Hillel converted him, saying: That which is despicable to you, do not do to your fellow, this is the whole Torah, and the rest is commentary, go and learn it."  - Babylonian Talmud, Shabbat 31a
+
+**If Not Now, When?**
+“If I am not for myself, then who will be for me? And if I am only for myself, then what am I? And if not now, when?”
+
+--
+
+**On Time for Study**
+“Do not say: ‘When I have leisure I shall study,’ perhaps you will never have leisure.”
 
 ---
 
-## Star Wars analogy
+## Christianity
 
+--
 
--   <https://www.youtube.com/watch?v=vP_1T4ilm8M>
--   produced by many different "authors"
--   over the course of many years (3 year intervals, 16 years apart)
--   out of order (4,5,6 - 1,2,3 - 7,8,9)
--   a "franchise" cp. a prophetic "school"
+|  Christianity            |   Dates       |
+|  ------------------------| --------------|
+|  letters (chiefly Paul)  | 50-60 ce |
+|  Gospels written         | 70-90 ce |
+|  **Parousia** is “delayed” | 70-100 ce |
 
-Note: interim between the two film trilogies. The franchise depicts a galaxy described as "far, far away" in the distant past, and commonly portrays Jedi as a representation of good, in conflict with the Sith, their evil counterpart. Their weapon of choice, the lightsaber, is commonly recognized in popular culture. The franchise's storylines contain many themes, with strong influences from philosophy and religion.
+--
 
-The first film in the series was released under the title Star Wars on May 25, 1977, by 20th Century Fox, and became a worldwide pop culture phenomenon followed by two sequels, released at three-year intervals. Sixteen years after the release of the trilogy's final film, the first in a new prequel trilogy of films was released. The three prequel films were also released at three-year intervals, with the final film of the trilogy released on May 19, 2005. In 2012, The Walt Disney Company acquired Lucasfilm for $4.05 billion and announced that it would produce three new films, with the first film, Star Wars: The Force Awakens, planned for release in 2015. 20th Century Fox still retains the distribution rights to the first two Star Wars trilogies, owning permanent rights for the original film Episode IV: A New Hope, while holding the rights to Episodes IIII, V and VI until May 2020.
-
-published in order: 4,5,6 -- 1,2,3 -- 7,8,9
-
-# Assumptions: 
-The unity and authorship of Isaiah
+|  Christianity          |   Dates    |
+|  ------------------------| ---------|
+|  break with Judaism | 100 ce - 200 ce |
+| missionary spread throughout Empire    |   70 ce - 300 ce  |
+| Official religion of Empire | 300-400 ce |
 
 ---
 
-## assumption: 
-the title for the book intends to communicate who wrote the entire book.
+### Quest for Historical Jesus
+
+[Quotes:](http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus/searching.html)
+  
+(this from a series that is very informative about the development of Christianity)
+
+- Part 1: [Judaism-Rome shaped Jesus' life](https://youtu.be/kZPKCDOeyMg?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+- Part 2: [Beinnings of Jesus movement](https://youtu.be/NB1WXhoEA0o?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+- Part 3: [first attempts to write life of Jesus](https://youtu.be/S0pfQ2ZBe2Q?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+- Part 4: [Challenges of the spread of Christianity](https://youtu.be/-_jY2E8I_mA?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK>)
+
+- viewers guide with questions: [Guide](http://www.pbs.org/wgbh/pages/frontline/shows/religion/view/)
 
 
--   the title doesn't imply authorship, cf. the book of Jonah
--   Job, Esther, Ruth, and probably Malachi are titles of content rather than authorship
--   "Titles" are not part of the biblical text. (e.g. different titles in Hebrew and English)
-
---
-
-## assumption: 
-single books under a single title are the work of a single person
-
-
--   clear examples in Scripture where book titles were applied to collections of material by various authors.
--   For example, the book of Jeremiah contains narrative sections describing from a third person perspective actions that Jeremiah took (ch. 37-44).
--   There are references within the book to Jeremiahs scribe, Baruch, writing for Jeremiah (36:4-8).
-
-Note:
-  For example, Isaiah 36-39 is largely duplicated in 2 Kings 18:13-20:19. Also, Isaiah 2:2-4 is repeated in Micah 4:1-3. (thus authorship is not a great concern for biblical text
-
---
-
-## assumption: 
-the concept of "authorship" is a universal idea that applies to any culture in any time period of human history
-
--   our modern, Western concept of "authorship" is alien to the ancient Eastern world
--   Our assumptions reflect the highly individualized nature of our culture, forgetting that the ancient Near East was far more tribal or communal in its thinking
--   ideas were shared within the community and even passed on from one generation to the next as part of the community.
--   This allowed people to teach or write in anothers name, carrying on the tradition of a master through pupils or disciples who would not only preserve the original teachings but add to them as heir of the tradition.
-
---
-
-## authorship & discipleship
-
-
--   There is evidence within the book of Isaiah that Isaiah of Jerusalem had around him a group of disciples, and that he specifically entrusted them with preserving and transmitting his message (8:16, "Bind up the testimony, seal the teaching among my disciples," cf. 30:8)
-
---
-
-## assumption: 
-Use by NT writers requires that Isaiah of Jerusalem was the author of all the material
-
-
--   this assumes that NT writers had our conception of authorship
--   there is clear indication that NT writers were sometimes uncertain of the origins of their quoted material
 
 ---
 
-# A conservative critical reading of the book of Isaiah
+## Islam
+
+--
+
+|  Islam                                               | Dates                                |
+|  ---------------------------------------------| -----------------------------------------| 
+|  Life of Muhammad                                | 570 ce - 632 ce  | No “Quest for historical Muhammad” (26-27)|
+|  absence of historical                            | evidence as in  |  Christianity      |                  
+|  Qur’an revealed to M.                              |  “mid-life”       | “as it stands now, a composite work” (33)|
+
+--
+
+|                                                     |             |                           |
+|---------------------------------------|---------------------------|---------------------------|
+|  retreat to “City of the Prophet”                   |  622        |       **Medina**, “hijira”|
+|  growth of **Islam** “submission”                   |  622 ff.   |        |
+|  Following his death: | both **church** | and  **state**  | 
+|  M. = “judge, spiritual guide, |  military, | political”   | 
+|  (39) expansion by 750, | to the borders of China & | within striking of Paris |
+
+
+--
+
+(38) "At base *submission* to God's will. The “cultic” outward obligations were few.“
+
+|  5 Pillars of Faith |                                                   |
+|  ---------------------| ----------------------------------------------- |
+|  The *Shahadah*: Profession of faith |  There is no god but God and Muhammad is his messenger |
+|  Pray                |  5 times daily, in community at noon Friday |
+|  Almsgiving          |                                             |
+|  Fasting             |  esp. month of Ramadan                     |
+|  Pilgrimage (*hajj*) |  where practical to Mecca                     |
+
+--
+
+- "The Meccan suras of the Quran have a dramatic eschatological emphasis" (apocalyptic)
+- Clearly the "redaction" of the Quran as we have it today took some time after Muhammad's death, it is still relatively little understood
+- Islam became quickly an **urban** religion, "and so a scribal and literary one."
 
 ---
 
-## Tendency today is to see different periods reflected in book of Isaiah
+## Examining 3 religions side by side
 
-
--   Assyrian threat, Judean collapse, Restoration
--   there are numerous references to the Babylonians
--   Beginning with chapter 40 the Babylonians, and their eventual downfall to the Persians are clearly the main topic
--   There are several references to the temple in Jerusalem being destroyed as if it were an event some time removed in the past (44:26-28, 52:8-9, possibly 51:3)
-
---
-
-## 3 periods
-
-
--   Along the same line, there are numerous references to the devastation of the land and of people carried captive to Babylon (40:1-2, 42:22-24, 43:14, 48:20, 51:17, 52:1-2, etc.).
--   There are several general references to a new leader emerging in Mesopotamia (41:2-3, 25), and two specific references that name Cyrus the Persian as the instrument of Israels deliverance from Babylon (44:28-45:3)
--  there is clearly a radical shift in tone and theological outlook in the book at chapter 40
-
----
-
-# Isaiah in 8th c.
-
-## 1 Isaiah
-
-
--   7:1-17 Sign of Immanuel
--   5:1-7 The song of the vineyard
-
---
-
-## 2-3 Isaiah
-
--   understood as a "school" of Isaiah
--   pseudepigrapha will become common
-    -   e.g. *Book of Moses*
-    -   Community of Beloved disciple
-
----
-
-# Isaiah of the time of the exile
-
----
-
-## Isaiah 40:1-11 & Isaiah 52:7-10; Prepare the way of the Lord
-
-
--   the "forms" of the former **oracles** are not present in the later chapters
--   no mention of prophet's experience of God
--   no messenger formulas, vision reports, or symbolic acts
--   no call narrative
-
---
-
-## Who addressed / How is God depicted?
-
-
--   Is 52:7 "how beautiful upon the mountains ..."
--   Is 40:2 punishment has lasted 2 generations
--   The city of Jerusalem referred to as "Zion"
--   YHWH both shepherd and warrior king
--   paradox of being connected to the past and experiencing a **new beginning**
-
---
-
-
-## Isaiah 44:6-20 & Isaiah 45:1-19; Yahweh is God alone
-
-- "All who make idols are nothing."
-- Cyrus called "Messiah" "anointed" in 45:1
-- In 45:1-19 how often does God say that there is only one God?
-
---
-
-## Isaiah 42:1-9 & Isaiah 52:13-53:12; Suffering Servant
-
-- The speaker in both passages is God
-- "Former things" used in postexilic prophets to refer to earlier prophecies and histories
-- Who is addressed in 42:6-9?
-- Who is the "we" in these passages?
-
---
-
-## Suffering Servant
-
--   Christian ears hear Jesus as the suffering servant
-    -   the one who suffers punishment for the sake of another
-    -   "redemptive suffering"
--   How would Jews in the time of the exile have heard the words?
--   Does the Christian understanding overturn the earlier meaning?
--   Possible to have two literal meanings?
-    -   one a royal figure addressed to exilic audience
-    -   another Jesus, the Christ ("annointed one")
-
---
-
-## the earlier meaning
-
-
--   the identity is contradictory and ambiguous.
-    -   some say it is Israel, others a suffering individual
--   The text establishes
-    -   servant suffers
-    -   servant does not deserve to suffer
-    -   servant's suffering pays God back for the sins of others in Israel
-    -   Israel is redeemed because of the suffering of the servant
----
-
--   servant will be in charge of bringing justice
--   royal imagery is used
--   the people describe themselves as "sheep" (53:6) which suggests the servant is a shepherd
-
+- Community and hierarchy
+- Law: Torah, Nomos, Namus
+- Scripture & Tradition
+- Worship
+- Asceticism
+- Thinking & Talking about God
