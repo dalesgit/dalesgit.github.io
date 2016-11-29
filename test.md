@@ -1,64 +1,87 @@
-## Wisdom & Foolishness
+# Worship (Children of Abraham)
+---
+## Worship in Sacred Quest
+-   inherently social in nature
+-   “liturgy” = Greek for “people’s work”, public work
+-   cf. postures in prayer (SQ 96 ff.)
+---
 
-cf. egs. of pithy sayings: Proverbs English, Hebrew, WU
 
-[eg. of longer wisdom tale](http://www.pitt.edu/~dash/panchatantra.html#foolishfriend)
+<section data-background="https://s-media-cache-ak0.pinimg.com/originals/73/ca/78/73ca78acd5e01a79d63a2f5bcb7ccf3a.jpg" data-background-size="1000px"> </section>
 
-(an ancient Indian collection of interrelated animal fables in verse and prose, arranged within a frame story.)
-
+## Jewish Worship
+---
+###  Torah & Worship
+-   ritual, sacrifice etc.
+-   in diaspora, a replacement needed
+-   development of *synagogue* (gathering place)
+-   *Shema* and other private prayers
 --
+###  Structure of public gathering
+-   public gathering on 7th day
+-   Torah reading
+-   commentary on reading (haftara)
+-   (translation: *targum*)
+-   Psalm (song)
+-   Homily
+---
 
-## What is "Wisdom"?
-
-- "didactic"
-- good judgment
-- importance of a *wise ruler*
-- ? 
-
-## What is "Foolishness"?
-
-- ?
-- ?
-
---
-
-## Lady Wisdom
-
-- Wisdom personified
-- feminine
-- difference between "metaphor" and a "real goddess"? (p. 379)
-- Prov. 8:22; Sirach 1:4; Wisdom 9:9
-- cf. Male or Female? p. 381
-
--- 
-
-## Chaos (Enuma Elish etc. p. 391)
-
-- universe is shapeless, but for water
-- similarity between "saltwater" in Babylonian & "the deep" in Gen. 1:1
-- Marduk makes humankind so that they can rest
-- 6 generations of gods in the process
-- In both myths, day and night precede the creation of the luminous bodies
-- 7th day was holy in both calendars
+1st c. house church Chapel of Saint Ananias, Damascus, Syria, an early example of a Christian house of worship; built in the 1st century AD
 
 
-Note:
-https://en.wikipedia.org/wiki/Panbabylonism
+
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/2/20/Inside_of_Saint_Ananias.jpg" data-background-size="1000px"> </section>
+
+---
+early basilica style church
+
+<section data-background="https://s-media-cache-ak0.pinimg.com/736x/0a/06/5f/0a065f0c7342896bc322b56cb27932b1.jpg" data-background-size="1000px"> </section>
+
 
 
 ---
-<section data-background="https://s-media-cache-ak0.pinimg.com/564x/27/e2/0d/27e20d490e931d2026b5cfa79a25be61.jpg" data-background-size="1000px"> </section>
+
+###  earliest public prayer
+-   Jesus & the Last Supper
+-   modeled on emerging Jewish prayer + Eucharist
+-   at first celebrated in homes, later an “assembly center” i.e. *ekklesia*
+-   Didache ([link to Didache](http://www.earlychristianwritings.com/text/didache-roberts.html))
+-   later developments into Roman “Mass” and Orthodox “Divine Service”
+--
+###  Requiring leaders
+-   earliest varied leaders
+-   *episcopos* – overseers
+-   *presbyteros* (elders) developed – perhaps as assistants to the **bishop** who presided at **eucharist**
+---
+## Muslim worship
+9-10 c. Cordoba, Spain
+
+<section data-background="https://s3.amazonaws.com/classconnection/857/flashcards/6148857/jpg/below_columns_in_the_moorish_part-151656584810C9425B1.jpg" data-background-size="1000px"> </section>
+
 
 ---
 
-Readings
-========
-
-|     |                                  |                                                                                                               |
-|-----|----------------------------------|---------------------------------------------------------------------------------------------------------------|
-| 385 | A Picture of Lady Wisdom        | Proverbs 7-8               |
-| 385 | In praise of Wisdom              | Job 28:12-28; Sirach 1:1-20                                                                                   |
-| 386 | The Creation of a Tiered Reality | Proverbs 30-31; Sirach 7:18-36                                                                                 |
-| 388 | Speaking a World                 | Genesis 1:1-2:3                                                                                               |
+<section data-background="http://farm4.static.flickr.com/3002/2771171376_8ca4062fbb.jpg?v=0" data-background-size="1000px"> </section>
 
 
+
+---
+###  Early pre-Muslim worship
+-   compared to either Judaism or Christianity, so little known
+-   little in the way of seasonal feasts compared to Judaism / Christianity
+-   noon prayer on Friday with sermon (**khutba**) in a mosque **masjid**
+-   open court with washing space
+-   pulpit (**minibar**)
+-   outside minaret for **muezzin**
+--
+-   2 seasonal prayers:
+-   **Eid al-Adha** “sacrificial feast”
+-   **Eid al-Fitr** “breaking the fast” of Ramadan
+---
+###  Cult of Saints
+-   both Judaism & Islam resist devotion to less than God
+-   Christianity institutionalized veneration of martyrs
+-   altars in shape of coffin placed over the burial of martyrs
+---
+###  Summary:
+cf. p. 115
