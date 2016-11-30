@@ -1,87 +1,93 @@
-# Worship (Children of Abraham)
----
-## Worship in Sacred Quest
--   inherently social in nature
--   “liturgy” = Greek for “people’s work”, public work
--   cf. postures in prayer (SQ 96 ff.)
----
 
+## Community & Hierarchy
 
-<section data-background="https://s-media-cache-ak0.pinimg.com/originals/73/ca/78/73ca78acd5e01a79d63a2f5bcb7ccf3a.jpg" data-background-size="1000px"> </section>
+-   seeking authority as movements continue
+-   development of organization
+-   Judaism
+    -   Rabbinic Judaism
 
-## Jewish Worship
----
-###  Torah & Worship
--   ritual, sacrifice etc.
--   in diaspora, a replacement needed
--   development of *synagogue* (gathering place)
--   *Shema* and other private prayers
 --
-###  Structure of public gathering
--   public gathering on 7th day
--   Torah reading
--   commentary on reading (haftara)
--   (translation: *targum*)
--   Psalm (song)
--   Homily
----
 
-1st c. house church Chapel of Saint Ananias, Damascus, Syria, an early example of a Christian house of worship; built in the 1st century AD
+-   Christianity
+    -   Constantine **(timeline)**
+    -   growth of "orders" & clergy
+    -   growth of monasticism
 
-
-
-<section data-background="https://upload.wikimedia.org/wikipedia/commons/2/20/Inside_of_Saint_Ananias.jpg" data-background-size="1000px"> </section>
-
----
-early basilica style church
-
-<section data-background="https://s-media-cache-ak0.pinimg.com/736x/0a/06/5f/0a065f0c7342896bc322b56cb27932b1.jpg" data-background-size="1000px"> </section>
-
-
-
----
-
-###  earliest public prayer
--   Jesus & the Last Supper
--   modeled on emerging Jewish prayer + Eucharist
--   at first celebrated in homes, later an “assembly center” i.e. *ekklesia*
--   Didache ([link to Didache](http://www.earlychristianwritings.com/text/didache-roberts.html))
--   later developments into Roman “Mass” and Orthodox “Divine Service”
 --
-###  Requiring leaders
--   earliest varied leaders
--   *episcopos* – overseers
--   *presbyteros* (elders) developed – perhaps as assistants to the **bishop** who presided at **eucharist**
----
-## Muslim worship
-9-10 c. Cordoba, Spain
 
-<section data-background="https://s3.amazonaws.com/classconnection/857/flashcards/6148857/jpg/below_columns_in_the_moorish_part-151656584810C9425B1.jpg" data-background-size="1000px"> </section>
-
-
+-   Islam
+    -   e.g. rightful seat of authority at stake in Shia and Sunni divisions
+    -   Umma and Abode of Islam
+    -   Caliphate
+    -   from beginning politics & theology enmeshed
 ---
 
-<section data-background="http://farm4.static.flickr.com/3002/2771171376_8ca4062fbb.jpg?v=0" data-background-size="1000px"> </section>
+## Law
 
+-   what are "commandments" in each tradition
+-   What are the norms of the community
+-   how do the norms **change** over time
+-   Oral law "fulfilled" in  each of the traditions
 
-
----
-###  Early pre-Muslim worship
--   compared to either Judaism or Christianity, so little known
--   little in the way of seasonal feasts compared to Judaism / Christianity
--   noon prayer on Friday with sermon (**khutba**) in a mosque **masjid**
--   open court with washing space
--   pulpit (**minibar**)
--   outside minaret for **muezzin**
 --
--   2 seasonal prayers:
--   **Eid al-Adha** “sacrificial feast”
--   **Eid al-Fitr** “breaking the fast” of Ramadan
+
+-   Christianity
+    -   Messianic expectations
+    -   growth of Canon law with the Constantinian
+--
+
+-   Islam
+    -   Quranic statute
+    -   **"Sharia":** the muslim way
+    -   standing in the prophetic tradition
+    -   development of **Hadith**
+    -   Consensus and Law
+    -   Lawyers and adjustments
 ---
-###  Cult of Saints
--   both Judaism & Islam resist devotion to less than God
--   Christianity institutionalized veneration of martyrs
--   altars in shape of coffin placed over the burial of martyrs
+
+
+## Scripture
+
+- How to be interpreted
+- Midrash
+- How and why explain Scripture in each tradition
+- Allegorical exegesis
+
+--
+
+-   **Scripture** vs. **Tradition**
+-   Islam
+    -   Quranic exegesis
+    -   Quranic commentary
+    -   Challenging tradition
+    -   "Tradition" in Islam
+    -   Tradition & Reason in Islamic Exegesis
+
 ---
-###  Summary:
-cf. p. 115
+
+
+## Living a Holy Life
+
+- Asceticism in Judaism / Christianity (Qumran, monasticism)
+- Holiness and Sanctity
+
+--
+
+- Judaism
+    - Kabbalah
+- Christianity
+    - Monastic Rule
+    - Path "upward"
+    - mystics
+
+--
+
+- Islam
+    - Muslim path
+    - Sufi
+    - Religious orders
+    - Gnosis
+    - Hidden origins
+    - Doctor Maximus
+    - radical Theosophy
+    - al-Ghazali
