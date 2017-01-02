@@ -1,4 +1,4 @@
-# This is a top level heading
+# This is a top level 
 =======
 # This is a top level 
 >>>>>>> test magit
