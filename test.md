@@ -1,6 +1,8 @@
 # This is a top level 
 =======
 # This is a top level 
+=======
+
 ## Community & Hierarchy
 
 -   seeking authority as movements continue
