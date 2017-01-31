@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2017-01-31 Tue 13:19 -->
+<!-- 2017-01-12 Thu 13:23 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Sitemap</title>
+<title>RELG 220-01(S17)</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Dale Hathaway" />
+<meta name="author" content="Prof. Dale Hathaway" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -179,6 +179,7 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
+<link rel="stylesheet" type="text/css" href="../css/mystyle.css">
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -228,54 +229,37 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Sitemap</h1>
-<ul class="org-ul">
-<li>relg101
-<ul class="org-ul">
-<li><a href="relg101/101-week2a.html">101-week2a</a></li>
-<li><a href="relg101/101-week4a.html">101-week4a</a></li>
-<li><a href="relg101/relg101-index.html">RELG 101</a></li>
-<li><a href="relg101/101-2-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="relg101/101-1-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="relg101/relg101-02-index.html">RELG 101-02 F16</a></li>
-<li><a href="relg101/index.html">index</a></li>
-</ul></li>
-<li>relg101-s17
-<ul class="org-ul">
-<li><a href="relg101-s17/relg101-1-s17-index.html">RELG 101-01(S17)</a></li>
-<li><a href="relg101-s17/101-1-s17-presentations.html">RELG 101-01(S17)</a></li>
-<li><a href="relg101-s17/101-1-s17-journals.html">RELG 101-01(S17)</a></li>
-<li><a href="relg101-s17/relg101-2-s17-index.html">RELG 101-02(S17)</a></li>
-<li><a href="relg101-s17/101-2-s17-presentations.html">RELG 101-02(S17)</a></li>
-<li><a href="relg101-s17/101-2-s17-journals.html">RELG 101-02(S17)</a></li>
-<li><a href="relg101-s17/class-2-brainstorm.html">class-2-brainstorm</a></li>
-</ul></li>
-<li>relg220-s17
-<ul class="org-ul">
-<li><a href="relg220-s17/relg220-s17-index.html">RELG 220-01(S17)</a></li>
-<li><a href="relg220-s17/220s17-journals.html">RELG 220-01(S17)</a></li>
-<li><a href="relg220-s17/220-s17-presentations.html">RELG 220-01(S17)</a></li>
-<li><a href="relg220-s17/online-bible-research.html">online-bible-research</a></li>
-</ul></li>
-<li>relg313
-<ul class="org-ul">
-<li><a href="relg313/index.html">Dropbox Web subfolder test</a></li>
-<li><a href="relg313/313-journals.html">RELG 313: Reading Journal Assignments</a></li>
-<li><a href="relg313/biblical-research-101.html">biblical-research-101</a></li>
-<li><a href="relg313/relg313-index.html">relg313-index</a></li>
-</ul></li>
-<li><a href="101-week2a.html">101-week2a</a></li>
-<li><a href="relg101-index.html">RELG 101</a></li>
-<li><a href="relg101-02-index.html">RELG 101</a></li>
-<li><a href="101-2-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="101-1-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="relg313-index.html">RELG 313: Introduction to Hebrew Scriptures</a></li>
-<li><a href="313-journals.html">RELG 313: Reading Journal Assignments</a></li>
-<li><a href="index-f16.html">Religion Classes F-16</a></li>
-<li><a href="index.html">Religion Classes S-17</a></li>
-<li><a href="index-org.html">index-org</a></li>
-<li><a href="winthrop-s17.html">winthrop-s17</a></li>
-</ul>
+<h1 class="title">RELG 220-01(S17)</h1>
+<div class="org-center">
+<p>
+<b>Introduction to Biblical Studies</b> Section 01
+</p>
+</div>
+<dl class="org-dl">
+<dt>Description:</dt><dd>This course provides  an introduction to the various methods and interpretive approaches used to read and appreciate the texts of Ancient Israel and early Christianity that have been canonized as the Bible.</dd>
+</dl>
+
+<p>
+The textbook provides a broad overview of historical, hermeneutical, sociological and other interpretive methods for reading and understanding the biblical texts. The class will supplement the basic textbook readings with illustrative selections from the Bible. 
+</p>
+
+<hr  />
+
+<p>
+<b>Presentations</b> <a href="220-s17-presentations.html">220 Presentations</a>
+</p>
+
+<hr  />
+
+<p>
+<b>Reading Journals</b> <a href="220s17-journals.html">Reading Journals</a>
+</p>
+
+<hr  />
+
+<p>
+<b>Guide to online Biblical Research</b> <a href="online-bible-research.html">Online Bible Research</a>
+</p>
 </div>
 <div id="postamble" class="status">
     <p class="postamble">Last Updated .</p> 
