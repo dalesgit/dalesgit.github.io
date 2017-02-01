@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2017-02-01 Wed 11:21 -->
+<!-- 2017-01-05 Thu 19:54 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Sitemap</title>
+<title></title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Dale Hathaway" />
 <style type="text/css">
@@ -228,54 +228,66 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Sitemap</h1>
-<ul class="org-ul">
-<li>relg101
-<ul class="org-ul">
-<li><a href="relg101/101-week2a.html">101-week2a</a></li>
-<li><a href="relg101/101-week4a.html">101-week4a</a></li>
-<li><a href="relg101/relg101-index.html">RELG 101</a></li>
-<li><a href="relg101/101-2-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="relg101/101-1-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="relg101/relg101-02-index.html">RELG 101-02 F16</a></li>
-<li><a href="relg101/index.html">index</a></li>
-</ul></li>
-<li>relg101-s17
-<ul class="org-ul">
-<li><a href="relg101-s17/relg101-1-s17-index.html">RELG 101-01(S17)</a></li>
-<li><a href="relg101-s17/101-1-s17-presentations.html">RELG 101-01(S17)</a></li>
-<li><a href="relg101-s17/101-1-s17-journals.html">RELG 101-01(S17)</a></li>
-<li><a href="relg101-s17/relg101-2-s17-index.html">RELG 101-02(S17)</a></li>
-<li><a href="relg101-s17/101-2-s17-presentations.html">RELG 101-02(S17)</a></li>
-<li><a href="relg101-s17/101-2-s17-journals.html">RELG 101-02(S17)</a></li>
-<li><a href="relg101-s17/class-2-brainstorm.html">class-2-brainstorm</a></li>
-</ul></li>
-<li>relg220-s17
-<ul class="org-ul">
-<li><a href="relg220-s17/relg220-s17-index.html">RELG 220-01(S17)</a></li>
-<li><a href="relg220-s17/220s17-journals.html">RELG 220-01(S17)</a></li>
-<li><a href="relg220-s17/220-s17-presentations.html">RELG 220-01(S17)</a></li>
-<li><a href="relg220-s17/online-bible-research.html">online-bible-research</a></li>
-</ul></li>
-<li>relg313
-<ul class="org-ul">
-<li><a href="relg313/index.html">Dropbox Web subfolder test</a></li>
-<li><a href="relg313/313-journals.html">RELG 313: Reading Journal Assignments</a></li>
-<li><a href="relg313/biblical-research-101.html">biblical-research-101</a></li>
-<li><a href="relg313/relg313-index.html">relg313-index</a></li>
-</ul></li>
-<li><a href="101-week2a.html">101-week2a</a></li>
-<li><a href="relg101-index.html">RELG 101</a></li>
-<li><a href="relg101-02-index.html">RELG 101</a></li>
-<li><a href="101-2-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="101-1-journals.html">RELG 101 Journal assignments</a></li>
-<li><a href="relg313-index.html">RELG 313: Introduction to Hebrew Scriptures</a></li>
-<li><a href="313-journals.html">RELG 313: Reading Journal Assignments</a></li>
-<li><a href="index-f16.html">Religion Classes F-16</a></li>
-<li><a href="index.html">Religion Classes S-17</a></li>
-<li><a href="index-org.html">index-org</a></li>
-<li><a href="winthrop-s17.html">winthrop-s17</a></li>
-</ul>
+<p>
+-*- coding: utf-8 -*-
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><b>These are published</b></td>
+<td class="org-left"><a href="./github/index-f16.html">linking f16-org file</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="./github/relg101/relg101-index.html">101-01-f16 pub</a></td>
+<td class="org-left"><a href="./github/relg313/relg313-index.html">313-f16 pub</a></td>
+<td class="org-left"><a href="./github/relg101/relg101-02-index.html">101-2-f16 pub</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><b>git staging</b></td>
+<td class="org-left"><a href="file:///home/dale/Dropbox/org-2016/winthrop-f16/github2/dalesgit.github.io/test.md">test-staging</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="./github/index.html">linking s17-org file</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="./github/relg101-s17/relg101-1-s17-index.html">101-01-s17 pub</a></td>
+<td class="org-left"><a href="./github//relg101-s17/relg101-2-s17-index.html">101-02-s17 pub</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="./github/relg220-s17/relg220-s17-index.html">220-s17 pub</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="postamble" class="status">
     <p class="postamble">Last Updated .</p> 

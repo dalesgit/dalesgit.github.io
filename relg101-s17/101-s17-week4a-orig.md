@@ -26,12 +26,12 @@ https://youtu.be/L_Hcoru77Gs?list=PL66bRS2DhVi-6gDUTfbHh_-dsuXZ_BGio
 --
 
 ## Religious Myth: 
-- A story that **sets up a world by describing ultimate reality and its relationship to humanity**.  Myths seek to explain the ultimate meaning of the universe (cosmos) and our existence, its ultimate origins, destiny, order (or disorder) and relationships.  - Purpose = **revelation of the nature of the sacred**, the universe, and human nature.  In short, “How does reality makes sense in light of the sacred?" 
+- A story that **sets up a world by describing ultimate reality and its relationship to humanity**.  Myths seek to explain the ultimate meaning of the universe (cosmos) and our existence, its ultimate origins, destiny, order (or disorder) and relationships.  Purpose = revelation of the nature of the sacred, the universe, and human nature.  In short, “How does reality makes sense in light of the sacred?" 
 - Myths seek to **narrate or reveal a transcendent reality** and its relation to ordinary reality.  Mythic time transcends ordinary time.  Mythic events transcend “empirically observable" events.
 - They **do not seek to record simply what happened** in ordinary reality.  They do not aim at empirical or scientific truth (that can be tested via experiments). 
 
+--
 
-Note:
 - Rather myths **represent the collective experience and wisdom of a community over time** concerning the deepest meaning of reality and the ultimate frame of reference for understanding it expressed in the most powerful and fundamental forms of human language—stories conveyed via imaginative, poetic language (exaggeration = frequent vehicle because ordinary language inadequate).  A myth is like a pair of glasses or framework through which people “image" or see the world.
   - Note Well: For one who believes that there is no ultimate meaning to our world, no transcendent reality, or that there is only our immediate experience as known empirically, myths are false or do not exist.
 
@@ -53,11 +53,7 @@ Note:
 ---
 
 ## Parable:
-
-- A story that **upsets an existing world or turns it upside down**; makes a point by violating our expectations and calling into questions our assumptions.   
-- It seeks to shock the hearer into seeing ordinary things in a new way, i.e., in light of the sacred reality which is totally “other" than the ordinary and customary.  
-- A parable seeks to move people into a deeper engagement with sacred reality.  
-- **Sacred figures often perform “parabolic actions"** or actions that upset the way things are and open our eyes to a new reality.
+A story that **upsets an existing world or turns it upside down**; makes a point by violating our expectations and calling into questions our assumptions.  It seeks to shock the hearer into seeing ordinary things in a new way, i.e., in light of the sacred reality which is totally “other" than the ordinary and customary.  A parable seeks to move people into a deeper engagement with sacred reality.  **Sacred figures often perform “parabolic actions"** or actions that upset the way things are and open our eyes to a new reality.
 
 
 --
@@ -70,10 +66,13 @@ Note:
 
 --
 
-- Jesus seeks to open people's eyes to the kingdom of God when he reads from *Isaiah 61:1-2* in Luke "The Spirit of the Lord Yahweh is upon me, for he has anointed me to bring glad tidings to the poor.  He has sent me to proclaim liberty to captives and recovery of sight to the blind, to let the oppressed go free, and to proclaim a year of favor from Yahweh [a jubilee year]" . . . and a day of vengeance for our God . .  *Luke 4:18-19*
+- Jesus seeks to open people's eyes to the kingdom of God when he reads from Isaiah 61:1-2 in Luke "The Spirit of the Lord Yahweh is upon me, for he has anointed me to bring glad tidings to the poor.  He has sent me to proclaim liberty to captives and recovery of sight to the blind, to let the oppressed go free, and to proclaim a year of favor from Yahweh [a jubilee year]" . . . and a day of vengeance for our God . .  Luke 4:18-19
 - Good Samaritan = like the good Al Qaeda terrorist. Our social status does not determine our holiness; but our compassion—even a compassion that violates social customs re: ritual purity.  That is what God wants. 
-- *Matthew 25*: Whenever you did it to the least of my brothers and sisters you did it to me—Christ is encountered in the needy.  
-- Prodigal Son (Who is lost, the younger or the older son?) or Workers in the Vineyard—those who worked a little get paid the same as those who worked a lot; or Unforgiving debtor. (*Luke 15-16*)
+- Matthew 25: Whenever you did it to the least of my brothers and sisters you did it to me—Christ is encountered in the needy.  
+
+--
+
+- Prodigal Son (Who is lost, the younger or the older son?) or Workers in the Vineyard—those who worked a little get paid the same as those who worked a lot; or Unforgiving debtor. (Luke 15-16)
 
 
 ---
