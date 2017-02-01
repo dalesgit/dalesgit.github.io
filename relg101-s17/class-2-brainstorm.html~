@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2017-01-31 Tue 19:45 -->
+<!-- 2017-01-11 Wed 11:22 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>RELG 101-01(S17)</title>
+<title></title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Prof. Dale Hathaway" />
+<meta name="author" content="Dale Hathaway" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -179,7 +179,6 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="../css/mystyle.css">
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -229,60 +228,71 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">RELG 101-01(S17)</h1>
-<div class="org-center">
 <p>
-<b>Introduction to Religious Studies</b> Section 01
+<i>These were brainstormed in class and categorizing as we recorded them.</i>
 </p>
+<div id="outline-container-org118b78f" class="outline-2">
+<h2 id="org118b78f">Ritual / Action</h2>
+<div class="outline-text-2" id="text-org118b78f">
+<ul class="org-ul">
+<li>Baptism = being made new</li>
+<li>attending service</li>
+<li>communion</li>
+<li>marriage</li>
+<li>worship</li>
+<li>dancing (praise)</li>
+<li>fasting</li>
+<li>pilgrimage</li>
+<li>praying</li>
+<li>titheing</li>
+<li>singing</li>
+<li>meditation</li>
+<li>sacrific</li>
+</ul>
 </div>
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left"><a href="101-s17-week1a.html">Introductions</a></td>
-<td class="org-left"><a href="101-s17-week1b.html">Phenomenology of Religion</a></td>
-</tr>
-
-<tr>
-<td class="org-left"><a href="101-s17-week2a.html">Defining Religion</a></td>
-<td class="org-left"><a href="101-s17-week3a.html">The Sacred</a></td>
-</tr>
-
-<tr>
-<td class="org-left"><a href="101-s17-week3b.html">The Sacred (2)</a></td>
-<td class="org-left"><a href="101-s17-week4a.html">Sacred Language</a></td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left"><a href="class-2-brainstorm.html">Categorizing Religious Phenomena</a></td>
-</tr>
-</tbody>
-</table>
 </div>
-<div id="postamble" class="status">
-    <p class="postamble">Last Updated .</p> 
+<div id="outline-container-orgeaad84a" class="outline-2">
+<h2 id="orgeaad84a">Conversion</h2>
+<div class="outline-text-2" id="text-orgeaad84a">
+<ul class="org-ul">
+<li>give up religious belief</li>
+<li>enlightenment</li>
+<li>faith</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org43e4bd7" class="outline-2">
+<h2 id="org43e4bd7">Practising/Doing</h2>
+<div class="outline-text-2" id="text-org43e4bd7">
+<ul class="org-ul">
+<li>study</li>
+<li>Reading</li>
+<li>service to others</li>
+<li>clothing</li>
+<li>wearing a veil</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge435593" class="outline-2">
+<h2 id="orge435593">Place / Space</h2>
+<div class="outline-text-2" id="text-orge435593">
+<ul class="org-ul">
+<li>Church as building</li>
+<li>e.g. Jerusalem</li>
+<li>altar</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org489b98e" class="outline-2">
+<h2 id="org489b98e">Spiritual</h2>
+<div class="outline-text-2" id="text-org489b98e">
+<ul class="org-ul">
+<li>Higher Power</li>
+<li>enlightenment</li>
+<li>afterlife</li>
+</ul>
+</div>
+</div>
 </div>
 </body>
 </html>
