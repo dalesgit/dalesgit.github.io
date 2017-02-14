@@ -1,97 +1,43 @@
-# This is a top level 
-=======
-# This is a top level 
-=======
 
-## Community & Hierarchy
-
--   seeking authority as movements continue
--   development of organization
--   Judaism
-    -   Rabbinic Judaism
-
---
-
--   Christianity
-    -   Constantine **(timeline)**
-    -   growth of "orders" & clergy
-    -   growth of monasticism
-
---
-
--   Islam
-    -   e.g. rightful seat of authority at stake in Shia and Sunni divisions
-    -   Umma and Abode of Islam
-    -   Caliphate
-    -   from beginning politics & theology enmeshed
----
-
-## Law
-
--   what are "commandments" in each tradition
--   What are the norms of the community
--   how do the norms **change** over time
--   Oral law "fulfilled" in  each of the traditions
-
---
-
--   Christianity
-    -   Messianic expectations
-    -   growth of Canon law with the Constantinian
---
-
--   Islam
-    -   Quranic statute
-    -   **"Sharia":** the muslim way
-    -   standing in the prophetic tradition
-    -   development of **Hadith**
-    -   Consensus and Law
-    -   Lawyers and adjustments
----
-
-
-## Scripture
-
-- How to be interpreted
-- Midrash
-- How and why explain Scripture in each tradition
-- Allegorical exegesis
-
---
-
--   **Scripture** vs. **Tradition**
--   Islam
-    -   Quranic exegesis
-    -   Quranic commentary
-    -   Challenging tradition
-    -   "Tradition" in Islam
-    -   Tradition & Reason in Islamic Exegesis
+# Final presentation
 
 ---
 
+## Intertestamental literature
 
-## Living a Holy Life
+-   Translation of the Jewish scriptures into Koine Greek, known as the - Septuagint
+-   Establishment of the synagogue
+-   Greek and Aramaic become the common languages of the Jewish people
+-   Hasmonean dynasty
+-   Herodian dynasty
+-   Province of Roman Judea created in 6 AD
+-   Production of copies of the Hebrew scripture and other related writings, - known as Dead Sea
+-   Scrolls when unearthed in mid 20th century
+-   Production of the 14 books of the Biblical Apocrypha (ISBE, vol 1, p. 457)
+-   Production of the Pseudepigrapha (ISBE, vol 1, p. 457)
 
-- Asceticism in Judaism / Christianity (Qumran, monasticism)
-- Holiness and Sanctity
+---
 
---
+## Readings
 
-- Judaism
-    - Kabbalah
-- Christianity
-    - Monastic Rule
-    - Path "upward"
-    - mystics
+By groups examine one of the following texts: 
 
---
+-   read the passage
+-   make a quick lookup (Wikipedia) of “In case you were wondering information”
+-   Give a short overview report to the class of what you read and what its significance might be.
 
-- Islam
-    - Muslim path
-    - Sufi
-    - Religious orders
-    - Gnosis
-    - Hidden origins
-    - Doctor Maximus
-    - radical Theosophy
-    - al-Ghazali
+<https://sites.google.com/site/dalespublic/home/intertestamental-readings>
+
+
+---
+
+## Selections
+
+1.  Letter of Aristeas:
+2.  Tobit
+3.  Book of Enoch: chs 1-2
+4.  2 Esdras (4)
+5.  Life of Adam & Eve
+6.  Testament of Patriarchs (Benjamin)
+7.  2 Maccabees: 7
+8.  Assumption of Moses:
