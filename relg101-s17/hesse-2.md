@@ -23,20 +23,20 @@
 
  Write on a piece of  paper an example from text of:
 
-1.  Self-realization
-2.  Personal experience vs. Formal training
-3.  Persistence
-4.  Folly of materialism or less is more
-5.  paradox of unreal reality (reality is an illusion)
+1. Self-realization
+2. Personal experience vs. Formal training
+3. Persistence
+4. Folly of materialism or less is more
+5. paradox of unreal reality (reality is an illusion)
 
 ---
 
 
 ### With a partner discuss:
 
-1.  most important illustration of the theme from the text
-2.  How important was that theme in the context of the whole work
-3.  What does the theme tell us about religion?
+1. most important illustration of the theme from the text
+2. How important was that theme in the context of the whole work
+3. What does the theme tell us about religion?
 
 ---
 
