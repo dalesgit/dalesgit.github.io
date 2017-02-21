@@ -63,8 +63,12 @@ narrative was true? </li>
 
 ---
 
-5. If Israel had been freed from slavery, had received the Ten Commandments on tablets of stone, but it turned out that Moses made them up, rather than receiving them from God, would the story be true?
-6. If it should turn out that Israel was freed from slavery, did receive the Ten Commandments, written on tablets of stone, and that the commandments had come from God but had not actually been “written by the finger of God,” would you say that the narrative was true?
-7. And finally, what if it should turn out that God does not have fingers?
+### Cont.
 
----
+
+<li class="fragment">5. If Israel had been freed from slavery, had received the Ten Commandments on tablets of stone, but it turned out that Moses made them up, rather than receiving them from God, would the story be true? </li>
+<li class="fragment">6. If it should turn out that Israel was freed from slavery, did receive the Ten Commandments, written on tablets of stone, and that the commandments had come from God but had not actually been “written by the finger of God,” would you say that the narrative was true? </li>
+<li class="fragment">7. And finally, what if it should turn out that God does not have fingers?
+ </li>
+
+
