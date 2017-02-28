@@ -26,6 +26,7 @@ Day 1
 Day 2
 <section data-background="http://drive.google.com/uc?export=view&id=0B8ezT0-tUjVZS01FQ0lxSnRqWk0" data-background-size="1000px">
 </section>
+https://drive.google.com/file/d/0B8ezT0-tUjVZS01FQ0lxSnRqWk0/view?usp=sharing
 
 ---
 
@@ -94,3 +95,15 @@ Sabbath
 
 - Rest on the 7th day
 - Sabbath
+
+---
+
+## JEPD Source theory (191)
+
+https://frted.files.wordpress.com/2010/03/gqhc_noah_lens.pdf
+
+https://frted.wordpress.com/2010/03/26/reading-noah-and-the-flood-through-the-source-theory-lens-a/
+
+http://helpmewithbiblestudy.org/5system_moses/dh11_jedpSample2.aspx
+
+---
