@@ -79,11 +79,11 @@
 
 Moses received the Torah from Sinai and gave it over to Joshua. Joshua
 gave it over to the Elders, the Elders to the Prophets, and the Prophets
-gave it over to the Men of the Great Assembly. They \[\*\] would always
+gave it over to the Men of the Great Assembly. They [+] would always
 say these three things: Be cautious in judgement. Establish many pupils.
 And make a safety fence around the Torah.
 
-[*] the ***Men of the Great Assembly**, leaders and curators of
+[+] *the ***Men of the Great Assembly**, leaders and curators of
 the Torah up to the Greek period*]
 
 --
