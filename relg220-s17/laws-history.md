@@ -83,7 +83,7 @@ gave it over to the Men of the Great Assembly. They [+] would always
 say these three things: Be cautious in judgement. Establish many pupils.
 And make a safety fence around the Torah.
 
-[+] *the ***Men of the Great Assembly**, leaders and curators of
+[+] *the **Men of the Great Assembly**, leaders and curators of
 the Torah up to the Greek period*]
 
 --
