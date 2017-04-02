@@ -1,13 +1,59 @@
-Islam 101 
+## Children of Abraham
+
+### Scriptures: preliminary ###
+
+- Abraham source in all 3
+- Genesis 12
+- Question: the same God?
+    - Elohim, YHWH
+    - Father, Son, Holy Spirit
+    - Allah
+
+Note:
+References to Abraham in the Quran[edit] <https://en.wikipedia.org/wiki/Abraham_in_Islam#References_to_Abraham_in_the_Quran>
+There are numerous references to Abraham in the Quran, including, twice, to the Scrolls of Abraham;[62] in the latter passage, it is mentioned that Abraham "fulfilled his engagements?-",[63] a reference to all the trials that Abraham had succeeded in. In a whole series of chapters, the Quran relates how Abraham preached to his community as a youth and how he specifically told his father, named Azar,[64] to leave idol-worship and come to the worship of God.[65] Some passages of the Quran, meanwhile, deal with the story of how God sent angels to Abraham with the announcement of the punishment to be imposed upon Lot's people in Sodom and Gomorrah.[66] Other verses mention the near-sacrifice of Abraham's son,[28] whose name is not given but is presumed to be Ishmael as the following verses mention the birth of Isaac.[67] The Quran also repeatedly establishes Abraham's role as patriarch and mentions numerous important descendants who came through his lineage, including Isaac,[68] Jacob[69] and Ishmael.[70] In the later chapters of the Quran, Abraham's role becomes yet more prominent. The Quran mentions that Abraham and Ishmael were the reformers who set up the Kabba in Mecca as a center of pilgrimage for monotheism[71] The Quran consistently refers to Islam as "the Religion of Abraham" (millat Ibrahim)[72] and Abraham is given a title as Hanif (The Pure, "true in Faith" or "upright man").[73] The Quran also mentions Abraham as one whom God took as a friend (Khalil),[38] hence Abraham's title in Islam, Khalil-Allah (Friend of God). The term is considered by some to be a derivation of the patriarch's Hebrew title, Kal El (קל-אל), which means "voice of God".[74][75] Other instances in the Quran which are described in a concise manner are the rescue of Abraham from the fire into which he was thrown by his people';[76][77] his pleading for his father;[78] his quarrel with an unrighteous and powerful king[79] and the miracle of the dead birds.[31]
+
+--
+
+### Scriptures ###
+
+- 3 texts
+    - Hebrew Bible: history of development
+    - New Testament: Greek to languages of the world
+    - Qur'an
+- God's Word = ?
+- definition of Scripture
+    - regard a text as **cherished** by a religious community
+     - text demanding **devotion**
+     - content is somehow understood to be **transcendent**
+
+--
+
+## The Promise and the Heirs ##
+
+- Abraham & the covenant (offspring)
+- Hagar & Ishmael (1st born)
+- Judaism & Christianity trace heritage to Isaac
+- Islam traces heritage to Ishmael (the 1st born)
+- History of Israel (cont.)
+
+---
+
+
+## Islam 101 ##
+
+### RELG 101 ###
+
+**Spring 2017**
 
 Note:
 [Google Slides](https://docs.google.com/presentation/d/1LPvGVndUzxRetPnWtANmeXDamChQaiAhe3faaVb6Dzs/edit?usp=sharing)
 
-## Presented by WhyIslam
+## Presented by WhyIslam.org ##
 
 ---
 
-## Outline
+## Outline ##
 
 - Introduction
 - Beliefs
@@ -16,13 +62,17 @@ Note:
 
 ---
 
-## Purpose of Life
+## Purpose of Life ##
+
 "And I have not created the jinn and mankind except to worship Me"
- (51:56) <!-- .element: style="float: right; width: 40%" --> ![](http://drive.google.com/uc?id=0B8ezT0-tUjVZRWtJOFBITW8xdGM) <!-- .element: style="width: 40%" -->
+ (51:56) <!-- .element: style="float: right; width: 40%" --> 
+ 
+ ![](http://drive.google.com/uc?id=0B8ezT0-tUjVZRWtJOFBITW8xdGM) <!-- .element: style="width: 40%" -->
+
 ---
 
 
-## What is Islam?
+## What is Islam? ##
 
 | Religion | Islam |
 |-----|-----|
@@ -34,16 +84,16 @@ Note:
 
 ---
 
-## Divine Revelation
+## Divine Revelation ##
 
 - Sunnah (Prophetic Traditions)
 - Sayings, actions or approvals of the Prophet Mohammad (pbuh: *Peace be upon him*)
 
 --
 
-## Basis of Islam
+## Basis of Islam ##
 
-| Qu'ran | Sunnah (Prophetic Traditions)   |
+| Qu'ran | Sunnah (Prophetic Traditions)|
 |---|---|
 | Holy Book | Sayings, actions |
 | Divine Revelation | or approvals of the Prophet Mohammad (pbuh) |
@@ -66,9 +116,11 @@ Note:
 
 --
 
-## Who is a Muslim?
+## Who is a Muslim? ##
 
-"One who submits to God" -- Anyone can become a Muslim -- Common Greetings incl: *Assalamu Alaykum (Peace be with you)* & *Wa Alaykum Assalam (and unto you Peace)* <!-- .element: style="float: right; width: 40%" --> ![](http://drive.google.com/uc?id=0B8ezT0-tUjVZRkg1ZWV4aENvck0) <!-- .element: style="width: 40%" -->
+"One who submits to God" -- Anyone can become a Muslim -- Common Greetings incl: *Assalamu Alaykum (Peace be with you)* & *Wa Alaykum Assalam (and unto you Peace)* <!-- .element: style="float: right; width: 40%" --> 
+
+![](http://drive.google.com/uc?id=0B8ezT0-tUjVZRkg1ZWV4aENvck0) <!-- .element: style="width: 40%" -->
 
 
 
@@ -82,7 +134,7 @@ Include Muslim Greetings
 
 ---
 
-## What do Muslims Believe?
+## What do Muslims Believe? ##
 
 - Allah
 - Angels
@@ -96,7 +148,7 @@ What about Mozlem or Muzlim (speaking point)
 
 --
 
-## Allah
+## Allah ##
 
 - "The ONLY God"
 - Characteristics and Names
@@ -108,13 +160,14 @@ Qur'an 112:1-4
 
 -- 
 
-## Qur'an 2:255
+## Qur'an 2:255 ##
 
 *Allah! There is no god but He,-the Living, the Self-subsisting, Eternal. No slumber can seize Him nor sleep. His are all things in the heavens and on earth. Who is there can intercede in His presence except as He permitteth? He knoweth what (appeareth to His creatures as) before or after or behind them. Nor shall they compass aught of His knowledge except as He willeth. His Throne doth extend over the heavens and the earth, and He feeleth no fatigue in guarding and preserving them for He is the Most High, the Supreme (in glory)*.
 
 --
 
-## Angels
+## Angels ##
+
 "**They do not disobey Allah's commands and they do as they are told to do**."
 (Qur'an 66 verse 6)
 
@@ -125,7 +178,7 @@ Qur'an 112:1-4
 
 --
 
-## Prophets
+## Prophets ##
 
 Chosen by Allah to be His messengers
 
@@ -138,7 +191,8 @@ Mohammad is the final Prophet
 
 --
 
-## Prophet Mohammad (pbuh)
+## Prophet Mohammad (pbuh) ##
+
 - "Al-Amin" (The Truthful)
 - First revelation in Cave Hiraa'
 - Preached Islam in Mecca
@@ -157,7 +211,7 @@ Arabs are Muslims – www.arabicbible.com
 
 --
 
-## Revelations
+## Revelations ##
 
 |  |  |  |
 |---|---|---|
@@ -170,7 +224,8 @@ Arabs are Muslims – www.arabicbible.com
 
 --
 
-## Qur'an 5:46-48
+#### Qur'an 5:46-48 ####
+
 And in their footsteps We sent Jesus the son of Mary, confirming the Law that had come before him: We sent him the Gospel: therein was guidance and light, and confirmation of the Law that had come before him: a guidance and an admonition to those who fear Allah.
 
 Let the people of the Gospel judge by what Allah hath revealed therein. If any do fail to judge by (the light of) what Allah hath revealed, they are (no better than) those who rebel.
@@ -182,7 +237,8 @@ To thee We sent the Scripture in truth, confirming the scripture that came befor
 
 --
 
-## The Holy Qur'an
+## The Holy Qur'an ##
+
 - Literally means "The Recited"
 - Preserved in its exact original form
 - Memorized by over 10 Million
@@ -205,8 +261,11 @@ Don't spend too much time on this slide
 
 --
 
-## Life after Death
-Accountability -- Weight of Good/Bad Deeds --  Day of Judgment (21:47) -- Heaven --  Hell <!-- .element: style="float: right; width: 40%" --> ![](http://drive.google.com/uc?id=0B8ezT0-tUjVZVllqTFlUeHY2Tkk) <!-- .element: style="width: 40%" -->
+## Life after Death ##
+
+Accountability -- Weight of Good/Bad Deeds --  Day of Judgment (21:47) -- Heaven --  Hell <!-- .element: style="float: right; width: 40%" --> 
+
+![](http://drive.google.com/uc?id=0B8ezT0-tUjVZVllqTFlUeHY2Tkk) <!-- .element: style="width: 40%" -->
 
 
 Note:
@@ -215,7 +274,7 @@ Live righteously because we will be accountable for our deeds… vs. other relig
 
 --
 
-## Predestination
+## Predestination ##
 
 - Certain aspects of one's life are predestined
 - Freedom of Choice exists
@@ -227,13 +286,15 @@ Implement somehow the concept of progressive revelation. i.e. use numbering and 
 * Arabic in italics? (more focus on familiar English names + prophets)
 
 --- 
-## Duties of a muslim
+
+## Duties of a muslim ##
+
 - What do muslims do
 - Actions of a muslim
 
 --
 
-## 5 Pillars Islam
+## 5 Pillars Islam ##
 
 |  |  |
 |---|---|
@@ -255,7 +316,7 @@ Preservation of Arabic language
 
 --
 
-## Shahada
+## Shahada ##
 
 **Declaration  of  Faith**
 
@@ -273,8 +334,9 @@ Talk about beliefs vs. actions
 
 --
 
-## Salah 
-### Daily Prayers
+## Salah ##
+
+### Daily Prayers ###
 
 - Muslims pray to God 5 times a day
 - Involves Mind, Body and Spirit
@@ -301,8 +363,9 @@ Explain duaa vs. prayer and non-mandatory prayers
 ---
 
 
-## Zakah 
-### Charity
+## Zakah ##
+
+### Charity ###
 
 - Purifying Wealth
 - Mainly to the Poor and Needy
@@ -318,7 +381,7 @@ Compared to 40% tax in this country
 
 --
 
-### Sawm ###
+## Sawm ##
 
 **Fasting**
 
@@ -344,9 +407,9 @@ Prophets and fasting )i.e David and how it gets you closer to Allah (swT)
 
 --
 
-## Hajj
+## Hajj ##
 
-### Pilgrimage to Makkah
+### Pilgrimage to Makkah ###
 
 - Once in their lifetime, Muslims travel to Makkah to perform the Hajj.
 - The Hajj commemorates the trials of Prophet Abraham and his family.
@@ -370,14 +433,15 @@ Include Malcolm X quote – concise and short
 
 ---
 
-## Islam & Muslim
+## Islam & Muslim ##
 
-ISLAM    =   Religion
-MUSLIM   =   Follower of Islam
+ISLAM =Religion
+MUSLIM=Follower of Islam
 
 ---
 
-## A few Misconceptions
+## A few Misconceptions ##
+
 - Islam and Culture
 - Muslims and Arabs
 - Status of Women
@@ -387,7 +451,8 @@ MUSLIM   =   Follower of Islam
 
 --
 
-## Islam & Culture
+## Islam & Culture ##
+
 - What's the difference?
 - Multiple cultures; Same beliefs
 
@@ -395,7 +460,8 @@ MUSLIM   =   Follower of Islam
 
 ---
 
-## Muslims and Arabs
+## Muslims and Arabs ##
+
 - Muslim Population 1.6 - 1.8 Billion
 - Largest population of Muslims is in Indonesia, India and China
 - Arabs only constitute 15-20% of Muslims
@@ -403,7 +469,8 @@ MUSLIM   =   Follower of Islam
 
 --
 
-## Status of Women
+## Status of Women ##
+
 "Prior to Islam, a woman was regarded by her parents as a threat to family honor and hence worthy of burial alive at infancy. As an adult, she was a sex object that could be bought, sold and inherited. From this position of inferiority and legal incapacity, Islam raised women to a position of influence and prestige in family and society." *Cultural Atlas of Islam*
 
 - Equal vs. Identical
@@ -416,7 +483,8 @@ Video of Hajj: during prayer
 
 --
 
-## Concept of Jihad
+## Concept of Jihad ##
+
 - Different Forms of Jihad
 - Establishment of Justice
 - Rules of Engagement
@@ -433,7 +501,7 @@ Include Audio of the Qur'an – Surat Al Fatiha
 
 -- 
 
-## Jesus (pbuh)
+## Jesus (pbuh) ##
 
 - Status in Islam
 - Miracles
@@ -447,7 +515,8 @@ Pictures of different hijabs (african, arab, etc…)
 
 --
 
-## Shariah
+## Shariah ##
+
 - Society
 - Economics
 - Character of Muslims
@@ -463,7 +532,8 @@ Maybe take out the writing under each section (just keep quran and sunnah – th
 
 -- 
 
-# Recap slide
+## Recap slide ##
+
 - Belief in One God (Allah)
 - Prophet Muhammad was the Final Messenger
 - Qur'an is the Final & Preserved Revelation
@@ -472,8 +542,10 @@ Maybe take out the writing under each section (just keep quran and sunnah – th
 
 ---
 
-## Hadith 
-### Sayings of the Prophet Muhammad
+## Hadith ##
+
+### Sayings of the Prophet Muhammad ###
+
 "The world is green and beautiful, and God has appointed you His stewards over it."
 
 "Seeking knowledge is obligatory upon every Muslim (Male and Female)."
@@ -484,7 +556,8 @@ Maybe take out the writing under each section (just keep quran and sunnah – th
 
 --
 
-## Hadith (cont)
+## Hadith (cont) ##
+
 "The most perfect in faith amongst Muslim men is he who is best in manner and kindest to his wife."
 
 "He who eats his fill while his neighbor goes without food is not a believer."
