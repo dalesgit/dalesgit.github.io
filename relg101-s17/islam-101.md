@@ -20,7 +20,7 @@ There are numerous references to Abraham in the Quran, including, twice, to the 
 - 3 texts
     - Hebrew Bible: history of development
     - New Testament: Greek to languages of the world
-    - Qur'an
+    - Qur'an [a contemporary web based version](http://www.clearquran.com/)
 - God's Word = ?
 - definition of Scripture
     - regard a text as **cherished** by a religious community
