@@ -80,10 +80,8 @@ Note:
 |Deity| Allah (God)|
 |Holy Book| Qur'an|
 |Prophet| Mohammad|
-|Qur'an| Holy Book|
 
----
-
+Note:
 ## Divine Revelation ##
 
 - Sunnah (Prophetic Traditions)
@@ -93,10 +91,10 @@ Note:
 
 ## Basis of Islam ##
 
-| Qu'ran | Sunnah (Prophetic Traditions)|
-|---|---|
+| **Qu'ran** | **Sunnah (Prophetic Traditions)** |
+|-------|-------------------------|
 | Holy Book | Sayings, actions |
-| Divine Revelation | or approvals of the Prophet Mohammad (pbuh) |
+| Divine Revelation | or approvals of the Prophet Mohammad (pbuh): *Peace be upon him* |
 
 
 
