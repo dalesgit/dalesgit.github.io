@@ -1,3 +1,4 @@
+
 ## Children of Abraham
 
 ### Scriptures: preliminary ###
@@ -45,6 +46,9 @@ There are numerous references to Abraham in the Quran, including, twice, to the 
 ### RELG 101 ###
 
 **Spring 2017**
+
+- [Timeline:](https://www.preceden.com/timelines/284990-children-of-abraham)
+- [a PBS web site for 3 religions:](http://www.pbs.org/wgbh/globalconnections/mideast/themes/religion/)
 
 Note:
 [Google Slides](https://docs.google.com/presentation/d/1LPvGVndUzxRetPnWtANmeXDamChQaiAhe3faaVb6Dzs/edit?usp=sharing)
