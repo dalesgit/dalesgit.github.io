@@ -28,7 +28,7 @@
 ## Parabolic Speech in the Hebrew Bible
 
 - Ezekiel 
-- Judges
+- Judges (323)
 - Nathan 
 
 ---
@@ -44,11 +44,11 @@
 
 
 
-- Three uses of the same parable
-- I realized that he was taking Jesus' words literally.
-- Jesus, like other Mediterranean Jews of his day, used the extreme language of hyperbole to grab the attention of his listeners.
-- a number of examples of perplexing question provoking parables
-- How do we know what to take literally and what to take figuratively?
+- Three uses of the same parable (324)
+- "I realized that he was taking Jesus' words literally."
+- Jesus, like other Mediterranean Jews of his day, used the extreme language of hyperbole to **grab the attention of his listeners.**
+- cf. a number of examples of perplexing question provoking parables (326 ff.)
+- **How do we know what to take literally and what to take figuratively?**
 
 
 ---
@@ -56,23 +56,26 @@
 ## History of Parable Interpretation: 
 ### Allegory to Language Event
 
-- history of interpretation of God Samaritan
+- history of interpretation of God Samaritan (329)
 - Demise of Allegorical Interpretation
 - Dodd, Jermias, beyond
-- Jokes and Parable Interpretation
+- Jokes and Parable Interpretation: like humor, **if you have to explain a parable it has lost its power.**
 
+
+---
+## Suggestions for Parable Interpretation and Implementation
+
+- do not allegorize 
+- Some Parables Are Allegories— Most Are Not
+- Some Parables Are Told to Confuse, Not to Clarify
 
 ---
 
 ## Feeling the Impact of Parables
 
 - Getting caught by stories
+- Exercises: (324)
 
----
 
 
-## Suggestions for Parable Interpretation and Implementation
 
-- do not allegorize 
-- Some Parables Are Allegories— Most Are Not
-- Some Parables Are Told to Confuse, Not to Clarify
