@@ -32,14 +32,28 @@ Origins of 3 Faiths
 cf. e.g. PBS notes:[Essenes & the Dead Sea Scrolls](http://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/essenes.html)
 
 
---
+---
+
+### Qumran Community (reconstructed)
+
+<section data-background="http://drive.google.com/uc?id=0B8ezT0-tUjVZbWR5bDhQb1pQN1E" data-background-size="1000px">
+</section>
+
+---
 
 ### Qumran:
 
 - digital texts (see e.g. Isaiah scroll) [Link](http://dss.collections.imj.org.il/)
 - sites: [Maps & timeline](http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites?locale=en_US)
 
---
+---
+
+<section data-background="http://drive.google.com/uc?id=0B8ezT0-tUjVZemlrSkZ2Tk5MNVk" data-background-size="1000px">
+</section>
+
+
+---
+
 
 ### schools of Hillel & Shammai 
 **during formative period**
