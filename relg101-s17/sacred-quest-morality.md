@@ -34,22 +34,22 @@
 
 
 Note:
-In the story, God commands Abraham to sacrifice his son, Isaac, as a way of testing Abraham’s faith.
+In the story, God commands Abraham to sacrifice his son, Isaac, as a way of testing Abraham's faith.
 
 --
 
 ### Soren Kiekegaard
-- Kierkegaard analyzed the story of Abraham as a **paradox between Abraham’s two "loves" -- his son and God**.
-- Abraham was (evidently) willing to sacrifice his son at God’s command, which indicates that his love of God took priority.
+- Kierkegaard analyzed the story of Abraham as a **paradox between Abraham's two "loves" -- his son and God**.
+- Abraham was (evidently) willing to sacrifice his son at God's command, which indicates that his love of God took priority.
 - Thus, Abraham was a true "**knight of faith**."
-- Abraham’s love for God is an example of the **religious point of view taking priority over the moral**.
+- Abraham's love for God is an example of the **religious point of view taking priority over the moral**.
 
 
 --
 
 ### Immanuel Kant
 - Kant takes the opposite position of Kierkegaard.
-- Kant argued that if anyone thinks he or she hears a command like that of Abraham’s, it is **obligatory to ignore or renounce that directive**. 
+- Kant argued that if anyone thinks he or she hears a command like that of Abraham's, it is **obligatory to ignore or renounce that directive**. 
 - Thus, the positions of Kant and Kierkegaard present two sides of the questions about which should take priority, religion or morality, in cases of conflict.
 
 
@@ -101,7 +101,7 @@ The Muslim theologian al-Ash'ari (d. 935 CE) argued that the only sure basis for
 - An appeal to consequences.
 - Examples:
     - If we say that some abortions are justified, we will open the door to many wrongful killings.
-    - If we permit abortion, it will make us less sensitive to the killing of innocents in other areas of action—abortion leads to euthanasia, which leads to doing away with ‘surplus people,’ which leads to the Holocaust.
+    - If we permit abortion, it will make us less sensitive to the killing of innocents in other areas of action—abortion leads to euthanasia, which leads to doing away with 'surplus people,' which leads to the Holocaust.
 
 
 ---
