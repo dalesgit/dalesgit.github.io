@@ -51,7 +51,7 @@ In the story, God commands Abraham to sacrifice his son, Isaac, as a way of test
 - Kant takes the opposite position of Kierkegaard.
 - Kant argued that if anyone thinks he or she hears a command like that of Abraham's, it is **obligatory to ignore or renounce that directive**. 
 - Thus, the positions of Kant and Kierkegaard present two sides of the questions about which should take priority, religion or morality, in cases of conflict.
-
+- [Overview of Categorical Imperative](http://www.csus.edu/indiv/g/gaskilld/ethics/kantian%20ethics.htm)
 
 --
 #### Consider the discussion question from SQ (130)
@@ -66,13 +66,13 @@ The Muslim theologian al-Ash'ari (d. 935 CE) argued that the only sure basis for
     - Is a given course of action right or wrong? 
     - What standards should be used in evaluating particular acts or the persons who engage in them? 
 - The study of ethics focuses on such questions and involves an attempt to develop theories of the nature and foundation of human judgment.
-
+- [Discussion of moral justification for bombing Syria](http://www.cnn.com/2017/04/13/politics/syria-religious-justified/index.html)
 
 --
 
 ### Practical Justification
 - Underlying all of these issues is the problem of practical justification, or the question of reasons for action.
-- Practical justification involves the process of advancing reasons in support of a particular action.
+- Practical justification involves the process of **advancing reasons in support of a particular action**.
 - Religious reasons may or may not be advanced as a part of the practical justification.
 - Consider, for example, the practical justifications that might be advanced on each side of the abortion debate.
 
@@ -109,7 +109,7 @@ The Muslim theologian al-Ash'ari (d. 935 CE) argued that the only sure basis for
 ### Motivations
 - The problem of justification must also deal with motivations.
 - The ideal of many religious traditions is that one should do the right because it is right.
-- Yet many religious traditions promise that there will, at some time in the future, be rewards for good conduct and punishments for wrongdoing.
+- Yet many religious traditions promise that there will, at some time in the future, be **rewards for good conduct and punishments for wrongdoing**.
 - We must therefore ask what the role of appeals to rewards and punishments is in various instances of practical justification.
 
 
@@ -199,15 +199,15 @@ The pacifist scholar Roland Bainton argued in his study of *Christian ATttitudes
 ---
 
 ### Religion and Morality: Patterns
-- In the case of Hinduism and the caste system, there is evidence of religion and morality in tension. 
+- In the case of Hinduism and the caste system, there is evidence of **religion and morality in tension**. 
 - Because the ideal of renunciation indicates the priority of sacred-regarding over other-regarding concerns, religion and morality appear to be in competition.
-- The same tension is evident in the biblical story of Abraham.
+- The same tension is evident in the biblical **story of Abraham**.
 
 
 --
 
 ### Religion and Morality: Patterns
-- In the case of Islam, one finds evidence of religion complementing and filling out morality.
+- In the case of Islam, one finds **evidence of religion complementing and filling out morality**.
 - Ordinary moral concern suggests that war is an act in need of justification.
 - From the standpoint of classical Sunni teaching, religion justified the use of war to extend or defend the borders of the territory of Islam, at the discretion of the leader of the Muslim community, according to the command of God.
 
