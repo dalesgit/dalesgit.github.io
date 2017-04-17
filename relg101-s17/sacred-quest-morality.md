@@ -14,9 +14,14 @@
 --
 
 ### Defining Morality
-- "Religion" refers to ways of thinking that refer to a notion of sacred reality.
-- "Morality" may be taken to refer to ways of thinking, feeling, and acting that address considerations of human welfare. 
-- As some scholars put it, religious considerations lead one to think in "sacred-regarding" terms, moral considerations in "other-regarding" terms.
+
+| Religion | Morality |  
+|---------|------------|
+| "Religion" refers to ways of thinking that refer to a notion of sacred reality. | "Morality" may be taken to refer to ways of thinking, feeling, and acting that address considerations of human welfare. |
+ 
+==================================================
+ 
+As some scholars put it, religious considerations lead one to think in "sacred-regarding" terms, moral considerations in "other-regarding" terms.
 
 
 ---
@@ -51,7 +56,9 @@ In the story, God commands Abraham to sacrifice his son, Isaac, as a way of test
 - Kant takes the opposite position of Kierkegaard.
 - Kant argued that if anyone thinks he or she hears a command like that of Abraham's, it is **obligatory to ignore or renounce that directive**. 
 - Thus, the positions of Kant and Kierkegaard present two sides of the questions about which should take priority, religion or morality, in cases of conflict.
-- [Overview of Categorical Imperative](http://www.csus.edu/indiv/g/gaskilld/ethics/kantian%20ethics.htm)
+- [Overview of Categorical Imperative](http://www.csus.edu/indiv/g/gaskilld/ethics/kantian%20ethics.htm) 1st formulation of which is: "**Act only in such a way that one can at the same time will that it should become a universal law**."
+
+
 
 --
 #### Consider the discussion question from SQ (130)
@@ -77,8 +84,8 @@ The Muslim theologian al-Ash'ari (d. 935 CE) argued that the only sure basis for
 - Consider, for example, the practical justifications that might be advanced on each side of the abortion debate.
 
 
---
 
+Note:
 ### Justification
 - In any given case of action or judgment about the rightness of action, then, it is possible to ask for reasons. 
 - The attempt to provide reasons for actions and judgments involves persons and groups in the process of practical justification. 
@@ -87,22 +94,42 @@ The Muslim theologian al-Ash'ari (d. 935 CE) argued that the only sure basis for
 
 --
 
-### Deontological Approach to Justification
-- An appeal to duty.
-- The issue is one of formal adherence to a given standard of action, regardless of the good or bad consequences that follow.
+### Deontological Approach to Opposing legal and safe abortions
+- An appeal to **duty**.
+- The issue is one of formal adherence to a given standard of action, **regardless of the good or bad consequences** that follow.
 - Examples:
     - Abortion is wrong because it violates the rule "Thou shalt not kill."
     - Abortion is wrong because it violates the command of God.
+--
 
+### On the other hand
+#### Deontological approach to Favoring legal and safe abortions
+
+- a person has an inherent right to control over his/her own body
+- another person does not have a right to make decisions for another over control of his/her own body
+- even as one grants full status as a "human person" to the unborn fetus, the mother also has a full status as a "human person", i.e. "**no one human being may be reduced to the status of a mere instrument in order to serve the needs of another human being**"
+
+Note:
+"A defense of abortion" by Judith Jarvis Thomson
 
 --
 
-### Teleological Approach to Justification
-- An appeal to consequences.
+### Teleological Approach to Opposing legal and safe abortions
+- An appeal to **consequences**.
 - Examples:
     - If we say that some abortions are justified, we will open the door to many wrongful killings.
     - If we permit abortion, it will make us less sensitive to the killing of innocents in other areas of action—abortion leads to euthanasia, which leads to doing away with 'surplus people,' which leads to the Holocaust.
 
+--
+
+### On the other hand
+#### Teleogical issues to Favoring legal and safe abortions
+
+Granting the sanctity of life, the following consequences are not negligible:
+
+- pregnancy resulting from rape
+- pregnancy that threatens the life of the mother
+- an unwanted pregnancy may result in a serious detriment to the child's future well-being
 
 ---
 
