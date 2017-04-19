@@ -130,3 +130,12 @@ mosque sermon:
 - Judaism: symbolic and historical
 - Christianity: cosmic and literal
 - Islam: calendar fixed on the present, exaltation of God and humble submission
+
+---
+
+### Jerusalem the Movie
+
+[Resources](http://www.nationalgeographic.org/education/jerusalem/?ar_a=1)[other resources](http://www.jerusalemthemovie.com/#/?page=education) <!-- .element: style="float: right; width: 40%" -->
+ ![](http://drive.google.com/uc?id=0B8ezT0-tUjVZWERTS21PQ2p0Qk0)<!-- .element: style="width: 40%" -->
+ 
+
