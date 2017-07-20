@@ -1,3 +1,3 @@
 # dalesgit.github.io
-My
-my hosted site
+
+My hosted site.
