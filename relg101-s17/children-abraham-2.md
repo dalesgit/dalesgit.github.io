@@ -86,7 +86,7 @@ Once there was a gentile who came before Shammai, and said to him: "Convert me o
 --
 
 **On Time for Study**
-"Do not say: ‘When I have leisure I shall study,' perhaps you will never have leisure."
+"Do not say: 'When I have leisure I shall study,' perhaps you will never have leisure."
 
 ---
 
