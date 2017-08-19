@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2017-02-13 Mon 15:56 -->
+<!-- 2017-08-18 Fri 17:23 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Religion Classes S-17</title>
+<title>Religion Classes F-17</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Prof. Dale Hathaway" />
 <style type="text/css">
@@ -185,7 +185,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -229,14 +229,36 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Religion Classes S-17</h1>
+<h1 class="title">Religion Classes F-17</h1>
 <div class="org-center">
 <p>
-★ Philosophy and Religion Department
+
 </p>
 
-<hr  />
+<p>
+<b>Philosophy and Religion Department</b>
+</p>
+
+<hr />
+
+<p>
+<b>Fall 2017</b>
+</p>
 </div>
+
+<dl class="org-dl">
+<dt>RELG 313</dt><dd>Introduction to the Hebrew Scriptures.</dd>
+<dt>RELG 101</dt><dd>Introduction to Religious Studies</dd>
+</dl>
+
+
+
+<hr />
+
+
+<div id="outline-container-org065fd30" class="outline-2">
+<h2 id="org065fd30">Links to course pages</h2>
+<div class="outline-text-2" id="text-org065fd30">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -247,31 +269,46 @@ for the JavaScript code in this tag.
 </colgroup>
 <tbody>
 <tr>
-<td class="org-left"><a href="index.html">linking s17-org file</a></td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="101-f17/relg101-1-f17.html">RELG 101-1</a></td>
+<td class="org-left"><a href="101-f17/relg101-2-f17.html">RELG 101-2</a></td>
 </tr>
 
 <tr>
-<td class="org-left"><a href="./relg101-s17/relg101-1-s17-index.html">101-01-s17 pub</a></td>
-<td class="org-left"><a href="./relg101-s17/relg101-2-s17-index.html">101-02-s17 pub</a></td>
-</tr>
-
-<tr>
-<td class="org-left"><a href="./relg220-s17/relg220-s17-index.html">220-s17 pub</a></td>
+<td class="org-left"><a href="313-f17/relg313-f17.html">RELG 313</a></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
 
-<div id="outline-container-org312db34" class="outline-2">
-<h2 id="org312db34">F16 Index file  <a href="./index-f16.html">f16-org file</a></h2>
+
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Past Semesters</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><a href="index-s17.html">s17 file</a></td>
+<td class="org-left"><a href="./index-f16.html">f16 file</a></td>
+</tr>
+</tbody>
+</table>
 </div>
-<div id="outline-container-org141385d" class="outline-2">
-<h2 id="org141385d">Test presentation <a href="test.html">test.html</a></h2>
 </div>
 </div>
 <div id="postamble" class="status">
-    <p class="postamble">Last Updated .</p> 
+Last update : 18 Aug 2017
 </div>
 </body>
 </html>
