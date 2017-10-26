@@ -1,322 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-<!-- 2017-10-26 Thu 13:07 -->
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Prophets in Hebrew Scriptures</title>
-<meta name="generator" content="Org mode" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: visible;
-    padding-top: 1.2em;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
-    padding: 3px;
-    border: 1px solid black;
-  }
-  pre.src:hover:before { display: inline;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
+<!doctype html>
+<html lang="en">
 
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
-  /*]]>*/-->
-</style>
-<script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
+	<head>
+		<meta charset="utf-8">
 
-Copyright (C) 2012-2017 Free Software Foundation, Inc.
+		<title>Prophets in Hebrew Scriptures </title>
 
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+		<meta name="description" content="Made with Reveal.JS, A framework for easily creating beautiful presentations using HTML, by Hakim El Hattab">
+		<meta name="author" content="Shawn Graham">
 
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
-<!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
-</script>
-</head>
+		<link rel="stylesheet" href="../../css/reveal.min.css">
+		<link rel="stylesheet" href="../../css/theme/night.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="../../lib/css/zenburn.css">
+<!-- .slide: style="text-align: left;"> --> 
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = '../../css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
 <body>
-<div id="content">
-<h1 class="title">Prophets in Hebrew Scriptures</h1>
-<div id="outline-container-orgba8864b" class="outline-2">
-<h2 id="orgba8864b">Review Carvalho</h2>
-<div class="outline-text-2" id="text-orgba8864b">
-</div><div id="outline-container-org700c585" class="outline-3">
-<h3 id="org700c585">Background</h3>
-<div class="outline-text-3" id="text-org700c585">
-<ul class="org-ul">
-<li>Up until the time of Solomon, Israel was a united nation. When Solomon died, there was internal strive among the Israelites. The nation then split into 2 kingdoms:</li>
-</ul>
-<ul class="org-ul">
-<li>Northern Kingdom (Israel)</li>
-<li>Southern Kingdom (Judah)</li>
-</ul>
-<ul class="org-ul">
-<li>The Northern Kingdom was invaded and fell to the Assyrians in 721 BCE. Many of the Israelites were DEPORTED to Assyria. This event is called the Deportation.</li>
-<li>The Southern Kingdom was invaded and fell to the Babylonians in 587 BCE. Jerusalem was burned and the Temple was destroyed. Many of the Israelites were EXILED to Babylon and Egypt. This event is called the Exile.</li>
-</ul>
-</div>
-</div>
-<div id="outline-container-org4255a36" class="outline-3">
-<h3 id="org4255a36">Above all</h3>
-<div class="outline-text-3" id="text-org4255a36">
-<ul class="org-ul">
-<li>This is also the Age of the Prophets: Pre-Exilic, Exilic, Post-Exilic.</li>
-<li>In the 5th century BCE, the Jewish people are freed from exile.</li>
-<li>The fate of Israel was always linked to the fortunes of its neighboring superpowers.</li>
-</ul>
-</div>
-</div>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Prophets in Hebrew Scriptures</h2>
+<h3></h3>
+<p><a href="mailto:hathawayd@winthrop.edu">hathawayd@winthrop.edu</a></p>
+<p>Oct. 24, 2017</p>
+<p>Winthrop University</p>
+</section>
+<section>
+<section id="slide-org6326a3c">
+<h2 id="org6326a3c">Review Carvalho</h2>
+<div class="outline-text-2" id="text-org6326a3c">
+</div></section>
+<section id="slide-org0eb92a8">
+<h3 id="org0eb92a8">Background</h3>
+<ul>
+<li class="fragment appear">Up until the time of Solomon, Israel was a united nation. When Solomon died, there was internal strive among the Israelites. The nation then split into 2 kingdoms:</li>
 
-<div id="outline-container-orgba1550f" class="outline-3">
-<h3 id="orgba1550f">Israel's view of prophets</h3>
-<div class="outline-text-3" id="text-orgba1550f">
-<ul class="org-ul">
-<li>Prophetic activity was a social phenomenon</li>
-<li>Israel had hundreds of prophets</li>
-<li>there were many different kinds of prophets</li>
-<li>Prophets did more than speak</li>
-<li>Other cultures also had prophets</li>
-<li>There were both male and female prophets</li>
-<li>Some prophets performed miracles</li>
 </ul>
-</div>
-</div>
-<div id="outline-container-org6eaf779" class="outline-3">
-<h3 id="org6eaf779">Prophets spoke to a nation</h3>
-<div class="outline-text-3" id="text-org6eaf779">
-<ul class="org-ul">
-<li><b>prophets spoke to their own community about issues facing them in their own day</b></li>
-<li>They were the most able to critique the king</li>
-<li>sometimes they were the voice of the poor and oppressed</li>
-<li>surviving oracles (elements that look to the future) were about issues facing the nation as a whole</li>
+<ul>
+<li class="fragment appear">Northern Kingdom (Israel)</li>
+<li class="fragment appear">Southern Kingdom (Judah)</li>
+
 </ul>
-</div>
-</div>
-<div id="outline-container-orga3d2426" class="outline-3">
-<h3 id="orga3d2426">THE PROPHETIC PERSONA</h3>
-<div class="outline-text-3" id="text-orga3d2426">
-<ul class="org-ul">
+<ul>
+<li class="fragment appear">The Northern Kingdom was invaded and fell to the Assyrians in 721 BCE. Many of the Israelites were DEPORTED to Assyria. This event is called the Deportation.</li>
+<li class="fragment appear">The Southern Kingdom was invaded and fell to the Babylonians in 587 BCE. Jerusalem was burned and the Temple was destroyed. Many of the Israelites were EXILED to Babylon and Egypt. This event is called the Exile.</li>
+
+</ul>
+</section>
+<section id="slide-orgbc08103">
+<h3 id="orgbc08103">Above all</h3>
+<ul>
+<li class="fragment appear">This is also the Age of the Prophets: Pre-Exilic, Exilic, Post-Exilic.</li>
+<li class="fragment appear">In the 5th century BCE, the Jewish people are freed from exile.</li>
+<li class="fragment appear">The fate of Israel was always linked to the fortunes of its neighboring superpowers.</li>
+
+</ul>
+
+</section>
+<section id="slide-org125baa8">
+<h3 id="org125baa8">Israel's view of prophets</h3>
+<ul>
+<li class="fragment appear">Prophetic activity was a social phenomenon</li>
+<li class="fragment appear">Israel had hundreds of prophets</li>
+<li class="fragment appear">there were many different kinds of prophets</li>
+<li class="fragment appear">Prophets did more than speak</li>
+<li class="fragment appear">Other cultures also had prophets</li>
+<li class="fragment appear">There were both male and female prophets</li>
+<li class="fragment appear">Some prophets performed miracles</li>
+
+</ul>
+</section>
+<section id="slide-org4b551d3">
+<h3 id="org4b551d3">Prophets spoke to a nation</h3>
+<ul>
+<li class="fragment appear"><b>prophets spoke to their own community about issues facing them in their own day</b></li>
+<li class="fragment appear">They were the most able to critique the king</li>
+<li class="fragment appear">sometimes they were the voice of the poor and oppressed</li>
+<li class="fragment appear">surviving oracles (elements that look to the future) were about issues facing the nation as a whole</li>
+
+</ul>
+</section>
+<section id="slide-orgad4340e">
+<h3 id="orgad4340e">THE PROPHETIC PERSONA</h3>
+<ul>
 <li>The prophets are ordinary humans beings.</li>
 <li>The prophets are poets, storytellers, preachers madly in love with God, and madly in love with God's people.</li>
 <li>Because of their great love for God and all creation, they are willing—however reluctant—to proclaim an unpopular yet steadfast love.</li>
 <li>They are the keepers of the covenant and the guardians of mispat, sedeqa, and hesed—justice, righteousness, and lovingkindness.</li>
 <li>Their message is time bound yet timeless.</li>
+
 </ul>
-<ul class="org-ul">
+</section>
+<section >
+<ul>
 <li>They take us to where it hurts—to the streets, to the poor, to the oppressed, to those who have suffered injustices and unjust bloodshed, to those who have been silenced, to those who have not been heard, to those who suffer abuse, to those who have been out to death without cause or reason, to the homeless, to the landless, to the hungry, to the spurned, to those rejected, the down-hearted, to the beaten-down.</li>
 <li>What others close their eyes to or accepted as part of the system sends the prophets REELING.</li>
+
 </ul>
-<ul class="org-ul">
+</section>
+<section >
+<ul>
 <li>Every little injustice shakes them.</li>
 <li>Injustices keep them awake at night.</li>
 <li>They feel deeply about everything.</li>
 <li>They are men and women of tremendous passion; they are passionate people.</li>
 <li>They are never indifferent; they are never on the fence.</li>
 <li>They challenge frequently that which the majority holds as sacred; they challenge institutions, systems, structures, mindsets.</li>
+
 </ul>
-<ul class="org-ul">
+</section>
+<section >
+<ul>
 <li>Their reward is not much; often their message is rejected.</li>
 <li>Their mission is often repugnant to them and repugnant to others.</li>
 <li>They are primarily concerned with the moment and the contemporary scene; they are very in tune with the world around them.</li>
 <li>The one thing that holds them together is their relationship with God—their communion with God—because oftentimes there is nothing else.</li>
+
 </ul>
-<ul class="org-ul">
+</section>
+<section >
+<ul>
 <li>The whole person of the prophet is involved in the prophetic word proclaimed-mind, heart, spirit, intuition, imagination, all the internal intellectual faculties the prophets were concerned primarily with history, and the course that history was taking.</li>
 <li>The prophet is intent on intensifying responsibility, is impatient with excuses, and is not interested in pretense or one's self-pity.</li>
 <li>The prophet's mouth is a sharp sword, a "polished arrow" taken out of the quiver of God (Isa 49:2).</li>
+
 </ul>
-<ul class="org-ul">
+</section>
+<section >
+<ul>
 <li>The prophet's ear perceives the silent sigh.</li>
 <li>The prophet has a vision, and has a vision of the end.</li>
 <li>The prophet's words begin to burn where conscience has waned.</li>
@@ -324,38 +155,44 @@ for the JavaScript code in this tag.
 <li>The prophet is called to be faithful, not successful.</li>
 <li>The prophet's word is a scream in the night while the world is asleep and at ease.</li>
 <li>The prophet is often a lonely person because of the task he/she has been given which sometimes separates one from one's life-supports, ie, family, community, friends.</li>
+
 </ul>
-<ul class="org-ul">
+</section>
+<section >
+<ul>
 <li>The focal point of the prophet's thought is God. and the world is seen as reflected in God.</li>
 <li>The prophet is sent not only to upbraid but also to comfort, to make strong feeble knees and weak hands.</li>
 <li>At the heart of the prophetic message is hope.</li>
 <li>The prophets remind us of the moral state of a people—while a few may be guilty, all are responsible either by participating in injustice or by condoning injustice by choosing to ignore it, or by one's general silence or malaise.</li>
 <li>The prophet is overwhelmed by the Divine Presence that becomes an incessant demand.</li>
+
 </ul>
-<ul class="org-ul">
+</section>
+<section >
+<ul>
 <li>The true greatness of the prophet is to be able to hold God and humankind in a single thought.</li>
 <li>The measure of the prophet's greatness is his/her universality.</li>
 <li>The prophet stands in the presence of God (Jer 15:19), "in the council of the Lord" (Jer 23:18)</li>
 <li>The prophet reveals who God is and the ways of God.</li>
 <li>Within the prophet's heart is an intense love, and an intense compassion.</li>
 <li>They are men and women of tremendous passion; they are passionate people.</li>
+
 </ul>
-</div>
-</div>
 
 
-<div id="outline-container-org10dfe0f" class="outline-3">
-<h3 id="org10dfe0f">THE VOCATION OF THE PROPHET</h3>
-<div class="outline-text-3" id="text-org10dfe0f">
+</section>
+<section id="slide-org3defbab">
+<h3 id="org3defbab">THE VOCATION OF THE PROPHET</h3>
 <p>
 Prophecy and the office of the prophet is a vocation that calls the prophet to faithfulness/fidelity:
 </p>
-<ul class="org-ul">
-<li>faithful to God</li>
-<li>faithful to him/herself</li>
-<li>faithful to the vocation</li>
-<li>faithful to the task to be done</li>
-<li>faithful to the mission</li>
+<ul>
+<li class="fragment appear">faithful to God</li>
+<li class="fragment appear">faithful to him/herself</li>
+<li class="fragment appear">faithful to the vocation</li>
+<li class="fragment appear">faithful to the task to be done</li>
+<li class="fragment appear">faithful to the mission</li>
+
 </ul>
 
 <p>
@@ -365,84 +202,80 @@ The prophet is called not to be successful but to be faithful
 <p>
 <i>See 1 Sam 3:1-21; Jer 1:4-10; Isa 6:1-9; Isa 49:1-7</i>
 </p>
-</div>
-</div>
 
-<div id="outline-container-org466180b" class="outline-3">
-<h3 id="org466180b">prophecy, revelation, mystical tradition p. 253</h3>
-<div class="outline-text-3" id="text-org466180b">
-<ul class="org-ul">
-<li>when prophecy end?</li>
-<li>for Judaism Malachi is end of prophets, not Daniel</li>
-<li>establishing canon</li>
-<li>Christianity open to continuation of prophecy</li>
-<li>Christianity arose in the midst of a resurgence of "prophecy" with the result that different Christian groups today are open in different ways to prophetic actions</li>
-<li>false prophecy p. 251</li>
+</section>
+<section id="slide-orgf5df581">
+<h3 id="orgf5df581">prophecy, revelation, mystical tradition p. 253</h3>
+<ul>
+<li class="fragment appear">when prophecy end?</li>
+<li class="fragment appear">for Judaism Malachi is end of prophets, not Daniel</li>
+<li class="fragment appear">establishing canon</li>
+<li class="fragment appear">Christianity open to continuation of prophecy</li>
+<li class="fragment appear">Christianity arose in the midst of a resurgence of "prophecy" with the result that different Christian groups today are open in different ways to prophetic actions</li>
+<li class="fragment appear">false prophecy p. 251</li>
+
 </ul>
-</div>
-</div>
-<div id="outline-container-org90c4738" class="outline-3">
-<h3 id="org90c4738">excerpt Book of Enoch?</h3>
-<div class="outline-text-3" id="text-org90c4738">
-<ul class="org-ul">
+</section>
+<section id="slide-org432150e">
+<h3 id="org432150e">excerpt Book of Enoch?</h3>
+<ul>
 <li><a href="http://www.sacred-texts.com/bib/boe/">http://www.sacred-texts.com/bib/boe/</a></li>
 <li>The Book of Enoch, written during the second century B.C.E., is one of the most important non-canonical apocryphal works, and probably had a huge influence on early Christian, particularly Gnostic, beliefs. Filled with hallucinatory visions of heaven and hell, angels and devils, Enoch introduced concepts such as fallen angels, the appearance of a Messiah, Resurrection, a Final Judgement, and a Heavenly Kingdom on Earth. Interspersed with this material are quasi-scientific digressions on calendrical systems, geography, cosmology, astronomy, and meteorology.</li>
-</ul>
-</div>
-</div>
-</div>
 
-<div id="outline-container-org639ed29" class="outline-2">
-<h2 id="org639ed29">Carvalho's method for prophets</h2>
-<div class="outline-text-2" id="text-org639ed29">
-</div><div id="outline-container-org507d2c0" class="outline-3">
-<h3 id="org507d2c0">Method</h3>
-<div class="outline-text-3" id="text-org507d2c0">
-<ol class="org-ol">
-<li>Provide background information</li>
-<li>suggest passages to focus on</li>
-<li>practice reading the oracles</li>
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org0e06aa9">
+<h2 id="org0e06aa9">Carvalho's method for prophets</h2>
+<div class="outline-text-2" id="text-org0e06aa9">
+</div></section>
+<section id="slide-org33c4d68">
+<h3 id="org33c4d68">Method</h3>
+<ol>
+<li class="fragment appear">Provide background information</li>
+<li class="fragment appear">suggest passages to focus on</li>
+<li class="fragment appear">practice reading the oracles</li>
+
 </ol>
-</div>
-</div>
-<div id="outline-container-orgf7b96c7" class="outline-3">
-<h3 id="orgf7b96c7">Oracles (common forms)</h3>
-<div class="outline-text-3" id="text-orgf7b96c7">
-<ol class="org-ol">
-<li>Messenger formula</li>
-<li>vision report</li>
-<li>symbolic act</li>
-<li>woe oracle</li>
-<li>call narrative</li>
-<li>oracles against foreign nations</li>
+</section>
+<section id="slide-orgf25dc77">
+<h3 id="orgf25dc77">Oracles (common forms)</h3>
+<ol>
+<li class="fragment appear">Messenger formula</li>
+<li class="fragment appear">vision report</li>
+<li class="fragment appear">symbolic act</li>
+<li class="fragment appear">woe oracle</li>
+<li class="fragment appear">call narrative</li>
+<li class="fragment appear">oracles against foreign nations</li>
+
 </ol>
-</div>
-</div>
-<div id="outline-container-org1292e3d" class="outline-3">
-<h3 id="org1292e3d">Unraveling an oracle</h3>
-<div class="outline-text-3" id="text-org1292e3d">
-<ol class="org-ol">
-<li>oracle of doom or of salvation</li>
-<li>identify form</li>
-<li>Who is being condemned (saved)?</li>
-<li>Why?</li>
-<li>Form of punishment (deliverance)?</li>
-<li>Does it apply to all or a remnant?</li>
-<li>Pay attention to the view of God. Warrior? Judge? &#x2026;?</li>
+</section>
+<section id="slide-org3df4c0a">
+<h3 id="org3df4c0a">Unraveling an oracle</h3>
+<ol>
+<li class="fragment appear">oracle of doom or of salvation</li>
+<li class="fragment appear">identify form</li>
+<li class="fragment appear">Who is being condemned (saved)?</li>
+<li class="fragment appear">Why?</li>
+<li class="fragment appear">Form of punishment (deliverance)?</li>
+<li class="fragment appear">Does it apply to all or a remnant?</li>
+<li class="fragment appear">Pay attention to the view of God. Warrior? Judge? &#x2026;?</li>
+
 </ol>
-</div>
-</div>
-</div>
-<div id="outline-container-org269455f" class="outline-2">
-<h2 id="org269455f">Prophecy at work in the present (Kevin)</h2>
-<div class="outline-text-2" id="text-org269455f">
+</section>
+</section>
+<section>
+<section id="slide-orgdedc46f">
+<h2 id="orgdedc46f">Prophecy at work in the present (Kevin)</h2>
 <p>
 Kevin Heider singing “On the Dark Side”
 </p>
 
-<ul class="org-ul">
+<ul>
 <li>lyrics: <a href="http://kevinheider.com/lyrics-the-spark/">http://kevinheider.com/lyrics-the-spark/</a>  <a href="https://kevinheider.bandcamp.com/track/the-dark-side">https://kevinheider.bandcamp.com/track/the-dark-side</a>
-<ul class="org-ul">
+<ul>
 <li>things are not what they seem</li>
 <li>journey in search of riches and wealth (heaven)</li>
 <li>only to find hell (death)</li>
@@ -451,23 +284,61 @@ Kevin Heider singing “On the Dark Side”
 <li>enslaving the innocent</li>
 <li>we're not Abraham, honoring God, we're digging holes to bury (hide) our dead</li>
 <li>credit is a cancer here &#x2026;; injustice wealthy vs. poor</li>
+
 </ul></li>
 <li>song: <a href="https://youtu.be/bvf4yJ6FLjc">https://youtu.be/bvf4yJ6FLjc</a></li>
+
 </ul>
 <p>
 <a href="https://youtu.be/bvf4yJ6FLjc">https://youtu.be/bvf4yJ6FLjc</a>
 </p>
-<ul class="org-ul">
+<ul>
 <li>ends with quote <b>Amos 2:1</b>
-<ul class="org-ul">
+<ul>
 <li>judgment for unrelenting hatred and violence for one’s conquered foe</li>
+
 </ul></li>
+
 </ul>
+</section>
+</section>
 </div>
 </div>
-</div>
-<div id="postamble" class="status">
-Last update : 26 Oct 2017
-</div>
-</body>
+<p> Created by Dale Hathaway. </p>
+	<!-- below 2 </div> > -->
+		<script src="../../lib/js/head.min.js"></script>
+		<script src="../../js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+			//parallaxBackgroundImage: 'https://farm5.staticflickr.com/4066/4687041921_d5a5e5da73_o.jpg',
+			parallaxBackgroundImage: 'http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg',
+				parallaxBackgroundSize: '2591px 2592px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: '../../lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '../../plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../../plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '../../plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
 </html>
