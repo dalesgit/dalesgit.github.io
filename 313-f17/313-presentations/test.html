@@ -1,387 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-<!-- 2017-11-09 Thu 13:02 -->
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Tent of Abraham</title>
-<meta name="generator" content="Org mode" />
-<meta name="author" content="Dale Hathaway" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: visible;
-    padding-top: 1.2em;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
-    padding: 3px;
-    border: 1px solid black;
-  }
-  pre.src:hover:before { display: inline;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
+<!doctype html>
+<html lang="en">
 
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
-  /*]]>*/-->
-</style>
-<script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
+	<head>
+		<meta charset="utf-8">
 
-Copyright (C) 2012-2017 Free Software Foundation, Inc.
+		<title>Prof. Dale Hathaway: Relg 101 - 01/02 </title>
 
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+		<meta name="description" content="Made with Reveal.JS, A framework for easily creating beautiful presentations using HTML, by Hakim El Hattab">
+		<meta name="author" content="Shawn Graham">
 
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
-<!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
-</script>
-</head>
+		<link rel="stylesheet" href="../../css/reveal.min.css">
+		<link rel="stylesheet" href="../../css/theme/night.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="../../lib/css/zenburn.css">
+<!-- .slide: style="text-align: left;"> --> 
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = '../../css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
 <body>
-<div id="content">
-<h1 class="title">Tent of Abraham</h1>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Jewish Midrash on the Story</h2>
+<h3>Dale Hathaway</h3>
+<p><a href="mailto:hathawayd@winthrop.edu">hathawayd@winthrop.edu</a></p>
+<p>Nov. 12, 2017</p>
+<p>Winthrop University</p>
+</section>
 
-<div id="outline-container-org01aaa6d" class="outline-2">
-<h2 id="org01aaa6d">Tent of Abraham</h2>
-<div class="outline-text-2" id="text-org01aaa6d">
-</div><div id="outline-container-org2dab9cf" class="outline-3">
-<h3 id="org2dab9cf">Scripture: SQ p. 63-64</h3>
-<div class="outline-text-3" id="text-org2dab9cf">
-<p>
-<b>Quran links</b>
-</p>
 
-<ul class="org-ul">
-<li><a href="http://www.clearquran.com/">http://www.clearquran.com/</a> a web based trans</li>
-<li><a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjw_NGRrfzSAhVRziYKHfv_Be0QFggcMAA&amp;url=https://www.clearquran.com/downloads/quran-english-translation-clearquran-edition-allah.pdf&amp;usg=AFQjCNEq54YL2lh6H3NQU85HzCJ2j2hSDg&amp;sig2=MGu6VGWoDKIjh_sAO2jPUg&amp;cad=rja">pdf version</a></li>
+<section>
+<section id="slide-orga2c3389">
+<h2 id="orga2c3389">Midrash</h2>
+<ul>
+<li class="fragment appear">29-31 &#x2013; A note on the Jewish Tales &amp; Commentaries</li>
+<li class="fragment appear">32-34 &#x2013; When Abraham sees God</li>
+<li class="fragment appear">35-40 &#x2013; The Cloudy Mirror</li>
+<li class="fragment appear">41-44 &#x2013; Call me Ishmael</li>
+<li class="fragment appear">45-51 &#x2013; In Gaza, Where was Isaac’s angel?</li>
+<li class="fragment appear">52-60 &#x2013; The tomb and the well</li>
+<li class="fragment appear">61-67 &#x2013; Banishment and offering: the goats of Yom Kippur</li>
+<li class="fragment appear">68-73 &#x2013; A blessing to the families of the earth?</li>
+<li class="fragment appear">74-78 &#x2013; When Messiah builds a temple</li>
+
 </ul>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Dale Hathaway. </p>
+	<!-- below 2 </div> > -->
+		<script src="../../lib/js/head.min.js"></script>
+		<script src="../../js/reveal.min.js"></script>
 
-<div class="NOTES">
-<ul class="org-ul">
-<li>in gdrive: <a href="https://drive.google.com/file/d/0B8ezT0-tUjVZRjYxOEJQSWxYY2s/view?usp=sharing">https://drive.google.com/file/d/0B8ezT0-tUjVZRjYxOEJQSWxYY2s/view?usp=sharing</a></li>
-</ul>
+		<script>
 
-</div>
-</div>
-</div>
-</div>
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
 
-<div id="outline-container-org447289b" class="outline-2">
-<h2 id="org447289b">Abraham</h2>
-<div class="outline-text-2" id="text-org447289b">
-</div><div id="outline-container-orgcdb434e" class="outline-3">
-<h3 id="orgcdb434e">Story 1</h3>
-<div class="outline-text-3" id="text-orgcdb434e">
-<ul class="org-ul">
-<li>Bible &amp; midrash</li>
-<li>Opening <b>Genesis</b></li>
-<li>sent on a Journey: from <b>Ur</b> to ultimately <b>Canaan</b></li>
-<li>by way of <b>Haran</b></li>
-<li><b>YHWH</b>: "One  bringing <b>being</b> into being"</li>
-</ul>
-</div>
-</div>
-<div id="outline-container-org9a7f4a8" class="outline-3">
-<h3 id="org9a7f4a8"></h3>
-<div class="outline-text-3" id="text-org9a7f4a8">
-<ul class="org-ul">
-<li>altars to <b>YHWH</b></li>
-<li><b>covenant</b></li>
-<li>no offspring with Sarai, so Hagar</li>
-<li><b>Ishmael</b> i.e. "God hears"</li>
-</ul>
-</div>
-</div>
-<div id="outline-container-orge535718" class="outline-3">
-<h3 id="orge535718"></h3>
-<div class="outline-text-3" id="text-orge535718">
-<ul class="org-ul">
-<li>circumcision as a sign of covenant</li>
-<li>3 travelers (angels:messengers)</li>
-<li>bargaining over Sodom</li>
-<li>Sarah bore <b>Isaac</b> "with laughter"</li>
-<li>brothers struggle
-<ul class="org-ul">
-<li><a href="https://play.google.com/music/listen#/sr/kevin+heider+brothers">Heider on "Brothers"</a></li>
-</ul></li>
-</ul>
-</div>
-</div>
-<div id="outline-container-orgc94e6ab" class="outline-3">
-<h3 id="orgc94e6ab"></h3>
-<div class="outline-text-3" id="text-orgc94e6ab">
-<ul class="org-ul">
-<li>Abraham sends Hagar &amp; Ishmael into wilderness</li>
-<li>wells and water in the desert</li>
-<li>Isaac bound &#x2013; to the altar</li>
-<li>burial of Sarah, wife for Isaac</li>
-<li>Keturah: wife of old age (or Hagar?)</li>
-</ul>
-</div>
-</div>
-</div>
-<div id="outline-container-orgeb0da5a" class="outline-2">
-<h2 id="orgeb0da5a">The Story in Islam</h2>
-<div class="outline-text-2" id="text-orgeb0da5a">
-</div><div id="outline-container-org7510153" class="outline-3">
-<h3 id="org7510153">Narrative is scattered</h3>
-<div class="outline-text-3" id="text-org7510153">
-<ul class="org-ul">
-<li>Quran, (early) suras, "cosmic hymns and wisdom literature"</li>
-<li><b>hadith</b>: expansions, commentary, on Quran</li>
-</ul>
-</div>
-</div>
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
 
-<div id="outline-container-org1dd9843" class="outline-3">
-<h3 id="org1dd9843"></h3>
-<div class="outline-text-3" id="text-org1dd9843">
-<ul class="org-ul">
-<li>legends provide narrative framework</li>
-<li>Abraham a bulwark against <b>idolatry</b></li>
-<li>(p.21) an encounter with a tyrant</li>
-<li>Abraham and visits with his <b>first born</b> Ishmael</li>
-<li><b>shekhinah</b> "divine presence" indicate the spot for a shrine &#x2013; the <b>Kaaba</b></li>
-<li>the "sacrifice" of son is unnamed in Quran</li>
-</ul>
-</div>
-</div>
-<div id="outline-container-orgbb97e08" class="outline-3">
-<h3 id="orgbb97e08">Interfaith Amigos</h3>
-<div class="outline-text-3" id="text-orgbb97e08">
-<p>
-The invitation &amp; the challenge of "interfaith dialogue"
-</p>
+				// Parallax scrolling
+			//parallaxBackgroundImage: 'https://farm5.staticflickr.com/4066/4687041921_d5a5e5da73_o.jpg',
+			parallaxBackgroundImage: 'http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg',
+				parallaxBackgroundSize: '2591px 2592px',
 
-<p>
-<a href="http://www.interfaithamigos.com/Home.html">http://www.interfaithamigos.com/Home.html</a>
-</p>
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: '../../lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '../../plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../../plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '../../plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
 
-<p>
-<a href="https://youtu.be/soC_MSUo5Qo">https://youtu.be/soC_MSUo5Qo</a>
-</p>
-</div>
-</div>
-</div>
+		</script>
 
-<div id="outline-container-org30bb804" class="outline-2">
-<h2 id="org30bb804">Overview</h2>
-<div class="outline-text-2" id="text-org30bb804">
-</div><div id="outline-container-org73b6d80" class="outline-3">
-<h3 id="org73b6d80">Timeline of 3 Religions of Abraham</h3>
-<div class="outline-text-3" id="text-org73b6d80">
-<p>
-<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hQWnCTFQkE2LiwSr1kH9O81AeBiKGcVC4xhShc59KwQ&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">Outline History</a>
-</p>
-</div>
-</div>
-
-
-<div id="outline-container-org68d44f8" class="outline-3">
-<h3 id="org68d44f8">Islam 101</h3>
-<div class="outline-text-3" id="text-org68d44f8">
-<p>
-<a href="https://docs.google.com/presentation/d/1LPvGVndUzxRetPnWtANmeXDamChQaiAhe3faaVb6Dzs/edit?usp=sharing">courtesy of WhyIslam.org</a>
-</p>
-
-<p>
-<a href="http://www.religionfacts.com/charts/christianity-islam-judaism">A chart with links</a>
-</p>
-</div>
-</div>
-</div>
-</div>
-<div id="postamble" class="status">
-Last update : 09 Nov 2017
-</div>
-</body>
+	</body>
 </html>
