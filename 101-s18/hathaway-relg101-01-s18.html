@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-02-06 Tue 13:26 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>RELG 101 - 001</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Prof. Dale C. Hathaway, Instructor" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">RELG 101 - 001</h1>
+<div id="outline-container-org3e7d9c3" class="outline-2">
+<h2 id="org3e7d9c3">Preface</h2>
+<div class="outline-text-2" id="text-org3e7d9c3">
+<div class="org-center">
+<p>
+Winthrop University<br />
+Introduction to Religious Studies<br />
+Syllabus: Spring 2018
+</p>
+</div>
+
+<hr />
+
+<p class="verse">
+Prof. Dale Hathaway<br />
+CRN: 20837 - RELG 101 - 001<br />
+9:30 am - 10:45 am - MW<br />
+Classroom: Kinard 302<br />
+Winthrop University<br />
+<br />
+Office: Kinard 326<br />
+Phone: 803-323-3015<br />
+email: hathawayd@winthrop.edu<br />
+Office Hours: MW 3:30-4:30 PM &#x2013; T 1:00 PM - 2:00 PM<br />
+Final Exam:  April 30 &#x2013; 11:30 a.m. Monday<br />
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Instructor Web site:</td>
+<td class="org-left"><a href="http:%5C%5Chathashoe-weebly.com">http:\\hathashoe-weebly.com</a></td>
+</tr>
+
+<tr>
+<td class="org-left">Class Web site:</td>
+<td class="org-left"><a href="https://dalesgit.github.io/101-s18/relg101-1-s18.html">https://dalesgit.github.io/101-s18/relg101-1-s18.html</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+</div>
+
+<div id="outline-container-orgfd4f902" class="outline-2">
+<h2 id="orgfd4f902">Course Description</h2>
+<div class="outline-text-2" id="text-orgfd4f902">
+<p>
+<i>The following syllabus is subject to change. Any modifications will be communicated clearly to the students and posted on  <b>Blackboard</b> and on the instructor's web page</i>.
+</p>
+</div>
+<div id="outline-container-orgf4a8411" class="outline-3">
+<h3 id="orgf4a8411">Overview</h3>
+<div class="outline-text-3" id="text-orgf4a8411">
+<dl class="org-dl">
+<dt>Description</dt><dd>The course provides an examination of the varying concepts of religion and the methods used in studying religious behavior and belief. It  provides an introduction to the <b>religious dimension of human existence*</b>, and it  examines various <b>concepts of religion and the methods used in studying religious behavior and belief*</b>. Through a series of selected readings, the class will reflect on and discuss key elements of the academic study of religion. Discussion and various group activities will highlight experiences that point toward the <b>sacred in the world</b> we live in.</dd>
+</dl>
+
+<p>
+From lectures and a synthesis of reading reflections, activities and discussions, the class will highlight some of the major questions in the scholarly study of religion. 
+</p>
+<ul class="org-ul">
+<li>What is religion?</li>
+<li>How does or should religion relate to morality?</li>
+<li>What is the relation between religion and culture?</li>
+</ul>
+
+<p>
+The readings will illustrate that there are a wide variety of ways to approach the study of religion. Through discussion and guided exercises we will reflect critically on our own religious tradition in comparison to other traditions. We will identify some of the ways in which different religious traditions impact the world we live in. Particular attention is paid to the relationship between the three "religions of the Book", <b>Judaism, Christianity, and Islam</b>.
+</p>
+</div>
+</div>
+<div id="outline-container-org2323459" class="outline-3">
+<h3 id="org2323459">Student Learning Outcomes in RELG 101</h3>
+<div class="outline-text-3" id="text-org2323459">
+<p>
+The successful student of RELG 101 will:
+</p>
+
+<dl class="org-dl">
+<dt>Recognize</dt><dd>main ideas that characterize all religious thought and practice</dd>
+<dt>Identify theoretical issues</dt><dd>surrounding the study of religion</dd>
+<dt>Identify different methodologies</dt><dd>for the study of religion</dd>
+<dt>Recognize fundamental topics of religion</dt><dd>ritual, sacred communication, morality, and theodicy and the nature of evil</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-org171a2ba" class="outline-3">
+<h3 id="org171a2ba">University-Level Competencies (ULC’s) that apply in this course are:</h3>
+<div class="outline-text-3" id="text-org171a2ba">
+<p>
+RELG 101 helps students make progress toward the following University Level Competencies.
+</p>
+</div>
+
+<ul class="org-ul">
+<li><a id="org0e3e779"></a>COMPETENCY 1<br />
+<div class="outline-text-4" id="text-org0e3e779">
+<p>
+    <b>Winthrop graduates think critically and solve problems.</b>
+Winthrop University graduates reason logically, evaluate and use evidence, and solve problems. They seek out and assess relevant information from multiple viewpoints to form well-reasoned conclusions. Winthrop graduates consider the full context and consequences of their decisions and continually reexamine their own critical thinking process, including the strengths and weaknesses of their arguments.
+</p>
+
+<p>
+<i>Students are required to use the critical tools of sociological, anthropological, historical, and hermeneutical disciplines to analyze and interpret various religious systems of belief and practice.  The course requires discussion participation, writing assignments, tests, and a presentation to assess students’ progress in this ULC.</i>
+</p>
+</div>
+</li>
+
+<li><a id="org451a81d"></a>COMPETENCY 2<br />
+<div class="outline-text-4" id="text-org451a81d">
+<p>
+<b>Winthrop graduates are personally and socially responsible.</b>
+Winthrop University graduates value integrity, perceive moral dimensions, and achieve excellence. They take seriously the perspectives of others, practice ethical reasoning, and reflect on experiences. Winthrop graduates have a sense of responsibility to the broader community and contribute to the greater good.
+</p>
+
+<p>
+<i>As students wrestle with the way in which religion is related to ethics, morality and social justice through class lectures, discussions and journals, the students will reflect on their own approach to personal and social responsibility</i>
+</p>
+</div>
+</li>
+
+<li><a id="org27f3d75"></a>COMPETENCY 3<br />
+<div class="outline-text-4" id="text-org27f3d75">
+<p>
+<b>Winthrop graduates understand the interconnected nature of the world and the time in which they live.</b>
+Winthrop University graduates comprehend the historical, social, and global contexts of their disciplines and their lives. They also recognize how their chosen area of study is inextricably linked to other fields. Winthrop graduates collaborate with members of diverse academic, professional, and cultural communities as informed and engaged citizens.
+</p>
+
+<p>
+<i>As the students learn to relate the function and meaning of religion as a world-wide phenomenon to their own contemporary lives and experience, they will understand better how we are connected one to another and to the world we live in.</i>
+</p>
+</div>
+</li>
+
+<li><a id="orgd434d15"></a>COMPETENCY 4<br />
+<div class="outline-text-4" id="text-orgd434d15">
+<p>
+<b>Winthrop graduates communicate effectively.</b>
+Winthrop University graduates communicate in a manner appropriate to the subject, occasion, and audience. They create texts – including but not limited to written, oral, and visual presentations – that convey content effectively. Mindful of their voice and the impact of their communication, Winthrop graduates successfully express and exchange ideas.
+</p>
+
+<p>
+<i>Students participate in class discussions and produce multiple forms of writing.  The instructor incorporates comments and suggestions not only on the content of each assignment but also the effectiveness of their communication.</i>
+</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org623ee9c" class="outline-2">
+<h2 id="org623ee9c">Required Texts:</h2>
+<div class="outline-text-2" id="text-org623ee9c">
+<p class="verse">
+Lawrence Cunningham, John L. Esposito. <i>The Sacred Quest: An Invitation to the Study of Religion</i>. 6 edition. Boston: Pearson, 2012.<br />
+Hesse, Hermann, and Tom Robbins. <i>Siddhartha</i>. Trans. Susan Bernofsky. Reprint edition. New York: Modern Library, 2007.<br />
+Simon Wiesenthal. <i>The Sunflower: On the Possibilities and Limits of Forgiveness</i>. Kindle Edition<br />
+Schocken; Revised, Expanded, Subsequent edition (May 1, 1998)<br />
+Waskow, Arthur; Chittister, Joan; &amp;  Chishti, Shakur. <i>The Tent of Abraham: Stories of Hope and Peace for Jews, Christians, and Muslims</i>. Beacon Press June 2006.<br />
+</p>
+
+
+<hr />
+</div>
+</div>
+
+<div id="outline-container-orgf8e1215" class="outline-2">
+<h2 id="orgf8e1215">Course Requirements and Assignments</h2>
+<div class="outline-text-2" id="text-orgf8e1215">
+</div>
+<div id="outline-container-org123bef7" class="outline-3">
+<h3 id="org123bef7">Overview of assignments</h3>
+<div class="outline-text-3" id="text-org123bef7">
+<dl class="org-dl">
+<dt>Class participation</dt><dd>Each student is expected to complete the week's readings ahead of class and to participate actively in activities and discussions.</dd>
+<dt>Homework assignments and quizzes</dt><dd>will be given at unscheduled times without advanced notice. They may not be made up.</dd>
+<dt>Journals</dt><dd>On a regular basis the student will reflect on the readings by submitting responses to a Google Form®.  A part of the assignment for the reflection is to be present for the discussion on the topic. The rubric for the journals is as follows:
+<ul class="org-ul">
+<li><b>An A reflection</b> will demonstrate an awareness of the complexities of the assigned reading, making connections with the students' own experience and prior education. It will generally be between 250 &amp; 350 words in length. A response is given to all of the prompts. The student is present for the following class and contributes to the discussion about the reading.</li>
+<li><b>A B reflection</b> will demonstrate that the student read the material with accuracy and with some insight, but not making deeper connections. Perhaps not all the questions were answered. The student may not have contributed to the discussion in class.</li>
+<li><b>A C reflection</b> gives a cursory, if accurate, response to the readings. The student responded to the journal but was absent from class for the discussion.</li>
+</ul></dd>
+<dt>Examinations (2 and a final)</dt><dd>The  exams will cover the readings, and the topics covered in class. The final will be cumulative.</dd>
+<dt>Papers</dt><dd>There will be three (3) reflection papers. They will be relatively short papers responding to a prompt given by the instructor. A paper turned in within 24 hours of the due date will lose one letter grade. If a paper is turned in more than 24 hours after the due date, it will not be graded.</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-org1dfb5be" class="outline-3">
+<h3 id="org1dfb5be">Submission of assignments</h3>
+<div class="outline-text-3" id="text-org1dfb5be">
+<ul class="org-ul">
+<li>Writing assignments will be submitted through the class BlackBoard site. No papers will be accepted through email except by special permission granted prior to the submission date &amp; time.</li>
+<li>Late assignments will not be accepted except by special permission granted prior to the submission date &amp; time.</li>
+<li>No late submissions of the regular reading reflections submitted through Google Forms ® will be accepted. The purpose of the assignment is to prepare for class discussions following the readings.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc9e32a4" class="outline-3">
+<h3 id="orgc9e32a4">Policies</h3>
+<div class="outline-text-3" id="text-orgc9e32a4">
+</div>
+<ul class="org-ul">
+<li><a id="orge454080"></a>Academic Policies<br /></li>
+<li><a id="org6d5e6f1"></a>Attendance<br />
+<div class="outline-text-4" id="text-org6d5e6f1">
+<p>
+University policy states that you will not receive credit for the course if you miss more than 25% of the class. This class has a stricter requirement. For this class, any classes missed beyond five (5) will reduce your grade. Please note that there are no automatically excused absences. The student is responsible for contacting the instructor in case of sickness, emergencies, sports travel and other engagements that require an absence. Note also that it is the student’s responsibility to make up for any missed work due to absences. Of course missed conversations and presentations are nearly impossible to make up so it is important to keep absences to a minimum. If you have a difficulty that might lead to excessive absence, the student should contact the instructor as soon as possible.
+</p>
+</div>
+</li>
+
+<li><a id="org9b1aa7d"></a>Exams<br />
+<div class="outline-text-4" id="text-org9b1aa7d">
+<p>
+“During the course of normal exams no one will be allowed to leave the room. Anyone who does choose to leave will turn in their exam and will not be allowed to resume.”
+</p>
+</div>
+</li>
+
+<li><a id="orgd59dc3e"></a>Excused absences<br />
+<div class="outline-text-4" id="text-orgd59dc3e">
+<p>
+Please note that there are no automatically excused absences. The student is responsible for contacting the instructor in case of sickness, emergencies, sports travel and other engagements that require an absence. Note also that it is the student’s responsibility to make up for any missed work due to absences. Of course missed conversations and presentations are nearly impossible to make up so it is important to keep absences to a minimum. If you have a difficulty that might lead to excessive absence, the student should contact the instructor as soon as possible.
+</p>
+</div>
+</li>
+
+<li><a id="org1d0ff32"></a>Makeups<br />
+<div class="outline-text-4" id="text-org1d0ff32">
+<p>
+There will be no makeup for the occasional quizzes and assignments.
+</p>
+</div>
+</li>
+
+<li><a id="org7c38000"></a>Regardless of absence or lateness<br />
+<div class="outline-text-4" id="text-org7c38000">
+<p>
+You are responsible for all course material and requirements.
+</p>
+</div>
+</li>
+
+<li><a id="orgd95f4df"></a>Tardiness<br />
+<div class="outline-text-4" id="text-orgd95f4df">
+<p>
+Three tardies count as one absence.
+</p>
+</div>
+</li>
+
+<li><a id="orge8a0ba7"></a>Expectation of respect<br />
+<div class="outline-text-4" id="text-orge8a0ba7">
+<p>
+Regardless of sexual orientation, race, ethnicity, national origin, gender, religion, age and ability, you will be treated and respected as a human being. Your continued presence in this course signals your commitment to act likewise toward your peers and your instructors.
+</p>
+</div>
+</li>
+
+<li><a id="org5509ff9"></a>Expectation of integrity<br />
+<div class="outline-text-4" id="text-org5509ff9">
+<p>
+Students are expected to cultivate personal and academic integrity. Review the student code of conduct for university polices on academic misconduct. Academic misconduct will not be tolerated and will result in a failing grade on the assignment and/or in the course. The full handbook is available online at: <a href="http://www2.winthrop.edu/studentaffairs/handbook/StudentHandbook.pdf">http://www2.winthrop.edu/studentaffairs/handbook/StudentHandbook.pdf</a>.
+</p>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-orgf0ac4ab" class="outline-3">
+<h3 id="orgf0ac4ab">Academic misconduct</h3>
+<div class="outline-text-3" id="text-orgf0ac4ab">
+<p>
+As noted in the Student Conduct Code: “Responsibility for good conduct rests with students as adult individuals.” The policy on student academic misconduct is outlined in the “Student Conduct Code Academic Misconduct Policy” in the online Student Handbook which can be accessed at
+</p>
+
+
+<p>
+<a href="http://www.winthrop.edu/uploadedFiles/studentconduct/StudentHandbook.pdf">http://www.winthrop.edu/uploadedFiles/studentconduct/StudentHandbook.pdf</a>. Dishonesty is a serious offense in all its forms, whether lying about reasons for an absence or missed assignment or cheating on a test or misrepresenting borrowed material as your own. It can result in a failing grade on a test, assignment, or the course, or even dismissal from the university.
+</p>
+</div>
+
+<ul class="org-ul">
+<li><a id="orgefb5ec1"></a>Plagiarism<br />
+<div class="outline-text-4" id="text-orgefb5ec1">
+<p>
+Plagiarism is the use of someone else’s thoughts, words, ideas, or lines of argument in your own work without appropriate documentation (a parenthetical citation at the end and a listing in “Works Cited”)–whether you use that material in a quotation, paraphrase, or summary. It is a theft of intellectual property and will not be tolerated, whether intentional or not. It is also a violation of the Student Conduct Code (<a href="http://www.winthrop.edu/studentaffairs/Judicial/judcode.htm">http://www.winthrop.edu/studentaffairs/Judicial/judcode.htm</a>). Plagiarism will result in failure on that assignment. Especially serious cases or second offences can result in failure in the course.
+</p>
+</div>
+</li>
+
+<li><a id="org144a32e"></a>Cell phones<br />
+<div class="outline-text-4" id="text-org144a32e">
+<p>
+Cell phones normally have no use in this class and when they are being used in class they reflect disrespect for students and instructors – a violation of the point above about our expectation of respect. Phones should be on silent and kept in your book bag or purse throughout class time unless otherwise instructed. Except with permission, texting or responding to email will result in a “0” for participation for the day. If a cell phone is in evidence during class hours, the owner of the phone will be marked absent for the day. There may or may not be a warning. If it is a quiz day, their quiz will be marked 0 (zero). If a student responds to text messages or email during class they will receive a “0” for the day’s participation.
+</p>
+
+
+<p>
+(<i>Note if you have some educational, health, or physical reason for an electronic device you must work with your instructor to inform him of the accommodation</i>.)
+</p>
+</div>
+</li>
+
+<li><a id="org9dc8e53"></a>Computers and other devices<br />
+<div class="outline-text-4" id="text-org9dc8e53">
+<p>
+There are clear uses for computers in the classroom, including; taking notes, reading digital textbooks, looking for reference information, etc. Equally clearly, computers provide easy distraction from the responsibilities we all bring to the classroom, including; checking email, browsing on Facebook®, etc., etc. These devices are allowed in my classroom, but any evidence of using them for anything other than clear classroom work will result in an assignment of “0” for the day’s participation grade.
+</p>
+</div>
+</li>
+
+
+<li><a id="orgb7a8601"></a>University Policy re. Handheld Tech Devices :<br />
+<div class="outline-text-4" id="text-orgb7a8601">
+<p>
+Except as noted above my policy follows that of the division of Arts and Sciences found at <a href="http://www.winthrop.edu/uploadedFiles/artscience/PolicyForHandHeldTech-April2014.pdf">http://www.winthrop.edu/uploadedFiles/artscience/PolicyForHandHeldTech-April2014.pdf</a>.
+</p>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-orgc3e98b2" class="outline-3">
+<h3 id="orgc3e98b2">Other Guidelines</h3>
+<div class="outline-text-3" id="text-orgc3e98b2">
+</div>
+<ul class="org-ul">
+<li><a id="org4045e3e"></a>Resolution of Issues<br />
+<div class="outline-text-4" id="text-org4045e3e">
+<p>
+Any questions concerning grading of assignments or other matters must be resolved within one week after the assignment is returned and graded.
+</p>
+</div>
+</li>
+
+<li><a id="org5d27384"></a>Textbook in class<br />
+<div class="outline-text-4" id="text-org5d27384">
+<p>
+N.B. that you are expected to have your textbook in class every day. If you do not have the textbook obviously available in class, your participation grade for the day will reflect a “0”.
+</p>
+</div>
+</li>
+
+<li><a id="orgf99c846"></a>Appeals<br />
+<div class="outline-text-4" id="text-orgf99c846">
+<p>
+I know that I do make mistakes and overlook things that I shouldn’t. It’s probably true of some of you as well. If you don’t understand a grade or comment, please ask me. If you think that a grade is in error and you would like it corrected, you must put your request and justification in writing. Under no circumstances will a grade be lowered because clarification was requested. No grades will be changed, however, without documentation.
+</p>
+</div>
+</li>
+
+
+<li><a id="orgdcbb80d"></a>Participation and Engagement<br />
+<div class="outline-text-4" id="text-orgdcbb80d">
+<p>
+Participation and engagement are essential elements in the RELG 101 classroom. You should seek to demonstrate your intellectual curiosity through demonstrated knowledge of the reading assignments, thoughtful reflection of the topics, contribution of insightful ideas and consideration of your classmates’ perspectives. Consider the following:
+</p>
+
+<ul class="org-ul">
+<li>Do you arrive at class on time, each class period, with a positive, open attitude?</li>
+
+<li>Did you critically read the material? Are there markings, highlights, and questions written in your book? Have you completed your reading journals?</li>
+
+<li>Have you thoughtfully considered the readings prior to arriving in class?</li>
+
+<li>Can you answer questions about the current readings and connect these ideas with previous readings in the class?</li>
+
+<li>Do you ask good questions? Do you listen to your peers?</li>
+
+<li>Are your questions and comments deep and related to the reading, or shallow and random?</li>
+
+<li>Are you willing to challenge your thoughts and opinions and those of others in a respectful, open manner? Are you willing to consider “what if I am wrong?”</li>
+
+<li>Disagreement is a basic element of a democratic society. Diverse perspectives are appreciated and encouraged. You are expected to show respect to your instructor and your peers. Students should work to create a classroom community where all perspectives are heard and appreciated. This classroom is a safe environment in which regardless of gender, race, ethnicity, natural origin, religious affiliation, sexual orientation, political beliefs, age, or ability, you will be treated with respect.</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+
+<div id="outline-container-org29eb3be" class="outline-3">
+<h3 id="org29eb3be">Other Resources</h3>
+<div class="outline-text-3" id="text-org29eb3be">
+</div>
+<ul class="org-ul">
+<li><a id="orga82f8b9"></a>The Writing Center<br />
+<div class="outline-text-4" id="text-orga82f8b9">
+<p>
+provides support for all students in all Winthrop classes free of charge. It is located in 242 Bancroft (ext. 2138). Check its web page for current hours (<a href="http://www.winthrop.edu/wcenter">http://www.winthrop.edu/wcenter</a>).
+</p>
+</div>
+</li>
+
+<li><a id="orgcdcbe20"></a>Students With Disabilities<br />
+<div class="outline-text-4" id="text-orgcdcbe20">
+<p>
+Winthrop University is dedicated to providing access to education. If you have a disability and require specific accommodations to complete this course, contact Services for Students with Disabilities at 323-3290. Once you have your official notice of accommodations from Services for Students with Disabilities, please inform me as early as possible in the semester.
+</p>
+</div>
+</li>
+
+<li><a id="orgd87cc8d"></a>Winthrop’s Academic Success Center<br />
+<div class="outline-text-4" id="text-orgd87cc8d">
+<p>
+is a free resource for all undergraduate students seeking to perform their best academically. The ASC offers a variety of personalized and structured resources – including for RELG 101 – that help students achieve academic excellence. These resources includes things such as tutoring, academic skill development (test taking strategies, time management counseling, and study techniques), and group/individual study spaces. The ASC is located on the first floor of Dinkins, Suite 106. Tutoring for RELG 101 is offered through the office. If you wish to request a tutor, you must attend ONE Tutee Seminar during the academic year, offered every Friday until midterms. Please contact the ASC at 803-323-3929 or success@winthrop.edu if you have any questions. For more information on ASC services, please visit www.winthrop.edu/success.
+</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org9161a1e" class="outline-2">
+<h2 id="org9161a1e">Grading</h2>
+<div class="outline-text-2" id="text-org9161a1e">
+<p>
+<b>Formula for final grading</b>
+</p>
+
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">%</th>
+<th scope="col" class="org-left">Weight of assessments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">Participation</td>
+</tr>
+
+<tr>
+<td class="org-right">10</td>
+<td class="org-left">Quizzes/Assignments</td>
+</tr>
+
+<tr>
+<td class="org-right">15</td>
+<td class="org-left">Reading Journal &amp; Discussion</td>
+</tr>
+
+<tr>
+<td class="org-right">30</td>
+<td class="org-left">Papers</td>
+</tr>
+
+<tr>
+<td class="org-right">20</td>
+<td class="org-left">Exam</td>
+</tr>
+
+<tr>
+<td class="org-right">20</td>
+<td class="org-left">Final</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-right">100</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+<b>Grading Scale:</b>
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">A</td>
+<td class="org-right">94-100</td>
+</tr>
+
+<tr>
+<td class="org-left">A-</td>
+<td class="org-right">90-93</td>
+</tr>
+
+<tr>
+<td class="org-left">B+</td>
+<td class="org-right">88-89</td>
+</tr>
+
+<tr>
+<td class="org-left">B</td>
+<td class="org-right">84-87</td>
+</tr>
+
+<tr>
+<td class="org-left">B-</td>
+<td class="org-right">80-83</td>
+</tr>
+
+<tr>
+<td class="org-left">C+</td>
+<td class="org-right">78-79</td>
+</tr>
+
+<tr>
+<td class="org-left">C</td>
+<td class="org-right">74-77</td>
+</tr>
+
+<tr>
+<td class="org-left">C-</td>
+<td class="org-right">70-73</td>
+</tr>
+
+<tr>
+<td class="org-left">D+</td>
+<td class="org-right">68-69</td>
+</tr>
+
+<tr>
+<td class="org-left">D</td>
+<td class="org-right">64-67</td>
+</tr>
+
+<tr>
+<td class="org-left">D-</td>
+<td class="org-right">60-63</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org8455329" class="outline-2">
+<h2 id="org8455329">Calendar</h2>
+<div class="outline-text-2" id="text-org8455329">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">Exam</th>
+<th scope="col" class="org-left">Assign</th>
+<th scope="col" class="org-left">Paper</th>
+<th scope="col" class="org-left">Present</th>
+<th scope="col" class="org-left">Journal</th>
+<th scope="col" class="org-left">Reading due before date of assignment</th>
+<th scope="col" class="org-left">Activities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Mon, Jan 8, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Jan 10, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">SQ Ch. 1</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Jan 15, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><b>No Class</b></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Jan 17, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SQ Ch 2: Nature of Sacred</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Jan 22, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Jan 24, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SQ Ch 3; Appearance of Sacred</td>
+<td class="org-left">Journal with class disc</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Jan 29, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Jan 31, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">SQ Ch 4: Language of Sacred</td>
+<td class="org-left">Varieties of religion in our area, scavenger hunt</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Feb 5, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">“Myth” assignments</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Feb 7, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Feb 12, 2018</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><b>Exam</b></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Feb 14, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Siddhartha: Part One</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Feb 19, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">Siddhartha: Part Two</td>
+<td class="org-left">Journal with class disc</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Feb 21, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SQ 5: Ritual</td>
+<td class="org-left">Morgan Freeman assignment</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Feb 26, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SQ 7: Nature of evil</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Feb 28, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">The Sunflower</td>
+<td class="org-left">Anti-semitism worksheet:</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Mar 5, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Mar 7, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">(x)</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Panel Discussions</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Mon, Mar 12, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><b>No Class</b></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Mar 14, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><b>No Class</b></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Mon, Mar 19, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Mar 21, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Sunflower paper</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Mar 26, 2018</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><b>Exam</b></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Mar 28, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TofA pp xiii - 27</td>
+<td class="org-left">Presentations on Interfaith Amigos</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Apr 2, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TofA pp 29 - 78</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Apr 4, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TofA pp 79 - 123</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Apr 9, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">(x)</td>
+<td class="org-left">x</td>
+<td class="org-left">TofA pp 125 - 177</td>
+<td class="org-left">Journal with class disc</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Apr 11, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">(x)</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Apr 16, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">(x)</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wed, Apr 18, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">SQ 8: pp 117-131: Morality</td>
+<td class="org-left">Journal with class disc</td>
+</tr>
+
+<tr>
+<td class="org-left">Mon, Apr 23, 2018</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Jerusalem</td>
+<td class="org-left">Islam paper</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Final: 4/30 11:30 a.m. Monday</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+Last update : 06 Feb 2018
+</div>
+</body>
+</html>
