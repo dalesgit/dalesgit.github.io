@@ -6,9 +6,9 @@ Prof. Dale Hathaway
 ---------------------
 - On sheet of paper write your name
 - Write down:
-    - Your earliest memory of either witnessing or experiencing a religious experience
-    - What you would like to learn in this class
-    - What is something that interests you but you don't know very much about
+    - Your earliest memory of either witnessing or experiencing a religious experience <!-- .element: class="fragment" data-fragment-index="2
+    - What you would like to learn in this class <!-- .element: class="fragment" data-fragment-index="1
+    - What is something that interests you but you don't know very much about <!-- .element: class="fragment" data-fragment-index="3
 	
 ---
 
