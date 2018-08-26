@@ -1,10 +1,3 @@
-### With a partner or two: ###
-
-- brainstorm at least 5 different religious phenomena
-<li class="fragment">What is the thing that you identify?</li>
-<li class="fragment">What makes it religious?</li>
-
----
 
 ### Phenomenological Method ###
 
@@ -12,9 +5,12 @@
 <li class="fragment">What is the goal of the Phenomenological Method?</li>
 <li class="fragment">What error in Freud and Marx does it seek to avoid?</li>
 <li class="fragment">How does learning from Max Weber help it to a void the opposite error?</li>
-<li class="fragment">Does it tend to take a more humanistic or theology approach to the study of religion?</li>
-<li class="fragment">Give examples of how each of the five tools for studying religion might be used and explain how they illustrate the value of each tool.</li>
-<li class="fragment">What do the last three steps in the phenomenological method have in common?</li>
+
+Note:
+
+Does it tend to take a more humanistic or theology approach to the study of religion?
+Give examples of how each of the five tools for studying religion might be used and explain how they illustrate the value of each tool.
+What do the last three steps in the phenomenological method have in common?
 
 ---
 
@@ -25,6 +21,14 @@
 <li class="fragment">Comparative: compare specific types of religious behaviors, beliefs</li>
 <li class="fragment">Philosophical: philosophical analysis of religious language and arguments</li>
 <li class="fragment">Intellectual & Social History: trace development of religious ideas and institutions over time</li>
+
+---
+
+### With a partner or two: ###
+
+- brainstorm at least 5 different religious phenomena
+<li class="fragment">What is the thing that you identify?</li>
+<li class="fragment">What makes it religious?</li>
 
 ---
 
