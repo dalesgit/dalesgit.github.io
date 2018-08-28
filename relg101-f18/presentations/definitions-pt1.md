@@ -19,7 +19,7 @@
 Religious studies is the attempt to study these things, taking **homo religiosus** seriously
 
 -   Textual: study sacred texts
--   Historical: describe origin and development of specific religions
+-   Historical: describe origin and (development of specific religions
 -   Comparative: compare specific types of religious behaviors, beliefs
 -   Philosophical: philosophical analysis of religious language and arguments
 -   Intellectual & Social History: trace development of religious ideas and institutions over time
@@ -50,8 +50,8 @@ The lesson is a simple one. It is impossible to get at the intention that lies b
 
 |    |     |
 |----|----|
-| (**James Martineau**)          | Religion is the belief in an ever living God, that is, in a **Divine Mind and Will** ruling the Universe and holding moral relations with mankind.     |
-| (**Friedrich Schleiermacher**) | Religion is the **feeling of absolute dependence** or the consciousness that the whole of our spontaneous activity comes from a source outside of us . |
+| **James Martineau**          | Religion is the belief in an ever living God, that is, in a **Divine Mind and Will** ruling the Universe and holding moral relations with mankind.     |
+| **Friedrich Schleiermacher** | Religion is the **feeling of absolute dependence** or the consciousness that the whole of our spontaneous activity comes from a source outside of us . |
 
 
 Note:
@@ -80,8 +80,8 @@ The nineteenth-century German thinker Karl Marx, the founder and primary theoris
 
 |    |     |
 |----|----|
-| (**Emile Durkheim**) | Religion is only  **sentiment inspired by the group in its members**, but projected outside of the consciousness that experiences them, and objectified . |
-| (**Signmund Freud**) | Freud refers to religion as an illusion which is "perhaps the most important item in the psychical inventory of a civilization". In his estimation, religion provides for defense against "the crushingly superior force of nature" and "the urge to rectify the shortcomings of civilization which made themselves painfully felt". He concludes that all religious beliefs are "illusions and insusceptible of proof." |
+| **Emile Durkheim** | Religion is only  **sentiment inspired by the group in its members**, but projected outside of the consciousness that experiences them, and objectified . |
+| **Signmund Freud** | Freud refers to religion as an illusion which is "perhaps the most important item in the psychical inventory of a civilization". In his estimation, religion provides for defense against "the crushingly superior force of nature" and "the urge to rectify the shortcomings of civilization which made themselves painfully felt". He concludes that all religious beliefs are "illusions and insusceptible of proof." |
 
 
 Note: 
@@ -94,8 +94,8 @@ Sigmund Freud's views on religion are described in several of his books and essa
 
 |    |     |
 |----|----|
-| (James G. **Frazer**) | Religion is a propitiation or conciliation of powers superior to man which are believed to direct and control the course of Nature and of human life .                                           |
-| (**William James**)   | The very fact that there are so many (definitions of religion) … is enough to prove that the word “religion” cannot stand for any single principle or essence, but is rather a collective name … |
+| James G. **Frazer** | Religion is a propitiation or conciliation of powers superior to man which are believed to direct and control the course of Nature and of human life .                                           |
+| **William James**   | The very fact that there are so many (definitions of religion) … is enough to prove that the word “religion” cannot stand for any single principle or essence, but is rather a collective name … |
 
 
 
