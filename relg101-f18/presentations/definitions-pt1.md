@@ -122,6 +122,18 @@ Religious Mysticism is only one half of mysticism, the other half is composed of
 
 ---
 
+|                     |   |
+|---------------------|---|
+| **Clifford Geertz** | [Religion is] a system of symbols which acts to establish powerful, persuasive, and long-lasting moods and motivations...by formulating conceptions of a general order of existence and clothing these conceptions with such an aura of factuality that the moods and motivations seem uniquely realistic.  |
+
+
+
+Note:
+**Joseph Adler** | [Religion is] a means of ultimate transformation and/or orientation.
+
+
+---
+
 
 ### A Definition of Religion ###
 
