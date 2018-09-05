@@ -1,5 +1,5 @@
 
-## The Nature of the Sacred
+### The Nature of the Sacred
 
  What is Sacred? 
 
@@ -17,7 +17,7 @@ Note:
 
 ---
 
-## The Sacred and The Holy
+### The Sacred and The Holy
 
 
 - Often the words “sacred” and “holy” are used as equivalents.   
@@ -28,7 +28,7 @@ Note:
 
 ---
 
-## Examples of the Sacred
+### Examples of the Sacred
 
 
 Note:
@@ -36,20 +36,20 @@ Note:
 O God, you are my God, I seek you, my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water. So I have looked upon you in the sanctuary, beholding your power and glory. Because your steadfast love is better than life,my lips will praise You. (*Biblical* Psalm 63:1–3) 
 
 
-## Examples of the Sacred
+### Examples of the Sacred
 
 
 Thou [God] art the Imperishable, the supreme Object of Knowledge, Thou art the ultimate resting-place of this universe; Thou art the immortal guardian of the eternal right; Thou art the everlasting Spirit. . . . Without beginning, middle, or end, of infinite power, Of infinite arms, whose eyes are the moon and sun, I see Thee, whose face is flaming fire, Burning this whole universe with Thy radiance. (*Bhagavad Gita* 11:18–20) 
 
 
-## Examples of the Sacred
+### Examples of the Sacred
 
 
 “Its form, O king, cannot be elucidated by similes, but its qualities can. . . . As the lotus is unstained by water, so is Nirvana unstained by all the defilements. . . . As cool water allays feverish heat, so also Nirvana is cool and allays the fever of all the passions. . . . As medicine protects from the torments of poison, so Nirvana protects from the torments of the poisonous passions. . . . Nirvana and medicine both give security. . . . As a mountain peak is unshakeable, so is Nirvana. . . . ” (*Buddhist discourse* "The nature of Nirvana") 
 
 ---
 
-## The Concept of Sacred Reality
+### The Concept of Sacred Reality
 
 
 - Derived from the Latin “sanctus”.  
@@ -59,7 +59,7 @@ Thou [God] art the Imperishable, the supreme Object of Knowledge, Thou art the u
 
 ---
 
-## Sacred Reality in Various Cultures
+### Sacred Reality in Various Cultures
 
 
 - In the Bible, **God is preeminently sacred or holy**, and everyone else and everything else is holy or sacred only in relation to God.   
@@ -68,7 +68,7 @@ Thou [God] art the Imperishable, the supreme Object of Knowledge, Thou art the u
 
 ---
 
-## Sacred Reality in the Hebrew Bible
+### Sacred Reality in the Hebrew Bible
 
 
 - By contrast, the Hebrew Bible uses **kadosh** to describe God and things set apart by God’s choice: the people of Israel, the land they live in, types of food, modes of human relations.  
@@ -76,7 +76,7 @@ Thou [God] art the Imperishable, the supreme Object of Knowledge, Thou art the u
 
 ---
 
-## The Sacred and The Ordinary
+### The Sacred and The Ordinary
 
 
 The sacred can further be characterized in terms of “**the real**.”
@@ -88,7 +88,7 @@ The sacred can further be characterized in terms of “**the real**.”
 
 ---
 
-## General Concept of the Sacred
+### General Concept of the Sacred
 
 
 We recognize a notion of sacred reality wherever a group of people describes a particular phenomenon as a manifestation of the real in terms that indicate something:
@@ -101,7 +101,7 @@ We recognize a notion of sacred reality wherever a group of people describes a p
 ---
 
 
-## Specially Distinctive
+### Specially Distinctive
 
 
 - To be especially distinctive or set apart from everything else in the world is, we have noted, the most basic quality attributed to something described as sacred.
@@ -114,7 +114,7 @@ Note:
 
 ---
 
-## Religions of Transcendence
+### Religions of Transcendence
 
 
 - Present notions of sacred reality as “going beyond” or “standing over” ordinary existence. 
@@ -122,7 +122,7 @@ Note:
 
 ---
 
-## Religions of Immanence
+### Religions of Immanence
 
 
 - Present notions of sacred reality where there is less of a divide between the sacred and the natural world.
@@ -130,7 +130,7 @@ Note:
 
 ---
 
-## Elements of Immanence in Religions of Transcendence
+### Elements of Immanence in Religions of Transcendence
 
 
 - The incarnation of Jesus in Christianity.  
@@ -139,7 +139,7 @@ Note:
 
 ---
 
-## Beyond the Volitional Control of Human Beings
+### Beyond the Volitional Control of Human Beings
 
 - To be sacred, it must be beyond the control of human beings to some extent.
 - In certain contexts, the sacred always responds to a ritual performed rightly, 
@@ -152,7 +152,7 @@ Note:
 - Do not ignore the qualifying phrase “to some extent”.  
 - Many religious rituals are attempts by human beings to influence the sacred 
 
-## Human Attempts to Influence the Sacred
+### Human Attempts to Influence the Sacred
 
 - In certain contexts, the sacred always responds to a ritual performed rightly, and the ability to so perform is the chief sign of being gifted spiritually.   
 - The role of the shaman is often to perform rituals involving chanting, dancing, and perhaps prayers and sacrifices in such a way that various spirits or powers will respond in a certain way.  
@@ -160,7 +160,7 @@ Note:
 
 ---
 
-## Specially Prominent
+### Specially Prominent
 
 
 - The belief that God’s action, or inaction, has a tangible impact of the welfare of human beings.  
@@ -169,7 +169,7 @@ Note:
 
 ---
 
-## Properly Determinative
+### Properly Determinative
 
 
 - In various ways, religious traditions express the idea that the prominence of the sacred is legitimate.   
@@ -178,7 +178,7 @@ Note:
 
 ---
 
-## Summary
+### Summary
 
 
 - The concept of the sacred is abstract.  

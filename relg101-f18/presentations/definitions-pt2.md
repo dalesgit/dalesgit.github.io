@@ -1,12 +1,12 @@
-## Chapter 1 (cont.)
+### Chapter 1 (cont.)
 
 ---
 
-## What kind of stuff? : Substance or Function? ##
+### What kind of stuff? : Substance or Function? ##
 
 ---
 
-### Functionalist Definition of Religion ###
+#### Functionalist Definition of Religion ###
 
 -   Focuses on the role religion plays in the lives of persons and groups.
 -   Might focus on the ways religion enables people to sustain hope in the face of difficult circumstances.
@@ -14,7 +14,7 @@
 
 ---
 
-### Substantive Definition of Religion ###
+#### Substantive Definition of Religion ###
 
 -   Attempts to limit the phenomena that may be characterized as religious.
 -   Seeks to identify what it is that makes certain responses to death and suffering religious and others not.
@@ -22,7 +22,7 @@
 
 ---
 
-### Definition must be both ###
+#### Definition must be both ###
 
 -   Considerations of function are necessary but not sufficient to the task of defining religion.
 -   But an adequate definition of religion must include a substantive component.
@@ -37,11 +37,11 @@
 
 ---
 
-## A Proposed Definition ##
+### A Proposed Definition ##
 
 ---
 
-### Religion signifies those ways of viewing the world that refer to: ###
+#### Religion signifies those ways of viewing the world that refer to: ###
 
 1.  a notion of sacred reality
 2.  made manifest in human experience
@@ -50,7 +50,7 @@
 
 ---
 
-## A Notion of Sacred Reality ##
+### A Notion of Sacred Reality ##
 
 -   A **notion of sacred reality establishes a boundary between religion and non-religion.**
 -   **Sacred** indicates a reality that is somehow distinct, set apart, other than **ordinary**.
@@ -58,7 +58,7 @@
 
 ---
 
-### Manifest in Human Experience ###
+#### Manifest in Human Experience ###
 
 -   Although the sacred is set apart from the ordinary, it nevertheless may be experienced, thought about, and acted upon.
 -   Thus, all religion has to do with the element of the **sacred manifesting itself in various ways**: in rituals, persons, and natural phenomena.
@@ -71,7 +71,7 @@ Note:
 
 ---
 
-### Long-Lasting Ways of Thinking and Feeling ###
+#### Long-Lasting Ways of Thinking and Feeling ###
 
 -   Religious ways develop over time. And they come to constitute traditions that may be identified with the history of particular communities.
 -   For example, the prophecy of Muhammad is the beginning of the tradition of Islam.
@@ -79,7 +79,7 @@ Note:
 
 ---
 
-### Ordering and Understanding Existence ###
+#### Ordering and Understanding Existence ###
 
 -   Stresses the way in which notions of sacred reality are related to problems of suffering and death.
 -   Also stresses the way in which notions of sacred reality are related to other problems; such as the ordering of political or economic life.
