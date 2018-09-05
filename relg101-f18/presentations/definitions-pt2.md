@@ -1,6 +1,4 @@
-
-# Pt. 2
-
+## Chapter 1 (cont.)
 
 ---
 
@@ -12,7 +10,7 @@
 
 -   Focuses on the role religion plays in the lives of persons and groups.
 -   Might focus on the ways religion enables people to sustain hope in the face of difficult circumstances.
--   “Functionalist” understands **religion** to have to with the role it plays ordering, making sense, of human existence
+-   “Functionalist” understands **religion** to have to do with the role it plays ordering, making sense, of human existence
 
 ---
 
@@ -30,10 +28,12 @@
 -   But an adequate definition of religion must include a substantive component.
 -   Thus, **any adequate definition of religion must account for both the function and substance of religion.**
 
-1.  Religion and politics overlap but are not the same
-2.  Religion and morality overlap but are not the same
-3.  religion and science overlap but are not the same
-4.  … history?
+---
+
+1.  **Religion and politics** overlap but are not the same
+2.  **Religion and morality** overlap but are not the same
+3.  **Religion and science** overlap but are not the same
+4.  … **history**?
 
 ---
 
@@ -63,6 +63,8 @@
 -   Although the sacred is set apart from the ordinary, it nevertheless may be experienced, thought about, and acted upon.
 -   Thus, all religion has to do with the element of the **sacred manifesting itself in various ways**: in rituals, persons, and natural phenomena.
 
+
+Note:
 1.  Muslims = the sacred reality (****Allah****) is made manifest through prophecy
 2.  Buddhists = the goal of **Nirvana** comes to life in the life and teaching of the Buddha
 3.  Navaho = the story of the Navaho people makes wisdom available for those who seek harmony between all things.
