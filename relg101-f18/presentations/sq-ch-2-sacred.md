@@ -167,8 +167,8 @@ Note:
 - In Islam, and some other religions that speak of a day of judgment, the prominence of the sacred with respect to human welfare is absolute.   
 - In other traditions, including the Navaho, the relation of the sacred to humanity is less absolute. 
 
----
 
+Note:
 ### Properly Determinative
 
 
