@@ -72,7 +72,7 @@
 - the sacred character of the ark seems to have a life of its own, "sovereignty or independence of the ark" (31)
 
 
----
+ ---
 
 ## Prominent with respect to human welfare
 ### Qur'anic justice
