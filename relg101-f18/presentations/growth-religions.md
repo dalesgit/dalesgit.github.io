@@ -10,6 +10,8 @@
 
  http://studyreligion.org/what/index.html
 
+---
+
 ### Why study religion
 
 - Religion has always been with us
