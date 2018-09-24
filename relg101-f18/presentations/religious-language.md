@@ -8,9 +8,9 @@ Most often **poetic** in the sense that, like poetry, it **seeks to use ordinary
  The nature of the sacred as **being set apart** can be expressed in *paradoxical like language*. Examples of 
 
  - John of the cross 
- - Hindu Mystics  
+ - Hindu Mystics
  - Thomas Aquinas. 
- - Other sorts of language like father mother Lord King are more like poetry than they are say a grocery list.
+ - Other sorts of language about God, like **father, mother, Lord, King** are more like poetry than they are say a grocery list.
 
 
 ---
@@ -18,17 +18,46 @@ Most often **poetic** in the sense that, like poetry, it **seeks to use ordinary
 
 ![Joseph Campbell](http://baumwollarchives.com/wp-content/uploads/2012/10/101-3-J-CAMPBELL-top3.jpg)
 
---
+https://youtu.be/R7xuLN8WIkI
 
+Note:
 Joseph Campbell:
 https://youtu.be/L_Hcoru77Gs?list=PL66bRS2DhVi-6gDUTfbHh_-dsuXZ_BGio
 
---
+
+There is a youtube that talks about Joseph Campbell's work!
+https://www.youtube.com/watch?v=XQRQJpBnHyg
+
+---
 
 ## Religious Myth: 
-- A story that **sets up a world by describing ultimate reality and its relationship to humanity**.  Myths seek to explain the ultimate meaning of the universe (cosmos) and our existence, its ultimate origins, destiny, order (or disorder) and relationships.  - Purpose = **revelation of the nature of the sacred**, the universe, and human nature.  In short, “How does reality makes sense in light of the sacred?" 
+
+- A story that **sets up a world by describing ultimate reality and its relationship to humanity**.
+- Purpose = **revelation of the nature of the sacred**, the universe, and human nature
+- Myths seek to **narrate or reveal a transcendent reality**
+- They **do not seek to record simply what happened**
+- In short, “**How does reality makes sense in light of the sacred?**" 
+
+
+
+Note:
+- Myths seek to explain the ultimate meaning of the universe (cosmos) and our existence, its ultimate origins, destiny, order (or disorder) and relationships.
+- Purpose = revelation of the nature of the sacred, the universe, and human nature.
+- In short, “**How does reality makes sense in light of the sacred?**" 
+
+- A story that **sets up a world by describing ultimate reality and its relationship to humanity**.  Myths seek to explain the ultimate meaning of the universe (cosmos) and our existence, its ultimate origins, destiny, order (or disorder) and relationships.  
+- Purpose = **revelation of the nature of the sacred**, the universe, and human nature.  In short, “How does reality makes sense in light of the sacred?" 
 - Myths seek to **narrate or reveal a transcendent reality** and its relation to ordinary reality.  Mythic time transcends ordinary time.  Mythic events transcend “empirically observable" events.
 - They **do not seek to record simply what happened** in ordinary reality.  They do not aim at empirical or scientific truth (that can be tested via experiments). 
+
+---
+
+- Rather myths **represent the collective experience and wisdom of a community over time concerning the deepest meaning of reality** 
+- A myth is like a pair of glasses or framework through which people “image" or see the world.
+
+---
+
+- **Note Well**: For one who believes that there is no ultimate meaning to our world, no transcendent reality, or that there is only our immediate experience as known empirically, myths are false or do not exist.
 
 
 Note:
@@ -36,7 +65,7 @@ Note:
   - Note Well: For one who believes that there is no ultimate meaning to our world, no transcendent reality, or that there is only our immediate experience as known empirically, myths are false or do not exist.
 
 
---
+---
 
 ## Examples of contemporary myths: 
 
@@ -54,13 +83,19 @@ Note:
 
 ## Parable:
 
+- **Not simply a teaching device**
+- a story that **upsets an existing world or turns it upside down**
+- seeks to move or change people
+- **sacred persons** often perform **parabolic actions**
+
+Note:
 - A story that **upsets an existing world or turns it upside down**; makes a point by violating our expectations and calling into questions our assumptions.   
 - It seeks to shock the hearer into seeing ordinary things in a new way, i.e., in light of the sacred reality which is totally “other" than the ordinary and customary.  
 - A parable seeks to move people into a deeper engagement with sacred reality.  
 - **Sacred figures often perform “parabolic actions"** or actions that upset the way things are and open our eyes to a new reality.
 
 
---
+---
 
 ## Examples of Parables/Parabolic Actions
 - Zen koan: "What is the sound of one hand clapping?"
@@ -68,8 +103,15 @@ Note:
 - Buddha: "I am not a god or a magician.  I am awake."
 - Awake seems ordinary but it is not.  Greatness can't lie in it.
 
---
+---
+### Examples of Parables
 
+- "The Spirit of the Lord YHWY is upon me" *Luke 4:18-19*
+- Good Samaritan *Luke 10:25–29*
+- "Whenever you did it to the least of my brothers and sisters ..." *Matthew 25*
+- Prodigal Son *Luke 15-16*
+
+Note:
 - Jesus seeks to open people's eyes to the kingdom of God when he reads from *Isaiah 61:1-2* in Luke "The Spirit of the Lord Yahweh is upon me, for he has anointed me to bring glad tidings to the poor.  He has sent me to proclaim liberty to captives and recovery of sight to the blind, to let the oppressed go free, and to proclaim a year of favor from Yahweh [a jubilee year]" . . . and a day of vengeance for our God . .  *Luke 4:18-19*
 - Good Samaritan = like the good Al Qaeda terrorist. Our social status does not determine our holiness; but our compassion—even a compassion that violates social customs re: ritual purity.  That is what God wants. 
 - *Matthew 25*: Whenever you did it to the least of my brothers and sisters you did it to me—Christ is encountered in the needy.  
@@ -81,6 +123,7 @@ Note:
 ## Canon:
 A **measuring reed or stick, ruler, standard**; list of authoritative texts/scriptures in a tradition
 
+---
 
 ## Scriptures:
  Literally "**writings**" (scripture -- "that which is written"), writings considered sacred and authoritative in a particular community.
@@ -91,7 +134,7 @@ A **measuring reed or stick, ruler, standard**; list of authoritative texts/scri
 - Preserves the identity of the community
 
 
---
+---
 
 - Example: The "**sutra**" (or Pali "sutta"), i.e., a short exposition on a particular teaching of the Buddha, is the basic form of the scriptures in Theravada and Mahayana Buddhism 
  
@@ -103,7 +146,7 @@ Note:
 - "**faith seeking understanding**"
 - Systematic explanation of the meaning of sacred stories and their conceptual relations as well as translation of this meaning in contemporary language.  **Transform story into doctrine that speaks to today's world**.
 
---
+---
 
 ## 4 functions of Sacred Stories (including scriptures): 
 
