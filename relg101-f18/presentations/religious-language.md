@@ -150,10 +150,10 @@ Note:
 
 ## 4 functions of Sacred Stories (including scriptures): 
 
-- Connect with the sacred dimension of existence
-- Order the cosmos, provide coherence for the believer 
-- Give shape to memory and sustains a tradition 
-- Believers measure behavior style of life Etc
+- **Connect with the sacred** dimension of existence
+- **Order the cosmos**, provide coherence for the believer 
+- give shape to memory and sustains a **tradition** 
+-  measure behavior **style of life** etc.
 
 
 Note:

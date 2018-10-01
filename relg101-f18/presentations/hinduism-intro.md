@@ -9,22 +9,7 @@
 </section>
 
 
-
 ---
-
-## Hinduism Vocabulary
-
-| Vocabulary |   |
-|---------|-------|
-| Brahman | Brahmin |
-| Buddha | Krishna |
-| Lakshmi | Mara |
-| Maya | Nirvana |
-| Samadhi | Samana |
-| Sansara | Upanishads |
-| Vedas | Vishnu |
-
---
 
 ## resources for Vocabulary ##
 
@@ -38,10 +23,10 @@
 ## Complexity of subject
 
 - The concepts of **Hindu** and **Hinduism** are problematic for several reasons. 
-- **Hindu** and **Hinduism** are words of Persian origin from the 12th century C.E.; thus, they are not native to India.
-- Those who have conceptualized **Hinduism** have been western European
+   - **Hindu** and **Hinduism** are words of Persian origin from the 12th century C.E.; thus, they are not native to India.
+   - Those who have conceptualized **Hinduism** have been western European
 
---
+---
 
 ## What do we mean by "religion" (cf. Our definition)
 
@@ -56,10 +41,8 @@
 
 ## Questions
 
-<li class="fragment">1.  When you attempt to understand a new religious tradition, what is the most important thing to learn? Would you focus on its doctrines, the way it tells stories, its art, its rituals, or its institutions? Would you focus on something else? </li>
-
-
-<li class="fragment">2.  If you were trying to explain your own religious tradition to someone who knew nothing about it, what would be the most important thing for that person to learn? </li>
+<li class="fragment">When you attempt to understand a new religious tradition, what is the most important thing to learn? Would you focus on its doctrines, the way it tells stories, its art, its rituals, or its institutions? Would you focus on something else? </li>
+<li class="fragment">If you were trying to explain your own religious tradition to someone who knew nothing about it, what would be the most important thing for that person to learn? </li>
 
 ---
 
@@ -88,6 +71,8 @@ and the like, which may explain the lack of a specific self-referential term.
 
 - most authoritative text for Hinduism
 - composed between 2300 and 1200 B.C.E.
+
+Note:
 - e.g. The oldest and most important of these collections contains more than a thousand songs to various gods and goddesses and is aptly named the Rig, meaning praise. Scholars believe it was composed between 2300 and 1200 B.C.E.
 - many different gods sung to
 
@@ -97,7 +82,6 @@ and the like, which may explain the lack of a specific self-referential term.
 - The Veda regarded humans as being individual souls 
 	- and members of a stratified society. 
 	- For the Aryans, the essence of human life is the soul, which they associated with the **breath**, designated by the word **atman**. 
-  
 - The Aryans' strong emphasis on **ritual** over **doctrine and belief** - was the basis of the Vedic tradition.
 
 Note:
@@ -107,28 +91,29 @@ The Veda regarded humans as being individual souls and members of a stratified s
 
 ## Classical Hinduism
 
-- Transformations of thought in the Axial Age (c. 800--200 B.C.E.) led to the re-evaluation of Vedic ritual and new ideas about the nature of human existence.
+- Axial Age (c. 800-200 BCE) = a time of reformation and re-evaluation around the world
+- changes took place in India, Greece, China, Mesopotamia, & Israel
 
+Note:
+- Transformations of thought in the Axial Age (c. 800--200 B.C.E.) led to the re-evaluation of Vedic ritual and new ideas about the nature of human existence.
 - Deeper spiritual questions led to the examination of human nature and the possibility of an **afterlife**. 
 - (*This evolution in Indian religion was roughly contemporaneous with similar developments in other civilizations, including ancient Greece, China, Mesopotamia, and Israel.*)
 
---
+---
 
+- from **cosmic maintenance** to **personal enlightenment**
+- classical Hinduism established notion of **samsara** and **transmigration of the soul**
+- **Karma**, **moksha** became  individual experiences
+- **Upanishads** were written
 
+Note:
 - The function of religion changed from that of **cosmic maintenance** to one of **personal enlightenment** and transformation.
-
-- Classical Hinduism established the central problem of human existence for Hindus &#x2013; **samsara**, the cycle of continual **transmigrations of the soul**.
-
-
---
-
+- Classical Hinduism established the central problem of human existence for Hindus **samsara**, the cycle of continual **transmigrations of the soul**.
 - **Karma**, even good **karma**, keeps a person bound to the cycle of transmigration. One path the Hindu tradition offers for the attainment of **moksha**, or ultimate release, is the path of wisdom.
-
 - The path of wisdom found in the Axial Age, when the most important Hindu responses to the anxieties about death and rebirth were recorded in a collection of texts called the **Upanishads**. The oldest of the **Upanishads** was probably composed between 800--400 B.C.E., but actually written down much later.
-
+ called the **Upanishads**. The oldest of the **Upanishads** was probably composed between 800--400 B.C.E., but actually written down much later.
 - Modern Hinduism has had to face challenges brought by the advent of Islam and Western culture. 
  
-Note:
 Both incursions into India have left profound and lasting imprints on Hinduism.
 
 ---
