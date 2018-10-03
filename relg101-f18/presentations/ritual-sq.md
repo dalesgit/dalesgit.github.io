@@ -25,7 +25,7 @@ Chapter Five: Ritual
 <li class="fragment">Shaking hands as a sign of mutual trust </li>
 <li class="fragment">Standing in honor of a particular person </li>
 
---
+---
 
 ## 
 
@@ -35,7 +35,7 @@ Chapter Five: Ritual
 <li class="fragment">What are the best arguments for and against the following claim: “Religion begins with ritual and it remains ritual before it is anything else.” </li>
 <li class="fragment">How can ritual go wrong?  What happens when it goes right? </li>
 
---
+---
 
 ## Ritual in Religious Contexts
 
@@ -46,7 +46,7 @@ Chapter Five: Ritual
 - Other religions are known for their resistance to ritual, but even these religions have certain stylized forms of behavior that are rituals.
 - Society of Friends (Quakers)
 
---
+---
 
 ## Mythos and Ritual
 
@@ -54,7 +54,7 @@ Chapter Five: Ritual
 <li class="fragment">The conjunction of myth and ritual serves as a way for people to participate in the creative power of the sacred. </li>
 <li class="fragment">In many tribal societies people not only remember the tribal myths but also live them and act them out. </li>
 
---
+---
 
 ## Ritual Reenactment
 
@@ -99,8 +99,8 @@ Note:
 
 ## Other examples of  Religious Rituals
 
-- In **Shi’a Islam**, the “passion plays” of the month of Muharram reenact the martyrdom of Husayn at Karbala in 692 C.E. and draw members of the Shi’i community into an eternal drama in which good suffers in its struggle with evil.
-- In Shinto, the rituals performed at shrines throughout Japan reenact the conflict between Amaterasu (the sun goddess) and Susanoo (the god of storms) and enable participants to feel themselves a part of the struggle to bring order to the world.
+- In **Shi’a Islam**, the “passion plays” of the month of **Muharram** reenact the martyrdom of **Husayn** at Karbala in 692 C.E. and draw members of the Shi’a community into an eternal drama in which good suffers in its struggle with evil.
+- In Shinto, the rituals performed at shrines throughout Japan reenact the conflict between **Amaterasu** (the sun goddess) and **Susanoo** (the god of storms) and enable participants to feel themselves a part of the struggle to bring order to the world.
 
 ---
 
@@ -120,7 +120,7 @@ Note:
 
 ## Types of rituals
 
-<li class="fragment">Birth rituals </li>
+- Birth rituals
 <li class="fragment">Rites of Initiation </li>
 <li class="fragment">Rituals of Mourning & Death </li>
 <li class="fragment">Rites of passage of time, e.g. cycle of the year, cycle of seasons </li>
@@ -132,14 +132,8 @@ Note:
 - For Jews and Muslims, circumcision initiates male children into the religious community.
 - In Christian communities, baptism makes the child a member of the Christian church.
 - Hindus use a ritualized feeding to initiate a male member into the duties of his caste.
-
-
-
-
 - Similar meanings are given to birth rituals in the various religious traditions, even though the forms are quite diverse.
 - People celebrate the safe passage of the infant from the womb into the world; they welcome him or her into the family; they give the child a name; they pay homage to the creative power of the sacred.
-
-
 
 ## Rituals of Initiation
 
@@ -148,16 +142,11 @@ Note:
     - ritual segregation from the larger group and some form of testing
     - the actual ceremonies of initiation
     - reentry into the group as a recognized adult
-
-
-
 ## Initiation Rites in Postmodern Society
 
 - In contemporary society, many young people go through a traditional rite of passage, but the “adults” are not really adults for some time after their “passage.”
 - Today, the most common ritual of initiation is marriage.
 - Many elements of the marriage rite hearken back to ancient rituals.
-
-
 
 ## Rituals of Mourning and Death
 
@@ -166,8 +155,6 @@ Note:
 - Many burial rites symbolize the relationship of human beings to the natural world.
     - Pious Hindus in India cremate their dead and consign the ashes to the river Ganges as a sign of the never-ending cycle of life and death.
 
-
-
 ## Rituals of Mourning and Death
 
 - Funeral rites are intended to accomplish different ends in different cultures.
@@ -175,15 +162,11 @@ Note:
 - To provide living “guides” for the dead (Taoism).
 - To help the souls of the dead to purge sin (Roman Catholicism and Orthodoxy).
 
-
-
 ## Temporal Rites and Celebrations
 
 - The observance of cycles of time has been a central characteristic of most, if not all, historic religious traditions.
 - For people who hunted, gathered, or planted, the cycle of the seasons was crucial to life.  As a result, great celebrations and rituals were associated with the change of the seasons.
 - Even in modern industrial societies, many of the great festivals continue to take place in conjunction with the change of the seasons.
-
-
 
 ## Religious Meanings of Ritual
 
@@ -194,16 +177,12 @@ Note:
     - Petition
     - Penance/purification
 
-
-
 ## Adoration
 
 - Basically, adoration means acknowledgment of the sovereignty of the Sacred over the person.
 - Adoration means the acknowledgment that one is not self-sufficient, but dependent.
 - In religions with a personal, transcendent God, there are basic ritual gestures assumed in moments of prayer that dramatically illustrate the concept of adoration.
 - In religions without a transcendent deity, the focus is on the search for enlightenment and the primary gesture of adoration is meditative.
-
-
 
 ## Thanksgiving
 
