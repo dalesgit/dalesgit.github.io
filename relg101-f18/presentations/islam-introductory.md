@@ -77,16 +77,6 @@ https://www.youtube.com/watch?v=4QYrAqrpshw
 
 --- 
 
-## The Promise and the Heirs<a id="orgheadline1"></a>
-
-- Abraham & the covenant (offspring)
-- Hagar & Ishmael (1st born)
-- Judaism & Christianity trace heritage to Isaac
-- Islam traces heritage to Ishmael (the 1st born)
-- History of Israel (cont.)
-
----
-
 ## References<a id="orgheadline2"></a>
 
 - [Timeline:](https://www.preceden.com/timelines/284990-children-of-abraham)
@@ -98,7 +88,20 @@ Slides](https://docs.google.com/presentation/d/1LPvGVndUzxRetPnWtANmeXDamChQaiAh
 
 ---
 
-## Purpose of Life<a id="orgheadline3"></a>
+
+
+##  Promise and Heirs<a id="orgheadline1"></a>
+
+- Abraham & the covenant (offspring)
+- Hagar & Ishmael (1st born)
+- Judaism & Christianity trace heritage to Isaac
+- Islam traces heritage to Ishmael (the 1st born)
+- History of Israel (cont.)
+
+---
+
+
+## Purpose of Life in Islam<a id="orgheadline3"></a>
 
 "And I have not created the jinn and mankind except to worship Me"
 (51:56)
@@ -159,6 +162,11 @@ Note:
 
 ## Basis of Islam<a id="orgheadline5"></a>
 
+- Monotheism (believe Allah)
+- Revealed book = Qur'an, 
+- follow Prophet Muhammad 
+
+Note:
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -188,7 +196,7 @@ Note:
 </tbody>
 </table>
 
-Note: \* Seems to come from a non-Muslim perspective \* Changed "name of
+ to come from a non-Muslim perspective \* Changed "name of
 God" to Deity; put "God" in parenthesis after "Allah" \* Maybe the slide
 could just have 3 pts (no table) under heading "What is Islam": -
 Monotheism (believe Allah), Revealed book = Qur'an, follow Prophet
@@ -198,17 +206,23 @@ Muhammad (this approach relates to next slide)
 - His Name and his oneness
 - Try using a table format to organize the content
 
-**Islam** - Submission - Peace - A way of life
+---
+
+
+**Islam** means
+
+Submission - Peace - A way of life
 
 ---
 
 ## Divine Revelation<a id="orgheadline6"></a>
 
+- Quran: Revelation to Prophet
+- Hadith: sayings of the Prophet
+  - Sunnah is derived from Hadith
 - Sunnah: Prophetic Traditions
   - Sayings, actions or approvals of the Prophet Mohammad (pbuh: *Peace be
     upon him*)
-- Hadith: sayings of the Prophet
-  - Sunnah is derived from Hadith
 
 Note:
 **Sunnah** is the way of the Prophet (SAW). The way prophet (SAW) Acted, prayed, slept and coversed with people etc. 
@@ -218,9 +232,11 @@ Note:
 
 ## Who is a Muslim?<a id="orgheadline7"></a>
 
-"One who submits to God" &#x2013; Anyone can become a Muslim &#x2013; Common
-Greetings incl: *Assalamu Alaykum (Peace be with you)* & *Wa Alaykum
-Assalam (and unto you Peace)*
+- "One who submits to God"  
+- Anyone can become a Muslim  
+- Common Greetings incl: 
+   - *Assalamu Alaykum (Peace be with you)* & 
+   - *Wa Alaykum Assalam (and unto you Peace)*
 
 ---
 
