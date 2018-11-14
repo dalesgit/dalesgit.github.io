@@ -1,0 +1,40 @@
+#+Author: Prof. Dale Hathaway
+#+Title: Tent of Abraham Introduction
+#+Date: 2018-11-14 Wed
+#+Email: hathawayd@winthrop.edu
+
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1
+ #+OPTIONS: toc:nil num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes)
+ #+REVEAL_THEME: beige
+
+
+#+HTML: <section data-transition="slide-in fade-out"
+#+HTML: 			data-markdown="islam-introductory.md"
+#+HTML:          data-separator="^---"  
+#+HTML:          data-vertical="^--"  
+#+HTML:          data-notes="^Note:"  
+#+HTML:          data-charset="utf-8">
+#+HTML: </section>
+
+#+HTML: <section data-transition="slide-in fade-out"
+#+HTML: 			data-markdown="biblical-strand.md"
+#+HTML:          data-separator="^---"  
+#+HTML:          data-vertical="^--"  
+#+HTML:          data-notes="^Note:"  
+#+HTML:          data-charset="utf-8">
+#+HTML: </section>
+
+#+HTML: <section data-transition="slide-in fade-out"
+#+HTML: 			data-markdown="quranic-strand.md"
+#+HTML:          data-separator="^---"  
+#+HTML:          data-vertical="^--"  
+#+HTML:          data-notes="^Note:"  
+#+HTML:          data-charset="utf-8">
+#+HTML: </section>
