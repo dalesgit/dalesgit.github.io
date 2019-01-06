@@ -12,9 +12,6 @@ Prof Dale Hathaway
 
 ![img](https://www.acornonline.com/graphics/products/large/HR1041_F.jpg)
 
----
-
-<!-- .slide: data-background="https://www.acornonline.com/graphics/products/large/HR1041_F.jpg" data-background-size="1000px" -->
 
 ---
 

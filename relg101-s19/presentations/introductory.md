@@ -14,11 +14,6 @@ Prof Dale Hathaway
 
 ---
 
-<!-- .slide: data-background="https://www.acornonline.com/graphics/products/large/HR1041_F.jpg" data-background-size="1000px" -->
-
----
-
-
 ### Introductions<a id="orgheadline5"></a>
 
 On sheet of paper write your name. Then write down:
@@ -64,10 +59,4 @@ An important part of the process of this class
 <li class="fragment">Or, what can you add to your knowledge from the reading?</li>
 <li class="fragment">What new issue or question is raised by the reading?</li>
 <li class="fragment">What would you like to pursue next?</li>
-
----
-
-### an opportunity to share in your classmates reflections<a id="orgheadline7"></a>
-
-n.b. that any copying of others' work falls under the rubric of ****academic dishonesty**** and will not receive credit
 
