@@ -1,34 +1,18 @@
 
-### Phenomenological Method ###
-
--   Why is understanding religion so important for understanding of human existence and culture?
-<li class="fragment">What is the goal of the Phenomenological Method?</li>
-<li class="fragment">What error in Freud and Marx does it seek to avoid?</li>
-<li class="fragment">How does learning from Max Weber help it to a void the opposite error?</li>
-
-Note:
-
-Does it tend to take a more humanistic or theology approach to the study of religion?
-Give examples of how each of the five tools for studying religion might be used and explain how they illustrate the value of each tool.
-What do the last three steps in the phenomenological method have in common?
+### Breadth & Depth of Religious Experience
+  * cf. e.g. impact of Mohammad on huge portion of human life and history
+  * Luther's impact can't be minimized in e.g. South Carolina
 
 ---
 
 ### Tools Used in the Study Religion ###
 
--   Textual: study sacred texts
-<li class="fragment">Historical: describe origin and development of specific religions</li>
-<li class="fragment">Comparative: compare specific types of religious behaviors, beliefs</li>
-<li class="fragment">Philosophical: philosophical analysis of religious language and arguments</li>
-<li class="fragment">Intellectual & Social History: trace development of religious ideas and institutions over time</li>
+- Textual: study sacred texts
+- Historical: describe origin and development of specific religions
+- Comparative: compare specific types of religious behaviors, beliefs
+- Philosophical: philosophical analysis of religious language and arguments
+- Intellectual & Social History: trace development of religious ideas and institutions over time
 
----
-
-### With a partner or two: ###
-
-- brainstorm at least 5 different religious phenomena
-<li class="fragment">What is the thing that you identify?</li>
-<li class="fragment">What makes it religious?</li>
 
 ---
 
@@ -36,7 +20,30 @@ What do the last three steps in the phenomenological method have in common?
 
 ---
 
-### and consists of four steps:
+### Phenomenological Method ###
+
+- Why is understanding religion so important for understanding of human existence and culture?
+- What is the goal of the Phenomenological Method?
+- What error in Freud and Marx does it seek to avoid?
+- How does learning from Max Weber help it to a void the opposite error?
+
+Note:
+**It seeks to take homo religiosos seriously**
+Does it tend to take a more humanistic or theology approach to the study of religion?
+Give examples of how each of the five tools for studying religion might be used and explain how they illustrate the value of each tool.
+What do the last three steps in the phenomenological method have in common?
+
+---
+
+### Reductionism
+"to interpret religion as a function of one or another nonreligious aspect of human existence"
+  * Psychology
+  * Sociology - Political
+  * Challenge to take religion **seriously**while
+      * while also recognizing that **there are no purely religious phenomena**
+---
+
+### consists of four steps:
 
 - Gathering Data: 
 <li class="fragment">Search for Patterns: </li>
@@ -49,3 +56,12 @@ Note:
 - Search for Patterns: look for common patterns across different religions and religious experiences.
 - Analysis of Patterns (for their structures): look for universal meanings in patterns that transcend particular religious contexts and recognize diverse meanings (lack of universal meanings)
 - Offer Generalizations about religious patterns and about religion itself. Describe the common forms and elements of religious life and may even take the next step to offer theory or general explanation of the meaning of these patterns and the nature of religion.
+
+---
+    
+### With a partner or two: ###
+
+- brainstorm at least 5 different religious phenomena
+<li class="fragment">What is the thing that you identify?</li>
+<li class="fragment">What makes it religious?</li>
+
