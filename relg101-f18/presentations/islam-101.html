@@ -3,11 +3,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-11-14 Wed 13:36 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="viewport" content="width=device-width, initial-scale=1" />
-<title></title>
-<meta  name="generator" content="Org-mode" />
+<!-- 2019-01-12 Sat 08:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -52,13 +52,98 @@
     border: 1px solid black;
   }
   pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
@@ -75,6 +160,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -91,6 +189,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <script type="text/javascript">
@@ -98,7 +197,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -142,13 +241,13 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orgheadline3" class="outline-2">
-<h2 id="children-of-abraham"><a id="orgheadline3"></a>Children of Abraham</h2>
+<div id="outline-container-org86e12d0" class="outline-2">
+<h2 id="children-of-abraham">Children of Abraham</h2>
 <div class="outline-text-2" id="text-children-of-abraham">
 </div>
 
-<div id="outline-container-orgheadline1" class="outline-3">
-<h3 id="scriptures-preliminary"><a id="orgheadline1"></a>Scriptures: preliminary</h3>
+<div id="outline-container-orgded72dc" class="outline-3">
+<h3 id="scriptures-preliminary">Scriptures: preliminary</h3>
 <div class="outline-text-3" id="text-scriptures-preliminary">
 <ul class="org-ul">
 <li>Abraham source in all 3</li>
@@ -202,8 +301,8 @@ dead birds.
 </div>
 </div>
 
-<div id="outline-container-orgheadline2" class="outline-3">
-<h3 id="scriptures"><a id="orgheadline2"></a>Scriptures</h3>
+<div id="outline-container-org5bbd7f2" class="outline-3">
+<h3 id="scriptures">Scriptures</h3>
 <div class="outline-text-3" id="text-scriptures">
 <ul class="org-ul">
 <li>3 texts
@@ -232,8 +331,8 @@ version</a></li>
 </div>
 </div>
 
-<div id="outline-container-orgheadline4" class="outline-2">
-<h2 id="the-promise-and-the-heirs"><a id="orgheadline4"></a>The Promise and the Heirs</h2>
+<div id="outline-container-orgf1d0ffe" class="outline-2">
+<h2 id="the-promise-and-the-heirs">The Promise and the Heirs</h2>
 <div class="outline-text-2" id="text-the-promise-and-the-heirs">
 <ul class="org-ul">
 <li>Abraham &amp; the covenant (offspring)</li>
@@ -243,17 +342,17 @@ version</a></li>
 <li>History of Israel (cont.)</li>
 </ul>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline6" class="outline-2">
-<h2 id="islam-101"><a id="orgheadline6"></a>Islam 101</h2>
+<div id="outline-container-orgdb53627" class="outline-2">
+<h2 id="islam-101">Islam 101</h2>
 <div class="outline-text-2" id="text-islam-101">
 </div>
 
-<div id="outline-container-orgheadline5" class="outline-3">
-<h3 id="relg-101"><a id="orgheadline5"></a>RELG 101</h3>
+<div id="outline-container-org99842a0" class="outline-3">
+<h3 id="relg-101">RELG 101</h3>
 <div class="outline-text-3" id="text-relg-101">
 <p>
 <b>Spring 2017</b>
@@ -274,15 +373,15 @@ Slides</a>
 </div>
 </div>
 
-<div id="outline-container-orgheadline7" class="outline-2">
-<h2 id="presented-by-whyislam.org"><a id="orgheadline7"></a>Presented by WhyIslam.org</h2>
+<div id="outline-container-org06fb7c4" class="outline-2">
+<h2 id="presented-by-whyislam.org">Presented by WhyIslam.org</h2>
 <div class="outline-text-2" id="text-presented-by-whyislam.org">
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline8" class="outline-2">
-<h2 id="outline"><a id="orgheadline8"></a>Outline</h2>
+<div id="outline-container-org254d1fe" class="outline-2">
+<h2 id="outline">Outline</h2>
 <div class="outline-text-2" id="text-outline">
 <ul class="org-ul">
 <li>Introduction</li>
@@ -291,12 +390,12 @@ Slides</a>
 <li>Misconceptions</li>
 </ul>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline9" class="outline-2">
-<h2 id="purpose-of-life"><a id="orgheadline9"></a>Purpose of Life</h2>
+<div id="outline-container-org0f21038" class="outline-2">
+<h2 id="purpose-of-life">Purpose of Life</h2>
 <div class="outline-text-2" id="text-purpose-of-life">
 <p>
 "And I have not created the jinn and mankind except to worship Me"
@@ -307,12 +406,12 @@ Slides</a>
 <a href="http://drive.google.com/uc?id=0B8ezT0-tUjVZRWtJOFBITW8xdGM">http://drive.google.com/uc?id=0B8ezT0-tUjVZRWtJOFBITW8xdGM</a>
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline10" class="outline-2">
-<h2 id="what-is-islam"><a id="orgheadline10"></a>What is Islam?</h2>
+<div id="outline-container-org43efa37" class="outline-2">
+<h2 id="what-is-islam">What is Islam?</h2>
 <div class="outline-text-2" id="text-what-is-islam">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -357,8 +456,8 @@ Note:
 </div>
 </div>
 
-<div id="outline-container-orgheadline11" class="outline-2">
-<h2 id="divine-revelation"><a id="orgheadline11"></a>Divine Revelation</h2>
+<div id="outline-container-org91b092b" class="outline-2">
+<h2 id="divine-revelation">Divine Revelation</h2>
 <div class="outline-text-2" id="text-divine-revelation">
 <ul class="org-ul">
 <li>Sunnah (Prophetic Traditions)</li>
@@ -372,8 +471,8 @@ upon him</i>)</li>
 </div>
 </div>
 
-<div id="outline-container-orgheadline12" class="outline-2">
-<h2 id="basis-of-islam"><a id="orgheadline12"></a>Basis of Islam</h2>
+<div id="outline-container-org8699e14" class="outline-2">
+<h2 id="basis-of-islam">Basis of Islam</h2>
 <div class="outline-text-2" id="text-basis-of-islam">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -426,8 +525,8 @@ Muhammad (this approach relates to next slide)
 </div>
 </div>
 
-<div id="outline-container-orgheadline13" class="outline-2">
-<h2 id="who-is-a-muslim"><a id="orgheadline13"></a>Who is a Muslim?</h2>
+<div id="outline-container-org12f615f" class="outline-2">
+<h2 id="who-is-a-muslim">Who is a Muslim?</h2>
 <div class="outline-text-2" id="text-who-is-a-muslim">
 <p>
 "One who submits to God" &#x2013; Anyone can become a Muslim &#x2013; Common
@@ -449,12 +548,12 @@ Include more relevant pictures that speak to Americans (white) Speaking
 Points: Anyone can be a Muslim Include Muslim Greetings
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline14" class="outline-2">
-<h2 id="what-do-muslims-believe"><a id="orgheadline14"></a>What do Muslims Believe?</h2>
+<div id="outline-container-org726b068" class="outline-2">
+<h2 id="what-do-muslims-believe">What do Muslims Believe?</h2>
 <div class="outline-text-2" id="text-what-do-muslims-believe">
 <ul class="org-ul">
 <li>Allah</li>
@@ -475,8 +574,8 @@ Note: What about Mozlem or Muzlim (speaking point)
 </div>
 </div>
 
-<div id="outline-container-orgheadline15" class="outline-2">
-<h2 id="allah"><a id="orgheadline15"></a>Allah</h2>
+<div id="outline-container-org8972aaf" class="outline-2">
+<h2 id="allah">Allah</h2>
 <div class="outline-text-2" id="text-allah">
 <ul class="org-ul">
 <li>"The ONLY God"</li>
@@ -500,8 +599,8 @@ begets not, nor is He begotten; And there is none like Him.</i> Qur'an
 </div>
 </div>
 
-<div id="outline-container-orgheadline16" class="outline-2">
-<h2 id="quran-2255"><a id="orgheadline16"></a>Qur'an 2:255</h2>
+<div id="outline-container-org74d5c8e" class="outline-2">
+<h2 id="quran-2255">Qur'an 2:255</h2>
 <div class="outline-text-2" id="text-quran-2255">
 <p>
 /Allah! There is no god but He,-the Living, the Self-subsisting,
@@ -520,8 +619,8 @@ is the Most High, the Supreme (in glory)/.
 </div>
 </div>
 
-<div id="outline-container-orgheadline17" class="outline-2">
-<h2 id="angels"><a id="orgheadline17"></a>Angels</h2>
+<div id="outline-container-org3e19fb4" class="outline-2">
+<h2 id="angels">Angels</h2>
 <div class="outline-text-2" id="text-angels">
 <p>
 "<b>They do not disobey Allah's commands and they do as they are told to
@@ -555,8 +654,8 @@ do</b>." (Qur'an 66 verse 6)
 </div>
 </div>
 
-<div id="outline-container-orgheadline18" class="outline-2">
-<h2 id="prophets"><a id="orgheadline18"></a>Prophets</h2>
+<div id="outline-container-org14314e3" class="outline-2">
+<h2 id="prophets">Prophets</h2>
 <div class="outline-text-2" id="text-prophets">
 <p>
 Chosen by Allah to be His messengers
@@ -581,8 +680,8 @@ Mohammad is the final Prophet
 </div>
 </div>
 
-<div id="outline-container-orgheadline19" class="outline-2">
-<h2 id="prophet-mohammad-pbuh"><a id="orgheadline19"></a>Prophet Mohammad (pbuh)</h2>
+<div id="outline-container-org2c121cb" class="outline-2">
+<h2 id="prophet-mohammad-pbuh">Prophet Mohammad (pbuh)</h2>
 <div class="outline-text-2" id="text-prophet-mohammad-pbuh">
 <ul class="org-ul">
 <li>"Al-Amin" (The Truthful)</li>
@@ -616,8 +715,8 @@ Muslims is also according to the CIA World Fact Book Arabs are Muslims
 </div>
 </div>
 
-<div id="outline-container-orgheadline21" class="outline-2">
-<h2 id="revelations"><a id="orgheadline21"></a>Revelations</h2>
+<div id="outline-container-orgcfc6e4d" class="outline-2">
+<h2 id="revelations">Revelations</h2>
 <div class="outline-text-2" id="text-revelations">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -673,8 +772,8 @@ Muslims is also according to the CIA World Fact Book Arabs are Muslims
 </p>
 </div>
 
-<div id="outline-container-orgheadline20" class="outline-4">
-<h4 id="quran-546-48"><a id="orgheadline20"></a>Qur'an 5:46-48</h4>
+<div id="outline-container-org1f43ab2" class="outline-4">
+<h4 id="quran-546-48">Qur'an 5:46-48</h4>
 <div class="outline-text-4" id="text-quran-546-48">
 <p>
 And in their footsteps We sent Jesus the son of Mary, confirming the Law
@@ -712,8 +811,8 @@ dispute;
 </div>
 </div>
 
-<div id="outline-container-orgheadline22" class="outline-2">
-<h2 id="the-holy-quran"><a id="orgheadline22"></a>The Holy Qur'an</h2>
+<div id="outline-container-org6b7b11a" class="outline-2">
+<h2 id="the-holy-quran">The Holy Qur'an</h2>
 <div class="outline-text-2" id="text-the-holy-quran">
 <ul class="org-ul">
 <li>Literally means "The Recited"</li>
@@ -724,10 +823,15 @@ salvation and much more</li>
 <li>A guide on "How to Live"</li>
 </ul>
 
-<hr  />
+<hr />
 
-<section data-background="![](http://drive.google.com/uc?id=0B8ezT0-tUjVZMmtJMDdxTXFST28)" data-background-size="1000px">
-</section>
+<div class="HTML">
+<p>
+&lt;section data-background="![](<a href="http://drive.google.com/uc?id=0B8ezT0-tUjVZMmtJMDdxTXFST28">http://drive.google.com/uc?id=0B8ezT0-tUjVZMmtJMDdxTXFST28</a>)" data-background-size="1000px"&gt;
+&lt;/section&gt;
+</p>
+
+</div>
 
 <p>
 Note: * Change 66:6 to "al-Tahrim: verse 6" Many Angels with specific
@@ -744,8 +848,8 @@ Don't spend too much time on this slide
 </div>
 </div>
 
-<div id="outline-container-orgheadline23" class="outline-2">
-<h2 id="life-after-death"><a id="orgheadline23"></a>Life after Death</h2>
+<div id="outline-container-org79b0142" class="outline-2">
+<h2 id="life-after-death">Life after Death</h2>
 <div class="outline-text-2" id="text-life-after-death">
 <p>
 Accountability &#x2013; Weight of Good/Bad Deeds &#x2013; Day of Judgment (21:47) &#x2013;
@@ -767,8 +871,8 @@ will be accountable for our deeds&#x2026; vs. other religions.
 </div>
 </div>
 
-<div id="outline-container-orgheadline24" class="outline-2">
-<h2 id="predestination"><a id="orgheadline24"></a>Predestination</h2>
+<div id="outline-container-org7ae0677" class="outline-2">
+<h2 id="predestination">Predestination</h2>
 <div class="outline-text-2" id="text-predestination">
 <ul class="org-ul">
 <li>Certain aspects of one's life are predestined</li>
@@ -784,12 +888,12 @@ progressive revelation. i.e. use numbering and stress in explanation
 <li>Arabic in italics? (more focus on familiar English names + prophets)</li>
 </ul>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline25" class="outline-2">
-<h2 id="duties-of-a-muslim"><a id="orgheadline25"></a>Duties of a muslim</h2>
+<div id="outline-container-org9f666e1" class="outline-2">
+<h2 id="duties-of-a-muslim">Duties of a muslim</h2>
 <div class="outline-text-2" id="text-duties-of-a-muslim">
 <ul class="org-ul">
 <li>What do muslims do</li>
@@ -802,8 +906,8 @@ progressive revelation. i.e. use numbering and stress in explanation
 </div>
 </div>
 
-<div id="outline-container-orgheadline26" class="outline-2">
-<h2 id="pillars-islam"><a id="orgheadline26"></a>5 Pillars Islam</h2>
+<div id="outline-container-orgf6c73e5" class="outline-2">
+<h2 id="pillars-islam">5 Pillars Islam</h2>
 <div class="outline-text-2" id="text-pillars-islam">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -858,8 +962,8 @@ are Preservation of Arabic language
 </div>
 </div>
 
-<div id="outline-container-orgheadline27" class="outline-2">
-<h2 id="shahada"><a id="orgheadline27"></a>Shahada</h2>
+<div id="outline-container-orgba09399" class="outline-2">
+<h2 id="shahada">Shahada</h2>
 <div class="outline-text-2" id="text-shahada">
 <p>
 <b>Declaration of Faith</b>
@@ -889,13 +993,13 @@ Note: Talk about beliefs vs. actions
 </div>
 </div>
 
-<div id="outline-container-orgheadline29" class="outline-2">
-<h2 id="salah"><a id="orgheadline29"></a>Salah</h2>
+<div id="outline-container-orga954eca" class="outline-2">
+<h2 id="salah">Salah</h2>
 <div class="outline-text-2" id="text-salah">
 </div>
 
-<div id="outline-container-orgheadline28" class="outline-3">
-<h3 id="daily-prayers"><a id="orgheadline28"></a>Daily Prayers</h3>
+<div id="outline-container-org76918ce" class="outline-3">
+<h3 id="daily-prayers">Daily Prayers</h3>
 <div class="outline-text-3" id="text-daily-prayers">
 <ul class="org-ul">
 <li>Muslims pray to God 5 times a day</li>
@@ -921,21 +1025,26 @@ Explain what Islamic Prayer is Find a verse: Indeed prayer will tanha&#x2026;
 Explain duaa vs. prayer and non-mandatory prayers 23 &#x2014;
 </p>
 
-<section data-background="http://drive.google.com/uc?id=0B8ezT0-tUjVZRWtJOFBITW8xdGM" data-background-size="1000px">
-</section>
+<div class="HTML">
+<p>
+&lt;section data-background="<a href="http://drive.google.com/uc?id=0B8ezT0-tUjVZRWtJOFBITW8xdGM">http://drive.google.com/uc?id=0B8ezT0-tUjVZRWtJOFBITW8xdGM</a>" data-background-size="1000px"&gt;
+&lt;/section&gt;
+</p>
 
-<hr  />
+</div>
+
+<hr />
 </div>
 </div>
 </div>
 
-<div id="outline-container-orgheadline31" class="outline-2">
-<h2 id="zakah"><a id="orgheadline31"></a>Zakah</h2>
+<div id="outline-container-org88799fa" class="outline-2">
+<h2 id="zakah">Zakah</h2>
 <div class="outline-text-2" id="text-zakah">
 </div>
 
-<div id="outline-container-orgheadline30" class="outline-3">
-<h3 id="charity"><a id="orgheadline30"></a>Charity</h3>
+<div id="outline-container-orgae54f4a" class="outline-3">
+<h3 id="charity">Charity</h3>
 <div class="outline-text-3" id="text-charity">
 <ul class="org-ul">
 <li>Purifying Wealth</li>
@@ -959,8 +1068,8 @@ Definition of zakah Amount we pay To whom it can be paid to Compared to
 </div>
 </div>
 
-<div id="outline-container-orgheadline32" class="outline-2">
-<h2 id="sawm"><a id="orgheadline32"></a>Sawm</h2>
+<div id="outline-container-orgdeeac4b" class="outline-2">
+<h2 id="sawm">Sawm</h2>
 <div class="outline-text-2" id="text-sawm">
 <p>
 <b>Fasting</b>
@@ -973,9 +1082,9 @@ Definition of zakah Amount we pay To whom it can be paid to Compared to
 </div>
 </div>
 
-<div id="outline-container-orgheadline33" class="outline-2">
-<h2 id="orgheadline33">Benefits**</h2>
-<div class="outline-text-2" id="text-orgheadline33">
+<div id="outline-container-orga042f15" class="outline-2">
+<h2 id="orga042f15">Benefits**</h2>
+<div class="outline-text-2" id="text-orga042f15">
 <ul class="org-ul">
 <li>Build will-power</li>
 <li>Feel compassion</li>
@@ -1002,13 +1111,13 @@ and how it gets you closer to Allah (swT)
 </div>
 </div>
 
-<div id="outline-container-orgheadline35" class="outline-2">
-<h2 id="hajj"><a id="orgheadline35"></a>Hajj</h2>
+<div id="outline-container-org1c34f7d" class="outline-2">
+<h2 id="hajj">Hajj</h2>
 <div class="outline-text-2" id="text-hajj">
 </div>
 
-<div id="outline-container-orgheadline34" class="outline-3">
-<h3 id="pilgrimage-to-makkah"><a id="orgheadline34"></a>Pilgrimage to Makkah</h3>
+<div id="outline-container-org264e571" class="outline-3">
+<h3 id="pilgrimage-to-makkah">Pilgrimage to Makkah</h3>
 <div class="outline-text-3" id="text-pilgrimage-to-makkah">
 <ul class="org-ul">
 <li>Once in their lifetime, Muslims travel to Makkah to perform the Hajj.</li>
@@ -1027,29 +1136,34 @@ concise and short
 <li>Perhaps include less ahadith.</li>
 </ul>
 
-<hr  />
+<hr />
 
-<section data-background="http://drive.google.com/uc?id=0B8ezT0-tUjVZQ3ozNFhSTnNZUDQ" data-background-size="1000px">
-</section>
+<div class="HTML">
+<p>
+&lt;section data-background="<a href="http://drive.google.com/uc?id=0B8ezT0-tUjVZQ3ozNFhSTnNZUDQ">http://drive.google.com/uc?id=0B8ezT0-tUjVZQ3ozNFhSTnNZUDQ</a>" data-background-size="1000px"&gt;
+&lt;/section&gt;
+</p>
 
-<hr  />
+</div>
+
+<hr />
 </div>
 </div>
 </div>
 
-<div id="outline-container-orgheadline36" class="outline-2">
-<h2 id="islam-muslim"><a id="orgheadline36"></a>Islam &amp; Muslim</h2>
+<div id="outline-container-org62a985a" class="outline-2">
+<h2 id="islam-muslim">Islam &amp; Muslim</h2>
 <div class="outline-text-2" id="text-islam-muslim">
 <p>
 ISLAM =Religion MUSLIM=Follower of Islam
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline37" class="outline-2">
-<h2 id="a-few-misconceptions"><a id="orgheadline37"></a>A few Misconceptions</h2>
+<div id="outline-container-org4328aef" class="outline-2">
+<h2 id="a-few-misconceptions">A few Misconceptions</h2>
 <div class="outline-text-2" id="text-a-few-misconceptions">
 <ul class="org-ul">
 <li>Islam and Culture</li>
@@ -1065,8 +1179,8 @@ ISLAM =Religion MUSLIM=Follower of Islam
 </div>
 </div>
 
-<div id="outline-container-orgheadline38" class="outline-2">
-<h2 id="islam-culture"><a id="orgheadline38"></a>Islam &amp; Culture</h2>
+<div id="outline-container-orgb07f560" class="outline-2">
+<h2 id="islam-culture">Islam &amp; Culture</h2>
 <div class="outline-text-2" id="text-islam-culture">
 <ul class="org-ul">
 <li>What's the difference?</li>
@@ -1077,12 +1191,12 @@ ISLAM =Religion MUSLIM=Follower of Islam
 <a href="http://drive.google.com/uc?id=0B8ezT0-tUjVZbXlYLVZOdzdKcU0">http://drive.google.com/uc?id=0B8ezT0-tUjVZbXlYLVZOdzdKcU0</a>
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline39" class="outline-2">
-<h2 id="muslims-and-arabs"><a id="orgheadline39"></a>Muslims and Arabs</h2>
+<div id="outline-container-org1b2e911" class="outline-2">
+<h2 id="muslims-and-arabs">Muslims and Arabs</h2>
 <div class="outline-text-2" id="text-muslims-and-arabs">
 <ul class="org-ul">
 <li>Muslim Population 1.6 - 1.8 Billion</li>
@@ -1097,8 +1211,8 @@ ISLAM =Religion MUSLIM=Follower of Islam
 </div>
 </div>
 
-<div id="outline-container-orgheadline40" class="outline-2">
-<h2 id="status-of-women"><a id="orgheadline40"></a>Status of Women</h2>
+<div id="outline-container-org4ea9d85" class="outline-2">
+<h2 id="status-of-women">Status of Women</h2>
 <div class="outline-text-2" id="text-status-of-women">
 <p>
 "Prior to Islam, a woman was regarded by her parents as a threat to
@@ -1128,8 +1242,8 @@ prayer
 </div>
 </div>
 
-<div id="outline-container-orgheadline41" class="outline-2">
-<h2 id="concept-of-jihad"><a id="orgheadline41"></a>Concept of Jihad</h2>
+<div id="outline-container-org42cfbb6" class="outline-2">
+<h2 id="concept-of-jihad">Concept of Jihad</h2>
 <div class="outline-text-2" id="text-concept-of-jihad">
 <ul class="org-ul">
 <li>Different Forms of Jihad</li>
@@ -1161,8 +1275,8 @@ Note: Include Audio of the Qur'an &#x2013; Surat Al Fatiha
 </div>
 </div>
 
-<div id="outline-container-orgheadline42" class="outline-2">
-<h2 id="jesus-pbuh"><a id="orgheadline42"></a>Jesus (pbuh)</h2>
+<div id="outline-container-org8ed1977" class="outline-2">
+<h2 id="jesus-pbuh">Jesus (pbuh)</h2>
 <div class="outline-text-2" id="text-jesus-pbuh">
 <ul class="org-ul">
 <li>Status in Islam</li>
@@ -1186,8 +1300,8 @@ Pictures of different hijabs (african, arab, etc&#x2026;)
 </div>
 </div>
 
-<div id="outline-container-orgheadline43" class="outline-2">
-<h2 id="shariah"><a id="orgheadline43"></a>Shariah</h2>
+<div id="outline-container-orgb7a554f" class="outline-2">
+<h2 id="shariah">Shariah</h2>
 <div class="outline-text-2" id="text-shariah">
 <ul class="org-ul">
 <li>Society</li>
@@ -1221,8 +1335,8 @@ Maybe title it "Where does it come from?"
 </div>
 </div>
 
-<div id="outline-container-orgheadline44" class="outline-2">
-<h2 id="recap-slide"><a id="orgheadline44"></a>Recap slide</h2>
+<div id="outline-container-org3c17293" class="outline-2">
+<h2 id="recap-slide">Recap slide</h2>
 <div class="outline-text-2" id="text-recap-slide">
 <ul class="org-ul">
 <li>Belief in One God (Allah)</li>
@@ -1232,17 +1346,17 @@ Maybe title it "Where does it come from?"
 <li>Islam is a Way of Life</li>
 </ul>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline46" class="outline-2">
-<h2 id="hadith"><a id="orgheadline46"></a>Hadith</h2>
+<div id="outline-container-orga159c6b" class="outline-2">
+<h2 id="hadith">Hadith</h2>
 <div class="outline-text-2" id="text-hadith">
 </div>
 
-<div id="outline-container-orgheadline45" class="outline-3">
-<h3 id="sayings-of-the-prophet-muhammad"><a id="orgheadline45"></a>Sayings of the Prophet Muhammad</h3>
+<div id="outline-container-org21599c0" class="outline-3">
+<h3 id="sayings-of-the-prophet-muhammad">Sayings of the Prophet Muhammad</h3>
 <div class="outline-text-3" id="text-sayings-of-the-prophet-muhammad">
 <p>
 "The world is green and beautiful, and God has appointed you His
@@ -1270,8 +1384,8 @@ hearts and your deeds."
 </div>
 </div>
 
-<div id="outline-container-orgheadline47" class="outline-2">
-<h2 id="hadith-cont"><a id="orgheadline47"></a>Hadith (cont)</h2>
+<div id="outline-container-orgd7bedfc" class="outline-2">
+<h2 id="hadith-cont">Hadith (cont)</h2>
 <div class="outline-text-2" id="text-hadith-cont">
 <p>
 "The most perfect in faith amongst Muslim men is he who is best in
@@ -1289,8 +1403,8 @@ Note:
 </div>
 </div>
 
-<div id="outline-container-orgheadline48" class="outline-2">
-<h2 id="any-questions"><a id="orgheadline48"></a>Any Questions?</h2>
+<div id="outline-container-org434c9c7" class="outline-2">
+<h2 id="any-questions">Any Questions?</h2>
 <div class="outline-text-2" id="text-any-questions">
 <p>
 Visit www.WhyIslam.org
@@ -1303,7 +1417,7 @@ Or Call (877) Why-Islam
 </div>
 </div>
 <div id="postamble" class="status">
-Last update : 14 Nov 2018
+Last update : 12 Jan 2019
 </div>
 </body>
 </html>

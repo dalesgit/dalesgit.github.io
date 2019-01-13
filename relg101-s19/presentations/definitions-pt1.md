@@ -1,30 +1,9 @@
 
-## Assessing our Spirituality ##
-
-**Reflect on your own Spirituality**
-
-   - Rubric: Share insight, not necessarily anything about your conclusions. Class charge you with respecting your classmates.
-   - break into groups of 3-4
-    - Share with one another your insights in thinking about your spirituality
-    - Report back to class
-
----
 
 ## Studying Religion ##
 
 ---
 
-### Tools Used in the Study Religion (Review) ###
-
-Religious studies is the attempt to study these things, taking **homo religiosus** seriously
-
-- Textual: study sacred texts
-- Historical: describe origin and (development of specific religions
-- Comparative: compare specific types of religious behaviors, beliefs
-- Philosophical: philosophical analysis of religious language and arguments
-- Intellectual & Social History: trace development of religious ideas and institutions over time
-
----
 
 ### "What is required is perspective" (p. 8) ###
 

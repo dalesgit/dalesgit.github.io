@@ -1,335 +1,292 @@
-<!DOCTYPE html>
-<html>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>biblical-research-101</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 2016-09-27 Tue 11:24 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Dale Hathaway" />
 <style type="text/css">
-/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
-/* Author: Nicolas Hery - http://nicolashery.com */
-/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
-/* Source: https://github.com/nicolahery/markdownpad-github */
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
 
-/* RESET
-=============================================================================*/
-
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-
-/* BODY
-=============================================================================*/
-
-body {
-  font-family: Helvetica, arial, freesans, clean, sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  color: #333;
-  background-color: #fff;
-  padding: 20px;
-  max-width: 960px;
-  margin: 0 auto;
-}
-
-body>*:first-child {
-  margin-top: 0 !important;
-}
-
-body>*:last-child {
-  margin-bottom: 0 !important;
-}
-
-/* BLOCKS
-=============================================================================*/
-
-p, blockquote, ul, ol, dl, table, pre {
-  margin: 15px 0;
-}
-
-/* HEADERS
-=============================================================================*/
-
-h1, h2, h3, h4, h5, h6 {
-  margin: 20px 0 10px;
-  padding: 0;
-  font-weight: bold;
-  -webkit-font-smoothing: antialiased;
-}
-
-h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
-  font-size: inherit;
-}
-
-h1 {
-  font-size: 28px;
-  color: #000;
-}
-
-h2 {
-  font-size: 24px;
-  border-bottom: 1px solid #ccc;
-  color: #000;
-}
-
-h3 {
-  font-size: 18px;
-}
-
-h4 {
-  font-size: 16px;
-}
-
-h5 {
-  font-size: 14px;
-}
-
-h6 {
-  color: #777;
-  font-size: 14px;
-}
-
-body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
-  margin-top: 0;
-  padding-top: 0;
-}
-
-a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
-  margin-top: 0;
-  padding-top: 0;
-}
-
-h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
-  margin-top: 10px;
-}
-
-/* LINKS
-=============================================================================*/
-
-a {
-  color: #4183C4;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* LISTS
-=============================================================================*/
-
-ul, ol {
-  padding-left: 30px;
-}
-
-ul li > :first-child, 
-ol li > :first-child, 
-ul li ul:first-of-type, 
-ol li ol:first-of-type, 
-ul li ol:first-of-type, 
-ol li ul:first-of-type {
-  margin-top: 0px;
-}
-
-ul ul, ul ol, ol ol, ol ul {
-  margin-bottom: 0;
-}
-
-dl {
-  padding: 0;
-}
-
-dl dt {
-  font-size: 14px;
-  font-weight: bold;
-  font-style: italic;
-  padding: 0;
-  margin: 15px 0 5px;
-}
-
-dl dt:first-child {
-  padding: 0;
-}
-
-dl dt>:first-child {
-  margin-top: 0px;
-}
-
-dl dt>:last-child {
-  margin-bottom: 0px;
-}
-
-dl dd {
-  margin: 0 0 15px;
-  padding: 0 15px;
-}
-
-dl dd>:first-child {
-  margin-top: 0px;
-}
-
-dl dd>:last-child {
-  margin-bottom: 0px;
-}
-
-/* CODE
-=============================================================================*/
-
-pre, code, tt {
-  font-size: 12px;
-  font-family: Consolas, "Liberation Mono", Courier, monospace;
-}
-
-code, tt {
-  margin: 0 0px;
-  padding: 0px 0px;
-  white-space: nowrap;
-  border: 1px solid #eaeaea;
-  background-color: #f8f8f8;
-  border-radius: 3px;
-}
-
-pre>code {
-  margin: 0;
-  padding: 0;
-  white-space: pre;
-  border: none;
-  background: transparent;
-}
-
-pre {
-  background-color: #f8f8f8;
-  border: 1px solid #ccc;
-  font-size: 13px;
-  line-height: 19px;
-  overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px;
-}
-
-pre code, pre tt {
-  background-color: transparent;
-  border: none;
-}
-
-kbd {
-    -moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-top-colors: none;
-    background-color: #DDDDDD;
-    background-image: linear-gradient(#F1F1F1, #DDDDDD);
-    background-repeat: repeat-x;
-    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
-    border-image: none;
-    border-radius: 2px 2px 2px 2px;
-    border-style: solid;
-    border-width: 1px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    line-height: 10px;
-    padding: 1px 4px;
-}
-
-/* QUOTES
-=============================================================================*/
-
-blockquote {
-  border-left: 4px solid #DDD;
-  padding: 0 15px;
-  color: #777;
-}
-
-blockquote>:first-child {
-  margin-top: 0px;
-}
-
-blockquote>:last-child {
-  margin-bottom: 0px;
-}
-
-/* HORIZONTAL RULES
-=============================================================================*/
-
-hr {
-  clear: both;
-  margin: 15px 0;
-  height: 0px;
-  overflow: hidden;
-  border: none;
-  background: transparent;
-  border-bottom: 4px solid #ddd;
-  padding: 0;
-}
-
-/* TABLES
-=============================================================================*/
-
-table th {
-  font-weight: bold;
-}
-
-table th, table td {
-  border: 1px solid #ccc;
-  padding: 6px 13px;
-}
-
-table tr {
-  border-top: 1px solid #ccc;
-  background-color: #fff;
-}
-
-table tr:nth-child(2n) {
-  background-color: #f8f8f8;
-}
-
-/* IMAGES
-=============================================================================*/
-
-img {
-  max-width: 100%
-}
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
 </style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
 </head>
 <body>
-<h1>Research and Biblical Studies; an introduction</h1>
-<p><em>compiled by Prof. Hathaway</em><br />
- <em>2016</em></p>
-<h2>Essential Questions:</h2>
-<ol>
-<li>How old is the resource? Is the information current?</li>
-<li>What is the organization behind the web site and what is its mission (mission statement?)</li>
-<li>What level of scholarship does it reflect? Is it aimed at children, general population, or scholars?</li>
-<li>What are the qualifications of the authors?</li>
-<li>Does the site provide citations and references?</li>
-</ol>
-<hr />
-<h1>from Northern Michigan University</h1>
-<p>Because of the hodge-podge of information on the Internet, it is very important you develop evaluation skills to assist you in identifying quality Web pages.  There are six (6) criteria that should be applied when evaluating any Web site: <strong>authority, accuracy, objectivity, currency, coverage</strong>, and <strong>appearance</strong>.  For each criteria, there are several questions to be asked.   The more questions you can answer &quot;yes&quot;, the more likely the Web site is one of quality. (<a href="http://library.nmu.edu/guides/userguides/webeval.htm">NMU</a>)</p>
-<hr />
-<h2>Overview</h2>
-<p>The world is full of information to be found—however, not all of it is valid, useful, or accurate. Evaluating sources of information that you are considering using in your writing is an important step in any research activity.</p>
-<p>The quantity of information available is so staggering that we cannot know everything about a subject. For example, it's estimated that anyone attempting to research what's known about depression would have to read over 100,000 studies on the subject. And there's the problem of trying to decide which studies have produced reliable results.</p>
-<p>Similarly, for information on other topics, not only is there a huge quantity available but with a very uneven level of quality. You don't want to rely on the news in the headlines of sensational tabloids near supermarket checkout counters, and it's just as hard to know how much to accept of what's in all the books, magazines, pamphlets, newspapers, journals, brochures, Web sites, and various media reports that are available. People want to convince you to buy their products, agree with their opinions, rely on their data, vote for their candidate, consider their perspective, or accept them as experts. In short, you have to sift and make decisions all the time, and you want to make responsible choices that you won't regret.</p>
-<p>Evaluating sources is an important skill. It's been called an art as well as work—much of which is detective work. You have to decide where to look, what clues to search for, and what to accept. You may be overwhelmed with too much information or too little. The temptation is to accept whatever you find. But don't be tempted. Learning how to evaluate effectively is a skill you need both for your course papers and for your life.</p>
-<p>When writing research papers, you will also be evaluating sources as you search for information. You will need to make decisions about what to search for, where to look, and once you've found material on your topic, if it is a valid or useful source for your writing.<a href="https://owl.english.purdue.edu/owl/resource/553/01/" title="Purdue's OWL website">source Purdue's OWL website</a></p>
-<p><strong>Bible study resources</strong></p>
-<p><em>Evaluating internet resources</em></p>
-<hr />
-<p><a href="http://library.nmu.edu/guides/userguides/webeval.htm">http://library.nmu.edu/guides/userguides/webeval.htm</a><br />
- <a href="http://mason.gmu.edu/~montecin/web­eval­sites.htm">http://mason.gmu.edu/~montecin/web­eval­sites.htm</a><br />
- <a href="http://mason.gmu.edu/~montecin/nclc­analyzeweb.htm">http://mason.gmu.edu/~montecin/nclc­analyzeweb.htm</a><br />
- <a href="https://owl.english.purdue.edu/owl/resource/553/01/">https://owl.english.purdue.edu/owl/resource/553/01/</a><br />
- <a href="http://library.uaf.edu/ls101­evaluation">http://library.uaf.edu/ls101­evaluation</a><br />
- <a href="http://www.virtualsalt.com/evalu8it.htm">http://www.virtualsalt.com/evalu8it.htm</a>  </p>
-<p>This is a subscription service. Does our­­ library have? It is a substantial and authoritative site.
- <a href="http://www.oxfordbiblicalstudies.com/Public/Home.html?url=%2Fapp%3Fservice%3Dexternalpagemethod%26method%3Dview%26page%3DHome&amp;failReason=Error+reason%3A+err_userpass_none%2Berr_ip_badcred%2Berr_athens_none%2Berr_shib_none%2Berr_referrer_none%2Berr_libcard_none">http://www.oxfordbiblicalstudies.com/Public/Home.html?url=%2Fapp%3Fservice%3Dexternalpagemethod%26method%3Dview%26page%3DHome&amp;failReason=Error+reason%3A+err<em>userpass</em>none%2Berr<em>ip<em>badcred%2Berr</em>athens</em>none%2Berr<em>shib</em>none%2Berr<em>referrer<em>none%2Berr</em>libcard</em>none</a>  </p>
-<p>Gordon Conwell is local and reputable. It is clearly protestant in its orientation.<br />
- <a href="http://www.gordonconwell.edu/resources/documents/internet­resources­second­edition.pdf">http://www.gordonconwell.edu/resources/documents/internet­resources­second­edition.pdf</a>  </p>
-<p>This is a google search on resources: <br />
- <a href="https://www.google.com/search?q=internet+resources+for+biblical+study&amp;rlz=1CAACAG_enUS680US680&amp;oq=internet+resources+for+biblical+study&amp;aqs=chrome..69i57.6001j0j1&amp;sourceid=chrome&amp;ie=UTF­">https://www.google.com/search?q=internet+resources+for+biblical+study&amp;rlz=1CAACAG_enUS680US680&amp;oq=internet+resources+for+biblical+study&amp;aqs=chrome..69i57.6001j0j1&amp;sourceid=chrome&amp;ie=UTF­</a></p>
-<p>Princeton seminary.
- <a href="http://ptsem.libguides.com/recommended/biblical">http://ptsem.libguides.com/recommended/biblical</a>  </p>
+<div id="content">
+<h1 class="title">biblical-research-101</h1>
+<div id="outline-container-research-and-biblical-studies-an-introduction" class="outline-2">
+<h2 id="research-and-biblical-studies-an-introduction"><a id="sec-1" name="sec-1"></a>Research and Biblical Studies; an introduction</h2>
+<div class="outline-text-2" id="text-research-and-biblical-studies-an-introduction">
 
+<p>
+<i>compiled by Prof. Hathaway</i><br  />
+<i>2016</i>
+</p>
+</div>
+
+<div id="outline-container-essential-questions" class="outline-3">
+<h3 id="essential-questions"><a id="sec-1-1" name="sec-1-1"></a>Essential Questions:</h3>
+<div class="outline-text-3" id="text-essential-questions">
+
+<ol class="org-ol">
+<li>How old is the resource? Is the information current?
+</li>
+<li>What is the organization behind the web site and what is its mission
+(mission statement?)
+</li>
+<li>What level of scholarship does it reflect? Is it aimed at children,
+general population, or scholars?
+</li>
+<li>What are the qualifications of the authors?
+</li>
+<li>Does the site provide citations and references?
+</li>
+</ol>
+
+<hr  />
+</div>
+</div>
+</div>
+
+<div id="outline-container-from-northern-michigan-university" class="outline-2">
+<h2 id="from-northern-michigan-university"><a id="sec-2" name="sec-2"></a>from Northern Michigan University</h2>
+<div class="outline-text-2" id="text-from-northern-michigan-university">
+
+<p>
+Because of the hodge-podge of information on the Internet, it is very
+important you develop evaluation skills to assist you in identifying
+quality Web pages. There are six (6) criteria that should be applied
+when evaluating any Web site: <b>authority, accuracy, objectivity,
+currency, coverage</b>, and <b>appearance</b>. For each criteria, there are
+several questions to be asked. The more questions you can answer "yes",
+the more likely the Web site is one of quality.
+(<a href="http://library.nmu.edu/guides/userguides/webeval.htm">NMU</a>)
+</p>
+
+<hr  />
+</div>
+
+<div id="outline-container-overview" class="outline-3">
+<h3 id="overview"><a id="sec-2-1" name="sec-2-1"></a>Overview</h3>
+<div class="outline-text-3" id="text-overview">
+
+<p>
+The world is full of information to be found&#x2014;however, not all of it is
+valid, useful, or accurate. Evaluating sources of information that you
+are considering using in your writing is an important step in any
+research activity.
+</p>
+
+<p>
+The quantity of information available is so staggering that we cannot
+know everything about a subject. For example, it's estimated that anyone
+attempting to research what's known about depression would have to read
+over 100,000 studies on the subject. And there's the problem of trying
+to decide which studies have produced reliable results.
+</p>
+
+<p>
+Similarly, for information on other topics, not only is there a huge
+quantity available but with a very uneven level of quality. You don't
+want to rely on the news in the headlines of sensational tabloids near
+supermarket checkout counters, and it's just as hard to know how much to
+accept of what's in all the books, magazines, pamphlets, newspapers,
+journals, brochures, Web sites, and various media reports that are
+available. People want to convince you to buy their products, agree with
+their opinions, rely on their data, vote for their candidate, consider
+their perspective, or accept them as experts. In short, you have to sift
+and make decisions all the time, and you want to make responsible
+choices that you won't regret.
+</p>
+
+<p>
+Evaluating sources is an important skill. It's been called an art as
+well as work&#x2014;much of which is detective work. You have to decide where
+to look, what clues to search for, and what to accept. You may be
+overwhelmed with too much information or too little. The temptation is
+to accept whatever you find. But don't be tempted. Learning how to
+evaluate effectively is a skill you need both for your course papers and
+for your life.
+</p>
+
+<p>
+When writing research papers, you will also be evaluating sources as you
+search for information. You will need to make decisions about what to
+search for, where to look, and once you've found material on your topic,
+if it is a valid or useful source for your
+writing.<a href="https://owl.english.purdue.edu/owl/resource/553/01/">source
+Purdue's OWL website</a>
+</p>
+
+<p>
+<b>Bible study resources</b>
+</p>
+
+<p>
+<i>Evaluating internet resources</i>
+</p>
+
+<hr  />
+
+<p>
+<a href="http://library.nmu.edu/guides/userguides/webeval.htm">http://library.nmu.edu/guides/userguides/webeval.htm</a><br  />
+<a href="http://mason.gmu.edu/~montecin/web%C2%ADeval%C2%ADsites.htm">http://mason.gmu.edu/~montecin/web%C2%ADeval%C2%ADsites.htm</a><br  />
+<a href="http://mason.gmu.edu/~montecin/nclc%C2%ADanalyzeweb.htm">http://mason.gmu.edu/~montecin/nclc%C2%ADanalyzeweb.htm</a><br  />
+<a href="https://owl.english.purdue.edu/owl/resource/553/01/">https://owl.english.purdue.edu/owl/resource/553/01/</a><br  />
+<a href="http://library.uaf.edu/ls101%C2%ADevaluation">http://library.uaf.edu/ls101%C2%ADevaluation</a><br  />
+<a href="http://www.virtualsalt.com/evalu8it.htm">http://www.virtualsalt.com/evalu8it.htm</a>
+</p>
+
+<p>
+This is a subscription service. Does our­­ library have? It is a
+substantial and authoritative site.
+<a href="http://www.oxfordbiblicalstudies.com/Public/Home.html?url=/app?service=externalpagemethod&method=view&page=Home&failReason=Error+reason:+err_userpass_none+err_ip_badcred+err_athens_none+err_shib_none+err_referrer_none+err_libcard_none">http://www.oxfordbiblicalstudies.com/Public/Home.html?url=/app?service=externalpagemethod&method=view&page=Home&failReason=Error+reason:+err_userpass_none+err_ip_badcred+err_athens_none+err_shib_none+err_referrer_none+err_libcard_none</a>
+</p>
+
+<p>
+Gordon Conwell is local and reputable. It is clearly protestant in its
+orientation.<br  />
+<a href="http://www.gordonconwell.edu/resources/documents/internet%C2%ADresources%C2%ADsecond%C2%ADedition.pdf">http://www.gordonconwell.edu/resources/documents/internet%C2%ADresources%C2%ADsecond%C2%ADedition.pdf</a>
+</p>
+
+<p>
+This is a google search on resources:<br  />
+<a href="https://www.google.com/search?q=internet+resources+for+biblical+study&rlz=1CAACAG_enUS680US680&oq=internet+resources+for+biblical+study&aqs=chrome..69i57.6001j0j1&sourceid=chrome&ie=UTF%C2%AD">https://www.google.com/search?q=internet+resources+for+biblical+study&rlz=1CAACAG_enUS680US680&oq=internet+resources+for+biblical+study&aqs=chrome..69i57.6001j0j1&sourceid=chrome&ie=UTF%C2%AD</a>
+</p>
+
+<p>
+Princeton seminary. <a href="http://ptsem.libguides.com/recommended/biblical">http://ptsem.libguides.com/recommended/biblical</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+    <p class="postamble">Last Updated .</p> 
+</div>
 </body>
 </html>
-<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

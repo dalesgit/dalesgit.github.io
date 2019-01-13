@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Religion &amp; Morality</title>
+<meta name="author" content="(Dale Hathaway)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
+
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/moon.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<meta name="description" content="Org-Reveal">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Religion &amp; Morality</h2>
+<h3>Dale Hathaway</h3>
+<p><a href="mailto:hathawayd@winthrop.edu">hathawayd@winthrop.edu</a></p>
+<p>Nov. 29, 2017</p>
+<p>Winthrop University</p>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-orgff26ec4">What is the relationship between Religion &amp; Morality</a>
+<ul>
+<li><a href="#/slide-org975cf19">US &amp; religion</a></li>
+</ul>
+</li>
+<li><a href="#/slide-orga4b8dd4">Justification</a>
+<ul>
+<li><a href="#/slide-org0570aa7">Deontological</a></li>
+<li><a href="#/slide-org696a692">Teleological</a></li>
+<li><a href="#/slide-org6c72b37">Rule based? or Act based?</a></li>
+</ul>
+</li>
+<li><a href="#/slide-org17a1a68">3 case studies</a>
+<ul>
+<li><a href="#/slide-org4fa0999">Hinduism &amp; caste system</a></li>
+<li><a href="#/slide-orga4803c5">Islam &amp; war (jihad)</a></li>
+<li><a href="#/slide-orge29410e">Christianity &amp; prayer</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-orgff26ec4">
+<h2 id="orgff26ec4">What is the relationship between Religion &amp; Morality</h2>
+<div class="outline-text-2" id="text-orgff26ec4">
+</div></section>
+</section>
+<section>
+<section id="slide-org975cf19">
+<h3 id="org975cf19">US &amp; religion</h3>
+<ul>
+<li class="fragment appear">Reagan: politics &amp; morality linked</li>
+<li class="fragment appear">3 issues:
+<ol>
+<li>religion providing <b>foundation</b> for morality</li>
+<li>definitions: <b>ethics</b>, <b>morality</b>, <b>sacred</b> (morality having to do with <b>human welfare</b> &amp; religion having to do with <b>sacred</b>)</li>
+
+</ol></li>
+<li class="fragment appear">Which takes priority? religion? morality? (Kierkegaard's focus on Abraham &amp; Isaac, set sacrifice his son per God's command</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orga4b8dd4">
+<h2 id="orga4b8dd4">Justification</h2>
+<div class="outline-text-2" id="text-orga4b8dd4">
+</div></section>
+</section>
+<section>
+<section id="slide-org0570aa7">
+<h3 id="org0570aa7">Deontological</h3>
+<ul>
+<li class="fragment appear">ask what is one's <b>duty</b></li>
+<li class="fragment appear">What one <b>ought</b> to do in certain circumstances</li>
+<li class="fragment appear">based on <b>principle</b></li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org696a692">
+<h3 id="org696a692">Teleological</h3>
+<ul>
+<li class="fragment appear">asking <b>what are the consequences</b> of this action</li>
+<li class="fragment appear">what is the <b>end</b> or final result from this action? (intended or unintended)</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org6c72b37">
+<h3 id="org6c72b37">Rule based? or Act based?</h3>
+<ul>
+<li class="fragment appear">each of these arguments can focus on <b>rules</b></li>
+<li class="fragment appear">or on <b>acts</b></li>
+
+</ul>
+</section>
+<section id="slide-org0a3ec22">
+<h4 id="org0a3ec22"></h4>
+<p>
+Deontological or Teleological | Rule-based or Act-based
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Deontological</td>
+<td class="org-left">"What one <b>ought</b> to do"</td>
+<td class="org-left">Based on principle or universal command</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Based on the character of the acts</td>
+</tr>
+
+<tr>
+<td class="org-left">Teleological</td>
+<td class="org-left">"What is the <b>final</b> end"</td>
+<td class="org-left">Based on principle or universal command</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Based on the character of the acts</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="slide-orgc5e13cb">
+<h4 id="orgc5e13cb">Example</h4>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left"><b>Justifification for not Cheating</b></th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Deontological</td>
+<td class="org-left">"What one <b>ought</b> to do"</td>
+<td class="org-left">Based on principle or universal command</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Based on the character of the acts</td>
+</tr>
+
+<tr>
+<td class="org-left">Teleological</td>
+<td class="org-left">"What is the <b>final</b> end"</td>
+<td class="org-left">Based on principle or universal command</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Based on the character of the acts</td>
+</tr>
+</tbody>
+</table>
+
+<aside class="notes">
+<p>
+
+</p>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-org17a1a68">
+<h2 id="org17a1a68">3 case studies</h2>
+<div class="outline-text-2" id="text-org17a1a68">
+</div></section>
+</section>
+<section>
+<section id="slide-org4fa0999">
+<h3 id="org4fa0999">Hinduism &amp; caste system</h3>
+<ul>
+<li>oldest <b>Vedic</b> hinduism based on the social order of caste system</li>
+<li>newer <b>Upanishads</b> focused on individuals, universal Brahman and the release (<b>moksha</b>) from endless cycle of birth &amp; death</li>
+
+</ul>
+<ul class="fragment highlight-red">
+<li>religion &amp; morality in <b>tension</b> with one another</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orga4803c5">
+<h3 id="orga4803c5">Islam &amp; war (jihad)</h3>
+<ul>
+<li>Islam born under the burden of persecution &#x2013; Quran approves the use of force when one is wronged</li>
+<li>while war not to be undertaken lightly, religious justification for war (cautious)</li>
+<li><b>jihad</b> is <b>struggle</b> to expand Islam</li>
+
+</ul>
+<ul class="fragment highlight-red">
+<li>religion <b>complementing</b> and filling out morality</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orge29410e">
+<h3 id="orge29410e">Christianity &amp; prayer</h3>
+<ul>
+<li>Pray because we are <b>commanded to</b>?</li>
+<li>Pray because it provides <b>good results</b>?</li>
+<li>both?</li>
+
+</ul>
+<ul class="fragment highlight-red">
+<li>religion <b>animating</b> the moral life</li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Dale Hathaway. </p>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+width: 1000,
+height: 800,
+margin: 0.10,
+minScale: 0.50,
+maxScale: 2.00,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

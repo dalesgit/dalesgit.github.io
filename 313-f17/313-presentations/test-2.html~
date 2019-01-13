@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Orchestra of Voices (ch. 15)</title>
+<meta name="author" content="(Dale Hathaway)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
+
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/moon.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<meta name="description" content="Org-Reveal">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Orchestra of Voices (ch. 15)</h2>
+<h3>Dale Hathaway</h3>
+<p><a href="mailto:hathawayd@winthrop.edu">hathawayd@winthrop.edu</a></p>
+<p>Nov. 27, 2017</p>
+<p>Winthrop University</p>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-org6febefb">Post-Exile: Restoration Ch. 12</a>
+<ul>
+<li><a href="#/slide-orgfbf8ead">Histories</a></li>
+<li><a href="#/slide-orga2123c5">Afterlife</a></li>
+</ul>
+</li>
+<li><a href="#/slide-org44d8d4b">Orchestra of Voices Ch. 15</a>
+<ul>
+<li><a href="#/slide-orgd18a632">Raising questions</a></li>
+<li><a href="#/slide-orge8204a6">Hellenism</a></li>
+<li><a href="#/slide-org3455ade">Writings</a></li>
+<li><a href="#/slide-org759403d">skeptical Wisdom tradition</a></li>
+<li><a href="#/slide-org5a4b4bb">Apocalyptic</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-org6febefb">
+<h2 id="org6febefb">Post-Exile: Restoration Ch. 12</h2>
+<div class="outline-text-2" id="text-org6febefb">
+</div>
+</section>
+</section>
+<section>
+<section id="slide-orgfbf8ead">
+<h3 id="orgfbf8ead">Histories</h3>
+<ul>
+<li class="fragment roll-in">Compare the same subject matter from DT History to deduce the particular focus of the Chronicler</li>
+<li class="fragment roll-in">Ezra reads the <b>Law</b> &#x2013; perhaps a first draft of the "Books of Moses" as we have them</li>
+<li class="fragment roll-in"><b>targums</b> (sometimes cleaning up the text) &amp; <b>midrash</b> ("to seek" a variety of rabbinical interpretations)</li>
+<li class="fragment roll-in">responding to the question, "Who is a Jew?" &#x2013; this is the beginning of the term <b>jew</b> as it applied to people from Judea (importance of ethnic purity}</li>
+<li class="fragment roll-in">God controls history &amp; creates <b>all</b> things</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orga2123c5">
+<h3 id="orga2123c5">Afterlife</h3>
+<ul>
+<li class="fragment roll-in">from <b>Sheol</b> to <b>heaven</b> took many centuries of development</li>
+<li class="fragment roll-in">only several small references in Hebrew Bible make clear reference to a belief in <b>life after death</b></li>
+<li class="fragment roll-in">key figures thought to <b>ascend</b> without dying because of scriptural interpretation: Enoch (<i>Gen 5:22-24</i>), Elijah (<i>2 Kgs 2:11</i>)</li>
+<li class="fragment roll-in">Ezekiel's <b>vision of a chariot ascending to heaven</b> was taken to refer to mystical experiences "ascending" into God's realm</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org44d8d4b">
+<h2 id="org44d8d4b">Orchestra of Voices Ch. 15</h2>
+<div class="outline-text-2" id="text-org44d8d4b">
+</div>
+</section>
+</section>
+<section>
+<section id="slide-orgd18a632">
+<h3 id="orgd18a632">Raising questions</h3>
+<ul>
+<li class="fragment roll-in">Covenant: Noah, Abraham, Moses, David</li>
+<li class="fragment roll-in">Creation: various kinds of creation, Sabbath,</li>
+<li class="fragment roll-in">Revelation: often mediated through angels, prophecy, criteria for inclusion in <b>canon</b> of scripture</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orge8204a6">
+<h3 id="orge8204a6">Hellenism</h3>
+<div class="outline-text-3" id="text-orge8204a6">
+</div>
+</section>
+<section id="slide-orgd9c00f7">
+<h4 id="orgd9c00f7">Greek empire &#x2013; influence</h4>
+
+<div class="figure">
+<p><img src="http://www.greek-thesaurus.gr/images/p7/hellenistic-world-300bc.jpg" alt="hellenistic-world-300bc.jpg" />
+</p>
+</div>
+</section>
+<section id="slide-orgc62e316">
+<h4 id="orgc62e316"></h4>
+<ul>
+<li class="fragment roll-in">Alexander the Great &#x2013; hegemony of culture &#x2013; from India to Mediterranean</li>
+<li class="fragment roll-in">commerce, literature, education, etc. done in Greek</li>
+<li class="fragment roll-in">Greek Gods in the (rebuilt) temple in Jerusalem? (Antiochus IV)</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org3455ade">
+<h3 id="org3455ade">Writings</h3>
+<ul>
+<li class="fragment roll-in"><b>pesharim</b> (intepretations) found at Qumran</li>
+<li class="fragment roll-in">development of <b>halakah</b> &amp; <b>haggadah</b></li>
+<li class="fragment roll-in">translations e.g. <b>Septuagint</b> &amp; <b>targums</b> (Aramaic)</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org759403d">
+<h3 id="org759403d">skeptical Wisdom tradition</h3>
+<ul>
+<li class="fragment roll-in">Capriciousness of God (Job) p. 430 ff.</li>
+<li class="fragment roll-in">futility of human action (Ecclesiasticus) p. 428 ff.</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org5a4b4bb">
+<h3 id="org5a4b4bb">Apocalyptic</h3>
+<ul>
+<li class="fragment roll-in">meaning "revelation", i.e. a <b>secret</b> revelation</li>
+<li class="fragment roll-in">through an angel</li>
+<li class="fragment roll-in">increasing use of <b>pseud-epigrapha</b></li>
+<li class="fragment roll-in">symbols dominate</li>
+<li class="fragment roll-in">often a <b>dualistic</b> universe</li>
+<li class="fragment roll-in">concern with the <b>end times</b> &#x2013; <b>eschatology</b></li>
+<li class="fragment roll-in">Daniel 7-12 p. 437 ff.</li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Dale Hathaway. </p>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+width: 1000,
+height: 800,
+margin: 0.10,
+minScale: 0.50,
+maxScale: 2.00,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

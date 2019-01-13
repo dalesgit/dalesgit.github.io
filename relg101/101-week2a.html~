@@ -1,218 +1,264 @@
-<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>101-week2a</title>
+<!-- 2016-09-21 Wed 15:35 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
 
-        <title>Prof. Dale Hathaway: Relg 313 </title>
+  table { border-collapse:collapse; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
 
-        <meta name="description" content="Made with Reveal.JS, A framework for easily creating beautiful presentations using HTML, by Hakim El Hattab">
-        <meta name="author" content="Shawn Graham">
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
 
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-        <link rel="stylesheet" href="../css/reveal.min.css">
-        <link rel="stylesheet" href="../css/theme/night.css" id="theme">
-
-
-        <!-- For syntax highlighting -->
-        <link rel="stylesheet" href="../lib/css/zenburn.css">
-<!-- .slide: style="text-align: left;"> -->  
-        <!-- If the query includes 'print-pdf', include the PDF print sheet -->
-        <script>
-            if( window.location.search.match( /print-pdf/gi ) ) {
-                var link = document.createElement( 'link' );
-                link.rel = 'stylesheet';
-                link.type = 'text/css';
-                link.href = '../css/print/pdf.css';
-                document.getElementsByTagName( 'head' )[0].appendChild( link );
-            }
-        </script>
-	<body>
-		<div class="reveal">
-			<div class="slides">
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
 
 
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">101-week2a</h1>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1">What is religion?</h2>
+</div>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">What are we talking about?</h2>
+<div class="outline-text-2" id="text-2">
 
-
-<section id="what-is-religion" class="slide level1">
-<h1>What is religion?</h1>
-</section>
-<section id="what-are-we-talking-about" class="slide level1">
-<h1>What are we talking about?</h1>
-<p><a href="file:./img/cartoon-1.jpg" class="uri">file:../img/cartoon-1.jpg</a></p>
-</section>
-<section id="what-is-religion-1" class="slide level1">
-<h1>What is Religion?</h1>
-<ul>
-<li>How would you describe, in religious terms, the following events? Is one more, or less, religious than the other? Why?
-<ul>
-<li>A morning prayer service at the National Cathedral.</li>
-<li>A political rally that is led by a local pastor, begins with a religious prayer, and concludes with the crowd singing “Gob Bless America.”</li>
-</ul></li>
+<div class="figure">
+<p><img src="./img/cartoon-1.jpg" alt="cartoon-1.jpg" width="240px" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">What is Religion?</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>How would you describe, in religious terms, the following events?  Is one more, or less, religious than the other?  Why?
+<ul class="org-ul">
+<li>A morning prayer service at the National Cathedral.
+</li>
+<li>A political rally that is led by a local pastor, begins with a religious prayer, and concludes with the crowd singing “Gob Bless America.”
+</li>
 </ul>
-</section>
-<section id="posters" class="slide level1">
-<h1>Posters</h1>
-<ul>
-<li>What is a religious experience?</li>
-<li>Brainstorm as many different examples as you can think of.</li>
-<li>Consider why they are religious.</li>
+</li>
 </ul>
-</section>
-<section id="a-definition-of-religion-1" class="slide level1">
-<h1>A Definition of Religion (1)</h1>
-<ul>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">Posters</h2>
+<div class="outline-text-2" id="text-4">
+<ul class="org-ul">
+<li>What is a religious experience?
+</li>
+<li>Brainstorm as many different examples as you can think of.
+</li>
+<li>Consider why they are religious.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5">A Definition of Religion (1)</h2>
+<div class="outline-text-2" id="text-5">
+<ul class="org-ul">
 <li>The terms “religion” and “religious” are used every day to describe:
-<ul>
-<li>places</li>
-<li>actions</li>
-<li>ways of thinking and feeling</li>
-<li>persons or groups who engage in certain rituals</li>
-</ul></li>
-<li>The search for definitions is a search for boundaries; a desire to say that X is religious and Y is not.</li>
+<ul class="org-ul">
+<li>places
+</li>
+<li>actions
+</li>
+<li>ways of thinking and feeling
+</li>
+<li>persons or groups who engage in certain rituals
+</li>
 </ul>
-</section>
-<section id="possible-definitions-of-religion-2" class="slide level1">
-<h1>Possible Definitions of Religion (2)</h1>
-<h2 id="james-martineau">(James Martineau)</h2>
-<p>“Religion is the belief in an ever living God, that is, in a Divine Mind and Will ruling the Universe and holding moral relations with mankind” .</p>
-<h2 id="friedrich-schleiermacher">(Friedrich Schleiermacher)</h2>
-<p>Religion is the “feeling of absolute dependence” or “the consciousness that the whole of our spontaneous activity comes from a source outside of us” .</p>
-</section>
-<section id="possible-definitions-of-religion-3" class="slide level1">
-<h1>Possible Definitions of Religion (3)</h1>
-<h2 id="anthony-wallace">(Anthony Wallace)</h2>
-<p>Religion is “a set of rituals, rationalized by myth, which mobilizes supernatural powers for the purpose of achieving or preventing transformations of state in man or nature” .</p>
-<h2 id="emile-durkheim">(Emile Durkheim)</h2>
-<p>“Religion is only the sentiment inspired by the group in its members, but projected outside of the consciousness that experiences them, and objectified” .</p>
-</section>
-<section id="possible-definitions-of-religion-4" class="slide level1">
-<h1>Possible Definitions of Religion (4)</h1>
-<h2 id="james-g.-frazer">(James G. Frazer)</h2>
-<p>Religion is “a propitiation or conciliation of powers superior to man which are believed to direct and control the course of Nature and of human life” .</p>
-<h2 id="other-possible-definitions">Other possible definitions?</h2>
-</section>
-// and here
-			</div>
-		</div>
+</li>
 
-		e<script src="../lib/js/head.min.js"></script>
-		<script src="../js/reveal.js"></script>
+<li>The search for definitions is a search for boundaries; a desire to say that X is religious and Y is not.
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6">Possible Definitions of Religion (2)</h2>
+<div class="outline-text-2" id="text-6">
+</div><div id="outline-container-sec-6-1" class="outline-3">
+<h3 id="sec-6-1">(James Martineau)</h3>
+<div class="outline-text-3" id="text-6-1">
+<p>
+“Religion is the belief in an ever living God, that is, in a Divine Mind and Will ruling the Universe and holding moral relations with mankind” .
+</p>
+</div>
+</div>
+<div id="outline-container-sec-6-2" class="outline-3">
+<h3 id="sec-6-2">(Friedrich Schleiermacher)</h3>
+<div class="outline-text-3" id="text-6-2">
+<p>
+Religion is the “feeling of absolute dependence” or “the consciousness that the whole of our spontaneous activity comes from a source outside of us” .
+</p>
+</div>
+</div>
+</div>
 
-		<script>
-			// More info https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-		//	autoSlide: 7000,
-		//	center: true,
-		//	controls: false,
-		//	mouseWheel: true,
-		//	transition: concave
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7">Possible Definitions of Religion (3)</h2>
+<div class="outline-text-2" id="text-7">
+</div><div id="outline-container-sec-7-1" class="outline-3">
+<h3 id="sec-7-1">(Anthony Wallace)</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Religion is “a set of rituals, rationalized by myth, which mobilizes supernatural powers for the purpose of achieving or preventing transformations of state in man or nature” .
+</p>
+</div>
+</div>
+<div id="outline-container-sec-7-2" class="outline-3">
+<h3 id="sec-7-2">(Emile Durkheim)</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+“Religion is only the sentiment inspired by the group in its members, but projected outside of the consciousness that experiences them, and objectified” .
+</p>
+</div>
+</div>
+</div>
 
-// Display controls in the bottom right corner
-    controls: true,
-
-    // Display a presentation progress bar
-    progress: true,
-
-    // Display the page number of the current slide
-    slideNumber: false,
-
-    // Push each slide change to the browser history
-    history: false,
-
-    // Enable keyboard shortcuts for navigation
-    keyboard: true,
-
-    // Enable the slide overview mode
-    overview: true,
-
-    // Vertical centering of slides
-    center: true,
-
-    // Enables touch navigation on devices with touch input
-    touch: true,
-
-    // Loop the presentation
-    loop: false,
-
-    // Change the presentation direction to be RTL
-    rtl: false,
-
-    // Randomizes the order of slides each time the presentation loads
-    shuffle: false,
-
-    // Turns fragments on and off globally
-    fragments: true,
-
-    // Flags if the presentation is running in an embedded mode,
-    // i.e. contained within a limited portion of the screen
-    embedded: false,
-
-    // Flags if we should show a help overlay when the questionmark
-    // key is pressed
-    help: true,
-
-    // Flags if speaker notes should be visible to all viewers
-    showNotes: false,
-
-// Number of milliseconds between automatically proceeding to the
-    // next slide, disabled when set to 0, this value can be overwritten
-    // by using a data-autoslide attribute on your slides
-    autoSlide: 0,
-
-    // Stop auto-sliding after user input
-    autoSlideStoppable: true,
-
-    // Use this method for navigation when auto-sliding
-    autoSlideMethod: Reveal.navigateNext,
-
-    // Enable slide navigation via mouse wheel
-    mouseWheel: false,
-
-       // Hides the address bar on mobile devices
-    hideAddressBar: true,
-
-    // Opens links in an iframe preview overlay
-    previewLinks: false,
-
-    // Transition style
-    transition: 'default', // none/fade/slide/convex/concave/zoom
-
-    // Transition speed
-    transitionSpeed: 'default', // default/fast/slow
-
-    // Transition style for full page slide backgrounds
-    backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
-
-    // Number of slides away from the current that are visible
-    viewDistance: 3,
-
-
-    // Parallax background image
- //   parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
-parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
-    // Parallax background size
- //   parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px"
-
-    // Number of pixels to move the parallax background per slide
-    // - Calculated automatically unless specified
-    // - Set to 0 to disable movement along an axis
- //   parallaxBackgroundHorizontal: null,
-  //  parallaxBackgroundVertical: null
-		//	dependencies: [{ src: plugin/zoom-js/zoom.js }]
-
-				// More info https://github.com/hakimel/reveal.js#dependencies
-				dependencies: [
-					{ src: '../plugin/markdown/marked.js' },
-					{ src: '../plugin/markdown/markdown.js' },
-					{ src: '../plugin/notes/notes.js', async: true },
-			{ src: '../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-		//{ src: plugin/zoom-js/zoom.js }
-				]
-			});
-		</script>
-	</body>
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8">Possible Definitions of Religion (4)</h2>
+<div class="outline-text-2" id="text-8">
+</div><div id="outline-container-sec-8-1" class="outline-3">
+<h3 id="sec-8-1">(James G. Frazer)</h3>
+<div class="outline-text-3" id="text-8-1">
+<p>
+Religion is “a propitiation or conciliation of powers superior to man which are believed to direct and control the course of Nature and of human life” .
+</p>
+</div>
+</div>
+<div id="outline-container-sec-8-2" class="outline-3">
+<h3 id="sec-8-2">Other possible definitions?</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+    <p class="postamble">Last Updated .</p> 
+</div>
+</body>
 </html>

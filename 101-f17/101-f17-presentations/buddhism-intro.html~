@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Buddhism Intro</title>
+<meta name="author" content="(Dale Hathaway)"/>
+		<meta name="description" content="Made with Reveal.JS, A framework for easily creating beautiful presentations using HTML, by Hakim El Hattab">
+		<meta name="author" content="Shawn Graham">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="../../css/reveal.min.css">
+		<link rel="stylesheet" href="../../css/theme/night.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="../../lib/css/zenburn.css">
+<!-- .slide: style="text-align: left;"> --> 
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = '../../css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+<meta name="description" content="Org-Reveal">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Buddhism Intro</h2>
+<h3>Dale Hathaway</h3>
+<p><a href="mailto:hathawayd@winthrop.edu">hathawayd@winthrop.edu</a></p>
+<p>Sept. 27, 2017</p>
+<p>Winthrop University</p>
+</section>
+<section>
+<section id="slide-org04c0d91">
+<h2 id="org04c0d91">Introduction to Buddhism</h2>
+
+<div class="figure">
+<p><img src="../..//img/BuddhistCompliment.jpg" alt="BuddhistCompliment.jpg" />
+</p>
+</div>
+
+</section>
+<section id="slide-org33400db">
+<h3 id="org33400db">Vocabulary</h3>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Vocabulary</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">bodhisattva</td>
+<td class="org-left">Confucianism</td>
+</tr>
+
+<tr>
+<td class="org-left">Dharma (Pali Dhamma)</td>
+<td class="org-left">Emptiness</td>
+</tr>
+
+<tr>
+<td class="org-left">Hinayana</td>
+<td class="org-left">Karma</td>
+</tr>
+
+<tr>
+<td class="org-left">Mahayana</td>
+<td class="org-left">Mandala</td>
+</tr>
+
+<tr>
+<td class="org-left">Mantra</td>
+<td class="org-left">Nembutsu</td>
+</tr>
+
+<tr>
+<td class="org-left">Nirvana</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+</section>
+<section id="slide-orgcc16b37">
+<h3 id="orgcc16b37">(cont)</h3>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Vocabulary</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Non-duality</td>
+<td class="org-left">Pa'a</td>
+</tr>
+
+<tr>
+<td class="org-left">Pali</td>
+<td class="org-left">Samadhi</td>
+</tr>
+
+<tr>
+<td class="org-left">Shinto</td>
+<td class="org-left">Sila</td>
+</tr>
+
+<tr>
+<td class="org-left">Soto School</td>
+<td class="org-left">Stupa</td>
+</tr>
+
+<tr>
+<td class="org-left">Tantra</td>
+<td class="org-left">Taoism</td>
+</tr>
+
+<tr>
+<td class="org-left">Theravda</td>
+<td class="org-left">Veda</td>
+</tr>
+
+<tr>
+<td class="org-left">Zen</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+</section>
+<section id="slide-org763236e">
+<h3 id="org763236e">resources for Vocabulary</h3>
+<ul>
+<li>Both <b>Sacred Quest</b> and <b>Siddhartha</b> (Bernofsky edition) have glossaries</li>
+<li>Each of the following have reliable glossaries
+<ul>
+<li><a href="http://www.dharma.org/resources/glossary">http://www.dharma.org/resources/glossary</a></li>
+<li><a href="http://www.accesstoinsight.org/glossary.html">http://www.accesstoinsight.org/glossary.html</a></li>
+
+</ul></li>
+
+</ul>
+
+
+
+</section>
+<section id="slide-orgeb66b54">
+<h3 id="orgeb66b54">Timeline</h3>
+<p>
+<a href="https://www.preceden.com/timelines/274460-buddhism---hinduism">https://www.preceden.com/timelines/274460-buddhism---hinduism</a>
+</p>
+
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgf7fda44">
+<h2 id="orgf7fda44">Introduction</h2>
+<ul>
+<li class="fragment appear">beginning with a human being &#x2013; Siddhartha Gautama</li>
+<li class="fragment appear">a solution to the problem of human</li>
+<li class="fragment appear">Buddhists focus on his experience, and they <b>deny the existence of a single, almighty God.</b></li>
+<li class="fragment appear">The most basic Buddhist expression of faith is called the triple refuge: 
+<ul>
+<li>I take refuge in the <b>Buddha</b>;</li>
+<li>I take refuge in the <b>Dharma</b> <b>[the Buddhas teaching]</b>;</li>
+<li>I take refuge in the <b>Samgha</b> <b>[the community of the Buddhas followers]</b>.</li>
+
+</ul></li>
+
+</ul>
+
+<aside class="notes">
+<ul>
+<li>During its 2,500-year history, from the time of the Buddha to the present day, Buddhism has grown from a tiny religious community in northern India into a movement that now spans the globe.</li>
+<li>the tradition begins simply with a <b>human being – Siddhartha Gautama</b> who found a solution to the problem of human suffering.</li>
+<li>Buddhists focus on his experience, and they <b>deny the existence of a single, almighty God.</b></li>
+<li>The most basic Buddhist expression of faith is called the triple refuge: 
+<ul>
+<li>I take refuge in the <b>Buddha</b>;</li>
+<li>I take refuge in the <b>Dharma</b> <b>[the Buddhas teaching]</b>;</li>
+<li>I take refuge in the <b>Samgha</b> <b>[the community of the Buddhas followers]</b>.</li>
+
+</ul></li>
+
+</ul>
+
+<p>
+Note:
+The Buddhist tradition will challenge us to look in new ways at some basic religious questions: What is ultimate reality? How can I know it? And does it love me? Many religious traditions emphasize the importance of an immortal soul. This is not so in Buddhism.
+</p>
+
+</aside>
+
+
+</section>
+<section id="slide-orgb3f91d6">
+<h3 id="orgb3f91d6">Buddha</h3>
+<ul>
+<li class="fragment appear">The doctrine of reincarnation or rebirth is known as <b>samsara</b> (literally, <b>wandering</b>)</li>
+<li class="fragment appear">The release from <b>samsara</b>  is found in <b>moksha</b></li>
+<li class="fragment appear">Four Noble Truths are: 
+<ol>
+<li>the truth of suffering (<b>Gurkha</b>): <b>all is suffering</b></li>
+<li>the truth of the arising of suffering: <b>it is from desire</b></li>
+<li>the truth of the cessation of suffering (also known as <b>nirvana</b> or <b>nibbana</b>): <b>i.e. cease from desire</b></li>
+<li>the truth of the path that leads to the cessation of suffering: <b>via 8-fold path</b></li>
+
+</ol></li>
+
+</ul>
+<aside class="notes">
+<ul>
+<li>The doctrine of reincarnation or rebirth is known as <b>samsara</b> (literally, <b>wandering</b>). Samsara was not considered a pleasant prospect. For many people, it was not an opportunity as much as it was a burden, and they tried to find a way out.</li>
+<li>The release from <b>samsara</b>  is found in <b>moksha</b></li>
+<li>Four Noble Truths are: 
+
+<ol>
+<li>the truth of suffering (<b>Gurkha</b>): <b>all is suffering</b></li>
+<li>the truth of the arising of suffering: <b>it is from desire</b></li>
+<li>the truth of the cessation of suffering (also known as <b>nirvana</b> or <b>nibbana</b>): <b>i.e. cease from desire</b></li>
+<li>the truth of the path that leads to the cessation of suffering: <b>via 8-fold path</b></li>
+
+</ol></li>
+
+</ul>
+
+<p>
+Note:
+Buddhists have a rich tradition of stories and legends about the Buddha. The stories begin with the Buddhas previous lives. Buddhist tradition arose at a time when the doctrine of reincarnation was a basic assumption in Indian religious life. 
+</p>
+
+</aside>
+
+
+</section>
+<section id="slide-org5c035bb">
+<h3 id="org5c035bb">The path to nirvana is divided into eight categories:</h3>
+<ul>
+<li class="fragment appear">right understanding,</li>
+<li class="fragment appear">right thought,</li>
+<li class="fragment appear">right speech,</li>
+<li class="fragment appear">right action,</li>
+<li class="fragment appear">right livelihood,</li>
+<li class="fragment appear">right effort,</li>
+<li class="fragment appear">right mindfulness,</li>
+<li class="fragment appear">right concentration.</li>
+
+</ul>
+
+
+<aside class="notes">
+<p>
+The logic might be expressed in 3 categories:*
+</p>
+
+<ul>
+<li><b>sila</b>, or moral conduct;</li>
+<li><b>samadhi</b>, or mental concentration; and</li>
+<li><b>pa-a</b>, or wisdom</li>
+
+</ul>
+
+<p>
+Note:
+Buddhists have a rich tradition of stories and legends about the Buddha. The stories begin with the Buddhas previous lives. Buddhist tradition arose at a time when the doctrine of reincarnation was a basic assumption in Indian religious life. , or wisdom.
+</p>
+
+<ul>
+<li>The contents of the Buddhist scriptures often are quite simple and pragmatic.</li>
+
+</ul>
+
+</aside>
+
+
+
+</section>
+<section id="slide-orged2e9a3">
+<h3 id="orged2e9a3">Mahayana arose as reform ca. beginning of common era</h3>
+<ul>
+<li><b>emptiness</b>: Hinduism there is an eternal self. Buddhism there is "no-self"</li>
+<li><b>non-duality</b> (physical / spiritual)</li>
+
+</ul>
+
+<aside class="notes">
+<ul>
+<li>spread to China, Tibet, Japan, Korea, Vietnam</li>
+<li>One of the Mahayana traditions most important innovations is the <b>bodhisattva</b> ideal. A <b>bodhisattva</b> is a Buddha-to-be or future Buddha who does not attempt to go straight to <b>nirvana</b> but returns to this world to help others along the path.</li>
+<li><b>emptiness</b>: Hinduism there is an eternal self. Buddhism there is "no-self"</li>
+<li><b>non-duality</b> (physical / spiritual)</li>
+
+</ul>
+
+</aside>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org5b1c619">
+<h2 id="org5b1c619">Politics and Buddhism</h2>
+<ul>
+<li><b>Complex histories of relationship between politics and Buddhism throughout Asia</b></li>
+<li>Played out over a millenia throughout Asia
+
+<ul>
+<li>Burma / Myanmar</li>
+<li>Tibet</li>
+<li>China</li>
+<li>Japan</li>
+
+</ul></li>
+
+</ul>
+
+
+
+</section>
+<section id="slide-org097309c">
+<h3 id="org097309c">Chinese adoption of Buddhism blended with an adaptation of Chinese Taoism</h3>
+<p class="verse">
+The Tao that can be told of is not the eternal Tao;<br />
+The name that can be named is not the eternal name.<br />
+The Nameless is the origin of Heaven and Earth;<br />
+The Named is the mother of all things.<br />
+The Tao is empty like a bowl.<br />
+It may be used but its capacity is never exhausted.<br />
+<br />
+</p>
+
+
+
+</section>
+</section>
+<section>
+<section id="slide-org884684d">
+<h2 id="org884684d">Quick overview of Buddha</h2>
+<p>
+<a href="https://youtu.be/YpVlbPeX37A">https://youtu.be/YpVlbPeX37A</a>
+</p>
+
+
+</section>
+</section>
+<section>
+<section id="slide-org69ecec4">
+<h2 id="org69ecec4">Exercise</h2>
+<div class="outline-text-2" id="text-org69ecec4">
+</div></section>
+<section id="slide-org0d8c068">
+<h3 id="org0d8c068">5 Themes of Siddhartha</h3>
+<p>
+Write on a piece of  paper an example from text of:
+</p>
+<ol>
+<li>Self-realization</li>
+<li>Personal experience vs. Formal training</li>
+<li>Persistence</li>
+<li>Folly of materialism or less is more</li>
+<li>paradox of unreal reality (reality is an illusion)</li>
+
+</ol>
+</section>
+<section id="slide-orgbf7b3cf">
+<h3 id="orgbf7b3cf">With a partner discuss:</h3>
+<ol>
+<li>most important illustration of the theme from the text</li>
+<li>How important was that theme</li>
+
+</ol>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Dale Hathaway. </p>
+<p> Created by Dale Hathaway. </p>
+	<!-- below 2 </div> > -->
+	<!-- below 2 </div> > -->
+		<script src="../../lib/js/head.min.js"></script>
+		<script src="../../js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+			slideNumber: 'c',
+			rollingLinks: false,
+			keyboard: true,
+			overview: true,
+			width: 1000,
+			height: 800,
+			margin: 0.10,
+			minScale: 0.50,
+			maxScale: 2.00,
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+			//parallaxBackgroundImage: 'https://farm5.staticflickr.com/4066/4687041921_d5a5e5da73_o.jpg',
+			parallaxBackgroundImage: 'http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg',
+				parallaxBackgroundSize: '2591px 2592px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: '../../lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '../../plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../../plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '../../plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

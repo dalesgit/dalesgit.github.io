@@ -3,8 +3,8 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<title>RELG 101-02 F16</title>
-<!-- 2016-11-30 Wed 11:00 -->
+<title>RELG 101</title>
+<!-- 2016-10-03 Mon 07:53 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Prof. Dale Hathaway" />
@@ -88,7 +88,8 @@
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="../css/mystyle.css">
+<link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/386398/dalesgit.github.io/css/mystyle.css?raw=1" />
+<link rel="alternate stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/u/386398/dalesgit.github.io/css/mystyle.css?raw=1" />
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -138,10 +139,10 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">RELG 101-02 F16</h1>
+<h1 class="title">RELG 101</h1>
 <div class="center">
 <p>
-<b>Introduction to Religious Studies Section 02</b>
+<b>Introduction to Religious Studies</b> Section 02
 </p>
 </div>
 
@@ -180,26 +181,6 @@ for the JavaScript code in this tag.
 <tr>
 <td class="left"><a href="101-week6b.html">Siddhartha</a></td>
 <td class="left"><a href="101-week7a.html">Ritual</a></td>
-</tr>
-
-<tr>
-<td class="left"><a href="101-week7b.html">Theodicy</a></td>
-<td class="left"><a href="101-week9b.html">Judaism 101</a></td>
-</tr>
-
-<tr>
-<td class="left"><a href="101-week10a.html">Night 1</a></td>
-<td class="left"><a href="https://docs.google.com/presentation/d/13YyuSZOj6agmt_1bvoy_SEQhZjAFsfTioZSkoplSjfI/edit?usp=sharing">Night 2</a></td>
-</tr>
-
-<tr>
-<td class="left"><a href="101-week11a2.html">Night 3</a></td>
-<td class="left"><a href="101-week13a.html">Children of Abraham (1)</a></td>
-</tr>
-
-<tr>
-<td class="left"><a href="101-week14a.html">Children of Abraham (2)</a></td>
-<td class="left"><a href="101-week14b.html">Children of Abraham (3)</a></td>
 </tr>
 
 <tr>

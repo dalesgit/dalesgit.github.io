@@ -1,0 +1,635 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Prof. Dale Hathaway: Relg 101 - 01/02 </title>
+
+		<meta name="description" content="Made with Reveal.JS, A framework for easily creating beautiful presentations using HTML, by Hakim El Hattab">
+		<meta name="author" content="Shawn Graham">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="../../css/reveal.min.css">
+		<link rel="stylesheet" href="../../css/theme/night.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="../../lib/css/zenburn.css">
+<!-- .slide: style="text-align: left;"> --> 
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = '../../css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Christianity 101</h2>
+<h3>Dale Hathaway</h3>
+<p><a href="mailto:hathawayd@winthrop.edu">hathawayd@winthrop.edu</a></p>
+<p>Nov. 27, 2017</p>
+<p>Winthrop University</p>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-org5f00b7c">Origins of 3 Religions of Abraham</a>
+<ul>
+<li><a href="#/slide-orgb830336">Christianity</a></li>
+<li><a href="#/slide-orgec7777e">Islam</a></li>
+<li><a href="#/slide-orge6f3f4b">5 Pillars of Islam</a></li>
+</ul>
+</li>
+<li><a href="#/slide-christianity-101">Christianity 101</a>
+<ul>
+<li><a href="#/slide-introduction">Introduction</a></li>
+<li><a href="#/slide-history">History</a></li>
+<li><a href="#/slide-geography">Geography</a></li>
+<li><a href="#/slide-issues-of-great-contention">Issues of great contention</a></li>
+<li><a href="#/slide-issues-of-challenge">Issues of challenge</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-org5f00b7c">
+<h2 id="org5f00b7c">Origins of 3 Religions of Abraham</h2>
+<div class="outline-text-2" id="text-org5f00b7c">
+</div></section>
+<section id="slide-org5eb9011">
+<h4 id="org5eb9011">Judaism</h4>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Judaism</th>
+<th scope="col" class="org-left">Dates</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Life without a temple</td>
+<td class="org-left">587-500 bce</td>
+<td class="org-left">synagogues, written Torah</td>
+</tr>
+
+<tr>
+<td class="org-left">growth apocalyptic and Messianism</td>
+<td class="org-left">250 bce - 135 ce</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="slide-orgbe4d48f">
+<h4 id="orgbe4d48f"></h4>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">conflict over influence of Hellenism</td>
+<td class="org-left">300 bce - 100 ce</td>
+<td class="org-left">What means to be Jewish in foreign culture?</td>
+</tr>
+
+<tr>
+<td class="org-left">Qumran community - Dead Sea Scrolls</td>
+<td class="org-left">200 bce - 150 ce</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="slide-org8db2e4e">
+<h4 id="org8db2e4e"></h4>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Judaism (cont.)</th>
+<th scope="col" class="org-left">Dates</th>
+<th scope="col" class="org-left">beginning of <b>modern Judaism</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Schools of Rabbis</td>
+<td class="org-left">100 bce - 250 ce</td>
+<td class="org-left">writing <b>Mishnah</b>, e.g. Hillel &amp; Shammai</td>
+</tr>
+
+<tr>
+<td class="org-left">Diaspora</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">commentary on Mishnah (Gemara) - <b>Talmud</b></td>
+</tr>
+</tbody>
+</table>
+
+</section>
+</section>
+<section>
+<section id="slide-orgb830336">
+<h3 id="orgb830336">Christianity</h3>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Christianity</th>
+<th scope="col" class="org-left">Dates</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">letters (chiefly Paul)</td>
+<td class="org-left">50-60 ce</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Gospels written</td>
+<td class="org-left">70-90 ce</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">70-100 ce</td>
+<td class="org-left"><b>Parousia</b> is “delayed”</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">100 ce - 200 ce</td>
+<td class="org-left">break with Judaism</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">70 ce - 300 ce</td>
+<td class="org-left">missionary spread throughout Empire</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">300-400 ce</td>
+<td class="org-left">Official religion of Empire</td>
+</tr>
+</tbody>
+</table>
+
+</section>
+</section>
+<section>
+<section id="slide-orgec7777e">
+<h3 id="orgec7777e">Islam</h3>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Islam</th>
+<th scope="col" class="org-left">Dates</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Life of Muhammad</td>
+<td class="org-left">570 ce - 632 ce</td>
+<td class="org-left">No “Quest for historical Muhammad” as there is for Jesus</td>
+</tr>
+
+<tr>
+<td class="org-left">Qur’an revealed to M.</td>
+<td class="org-left">“mid-life”</td>
+<td class="org-left">“as it stands now, a composite work” tho' little critical work</td>
+</tr>
+
+<tr>
+<td class="org-left">retreat to “City of the Prophet”</td>
+<td class="org-left">622</td>
+<td class="org-left"><b>Medina</b>, “Hegira”</td>
+</tr>
+
+<tr>
+<td class="org-left">growth of <b>Islam</b> &#x2013; “submission” to will of Allah</td>
+<td class="org-left">622 ff.</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="slide-org42a62d3">
+<h4 id="org42a62d3"></h4>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Islam (cont)</th>
+<th scope="col" class="org-left">Dates</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Following his death: both <b>church</b> and <b>state</b></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">No separation of &#x2026;</td>
+</tr>
+
+<tr>
+<td class="org-left">M. = “judge, spiritual guide, military, political”</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">parallels leadership in Islam</td>
+</tr>
+
+<tr>
+<td class="org-left">expansion</td>
+<td class="org-left">by 750</td>
+<td class="org-left">to the borders of China &amp; within striking of Paris</td>
+</tr>
+</tbody>
+</table>
+
+</section>
+</section>
+<section>
+<section id="slide-orge6f3f4b">
+<h3 id="orge6f3f4b">5 Pillars of Islam</h3>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">5 Pillars of Faith</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Profession of faith</td>
+<td class="org-left">There is no god but God and Muhammad is his envoy</td>
+</tr>
+
+<tr>
+<td class="org-left">Pray</td>
+<td class="org-left">5 times daily, in community at noon Friday</td>
+</tr>
+
+<tr>
+<td class="org-left">Almsgiving</td>
+<td class="org-left">service to widows, poor, etc.</td>
+</tr>
+
+<tr>
+<td class="org-left">Fasting</td>
+<td class="org-left">esp. month of Ramadan</td>
+</tr>
+
+<tr>
+<td class="org-left">Pilgrimage (<i>hajj</i>)</td>
+<td class="org-left">where practical to Mecca</td>
+</tr>
+</tbody>
+</table>
+
+
+</section>
+</section>
+<section>
+<section id="slide-christianity-101">
+<h2 id="christianity-101"><a id="org922401f"></a>Christianity 101</h2>
+</section>
+</section>
+<section>
+<section id="slide-introduction">
+<h3 id="introduction"><a id="orgd51da09"></a>Introduction</h3>
+
+<div class="figure">
+<p><img src="https://www.xavier.edu/clubs/interfaithclub/images/ChildrenOfAbraham_Panel4Large.PNG" alt="ChildrenOfAbraham_Panel4Large.PNG" width="700"/>
+</p>
+<p><span class="figure-number">Figure 1: </span>Children of Abraham</p>
+</div>
+</section>
+<section >
+<ul>
+<li>Judaism 101: <a href="https://dalesgit.github.io/101-f17/101-f17-presentations/judaism-101.html#/">Judaism 101</a></li>
+<li>Islam 101: <a href="https://dalesgit.github.io/relg101-s17/101-s17-week10a.html#/">Islam 101</a></li>
+<li>World Religions: graphs etc.<a href="https://dalesgit.github.io/101-f17/101-f17-presentations/world-religions-sacred.html#/sec-title-slide">World religions graphs etc</a></li>
+<li>Timelines:</li>
+<li><a href="https://www.preceden.com/timelines/253106-religions">3 religions timeline</a></li>
+<li><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hQWnCTFQkE2LiwSr1kH9O81AeBiKGcVC4xhShc59KwQ&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">basic timeline</a></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-history">
+<h3 id="history"><a id="orgd3414f1"></a>History</h3>
+<ul>
+<li>Christianity as one among several sects of Judaism &#x2013; ending after
+Rome crushes the rebellion</li>
+<li>Missionary expansion throughout empire &#x2013; Paul &#x2013; <a href="http://prezi.com/dfdxcmtsjhuu/?utm_campaign=share&amp;utm_medium=copy&amp;rc=ex0share">Early Church prezi</a></li>
+<li>Gradual establishment of orthodoxy, orthopraxis, &#x2013; who is in and who is out</li>
+<li>With the Constantinian establishment <b>everybody</b> was in</li>
+<li>Growth of monasteries to house <b>serious</b> Christians &#x2013; providing continuity for future centuries</li>
+<li>Renaissance &#x2013; Reformation &#x2013; <b>Connections &amp; Break</b> with the past</li>
+<li><a href="http://prezi.com/o8xux-hfc_qf/?utm_campaign=share&amp;utm_medium=copy&amp;rc=ex0share">Renaissance prezi</a></li>
+<li><a href="http://prezi.com/fhez9w-01fzi/?utm_campaign=share&amp;utm_medium=copy&amp;rc=ex0share">Reformation prezi</a></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-geography">
+<h3 id="geography"><a id="org9104f1e"></a>Geography</h3>
+</section>
+<section id="slide-orgb202030">
+<h4 id="orgb202030">Middle east:</h4>
+
+<div class="figure">
+<p><img src="https://i.pinimg.com/originals/a8/35/3a/a8353aa9c68645ded38e79e9b082371c.jpg" alt="a8353aa9c68645ded38e79e9b082371c.jpg" width="500"/>
+</p>
+</div>
+</section>
+<section id="slide-org12c30ad">
+<h4 id="org12c30ad">Roman Empire</h4>
+
+<div class="figure">
+<p><img src="https://www.maps.com/media/catalog/product/cache/1/thumbnail/17f82f742ffe127f42dca9de82fb58b1/m/a/maps.com-growth-of-the-roman-empire-44-bce-117-ce.jpg" alt="maps.com-growth-of-the-roman-empire-44-bce-117-ce.jpg" width="800"/>
+</p>
+</div>
+</section>
+<section id="slide-org02936fc">
+<h4 id="org02936fc">Growth of Islam</h4>
+
+<div class="figure">
+<p><img src="https://raymondpronk.files.wordpress.com/2012/03/growth_of_islamic_caliphate.jpg" alt="growth_of_islamic_caliphate.jpg" />
+</p>
+</div>
+</section>
+<section id="slide-org6989794">
+<h4 id="org6989794">European expansion &#x2013; cf.</h4>
+<p>
+<a href="http://prezi.com/npdu043ajimy/?utm_campaign=share&amp;utm_medium=copy&amp;rc=ex0share">European expansion prezi</a> Christianity no longer European only
+</p>
+</section>
+<section id="slide-orgb3e4098">
+<h4 id="orgb3e4098">New World &#x2013; a <b>tarnished</b> light on a hill</h4>
+
+<div class="figure">
+<p><img src="http://slideplayer.com/slide/3295328/11/images/12/A+City+Upon+a+Hill+John+Winthrop+wanted+this+colony+to+be+like+a+city+upon+a+hill+.+What+he+meant+was:.jpg" alt="A+City+Upon+a+Hill+John+Winthrop+wanted+this+colony+to+be+like+a+city+upon+a+hill+.+What+he+meant+was:.jpg" />
+</p>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-issues-of-great-contention">
+<h3 id="issues-of-great-contention"><a id="org3dced5f"></a>Issues of great contention</h3>
+</section>
+<section id="slide-org6f91a3f">
+<h4 id="org6f91a3f">Jewish or Christian?</h4>
+
+</section>
+<section id="slide-orgced9517">
+<h4 id="orgced9517">monotheistic? Trinity?</h4>
+
+<div class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shield-Trinity-Scutum-Fidei-English.svg/2000px-Shield-Trinity-Scutum-Fidei-English.svg.png" alt="2000px-Shield-Trinity-Scutum-Fidei-English.svg.png" width="800"/>
+</p>
+</div>
+
+</section>
+<section id="slide-org326aed8">
+<h4 id="org326aed8">nature of Christ</h4>
+
+<div class="figure">
+<p><img src="http://2.bp.blogspot.com/-iqzWsWIr6as/TfyfGDO8tnI/AAAAAAAAAEU/tJqYcYweBPY/s1600/Superhero+Christology.jpg" alt="Superhero+Christology.jpg" width="800"/>
+</p>
+</div>
+</section>
+<section >
+
+</section>
+<section id="slide-org9b20626">
+<h4 id="org9b20626">how interpret Bible? How incorporate surrounding culture?</h4>
+
+<div class="figure">
+<p><img src="https://i.pinimg.com/originals/ab/b6/ce/abb6ce2d9d97235d6b07b02c825d83ad.jpg" alt="abb6ce2d9d97235d6b07b02c825d83ad.jpg" />
+</p>
+</div>
+</section>
+<section id="slide-orge9187f6">
+<h4 id="orge9187f6">Church &amp; State</h4>
+<ul>
+<li>relation church &amp; state</li>
+<li>model of US is unusual and only quite recent</li>
+
+</ul>
+</section>
+<section id="slide-orge71f9cf">
+<h4 id="orge71f9cf">Only the Bible (grace, faith, etc.)</h4>
+<ul>
+<li><b>sola scriptura</b>, <b>sola gratia</b> -</li>
+
+</ul>
+
+<div class="figure">
+<p><img src="https://nwbchurch.org/sites/default/files/sermons/2017-11/Five_Solas.jpg" alt="Five_Solas.jpg" width="800"/>
+</p>
+</div>
+</section>
+<section id="slide-org58cac47">
+<h4 id="org58cac47">Sacraments</h4>
+<ul>
+<li>sacraments,</li>
+<li>ritual,</li>
+<li>iconoclastic controversy,</li>
+<li>Puritan cleansing - one</li>
+
+</ul>
+</section>
+<section id="slide-org3ec724b">
+<h4 id="org3ec724b">Church &amp; Culture</h4>
+<ul>
+<li>one body, one church? - Does Jesus speak Mandarin? or Swahili?</li>
+
+</ul>
+
+<div class="figure">
+<p><img src="https://blogs.ancientfaith.com/orthodoxbridge/wp-content/uploads/sites/27/2013/12/tumblr_mgjx0pjsOX1rk4qt8o2_1280.jpg" alt="tumblr_mgjx0pjsOX1rk4qt8o2_1280.jpg" width="600" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-issues-of-challenge">
+<h3 id="issues-of-challenge"><a id="orgcde14c2"></a>Issues of challenge</h3>
+<ul>
+<li>Conversion, "missiology"</li>
+<li>Peace? War?</li>
+<li>Poverty? Wealth?</li>
+<li>Creeds cf.
+<a href="https://en.wikipedia.org/wiki/List_of_Christian_creeds">Creeds &amp;
+Confessions</a></li>
+
+</ul>
+
+</section>
+<section id="slide-orged9d441">
+<h4 id="orged9d441">Early Christian Creeds <a href="https://carm.org/creeds-and-confessions">link</a></h4>
+<ul>
+<li>Apostles' Creed</li>
+<li>Nicene Creed (A.D. 325)</li>
+<li>Athanasian Creed (A.D. 500)</li>
+<li>Chalcedonian Creed (A.D. 451)</li>
+<li>Canons on the Council of Orange (A.D. 529)</li>
+<li>Statement of faith of the 3rd Council of Constantinople (A.D. 681)</li>
+
+</ul>
+
+</section>
+<section id="slide-org3f3e874">
+<h4 id="org3f3e874">Reformation Confessions</h4>
+<ul>
+<li>Luther's 95 Theses (A.D. 1517)</li>
+<li>Augsburg Confession (A.D. 1530)</li>
+<li>Belgic Confession (A.D. 1561)</li>
+<li>Heidelberg Catechism (A.D. 1576)</li>
+<li>Canons of Dort (A.D. 1619)</li>
+<li>Westminster Confession (A.D. 1647)</li>
+<li>Westminster Shorter Catechism (A.D. 1647)</li>
+<li>Waldensian Confession (A.D. 1655)</li>
+<li>Second London Baptist Confession (A.D. 1689)</li>
+
+</ul>
+
+</section>
+<section id="slide-issues-of-identity">
+<h4 id="issues-of-identity"><a id="orgb9c2884"></a>Issues of Identity</h4>
+<ul>
+<li>Bible: Old/New Testaments &#x2013; nature of interpretation</li>
+<li>Sacraments? Priests/Presbyters?</li>
+<li>Authority: local?, pyramidical? dispersed? sacerdotal?</li>
+<li>Individualism</li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Dale Hathaway. </p>
+	<!-- below 2 </div> > -->
+		<script src="../../lib/js/head.min.js"></script>
+		<script src="../../js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+			//parallaxBackgroundImage: 'https://farm5.staticflickr.com/4066/4687041921_d5a5e5da73_o.jpg',
+			parallaxBackgroundImage: 'http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg',
+				parallaxBackgroundSize: '2591px 2592px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: '../../lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '../../plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../../plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '../../plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

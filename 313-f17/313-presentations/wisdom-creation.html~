@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Wisdom &amp; Creation</title>
+<meta name="author" content="(Dale Hathaway)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
+
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/moon.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<meta name="description" content="Org-Reveal">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h2>Wisdom &amp; Creation</h2>
+<h3>Dale Hathaway</h3>
+<p><a href="mailto:hathawayd@winthrop.edu">hathawayd@winthrop.edu</a></p>
+<p>Nov. 9, 2017</p>
+<p>Winthrop University</p>
+</section>
+
+<section>
+<section id="slide-wisdom-creation">
+<h2 id="wisdom-creation"><a id="org361feed"></a>Wisdom &amp; Creation</h2>
+</section>
+<section id="slide-review-ch-12-restoration">
+<h3 id="review-ch-12-restoration"><a id="org56c6f82"></a>Review CH 12: Restoration</h3>
+<ul>
+<li>Cyrus as <b>messiah</b></li>
+<li>Image of Psalm 137</li>
+<li>Suffering Servant: Who? Jesus? (357)</li>
+
+</ul>
+
+</section>
+<section id="slide-conflict-in-the-return-of-the-exiles">
+<h3 id="conflict-in-the-return-of-the-exiles"><a id="org6bc0e4e"></a>Conflict in the return of the exiles</h3>
+<ul>
+<li>Samaritans vs. Returnees (box 347, 348</li>
+<li>about God, shift from <b>best</b> god to <b>only</b> god (351)</li>
+<li>this is the <b>context</b> for the editing/composition of the bible as we
+have it</li>
+
+</ul>
+
+</section>
+<section id="slide-wisdom">
+<h3 id="wisdom"><a id="org52b7b4e"></a>Wisdom</h3>
+<ul>
+<li>Proverbs</li>
+<li>Lady Wisdom</li>
+<li>God as male/female (381)</li>
+<li>Wisdom books (383)</li>
+
+</ul>
+</section>
+<section id="slide-org4342b77">
+<h3 id="org4342b77">some Proverbs</h3>
+<ul>
+<li><a href="https://whyreadwhat.files.wordpress.com/2015/06/bruegel-netherlandish-proverbs0.jpg">Brueghel's
+parables painting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Netherlandish_Proverbs">list of
+parables</a></li>
+<li><a href="https://sites.google.com/site/dalespublic/proverbs">various
+proverbs</a></li>
+
+</ul>
+
+</section>
+<section id="slide-death-and-afterlife">
+<h3 id="death-and-afterlife"><a id="orgb37faec"></a>Death and afterlife</h3>
+<ul>
+<li>box 377</li>
+<li>box 395</li>
+
+</ul>
+
+</section>
+<section id="slide-creation-chaos">
+<h3 id="creation-chaos"><a id="orgfddbbc1"></a>Creation / Chaos</h3>
+<ul>
+<li>opposite of creation is <b>chaos</b> not <b>nothing</b> (376)</li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Dale Hathaway. </p>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+width: 1000,
+height: 800,
+margin: 0.10,
+minScale: 0.50,
+maxScale: 2.00,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

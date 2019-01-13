@@ -3,11 +3,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-11-09 Fri 15:20 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="viewport" content="width=device-width, initial-scale=1" />
-<title></title>
-<meta  name="generator" content="Org-mode" />
+<!-- 2019-01-12 Sat 08:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -52,13 +52,98 @@
     border: 1px solid black;
   }
   pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
@@ -75,6 +160,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -91,6 +189,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <script type="text/javascript">
@@ -98,7 +197,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -142,22 +241,32 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<section data-background="http://drive.google.com/uc?export=view&amp;id=0B8ezT0-tUjVZZ0Q4eEdSRE1HTVU" data-background-size="450px">
+<div class="HTML">
+<p>
+&lt;section data-background="<a href="http://drive.google.com/uc?export=view&amp;amp;id=0B8ezT0-tUjVZZ0Q4eEdSRE1HTVU">http://drive.google.com/uc?export=view&amp;amp;id=0B8ezT0-tUjVZZ0Q4eEdSRE1HTVU</a>" data-background-size="450px"&gt;
+</p>
+
+</div>
 
 <p>
 Elie Wiesel
 </p>
 
-</section>
+<div class="HTML">
+<p>
+&lt;/section&gt;
+</p>
+
+</div>
 
 <p>
 Note: ## Night Historical Context
 </p>
 
-<hr  />
+<hr />
 
-<div id="outline-container-orgheadline1" class="outline-2">
-<h2 id="night-an-introduction"><a id="orgheadline1"></a>Night an introduction</h2>
+<div id="outline-container-org80c2a29" class="outline-2">
+<h2 id="night-an-introduction">Night an introduction</h2>
 <div class="outline-text-2" id="text-night-an-introduction">
 <p>
 Wiesel on wandering and returning home: <a href="https://youtu.be/1QQlKx5qtrg">https://youtu.be/1QQlKx5qtrg</a>
@@ -188,12 +297,12 @@ Among those Jews who lives were totally uprooted was a devout
 fourteen-year-old student of the Talmud, Eliezer Wiesel.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline2" class="outline-2">
-<h2 id="beginning-to-record"><a id="orgheadline2"></a>Beginning to record</h2>
+<div id="outline-container-org716050e" class="outline-2">
+<h2 id="beginning-to-record">Beginning to record</h2>
 <div class="outline-text-2" id="text-beginning-to-record">
 <ul class="org-ul">
 <li>Wiesel's experiences from that point to eventual liberation at
@@ -208,39 +317,69 @@ Auschwitz and the loss of the six million dictate almost all Wiesel's
 thought and writing.</li>
 </ul>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline3" class="outline-2">
-<h2 id="organization"><a id="orgheadline3"></a>Organization</h2>
+<div id="outline-container-org5eb6250" class="outline-2">
+<h2 id="organization">Organization</h2>
 <div class="outline-text-2" id="text-organization">
-<li class="fragment">
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
 gradual loss of the illusion of hope
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
 loss of faith in the God of his childhood
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
 gradual loss of his relationship with his father
 </p>
 
-</li></li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
+
+</div></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -256,12 +395,12 @@ guilt as his father slips inexorably toward death and Wiesel anticipates
 freedom from his burden of devotion.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline4" class="outline-2">
-<h2 id="never-shall-i-forget"><a id="orgheadline4"></a>Never shall I forget</h2>
+<div id="outline-container-org191fdc0" class="outline-2">
+<h2 id="never-shall-i-forget">Never shall I forget</h2>
 <div class="outline-text-2" id="text-never-shall-i-forget">
 <blockquote>
 <p>
@@ -295,12 +434,12 @@ is revealed in Night in which “anything is allowed.” After seeing a
 truck dump babies into a burning pit, Wiesel cries,
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline5" class="outline-2">
-<h2 id="god-is-on-the-gallows"><a id="orgheadline5"></a>God is on the gallows</h2>
+<div id="outline-container-orgd9c5b7f" class="outline-2">
+<h2 id="god-is-on-the-gallows">God is on the gallows</h2>
 <div class="outline-text-2" id="text-god-is-on-the-gallows">
 <p>
 Following the execution of a child possessing “the face of a sad angel,”
@@ -337,12 +476,12 @@ to please the reader. . . . I write for the dead.” Wiesel himself calls
 Night the literature of testimony.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline6" class="outline-2">
-<h2 id="places-of-night"><a id="orgheadline6"></a>Places of Night</h2>
+<div id="outline-container-org9083ce9" class="outline-2">
+<h2 id="places-of-night">Places of Night</h2>
 <div class="outline-text-2" id="text-places-of-night">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -440,32 +579,52 @@ of the strong religious faith that he had developed through his early
 education and the examples of his parents.
 </p>
 
-<hr  />
+<hr />
 
-<section data-background="http://drive.google.com/uc?export=view&amp;id=0B8ezT0-tUjVZVzdGSHBwbmNFRVE" data-background-size="1000px">
+<div class="HTML">
+<p>
+&lt;section data-background="<a href="http://drive.google.com/uc?export=view&amp;amp;id=0B8ezT0-tUjVZVzdGSHBwbmNFRVE">http://drive.google.com/uc?export=view&amp;amp;id=0B8ezT0-tUjVZVzdGSHBwbmNFRVE</a>" data-background-size="1000px"&gt;
+</p>
+
+</div>
 
 <p>
 Women and children enroute to Auschwitz
 </p>
 
-</section>
+<div class="HTML">
+<p>
+&lt;/section&gt;
+</p>
 
-<hr  />
+</div>
 
-<section data-background="http://drive.google.com/uc?export=view&amp;id=0B8ezT0-tUjVZbUhQdUVLNGFhcE0" data-background-size="1000px">
+<hr />
+
+<div class="HTML">
+<p>
+&lt;section data-background="<a href="http://drive.google.com/uc?export=view&amp;amp;id=0B8ezT0-tUjVZbUhQdUVLNGFhcE0">http://drive.google.com/uc?export=view&amp;amp;id=0B8ezT0-tUjVZbUhQdUVLNGFhcE0</a>" data-background-size="1000px"&gt;
+</p>
+
+</div>
 
 <p>
 Wiesel and other survivors Published by Gale Cengage
 </p>
 
-</section>
+<div class="HTML">
+<p>
+&lt;/section&gt;
+</p>
 
-<hr  />
+</div>
+
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline7" class="outline-2">
-<h2 id="holocaust"><a id="orgheadline7"></a>“Holocaust”</h2>
+<div id="outline-container-orgcbaff9e" class="outline-2">
+<h2 id="holocaust">“Holocaust”</h2>
 <div class="outline-text-2" id="text-holocaust">
 <ul class="org-ul">
 <li>The mass murder of European Jews and others under Nazi rule during
@@ -475,9 +634,9 @@ below</i>)</li>
 <li>Timeline of a long history of anti-semitism:
 
 <ul class="org-ul">
-<li><a href="https://en.wikipedia.org/wiki/Timeline%5C_of%5C_antisemitism">https://en.wikipedia.org/wiki/Timeline%5C_of%5C_antisemitism</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Timeline%5C_of%5C_antisemitism">https://en.wikipedia.org/wiki/Timeline\_of\_antisemitism</a></li>
 <li><a href="http://www.simpletoremember.com/articles/a/HistoryJewishPersecution/">http://www.simpletoremember.com/articles/a/HistoryJewishPersecution/</a></li>
-<li><a href="http://www.zionism-israel.com/his/Anti-semitism%5C_timeline.htm">http://www.zionism-israel.com/his/Anti-semitism%5C_timeline.htm</a></li>
+<li><a href="http://www.zionism-israel.com/his/Anti-semitism%5C_timeline.htm">http://www.zionism-israel.com/his/Anti-semitism\_timeline.htm</a></li>
 </ul></li>
 </ul>
 
@@ -507,37 +666,62 @@ killed merely because they were Jews. The destruction of the Jews in
 Europe stands as the archetype of genocide in human history.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline8" class="outline-2">
-<h2 id="jews-and-anti-semitism"><a id="orgheadline8"></a>Jews and anti-semitism</h2>
+<div id="outline-container-orgd6dcdcb" class="outline-2">
+<h2 id="jews-and-anti-semitism">Jews and anti-semitism</h2>
 <div class="outline-text-2" id="text-jews-and-anti-semitism">
 <ul class="org-ul">
 <li><p>
 Jews had long been victims of persecution
 </p>
 
-<li class="fragment">
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
 Hitler rose to prominence as a charismatic demagogue in 1920's
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
 He lost an election for president in 1932
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
@@ -545,7 +729,12 @@ in 1933 he became chancellor and set in motion the
 destruction of democracy in Germany
 </p>
 
-</li></li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
+
+</div></li>
 </ul></li>
 </ul></li>
 </ul></li>
@@ -571,12 +760,12 @@ regimes, established complete political, social, and cultural control
 over its subjects.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline9" class="outline-2">
-<h2 id="gradual-progression"><a id="orgheadline9"></a>Gradual progression</h2>
+<div id="outline-container-org7f2824a" class="outline-2">
+<h2 id="gradual-progression">Gradual progression</h2>
 <div class="outline-text-2" id="text-gradual-progression">
 <ul class="org-ul">
 <li><p>
@@ -585,7 +774,12 @@ conquest, Jews were subjected first to discrimination, then
 persecution, and then state-condoned terrorism.
 </p>
 
-<li class="fragment">
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
@@ -593,9 +787,19 @@ the "night of the broken glass" also known as <b>Kristallnacht</b>,
 which took place in Munich, Germany, in November 1938
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <ul class="org-ul">
 <li><p>
@@ -604,7 +808,12 @@ five hundred thousand Jews had fled, as had many Jews from
 other German-occupied areas.
 </p>
 
-</li></li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
+
+</div></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -626,12 +835,12 @@ thousand Jews had fled, as had many Jews from other German-occupied
 areas.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline10" class="outline-2">
-<h2 id="final-solution"><a id="orgheadline10"></a>Final Solution</h2>
+<div id="outline-container-org2abb0ce" class="outline-2">
+<h2 id="final-solution">Final Solution</h2>
 <div class="outline-text-2" id="text-final-solution">
 <ul class="org-ul">
 <li>Hitler's Nazi government planned a "Final Solution" to the "Jewish
@@ -717,46 +926,91 @@ Jews, and many of them who survived the Holocaust migrated there, as
 well as to the United States, Australia, and elsewhere.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline11" class="outline-2">
-<h2 id="night-literary-style"><a id="orgheadline11"></a>Night Literary Style</h2>
+<div id="outline-container-org976eab7" class="outline-2">
+<h2 id="night-literary-style">Night Literary Style</h2>
 <div class="outline-text-2" id="text-night-literary-style">
-<li class="fragment">
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <p>
 <b>Narrative:</b> short narrative piece, novella
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <p>
 <b>Semantics:</b> The problem of capturing the unrepresentable,
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <p>
 <b>Allusion:</b> Night is full of scriptural allusions
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <p>
 <b>Anti-bildungsroman:</b> Wiesel's novella turns the tradition on its head.
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
 
-<li class="fragment">
+</div>
+
+<div class="HTML">
+<p>
+&lt;li class="fragment"&gt;
+</p>
+
+</div>
 
 <p>
 <b>Hasidic tales:</b> do not follow western notions but <b>develop their own
@@ -764,7 +1018,12 @@ time</b> according to the message of the story. "Time," &#x2026; "is represented
 as a creative force, a bridge sinking man to eternity."
 </p>
 
-</li>
+<div class="HTML">
+<p>
+&lt;/li&gt;
+</p>
+
+</div>
 
 <p>
 Note: The novella is a short piece of fiction that is based on the
@@ -886,12 +1145,12 @@ not that he will think about being a productive worker, but about
 healing humanity.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline12" class="outline-2">
-<h2 id="vocabulary"><a id="orgheadline12"></a>Vocabulary</h2>
+<div id="outline-container-org356d9d6" class="outline-2">
+<h2 id="vocabulary">Vocabulary</h2>
 <div class="outline-text-2" id="text-vocabulary">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -975,12 +1234,12 @@ forehead during weekday morning prayers by Orthodox and conservative
 Jewish men.
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 
-<div id="outline-container-orgheadline13" class="outline-2">
-<h2 id="characters"><a id="orgheadline13"></a>Characters</h2>
+<div id="outline-container-org4542204" class="outline-2">
+<h2 id="characters">Characters</h2>
 <div class="outline-text-2" id="text-characters">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -1035,7 +1294,7 @@ Jewish men.
 </div>
 </div>
 <div id="postamble" class="status">
-Last update : 09 Nov 2018
+Last update : 12 Jan 2019
 </div>
 </body>
 </html>
