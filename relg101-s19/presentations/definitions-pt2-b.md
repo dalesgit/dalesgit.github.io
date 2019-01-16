@@ -3,6 +3,8 @@
 - What is a highlight from your reflection?
 - What stands out? Surprised you?
 
+![](https://images.theconversation.com/files/194855/original/file-20171115-19836-uy2yzs.jpg)
+
 ---
 
 #### Chapter 1 (cont.) ####
@@ -107,11 +109,14 @@ Note:
 https://youtu.be/AvFl6UBZLv4u
 
 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Religion_distribution.png) 
+
+[By TheGreenEditor - self-made (using sources from Britannica, Think Quest  Wadsworth.com and many other sources similar to these in order to create the map with the right colours.), Public Domain, https://commons.wikimedia.org/w/index.php?curid=4288638]
 ---
 
 ##### Ordering and Understanding Existence #####
 
-- Stresses the way in which notions of sacred reality are related to problems of suffering and death.
+- Stresses the way in which notions of sacred reality are related to problems of suffering and 
 - Also stresses the way in which notions of sacred reality are related to other problems; such as the ordering of political or economic life.
 
 **cf. the "functional" aspect of religion above**
