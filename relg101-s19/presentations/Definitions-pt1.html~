@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-01-05 Sat 16:35 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="viewport" content="width=device-width, initial-scale=1" />
+<!-- 2019-01-12 Sat 08:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Toward Definition of Religion</title>
-<meta  name="generator" content="Org-mode" />
-<meta  name="author" content="Dale Hathaway" />
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Dale Hathaway" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -53,13 +53,98 @@
     border: 1px solid black;
   }
   pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
@@ -76,6 +161,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -92,6 +190,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <script type="text/javascript">
@@ -99,7 +198,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -148,19 +247,19 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline1">Assessing our Spirituality</a></li>
-<li><a href="#orgheadline6">Studying Religion</a></li>
-<li><a href="#orgheadline12">Possible Definitions of Religion</a></li>
-<li><a href="#orgheadline13">Elements of Religion</a></li>
-<li><a href="#orgheadline22">What kind of stuff? : Substance or Function?</a></li>
-<li><a href="#orgheadline24">A Proposed Definition</a></li>
-<li><a href="#orgheadline25">A Notion of Sacred Reality</a></li>
+<li><a href="#orgc4cbd7c">Assessing our Spirituality</a></li>
+<li><a href="#orgc6a912a">Studying Religion</a></li>
+<li><a href="#org901e6bf">Possible Definitions of Religion</a></li>
+<li><a href="#orgefd5834">Elements of Religion</a></li>
+<li><a href="#org9a65f60">What kind of stuff? : Substance or Function?</a></li>
+<li><a href="#org1ab7f7e">A Proposed Definition</a></li>
+<li><a href="#orgb376167">A Notion of Sacred Reality</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgheadline1" class="outline-2">
-<h2 id="orgheadline1">Assessing our Spirituality</h2>
-<div class="outline-text-2" id="text-orgheadline1">
+<div id="outline-container-orgc4cbd7c" class="outline-2">
+<h2 id="orgc4cbd7c">Assessing our Spirituality</h2>
+<div class="outline-text-2" id="text-orgc4cbd7c">
 <p>
 <b>Reflect on your own Spirituality</b>
 </p>
@@ -174,12 +273,13 @@ Your assignment will be graded an "A" if it meets the following criteria: 1) You
 </p>
 </div>
 </div>
-<div id="outline-container-orgheadline6" class="outline-2">
-<h2 id="orgheadline6">Studying Religion</h2>
-<div class="outline-text-2" id="text-orgheadline6">
-</div><div id="outline-container-orgheadline2" class="outline-3">
-<h3 id="orgheadline2">Tools Used in the Study Religion</h3>
-<div class="outline-text-3" id="text-orgheadline2">
+<div id="outline-container-orgc6a912a" class="outline-2">
+<h2 id="orgc6a912a">Studying Religion</h2>
+<div class="outline-text-2" id="text-orgc6a912a">
+</div>
+<div id="outline-container-orgda59290" class="outline-3">
+<h3 id="orgda59290">Tools Used in the Study Religion</h3>
+<div class="outline-text-3" id="text-orgda59290">
 <p>
 Religious studies is the attempt to study these things, taking <b>homo religiosus</b> seriously
 </p>
@@ -194,26 +294,26 @@ Religious studies is the attempt to study these things, taking <b>homo religiosu
 </div>
 </div>
 
-<div id="outline-container-orgheadline3" class="outline-3">
-<h3 id="orgheadline3">"What is required is perspective" (p. 8)</h3>
-<div class="outline-text-3" id="text-orgheadline3">
+<div id="outline-container-org424d80c" class="outline-3">
+<h3 id="org424d80c">"What is required is perspective" (p. 8)</h3>
+<div class="outline-text-3" id="text-org424d80c">
 <p>
 A North American touring the highlands of New Guinea for a visit to one of the tribes living in the outback might well witness men decorated in bird-of-paradise feathers, nude (save for a penis sheath), covered in ashes, and dancing before a fire at the side of which are pigs bound in vines and banana leaves. His or her first reaction might well be to take some photographs in order to show “the folks back home” some  of the exotic aspects of life among primitive peoples. But this picture can be reversed.
 </p>
 </div>
 
-<div id="outline-container-orgheadline4" class="outline-4">
-<h4 id="orgheadline4"></h4>
-<div class="outline-text-4" id="text-orgheadline4">
+<div id="outline-container-orgdf9731f" class="outline-4">
+<h4 id="orgdf9731f"></h4>
+<div class="outline-text-4" id="text-orgdf9731f">
 <p>
 Suppose the tribesmen of the outback visit a downtown church on Sunday morning. They observe rows of oddly dressed people (what, after all, is the purpose of a necktie?), notice that some sit while others sing, listen to one person speak at length, and see still others pass plates onto which paper and metal disks are placed. What are these tribesmen to think? Where, after all, are the pigs? The fire? The sacred feathers? In both cases, the observer lacks a sense of perspective and context. 
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgheadline5" class="outline-4">
-<h4 id="orgheadline5"></h4>
-<div class="outline-text-4" id="text-orgheadline5">
+<div id="outline-container-orga098073" class="outline-4">
+<h4 id="orga098073"></h4>
+<div class="outline-text-4" id="text-orga098073">
 <p>
 The lesson is a simple one. It is impossible to get at the intention that lies behind religious behavior unless we have a willingness to <b>enter sympathetically into the cultural worldview of another person</b>, at least for a moment.
 </p>
@@ -225,12 +325,13 @@ The lesson is a simple one. It is impossible to get at the intention that lies b
 
 
 
-<div id="outline-container-orgheadline12" class="outline-2">
-<h2 id="orgheadline12">Possible Definitions of Religion</h2>
-<div class="outline-text-2" id="text-orgheadline12">
-</div><div id="outline-container-orgheadline7" class="outline-3">
-<h3 id="orgheadline7">1</h3>
-<div class="outline-text-3" id="text-orgheadline7">
+<div id="outline-container-org901e6bf" class="outline-2">
+<h2 id="org901e6bf">Possible Definitions of Religion</h2>
+<div class="outline-text-2" id="text-org901e6bf">
+</div>
+<div id="outline-container-org93a2330" class="outline-3">
+<h3 id="org93a2330">1</h3>
+<div class="outline-text-3" id="text-org93a2330">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -271,9 +372,9 @@ November 21, 1768 – February 12, 1834) was a German theologian, philosopher, a
 </div>
 </div>
 
-<div id="outline-container-orgheadline8" class="outline-3">
-<h3 id="orgheadline8">2</h3>
-<div class="outline-text-3" id="text-orgheadline8">
+<div id="outline-container-org8d751cf" class="outline-3">
+<h3 id="org8d751cf">2</h3>
+<div class="outline-text-3" id="text-org8d751cf">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -310,9 +411,9 @@ Note:
 </div>
 </div>
 
-<div id="outline-container-orgheadline9" class="outline-3">
-<h3 id="orgheadline9">3</h3>
-<div class="outline-text-3" id="text-orgheadline9">
+<div id="outline-container-org31775a8" class="outline-3">
+<h3 id="org31775a8">3</h3>
+<div class="outline-text-3" id="text-org31775a8">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -348,9 +449,9 @@ Sigmund Freud's views on religion are described in several of his books and essa
 </div>
 </div>
 </div>
-<div id="outline-container-orgheadline10" class="outline-3">
-<h3 id="orgheadline10">4</h3>
-<div class="outline-text-3" id="text-orgheadline10">
+<div id="outline-container-org8a0f855" class="outline-3">
+<h3 id="org8a0f855">4</h3>
+<div class="outline-text-3" id="text-org8a0f855">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -392,9 +493,9 @@ His most famous work, The Golden Bough (1890), documents and details the similar
 </div>
 </div>
 
-<div id="outline-container-orgheadline11" class="outline-3">
-<h3 id="orgheadline11">A Definition of Religion</h3>
-<div class="outline-text-3" id="text-orgheadline11">
+<div id="outline-container-org7830b89" class="outline-3">
+<h3 id="org7830b89">A Definition of Religion</h3>
+<div class="outline-text-3" id="text-org7830b89">
 <p>
 <b>cautious, recognizing that we cannot escape our own perspective</b> &#x2026; 
 </p>
@@ -406,9 +507,9 @@ The very attempt to define religion, to find some distinctive or possibly unique
 </div>
 </div>
 
-<div id="outline-container-orgheadline13" class="outline-2">
-<h2 id="orgheadline13">Elements of Religion</h2>
-<div class="outline-text-2" id="text-orgheadline13">
+<div id="outline-container-orgefd5834" class="outline-2">
+<h2 id="orgefd5834">Elements of Religion</h2>
+<div class="outline-text-2" id="text-orgefd5834">
 <ul class="org-ul">
 <li>Human thought</li>
 <li>Feeling</li>
@@ -419,9 +520,9 @@ The very attempt to define religion, to find some distinctive or possibly unique
 </div>
 
 
-<div id="outline-container-orgheadline14" class="outline-3">
-<h3 id="orgheadline14">Religion and Human Thought</h3>
-<div class="outline-text-3" id="text-orgheadline14">
+<div id="outline-container-org8f3acf8" class="outline-3">
+<h3 id="org8f3acf8">Religion and Human Thought</h3>
+<div class="outline-text-3" id="text-org8f3acf8">
 <p>
 Religion is intimately connected with human thought.
 </p>
@@ -435,9 +536,9 @@ Even those who focus on practice have beliefs, develop doctrines, and emphasize 
 
 
 
-<div id="outline-container-orgheadline15" class="outline-3">
-<h3 id="orgheadline15">Religion and Feeling</h3>
-<div class="outline-text-3" id="text-orgheadline15">
+<div id="outline-container-orgd190cc9" class="outline-3">
+<h3 id="orgd190cc9">Religion and Feeling</h3>
+<div class="outline-text-3" id="text-orgd190cc9">
 <p>
 To some extent, all religious experience is an emotional experience.
 </p>
@@ -455,9 +556,9 @@ Rudolf Otto, characterized religion as the <b>experience of the holy</b>. And th
 
 
 
-<div id="outline-container-orgheadline16" class="outline-3">
-<h3 id="orgheadline16">Religion and Action</h3>
-<div class="outline-text-3" id="text-orgheadline16">
+<div id="outline-container-orgc94de18" class="outline-3">
+<h3 id="orgc94de18">Religion and Action</h3>
+<div class="outline-text-3" id="text-orgc94de18">
 <p>
 While the form and place of religious action vary, the importance of action to an understanding of religion is evident.
 </p>
@@ -475,9 +576,9 @@ Examples of religious action:
 </div>
 </div>
 
-<div id="outline-container-orgheadline17" class="outline-3">
-<h3 id="orgheadline17">Individual and Social Existence</h3>
-<div class="outline-text-3" id="text-orgheadline17">
+<div id="outline-container-org0e3a68e" class="outline-3">
+<h3 id="org0e3a68e">Individual and Social Existence</h3>
+<div class="outline-text-3" id="text-org0e3a68e">
 <ul class="org-ul">
 <li>Most of the great religions make a place for <b>individual devotion</b> and encourage persons to search for <b>union with the ultimate reality</b>.</li>
 <li>But we must be careful not to overstress the individual dimension of religion.
@@ -489,9 +590,9 @@ Examples of religious action:
 </div>
 </div>
 
-<div id="outline-container-orgheadline18" class="outline-3">
-<h3 id="orgheadline18">Values and Religion</h3>
-<div class="outline-text-3" id="text-orgheadline18">
+<div id="outline-container-org547ffd7" class="outline-3">
+<h3 id="org547ffd7">Values and Religion</h3>
+<div class="outline-text-3" id="text-org547ffd7">
 <p>
 In most times and places, religion has been closely connected with morality.
 </p>
@@ -507,12 +608,13 @@ In most times and places, religion has been closely connected with morality.
 </div>
 </div>
 
-<div id="outline-container-orgheadline22" class="outline-2">
-<h2 id="orgheadline22">What kind of stuff? : Substance or Function?</h2>
-<div class="outline-text-2" id="text-orgheadline22">
-</div><div id="outline-container-orgheadline19" class="outline-3">
-<h3 id="orgheadline19">Functionalist Definition of Religion</h3>
-<div class="outline-text-3" id="text-orgheadline19">
+<div id="outline-container-org9a65f60" class="outline-2">
+<h2 id="org9a65f60">What kind of stuff? : Substance or Function?</h2>
+<div class="outline-text-2" id="text-org9a65f60">
+</div>
+<div id="outline-container-org5f23cb2" class="outline-3">
+<h3 id="org5f23cb2">Functionalist Definition of Religion</h3>
+<div class="outline-text-3" id="text-org5f23cb2">
 <ul class="org-ul">
 <li>Focuses on the role religion plays in the lives of persons and groups.</li>
 <li>Might focus on the ways religion enables people to sustain hope in the face of difficult circumstances.</li>
@@ -523,9 +625,9 @@ In most times and places, religion has been closely connected with morality.
 
 
 
-<div id="outline-container-orgheadline20" class="outline-3">
-<h3 id="orgheadline20">Substantive Definition of Religion</h3>
-<div class="outline-text-3" id="text-orgheadline20">
+<div id="outline-container-orgecd6674" class="outline-3">
+<h3 id="orgecd6674">Substantive Definition of Religion</h3>
+<div class="outline-text-3" id="text-orgecd6674">
 <ul class="org-ul">
 <li>Attempts to limit the phenomena that may be characterized as religious.</li>
 <li>Seeks to identify what it is that makes certain responses to death and suffering religious and others not.</li>
@@ -536,9 +638,9 @@ In most times and places, religion has been closely connected with morality.
 
 
 
-<div id="outline-container-orgheadline21" class="outline-3">
-<h3 id="orgheadline21">Definition must be both</h3>
-<div class="outline-text-3" id="text-orgheadline21">
+<div id="outline-container-org5b6305c" class="outline-3">
+<h3 id="org5b6305c">Definition must be both</h3>
+<div class="outline-text-3" id="text-org5b6305c">
 <ul class="org-ul">
 <li>Considerations of function are necessary but not sufficient to the task of defining religion.</li>
 <li>But an adequate definition of religion must include a substantive component.</li>
@@ -557,12 +659,13 @@ In most times and places, religion has been closely connected with morality.
 
 
 
-<div id="outline-container-orgheadline24" class="outline-2">
-<h2 id="orgheadline24">A Proposed Definition</h2>
-<div class="outline-text-2" id="text-orgheadline24">
-</div><div id="outline-container-orgheadline23" class="outline-3">
-<h3 id="orgheadline23">Religion signifies those ways of viewing the world that refer to:</h3>
-<div class="outline-text-3" id="text-orgheadline23">
+<div id="outline-container-org1ab7f7e" class="outline-2">
+<h2 id="org1ab7f7e">A Proposed Definition</h2>
+<div class="outline-text-2" id="text-org1ab7f7e">
+</div>
+<div id="outline-container-orge6b584f" class="outline-3">
+<h3 id="orge6b584f">Religion signifies those ways of viewing the world that refer to:</h3>
+<div class="outline-text-3" id="text-orge6b584f">
 <ol class="org-ol">
 <li>a notion of sacred reality</li>
 <li>made manifest in human experience</li>
@@ -573,9 +676,9 @@ In most times and places, religion has been closely connected with morality.
 </div>
 </div>
 
-<div id="outline-container-orgheadline25" class="outline-2">
-<h2 id="orgheadline25">A Notion of Sacred Reality</h2>
-<div class="outline-text-2" id="text-orgheadline25">
+<div id="outline-container-orgb376167" class="outline-2">
+<h2 id="orgb376167">A Notion of Sacred Reality</h2>
+<div class="outline-text-2" id="text-orgb376167">
 <ul class="org-ul">
 <li>A <b>notion of sacred reality establishes a boundary between religion and non-religion.</b></li>
 <li><b>Sacred</b> indicates a reality that is somehow distinct, set apart, other than <b>ordinary</b>.</li>
@@ -586,9 +689,9 @@ In most times and places, religion has been closely connected with morality.
 
 
 
-<div id="outline-container-orgheadline26" class="outline-3">
-<h3 id="orgheadline26">Manifest in Human Experience</h3>
-<div class="outline-text-3" id="text-orgheadline26">
+<div id="outline-container-orgdb44652" class="outline-3">
+<h3 id="orgdb44652">Manifest in Human Experience</h3>
+<div class="outline-text-3" id="text-orgdb44652">
 <ul class="org-ul">
 <li>Although the sacred is set apart from the ordinary, it nevertheless may be experienced, thought about, and acted upon.</li>
 <li>Thus, all religion has to do with the element of the <b>sacred manifesting itself in various ways</b>: in rituals, persons, and natural phenomena.</li>
@@ -604,9 +707,9 @@ In most times and places, religion has been closely connected with morality.
 
 
 
-<div id="outline-container-orgheadline27" class="outline-3">
-<h3 id="orgheadline27">Long-Lasting Ways of Thinking and Feeling</h3>
-<div class="outline-text-3" id="text-orgheadline27">
+<div id="outline-container-orgab28b33" class="outline-3">
+<h3 id="orgab28b33">Long-Lasting Ways of Thinking and Feeling</h3>
+<div class="outline-text-3" id="text-orgab28b33">
 <ul class="org-ul">
 <li>Religious ways develop over time.  And they come to constitute traditions that may be identified with the history of particular communities.</li>
 <li>For example, the prophecy of Muhammad is the beginning of the tradition of Islam.</li>
@@ -618,9 +721,9 @@ In most times and places, religion has been closely connected with morality.
 
 
 
-<div id="outline-container-orgheadline28" class="outline-3">
-<h3 id="orgheadline28">Ordering and Understanding Existence</h3>
-<div class="outline-text-3" id="text-orgheadline28">
+<div id="outline-container-orgcd907c6" class="outline-3">
+<h3 id="orgcd907c6">Ordering and Understanding Existence</h3>
+<div class="outline-text-3" id="text-orgcd907c6">
 <ul class="org-ul">
 <li>Stresses the way in which notions of sacred reality are related to problems of suffering and death.</li>
 <li>Also stresses the way in which notions of sacred reality are related to other problems; such as the ordering of political or economic life.</li>
@@ -630,7 +733,7 @@ In most times and places, religion has been closely connected with morality.
 </div>
 </div>
 <div id="postamble" class="status">
-Last update : 05 Jan 2019
+Last update : 12 Jan 2019
 </div>
 </body>
 </html>

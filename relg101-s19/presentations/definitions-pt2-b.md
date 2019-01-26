@@ -76,7 +76,8 @@ therefore a temptation to see religion in terms of dealing with those events -- 
 ---
 
 https://youtu.be/rEM4a7Z7prM "What is sacred?"
-[www.tamera.org]
+
+www.tamera.org
 
 - ... some examples?
 
@@ -111,12 +112,19 @@ https://youtu.be/AvFl6UBZLv4u
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Religion_distribution.png) 
 
-[By TheGreenEditor - self-made (using sources from Britannica, Think Quest  Wadsworth.com and many other sources similar to these in order to create the map with the right colours.), Public Domain, https://commons.wikimedia.org/w/index.php?curid=4288638]
+By TheGreenEditor 
+- self-made (using sources from Britannica, Think Quest  Wadsworth.com and many other sources similar to these in order to create the map with the right colours.), Public Domain,
+
+https://commons.wikimedia.org/w/index.php?curid=4288638
 ---
 
 ##### Ordering and Understanding Existence #####
 
 - Stresses the way in which notions of sacred reality are related to problems of suffering and 
-- Also stresses the way in which notions of sacred reality are related to other problems; such as the ordering of political or economic life.
+- Also stresses the way in which notions of sacred reality are related 
+to other problems; such as the ordering of political or economic life. 
+- [PBS: Sacred trailer](https://www.pbs.org/video/sacred-official-trailer-mhp67i/)
 
 **cf. the "functional" aspect of religion above**
+
+

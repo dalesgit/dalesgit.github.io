@@ -3,11 +3,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-11-27 Tue 22:07 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="viewport" content="width=device-width, initial-scale=1" />
-<title></title>
-<meta  name="generator" content="Org-mode" />
+<!-- 2019-01-12 Sat 08:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -52,13 +52,98 @@
     border: 1px solid black;
   }
   pre.src:hover:before { display: inline;}
-  pre.src-sh:before    { content: 'sh'; }
-  pre.src-bash:before  { content: 'sh'; }
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-R:before     { content: 'R'; }
-  pre.src-perl:before  { content: 'Perl'; }
-  pre.src-java:before  { content: 'Java'; }
-  pre.src-sql:before   { content: 'SQL'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
@@ -75,6 +160,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -91,6 +189,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <script type="text/javascript">
@@ -98,7 +197,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -142,71 +241,72 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orgheadline2" class="outline-2">
-<h2 id="orgheadline2">Religion 101-1</h2>
-<div class="outline-text-2" id="text-orgheadline2">
-</div><div id="outline-container-orgheadline1" class="outline-3">
-<h3 id="orgheadline1">Introduction to the Study of Religion</h3>
-<div class="outline-text-3" id="text-orgheadline1">
+<div id="outline-container-orgb48f85f" class="outline-2">
+<h2 id="orgb48f85f">Religion 101-1</h2>
+<div class="outline-text-2" id="text-orgb48f85f">
+</div>
+<div id="outline-container-org217970f" class="outline-3">
+<h3 id="org217970f">Introduction to the Study of Religion</h3>
+<div class="outline-text-3" id="text-org217970f">
 <p>
 Fall 2018
 </p>
 
-<hr  />
+<hr />
 </div>
 </div>
 </div>
-<div id="outline-container-orgheadline3" class="outline-2">
-<h2 id="orgheadline3">Opening Day: <a href="presentations/introductions.html">Introductions</a></h2>
-</div>
-
-<div id="outline-container-orgheadline4" class="outline-2">
-<h2 id="orgheadline4">Phenomenological Method: <a href="presentations/phenomenological-method-org.html">Phenomenological Method</a></h2>
-</div>
-<div id="outline-container-orgheadline5" class="outline-2">
-<h2 id="orgheadline5">Sacred Quest Ch. 1 (pt 1):  <a href="presentations/sacred-quest-ch-1.html">Presentation</a></h2>
+<div id="outline-container-orgbe75295" class="outline-2">
+<h2 id="orgbe75295">Opening Day: <a href="presentations/introductions.html">Introductions</a></h2>
 </div>
 
-<div id="outline-container-orgheadline6" class="outline-2">
-<h2 id="orgheadline6">Chapter 2 <a href="presentations/sacred-quest-ch-2.html">Presentation</a></h2>
+<div id="outline-container-org219e326" class="outline-2">
+<h2 id="org219e326">Phenomenological Method: <a href="presentations/phenomenological-method-org.html">Phenomenological Method</a></h2>
+</div>
+<div id="outline-container-org76176d6" class="outline-2">
+<h2 id="org76176d6">Sacred Quest Ch. 1 (pt 1):  <a href="presentations/sacred-quest-ch-1.html">Presentation</a></h2>
 </div>
 
-<div id="outline-container-orgheadline7" class="outline-2">
-<h2 id="orgheadline7">Chapter 3 <a href="presentations/sacred-quest-ch-3.html">Presentation</a></h2>
+<div id="outline-container-org631dde6" class="outline-2">
+<h2 id="org631dde6">Chapter 2 <a href="presentations/sacred-quest-ch-2.html">Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline8" class="outline-2">
-<h2 id="orgheadline8">Growth of Religions  <a href="presentations/growth-religions.html">Presentation</a></h2>
+
+<div id="outline-container-org3a9312e" class="outline-2">
+<h2 id="org3a9312e">Chapter 3 <a href="presentations/sacred-quest-ch-3.html">Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline9" class="outline-2">
-<h2 id="orgheadline9">Religious Language  <a href="presentations/religious-language-1.html">Religious Language Presentation</a></h2>
+<div id="outline-container-orge93d84a" class="outline-2">
+<h2 id="orge93d84a">Growth of Religions  <a href="presentations/growth-religions.html">Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline10" class="outline-2">
-<h2 id="orgheadline10">Hermann Hesse: <a href="presentations/hesse-introduction.html">hesse 1 Presentation</a></h2>
+<div id="outline-container-orga245647" class="outline-2">
+<h2 id="orga245647">Religious Language  <a href="presentations/religious-language-1.html">Religious Language Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline11" class="outline-2">
-<h2 id="orgheadline11">Hinduism:  <a href="presentations/hinduism-intro.html">hinduism intro Presentation</a></h2>
+<div id="outline-container-org58c2be0" class="outline-2">
+<h2 id="org58c2be0">Hermann Hesse: <a href="presentations/hesse-introduction.html">hesse 1 Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline12" class="outline-2">
-<h2 id="orgheadline12">Buddhism:  <a href="presentations/buddhism-intro.html">buddhism Presentation</a></h2>
+<div id="outline-container-orge28fabe" class="outline-2">
+<h2 id="orge28fabe">Hinduism:  <a href="presentations/hinduism-intro.html">hinduism intro Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline13" class="outline-2">
-<h2 id="orgheadline13">Ritual: SQ Ch. 5 <a href="presentations/sq-ch-5-ritual.html">Ritual Presentation</a></h2>
+<div id="outline-container-org377f71c" class="outline-2">
+<h2 id="org377f71c">Buddhism:  <a href="presentations/buddhism-intro.html">buddhism Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline14" class="outline-2">
-<h2 id="orgheadline14">Evil: SQ Ch. 7 <a href="presentations/sq-ch-7-ritual.html">Sacred Quest Evil</a></h2>
+<div id="outline-container-orgb74113f" class="outline-2">
+<h2 id="orgb74113f">Ritual: SQ Ch. 5 <a href="presentations/sq-ch-5-ritual.html">Ritual Presentation</a></h2>
 </div>
-<div id="outline-container-orgheadline15" class="outline-2">
-<h2 id="orgheadline15">Morality: SQ CH. 8  <a href="presentations/sq-ch-morality.html">Sacred Quest Morality</a></h2>
+<div id="outline-container-org10c25d7" class="outline-2">
+<h2 id="org10c25d7">Evil: SQ Ch. 7 <a href="presentations/sq-ch-7-ritual.html">Sacred Quest Evil</a></h2>
 </div>
-<div id="outline-container-orgheadline16" class="outline-2">
-<h2 id="orgheadline16">Intro Islam <a href="presentations/tent-of-abraham-introduction.html">Tent of Abraham</a></h2>
+<div id="outline-container-orgcdd8e53" class="outline-2">
+<h2 id="orgcdd8e53">Morality: SQ CH. 8  <a href="presentations/sq-ch-morality.html">Sacred Quest Morality</a></h2>
 </div>
-<div id="outline-container-orgheadline17" class="outline-2">
-<h2 id="orgheadline17">Tent Prelude:  <a href="presentations/tent-prelude.html">Tent of Abraham Prelude</a></h2>
+<div id="outline-container-org4e64141" class="outline-2">
+<h2 id="org4e64141">Intro Islam <a href="presentations/tent-of-abraham-introduction.html">Tent of Abraham</a></h2>
+</div>
+<div id="outline-container-orgd206fa7" class="outline-2">
+<h2 id="orgd206fa7">Tent Prelude:  <a href="presentations/tent-prelude.html">Tent of Abraham Prelude</a></h2>
 </div>
 </div>
 <div id="postamble" class="status">
-Last update : 27 Nov 2018
+Last update : 12 Jan 2019
 </div>
 </body>
 </html>
