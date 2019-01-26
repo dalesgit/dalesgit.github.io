@@ -1,7 +1,3 @@
----
-title:Presentations S-17
-author:Dale C. Hathaway
----
 
 _This is the path to these files_
 
