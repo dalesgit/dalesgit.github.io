@@ -1,15 +1,3 @@
-### **The Sacred Quest**
-
-- **Lawrence S. Cunningham**
-- **John Kelsay**
-
-Note:
-**Chapter Three** 
-
-- **The Appearance of the Sacred**
-
----
-
 ### **The Appearance of the Sacred** 
 
 - called a **hierophany** -- "to reveal" + "sacred"
@@ -51,32 +39,32 @@ https://youtu.be/nrG5Yuwpapc
 
 ### **Prophetic Sacred Appearances** 
 
-- **Identified primarily with Judaism and Islam.**
-- **Focuses on a person (the prophet) who receives a revelation that deals in various ways with historical events in the life of a community.**
-- **The prophet is the “sacred media”.**
-- **The revelation is one of the patterns of sacred phenomema.**
+- Identified primarily with **Judaism and Islam.**
+- Focuses on a person (the prophet) who receives a revelation that deals in various ways with historical events in the life of a community.
+- The prophet is the **“sacred media”.**
+- The **revelation** is one of the patterns of sacred phenomema.
 
 ---
 
 
 ### **Sacramental Sacred Appearances** 
 
-- **Most apparent in certain forms of Christianity, Shinto, and various tribal religions.**
-- **Emphasizes the presence of the sacred through aspects of material reality.**
-- **Stresses the role of priests or shamans in the community.**
+- Most apparent in certain forms of **Christianity, Shinto, and various tribal religions.**
+- Emphasizes the **presence of the sacred through aspects of material reality.**
+- Stresses the role of **priests or shamans** in the community.
 
 ---
 
 
 ### **Mystical Sacred Appearances** 
 
-- **Focuses on the importance of a certain state of being or consciousness in the quest for enlightenment or union with the sacred.**
-- **Is most characteristic of Buddhism and Hinduism.** (*However, Judaism, Christianity, and Islam also manifest mystical traditions*.)
+- Focuses on the importance of a certain **state of being or consciousness** in the quest for enlightenment or union with the sacred.
+- Is most characteristic of **Buddhism and Hinduism.** (*However, Judaism, Christianity, and Islam also manifest mystical traditions*.)
 
 ---
 
 
-**Patterns of Sacred Appearances** (repeated)
+**Patterns** of Sacred Appearances (repeated)
 
 - Prophetic
 - Sacramental
@@ -84,7 +72,7 @@ https://youtu.be/nrG5Yuwpapc
 
 ---
 
-### **Patterns of  Manifestations of the Sacred** 
+### Media of Manifestations of the Sacred 
 
 **Sacred Media**
 
@@ -130,8 +118,8 @@ Note:
 
 ### **Sacred Persons** 
 
-- **The association of the sacred with certain persons is a characteristic of numerous religious traditions.**
-- **Sacred persons are most obviously found in those religious traditions whose history points to a “founder” or great figure at the beginning of the tradition.**
+- The association of the sacred with certain persons is a characteristic of numerous religious traditions.
+- Sacred persons are most obviously found in those religious traditions whose history points to a **“founder” or great figure at the beginning of the tradition.**
 
 
 
@@ -210,10 +198,10 @@ Note:
 
 ### **Sacred Objects** 
 
-- **Sacred objects are material items that have, or have had, importance in religious contexts.**
-- **For example, books, statues, relics, foods.**
-- **Some communities have perceived sacred reality in rocks, trees, or animals; others have focused on the sky, the earth, or the sun.**
-- **Even the garments associated with holy persons take on the character of the sacred.**
+- Sacred objects are **material items** that have, or have had, importance in religious contexts.
+- For example, books, statues, relics, foods.
+- Some communities have perceived sacred reality in **rocks, trees, or animals**; others have focused on the **sky, the earth, or the sun**.
+- Even the garments associated with holy persons take on the character of the sacred.
 
 Note:
  **The Qur’an as a Sacred Object** 
@@ -287,5 +275,4 @@ Note:
 
 - **The identification of patterns in the appearance of the sacred suggests that there are characteristic “types” of religion, but these should not be pushed too far.**
 - **Most religions have complex traditions that incorporate prophetic, sacramental, and mystical components.**
-
 
