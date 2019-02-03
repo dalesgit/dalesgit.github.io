@@ -7,10 +7,10 @@ Most often **poetic** in the sense that, like poetry, it **seeks to use ordinary
 
  The nature of the sacred as **being set apart** can be expressed in *paradoxical like language*. Examples of 
 
- - John of the cross 
- - Hindu Mystics
- - Thomas Aquinas. 
- - Other sorts of language about God, like **father, mother, Lord, King** are more like poetry than they are say a grocery list.
+ - John of the Cross 
+<li class="fragment"> Hindu Mystics</li>
+<li class="fragment"> Thomas Aquinas. </li>
+<li class="fragment"> Other sorts of language about God, like **father, mother, Lord, King** are more like poetry than they are say a grocery list.</li>
 
 
 ---
@@ -28,15 +28,15 @@ https://youtu.be/L_Hcoru77Gs?list=PL66bRS2DhVi-6gDUTfbHh_-dsuXZ_BGio
 There is a youtube that talks about Joseph Campbell's work!
 https://www.youtube.com/watch?v=XQRQJpBnHyg
 
----
+--
 
 ## Religious Myth: 
 
-- A story that **sets up a world by describing ultimate reality and its relationship to humanity**.
-- Purpose = **revelation of the nature of the sacred**, the universe, and human nature
-- Myths seek to **narrate or reveal a transcendent reality**
-- They **do not seek to record simply what happened**
-- In short, “**How does reality makes sense in light of the sacred?**" 
+- **A story that** sets up a world by describing ultimate reality and its relationship to humanity.
+<li class="fragment"> **Purpose =** revelation of the nature of the sacred, the universe, and human nature</li>
+<li class="fragment"> Myths seek to **narrate or reveal** a transcendent reality</li>
+<li class="fragment"> They **do not seek to record simply what happened**</li>
+<li class="fragment"> In short, “**How does reality makes sense in light of the sacred?**" </li>
 
 
 
@@ -55,17 +55,16 @@ Note:
 - Rather myths **represent the collective experience and wisdom of a community over time concerning the deepest meaning of reality** 
 - A myth is like a pair of glasses or framework through which people “image" or see the world.
 
----
-
-- **Note Well**: For one who believes that there is no ultimate meaning to our world, no transcendent reality, or that there is only our immediate experience as known empirically, myths are false or do not exist.
-
-
 Note:
 - Rather myths **represent the collective experience and wisdom of a community over time** concerning the deepest meaning of reality and the ultimate frame of reference for understanding it expressed in the most powerful and fundamental forms of human language—stories conveyed via imaginative, poetic language (exaggeration = frequent vehicle because ordinary language inadequate).  A myth is like a pair of glasses or framework through which people “image" or see the world.
   - Note Well: For one who believes that there is no ultimate meaning to our world, no transcendent reality, or that there is only our immediate experience as known empirically, myths are false or do not exist.
 
+- **Note Well**: For one who believes that there is no ultimate meaning to our world, no transcendent reality, or that there is only our immediate experience as known empirically, myths are false or do not exist.
 
----
+
+
+
+--
 
 ## Examples of contemporary myths: 
 
@@ -77,7 +76,8 @@ Note:
 - Extreme Makeover,
 - Desperate Housewives,
 - Car commercials—if you drive this car you will have friends, lovers, wealth, etc. . . .
-
+- ?
+- ?
 
 ---
 
@@ -95,7 +95,7 @@ Note:
 - **Sacred figures often perform “parabolic actions"** or actions that upset the way things are and open our eyes to a new reality.
 
 
----
+--
 
 ## Examples of Parables/Parabolic Actions
 - Zen koan: "What is the sound of one hand clapping?"
@@ -103,7 +103,7 @@ Note:
 - Buddha: "I am not a god or a magician.  I am awake."
 - Awake seems ordinary but it is not.  Greatness can't lie in it.
 
----
+--
 ### Examples of Parables
 
 - "The Spirit of the Lord YHWY is upon me" *Luke 4:18-19*
@@ -120,10 +120,6 @@ Note:
 
 ---
 
-## Canon:
-A **measuring reed or stick, ruler, standard**; list of authoritative texts/scriptures in a tradition
-
----
 
 ## Scriptures:
  Literally "**writings**" (scripture -- "that which is written"), writings considered sacred and authoritative in a particular community.
@@ -133,18 +129,27 @@ A **measuring reed or stick, ruler, standard**; list of authoritative texts/scri
 - Defines a community 
 - Preserves the identity of the community
 
+--
 
----
+## Canon:
+A **measuring reed or stick, ruler, standard**; list of authoritative texts/scriptures in a tradition
+
+
+Note:
 
 - Example: The "**sutra**" (or Pali "sutta"), i.e., a short exposition on a particular teaching of the Buddha, is the basic form of the scriptures in Theravada and Mahayana Buddhism 
  
 
+--
+
+## Theology:
+- Understanding of **reflection on** God--sacred--faith 
+- "*faith seeking understanding*"
+- **Transform story into doctrine that speaks to today's world**
 
 Note:
-## Theology:
-- Understanding of/**reflection on God/sacred/faith**; 
-- "**faith seeking understanding**"
 - Systematic explanation of the meaning of sacred stories and their conceptual relations as well as translation of this meaning in contemporary language.  **Transform story into doctrine that speaks to today's world**.
+
 
 ---
 
