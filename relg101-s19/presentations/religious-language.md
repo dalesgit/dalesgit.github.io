@@ -81,7 +81,20 @@ Note:
 
 ---
 
-## Parable:
+## Religious Stories ##
+
+*Religion is **my story** being shaped by **another (religious) story***
+
+1. ... passes on information, insights, etc.
+2. ... recall **paradigmatic** moments and/or persons
+3. ... vehicles for **disclosure** or **revelation** [pulling back the veil]]
+
+Note: 
+these may take the form of very ordinary stories -- but for the believing community sacred revealed (60) 
+
+--
+
+## Story as Parable:
 
 - **Not simply a teaching device**
 - a story that **upsets an existing world or turns it upside down**
@@ -124,6 +137,13 @@ Note:
 
 ---
 
+## Words as powerful ##
+
+- God "spoke" and it **was**
+- "I do" and "I swear to tell the truth" are words that affect (and **effect**) reality
+- religious stories passed on first as **oral culture**
+
+--
 
 ## Scriptures:
  Literally "**writings**" (scripture -- "that which is written"), writings considered sacred and authoritative in a particular community.

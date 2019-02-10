@@ -34,7 +34,7 @@
 <p>Winthrop University</p>
 </section>
 <section data-transition="slide-in fade-out"
-data-markdown="chapter-3-sq.md"
+data-markdown="religious-language.md"
 data-separator="^---"
 data-separator-vertical="^--"
 data-notes="^Note:"
