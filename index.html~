@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-01-26 Sat 10:27 -->
+<!-- 2019-01-26 Sat 11:04 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Religion Classes S-19</title>
@@ -362,35 +362,41 @@ Spring 2019
 
 <col  class="org-left" />
 </colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">next</th>
+<th scope="col" class="org-left"><a href="relg101-s19/presentations/introductory-class.html">relg101-s19/presentations/introductory-class.html</a></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 09, 2019&gt;</span></span></th>
+<th scope="col" class="org-left"><a href="relg101-s19/presentations/sq-preface.html">relg101-s19/presentations/sq-preface.html</a></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 14, 2019&gt;</span></span></th>
+<th scope="col" class="org-left"><a href="relg101-s19/presentations/sacred-quest-ch-1.html">relg101-s19/presentations/sacred-quest-ch-1.html</a></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 16, 2019&gt;</span></span></th>
+<th scope="col" class="org-left"><a href="relg101-s19/presentations/sacred-quest-ch-1-ptb.html">relg101-s19/presentations/sacred-quest-ch-1-ptb.html</a></th>
+</tr>
+
+<tr>
+<th scope="col" class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 23, 2019&gt;</span></span></th>
+<th scope="col" class="org-left"><a href="relg101-s19/presentations/sq-ch-2-sacred-framework.html">relg101-s19/presentations/sq-ch-2-sacred-framework.html</a></th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<td class="org-left">next</td>
-<td class="org-left"><a href="relg101-s19/presentations/introductory-class.html">relg101-s19/presentations/introductory-class.html</a></td>
-</tr>
-
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 09, 2019&gt;</span></span></td>
-<td class="org-left"><a href="relg101-s19/presentations/sq-preface.html">relg101-s19/presentations/sq-preface.html</a></td>
-</tr>
-
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 14, 2019&gt;</span></span></td>
-<td class="org-left"><a href="relg101-s19/presentations/sacred-quest-ch-1.html">relg101-s19/presentations/sacred-quest-ch-1.html</a></td>
-</tr>
-
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 16, 2019&gt;</span></span></td>
-<td class="org-left"><a href="relg101-s19/presentations/sacred-quest-ch-1-ptb.html">relg101-s19/presentations/sacred-quest-ch-1-ptb.html</a></td>
-</tr>
-
-<tr>
-<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 23, 2019&gt;</span></span></td>
-<td class="org-left"><a href="relg101-s19/presentations/sq-ch-2-sacred-framework.html">relg101-s19/presentations/sq-ch-2-sacred-framework.html</a></td>
-</tr>
-
-<tr>
 <td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 28, 2019&gt;</span></span></td>
-<td class="org-left"><a href="relg101-s19/presentations/sq-ch-3-theophany-framework.html">relg101-s19/presentations/sq-ch-3-theophany-framework.html</a></td>
+<td class="org-left"><a href="relg101-s19/presentations/sq-ch-3-hierophany-framework.html">relg101-s19/presentations/sq-ch-3-hierophany-framework.html</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;Jan 30, 2019&gt;</span></span></td>
+<td class="org-left"><a href="relg101-s19/presentations/growth-religions.html">relg101-s19/presentations/growth-religions.html</a></td>
 </tr>
 
 <tr>

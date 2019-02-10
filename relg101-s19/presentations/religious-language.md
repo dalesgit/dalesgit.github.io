@@ -97,14 +97,18 @@ Note:
 
 --
 
-## Examples of Parables/Parabolic Actions
+## Examples 
+
+**Parables/Parabolic Actions**
+
 - Zen koan: "What is the sound of one hand clapping?"
 - A seeker to the Buddha "Are you a god or a magician?"
 - Buddha: "I am not a god or a magician.  I am awake."
 - Awake seems ordinary but it is not.  Greatness can't lie in it.
 
 --
-### Examples of Parables
+
+### Biblical Examples of Parables
 
 - "The Spirit of the Lord YHWY is upon me" *Luke 4:18-19*
 - Good Samaritan *Luke 10:25–29*
@@ -143,7 +147,7 @@ Note:
 --
 
 ## Theology:
-- Understanding of **reflection on** God--sacred--faith 
+- Understanding of -- **reflection on** God / sacred / faith 
 - "*faith seeking understanding*"
 - **Transform story into doctrine that speaks to today's world**
 
@@ -153,7 +157,9 @@ Note:
 
 ---
 
-## 4 functions of Sacred Stories (including scriptures): 
+## 4 functions 
+
+**of Sacred Stories** (*including scriptures*): 
 
 - **Connect with the sacred** dimension of existence
 - **Order the cosmos**, provide coherence for the believer 
