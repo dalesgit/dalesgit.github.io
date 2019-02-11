@@ -81,6 +81,10 @@ Note:
 
 ---
 
+<!-- .slide: data-background="https://sbt.blob.core.windows.net/storyboards/alexballer23/the-religious-stories-of-the-middle-east.png" data-background-size="1100px" -->
+
+--
+
 ## Religious Stories ##
 
 *Religion is **my story** being shaped by **another (religious) story***
