@@ -1,8 +1,6 @@
 
 ## Hesse Introduction
 
-
-
 ---
 
 ## Hesse overview
@@ -15,18 +13,33 @@
     - life-long **search**
 - Life crisis (“author of crisis”)
     - influence of Freud & psychoanalysis
-    - we saw in Sacred Quest that psychoanalysis can be seen to function something like a religion
-- Travel to India
+    - we saw in _Sacred Quest_ that psychoanalysis can be seen to function something like a religion
+- Travel to India: Hinduism & Buddhism
 
----
+--
 
 ## Hearing his "voice"
 
 "For many years, I have been convinced that the European spirit is on the wane, and is in need of a return to its Asian roots. I have admired Buddha for many years, and have been reading Indian literature since my earliest youth. Later, I became more familiar with Lao Tsu and the other Chinese philosophers“
 
+
+1 hour documentary:
+- https://youtu.be/5SJNVAlm9Gc
+- https://youtu.be/uUVaOPVBTOY
+- https://youtu.be/dxQErqMoDdg
+- https://youtu.be/IUB6uaXLnHQ
+
+Note:
+This only leads to a transcript
 - We can hear his voice in an excerpt from this essay on language:  https://www.hermann-hesse.de/node/2586
 
----
+1 hour documentary:
+- https://youtu.be/5SJNVAlm9Gc
+- https://youtu.be/uUVaOPVBTOY
+- https://youtu.be/dxQErqMoDdg
+- https://youtu.be/IUB6uaXLnHQ
+
+--
 
 ## Setting of the novel
 
@@ -34,6 +47,17 @@ cf. translator's preface
 
 - On the one hand, set in imagined India of 5-6th c. BCE
 - On the other hand, written in "Machine Age Europe"
+
+--
+
+### What kind of thing is it?
+
+- a **novel** -- cp. _Sacred Quest_
+- "all stories are true, some of them happened"
+- not so much about outer things as an inner journey (_something happened_)
+- "novels-of-ideas" (Introduction)
+- cp. _On the Road_, Jack Kerouac
+- "The road to enlightenment is an unpaved road, closed to public transportation" 
 
 ---
 
@@ -43,7 +67,7 @@ cf. translator's preface
 
 <https://tobedwithatrollope.wordpress.com/2007/12/11/the-seven-basic-plots-wh-we-tell-stories-by-christopher-booker/>
 
----
+--
 
 ### 7 stories
 
@@ -60,7 +84,7 @@ Note:
 - **Tragedy** — As a rule, the terrible consequences of human overreaching and egotism. The Picture of Dorian Gray, Julius Caesar, Anna Karenina…this category is usually self-evident.
 - **Rebirth** — The stories of Ebeneezer Scrooge and Mary Lennox would fall into this basic plot type, which focuses on a threatening shadow that seems nearly victorious until a sequence of fortuitous (or even miraculous) events lead to redemption and rebirth, and the restoration of a happier world.
 
----
+--
 
 ### 7 stories (cont)
 

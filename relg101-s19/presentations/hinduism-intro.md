@@ -1,6 +1,6 @@
-## Introduction to Hinduism
+### Introduction to Hinduism ###
 
-### Religion 101
+#### Religion 101 ####
 
 ---
 
@@ -9,9 +9,9 @@
 </section>
 
 
----
+--
 
-## resources for Vocabulary ##
+### resources for Vocabulary ###
 
 - Both *Sacred Quest* and *Siddhartha* (Bernofsky edition) have glossaries
 - Each of the following have reliable glossaries
@@ -20,15 +20,15 @@
 
 ---
 
-## Complexity of subject
+### Complexity of subject ###
 
 - The concepts of **Hindu** and **Hinduism** are problematic for several reasons. 
    - **Hindu** and **Hinduism** are words of Persian origin from the 12th century C.E.; thus, they are not native to India.
    - Those who have conceptualized **Hinduism** have been western European
 
----
+--
 
-## What do we mean by "religion" (cf. Our definition)
+### What do we mean by "religion" (cf. Our definition) ###
 
 
 - notion of sacred reality
@@ -37,16 +37,16 @@
 - with respect to problems of ordering & understanding existence
 
 
----
+--
 
-## Questions
+### Questions ###
 
 <li class="fragment">When you attempt to understand a new religious tradition, what is the most important thing to learn? Would you focus on its doctrines, the way it tells stories, its art, its rituals, or its institutions? Would you focus on something else? </li>
 <li class="fragment">If you were trying to explain your own religious tradition to someone who knew nothing about it, what would be the most important thing for that person to learn? </li>
 
 ---
 
-## Hinduism 
+### Hinduism ###
 
 - Hinduism is not **just** a part or aspect of Indian life or culture; it is far more encompassing than that. 
 - It structures and influences every aspect of Hindu life, including 
@@ -59,15 +59,15 @@ Note:
 and the like, which may explain the lack of a specific self-referential term.
 
 
----
+--
 
-## Timeline
+### Timeline ###
 
 <https://www.preceden.com/timelines/274460-buddhism---hinduism>
 
----
+--
 
-## Veda
+### Veda ###
 
 - most authoritative text for Hinduism
 - composed between 2300 and 1200 B.C.E.
@@ -76,9 +76,10 @@ Note:
 - e.g. The oldest and most important of these collections contains more than a thousand songs to various gods and goddesses and is aptly named the Rig, meaning praise. Scholars believe it was composed between 2300 and 1200 B.C.E.
 - many different gods sung to
 
----
+--
 
-##  Humans
+### Humans ###
+
 - The Veda regarded humans as being individual souls 
 	- and members of a stratified society. 
 	- For the Aryans, the essence of human life is the soul, which they associated with the **breath**, designated by the word **atman**. 
@@ -87,9 +88,9 @@ Note:
 Note:
 The Veda regarded humans as being individual souls and members of a stratified society. For the Aryans, the essence of human life is the soul, which they associated with the breath, designated by the word tman. The Sanskrit atman has cognates in the English word atmosphere and the German word atmen, which means to breathe. 
 
----
+--
 
-## Classical Hinduism
+### Classical Hinduism ###
 
 - Axial Age (c. 800-200 BCE) = a time of reformation and re-evaluation around the world
 - changes took place in India, Greece, China, Mesopotamia, & Israel
@@ -99,7 +100,7 @@ Note:
 - Deeper spiritual questions led to the examination of human nature and the possibility of an **afterlife**. 
 - (*This evolution in Indian religion was roughly contemporaneous with similar developments in other civilizations, including ancient Greece, China, Mesopotamia, and Israel.*)
 
----
+--
 
 - from **cosmic maintenance** to **personal enlightenment**
 - classical Hinduism established notion of **samsara** and **transmigration of the soul**
