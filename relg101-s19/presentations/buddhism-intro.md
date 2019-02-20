@@ -3,7 +3,7 @@
 
 ![](https://www.toonpool.com/user/1688/files/buddhist_compliment_321115.jpg)
 
----
+--
 
 
 ## Timeline
@@ -23,7 +23,7 @@ Note:
 - the tradition begins simply with a **human being – Siddhartha Gautama** who found a solution to the problem of human suffering. 
 - Buddhists focus on his experience, and they **deny the existence of a single, almighty God.** 
 
----
+--
 
 - The most basic Buddhist expression of faith is called the triple refuge: 
 	- I take refuge in the **Buddha**; 
@@ -40,7 +40,7 @@ The Buddhist tradition will challenge us to look in new ways at some basic relig
 - The doctrine of reincarnation or rebirth is known as **samsara** (literally, *wandering*). Samsara was not considered a pleasant prospect. For <li class="fragment">many people, it was not an opportunity as much as it was a burden, and they tried to find a way out.</li>
 <li class="fragment">The release from **samsara**  is found in **moksha**</li>
 
----
+--
 
 ### Four Noble Truths are: 
 
@@ -52,7 +52,7 @@ The Buddhist tradition will challenge us to look in new ways at some basic relig
 Note:
 Buddhists have a rich tradition of stories and legends about the Buddha. The stories begin with the Buddhas previous lives. Buddhist tradition arose at a time when the doctrine of reincarnation was a basic assumption in Indian religious life. 
 
----
+--
 
 ### The path to nirvana is divided into eight categories:
 
@@ -65,7 +65,7 @@ Buddhists have a rich tradition of stories and legends about the Buddha. The sto
 - right mindfulness,
 - right concentration.
 
----
+--
 
 **The logic might be expressed in 3 categories:**
 
@@ -94,7 +94,7 @@ Note:
 - **emptiness**: Hinduism there is an eternal self. Buddhism there is **no-self**
 - **non-duality** (physical / spiritual)
 
----
+--
 
 ### Politics and Buddhism ##
 
@@ -106,15 +106,15 @@ Note:
     - China
     - Japan
 
----
+--
 
 ###  Chinese adoption of Buddhism blended with an adaptation of Chinese Taoism
   
-- The Tao that can be told of is not the eternal Tao; 
-- The name that can be named is not the eternal name. 
+- The **Tao** that can be told of is not the eternal **Tao**; 
+- The **name** that can be named is not the **eternal name**. 
 - The Nameless is the origin of Heaven and Earth; 
 - The Named is the mother of all things.  
-- The Tao is empty like a bowl.  
+- The **Tao** is empty like a bowl.  
 - It may be used but its capacity is never exhausted.  
 
 ---
