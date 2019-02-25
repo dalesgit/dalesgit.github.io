@@ -1,4 +1,4 @@
- 
+
 ## The Sacred Quest
 
 Lawrence S. Cunningham
@@ -7,14 +7,16 @@ John Kelsay
 
 Chapter Five: Ritual
 
----
+--
+
+<!-- .slide: data-background="https://s3.amazonaws.com/lowres.cartoonstock.com/politics-greeting_ritual-fist_bump-politicians-high_five-greeting_rituals-cwln4356_low.jpg" data-background-size="500px" -->
 
 
+--
 
-<section data-background="http://drive.google.com/uc?export=view&id=0B8ezT0-tUjVZY3Z2TE5JXzRCdVk"   data-background-size="700px">
-</section>
+<!-- .slide: data-background="https://www.healthytravelblog.com/wp-content/uploads/2014/12/Cartoon.Ritual-1024x645.jpg" data-background-size="950px" -->
 
----
+--
 
 ## Ritual Defined
 
@@ -30,12 +32,12 @@ Chapter Five: Ritual
 ## Ritual -- Questions
 
 - Give an example of a ritual that orders your interaction with others.
-<li class="fragment">What is a ritual that has important meaning for you and your friends or family?  Explain. </li>
+`<li class="fragment">What is a ritual that has important meaning for you and your friends or family?  Explain. </li>
 <li class="fragment">How does ritual help us to understand the ways that religion is more than a set of beliefs? </li>
 <li class="fragment">What are the best arguments for and against the following claim: “Religion begins with ritual and it remains ritual before it is anything else.” </li>
 <li class="fragment">How can ritual go wrong?  What happens when it goes right? </li>
 
----
+--
 
 ## Ritual in Religious Contexts
 
@@ -54,7 +56,7 @@ Chapter Five: Ritual
 <li class="fragment">The conjunction of myth and ritual serves as a way for people to participate in the creative power of the sacred. </li>
 <li class="fragment">In many tribal societies people not only remember the tribal myths but also live them and act them out. </li>
 
----
+--
 
 ## Ritual Reenactment
 
@@ -62,7 +64,7 @@ Chapter Five: Ritual
 <li class="fragment">The Greek tragedy is derived from the ritualized worship of the Dionysus. </li>
 <li class="fragment">The modern drama derives from the acting out of the Easter story in French monasteries during the Middle Ages. </li>
 
----
+--
 
 ## The Passover
 
@@ -71,7 +73,7 @@ Chapter Five: Ritual
 <li class="fragment">Retelling the story of the **Exodus** is central to the meal </li>
 <li class="fragment">The **Passover** meal is not merely a historical remembrance. </li>
 
----
+--
 
 **The key thing to remember is that the meal is far more than just a meal**
 
@@ -88,7 +90,7 @@ Note:
 - Central to the Passover meal are the great events described in the Bible in the book of Exodus.
 - One of the high points of the meal comes when the youngest person present at the table asks why the meal is eaten. The response comes in the form of a reading from the haggadah.
 
----
+--
 
 ## Holy Communion
 
@@ -121,7 +123,7 @@ Note:
 <li class="fragment">All religions provide rituals of some sort or another </li>
 <li class="fragment">Rituals may transformed to be for **nominal** believers to observe customs of tradition (e.g. weddings) </li>
 
----
+--
 
 **All rites of passage have three phases:**
 - separation,
@@ -225,7 +227,7 @@ Note:
 
 ## Examples from around the world
 
----
+--
 
 ## Male initiation
 
@@ -281,7 +283,7 @@ In the small country of Papau New Guinea, over 1,000 different culture groups ex
 
 The initiation begins at age seven with the separation of the boy from the mother. The boy will spend the rest of his young life only in the presence of men in an all male hut. The gender separation is taken to such extremes that boys and women use different walking paths around the village. &#x2026;
 
----
+--
 
 ## Female initiation<a id="orgheadline2"></a>
 
