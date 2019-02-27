@@ -14,10 +14,6 @@ Chapter Five: Ritual
 
 --
 
-<!-- .slide: data-background="https://www.healthytravelblog.com/wp-content/uploads/2014/12/Cartoon.Ritual-1024x645.jpg" data-background-size="950px" -->
-
---
-
 ## Ritual Defined
 
 - A ritual is a ceremonial act or a repeated stylized gesture used for specific occasions.
@@ -26,6 +22,11 @@ Chapter Five: Ritual
 <li class="fragment">In everyday life we participate in numerous personal rituals. </li>
 <li class="fragment">Shaking hands as a sign of mutual trust </li>
 <li class="fragment">Standing in honor of a particular person </li>
+
+--
+
+<!-- .slide: data-background="https://www.healthytravelblog.com/wp-content/uploads/2014/12/Cartoon.Ritual-1024x645.jpg" data-background-size="950px" -->
+
 
 ---
 
@@ -42,11 +43,11 @@ Chapter Five: Ritual
 ## Ritual in Religious Contexts
 
 - Ritual plays an important role in every religious tradition.
-- Some religions are famous for their ritual character.
-<li class="fragment">    Roman Catholicism</li>
-<li class="fragment">    Russian Orthodoxy</li>
-<li class="fragment">Other religions are known for their resistance to ritual, but even these religions have certain stylized forms of behavior that are rituals.</li>
-<li class="fragment">Society of Friends (Quakers)</li>
+- Some religions are famous for their ritual character
+  - Roman Catholicism
+  - Russian Orthodoxy
+- Other religions are known for their resistance to ritual, but even these religions have certain stylized forms of behavior that are rituals
+  - Society of Friends (Quakers
 
 ---
 
@@ -89,6 +90,12 @@ Note:
 - Passover commemorates the meal eaten by the Jews the evening before they left Egypt and the enslavement of their people in order to journey toward, and eventually reach, the Promised Land.
 - Central to the Passover meal are the great events described in the Bible in the book of Exodus.
 - One of the high points of the meal comes when the youngest person present at the table asks why the meal is eaten. The response comes in the form of a reading from the haggadah.
+
+--
+
+![](http://ourbksocial.com/wp-content/uploads/2018/03/Passover_Seder_Dinner_at_the_White_House_2011-1000x600.jpg)
+
+3 min. video: https://youtu.be/rfWtBpR1VzA
 
 --
 
