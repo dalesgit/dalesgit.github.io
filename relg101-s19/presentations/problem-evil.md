@@ -25,7 +25,7 @@ Note:
   - we must remember
   - the challenge
 
----
+--
 
 **What is the Problem of Evil?**
 
@@ -38,7 +38,16 @@ Note:
 - Drawing on the tradition of his faith community, for example, the psalmist asks, in effect, Why does good fortune turn to bad?
 - In a very different context, a critic of Hindu beliefs asks a different sort of question: Why do the righteous suffer and the wicked flourish?
 
----
+**Problem of Evil (Christianity)**
+
+*We have heard with our ears, O God, our ancestors have told us, what deeds you performed in their days, in the days of old; you with your own hand drove out the nations. . . . Yet you have rejected us and abased us, and have not gone out with our armies. You made us turn back from the foe, and our enemies have gotten spoil*. (Psalm 44:12a, 910)
+
+
+**Problem of Evil Hinduism**
+
+*The world is so confused and out of joint, why does Brahma not set it straight? If he is master of the whole world, Brahma, lord of the many beings born, why in the whole world did he ordain misfortune? Why did he not make the whole world happy? . . .Why did he make the world with deception, lies, and excess, with injustice?*
+
+--
 
 ### Logical dilemma
 
@@ -47,15 +56,6 @@ Note:
 <li class="fragment">If God could prevent evil but does not, can God be good?</li>
 <li class="fragment">On the other hand, if God is good but cannot prevent evil, can God be powerful?</li>
 
-Note:
-### Problem of Evil (Christianity)
-
-*We have heard with our ears, O God, our ancestors have told us, what deeds you performed in their days, in the days of old; you with your own hand drove out the nations. . . . Yet you have rejected us and abased us, and have not gone out with our armies. You made us turn back from the foe, and our enemies have gotten spoil*. (Psalm 44:12a, 910)
-
-
-### Problem of Evil Hinduism
-
-*The world is so confused and out of joint, why does Brahma not set it straight? If he is master of the whole world, Brahma, lord of the many beings born, why in the whole world did he ordain misfortune? Why did he not make the whole world happy? . . .Why did he make the world with deception, lies, and excess, with injustice?*
 
 ---
 
@@ -63,19 +63,20 @@ Note:
 
 - God is all-merciful. God is all-powerful. God is perfect-justice.
 - Any 2 of these can be held at the same time - but not all 3
-- even non-theists must explain the presence of evil & suffering (cf. e.g. a psychologists perspective: [Scott Peck](http://www.gurteen.com/gurteen/gurteen.nsf/id/X0038E2E2/))
+- even non-theists must explain the presence of evil & suffering 
+  - (cf. e.g. a psychologists perspective: [Scott Peck](http://www.gurteen.com/gurteen/gurteen.nsf/id/X0038E2E2/))
 
 Note:
 - When the problem of evil is raised in connection with belief in God or gods, we may describe them as issues of **theodicy**, or divine justice.
 - However, even those religious traditions that stress the impersonal nature of the sacred, must seek to explain the existence of evil or suffering in the world.
 
----
+--
 
  The Holocaust: These were highly educated people - The people of Beethoven - The people of Luther <!-- .element: style="float: right; width: 40%" -->
 
 ![](http://drive.google.com/uc?export=download&id=0B8ezT0-tUjVZNWFRQlRKOXM3WnM) <!-- .element: style="width: 40%" -->
 
----
+--
 
 For Jews the challenge of a God of history, with a plan – for Christians: Where was Christ? <!-- .element: style="float: right; width: 40%" -->
 
@@ -85,7 +86,7 @@ Note:
 - For Jews, the challenge of the Holocaust involves the relationship of the destruction of Europe’s Jews to the notion that there is a God who governs history according to a plan and that all the events of Jewish history have a meaning in the plan of God. 
 - For Christians, the problem is slightly different and involves the following question: In the death camps, where was Christ?
 
----
+--
 
 ### The Holocaust
 (*Shoah*) "Destruction, Catastrophe"
@@ -112,7 +113,7 @@ Note:
 3. **Appeal to Sovereignty**
 4. **Dualism**
 
----
+--
 
 ### Karma
 
@@ -127,7 +128,7 @@ Note:
 - In connection with the problem of evil, **karma** is a kind of inexorable reality that explains the destiny of human beings. People get what they deserve at least, over the long cycle of time.
 - The inexorability of **karma** is the problem addressed in the Buddhist story of The Death of Moggallana.
 
----
+--
 
 ### Buddhist Perspective on Evil
 
@@ -142,7 +143,7 @@ Note:
 - One who attains enlightenment knows that the resolution of the experiences associated with evil does not depend on gods or goddesses, nor does it depend on other human beings.
 - In the fundamental sense, the solution to the problem of evil depends on each individual person.
 
----
+--
 
 ### The Consolation of Promise
 
@@ -178,14 +179,14 @@ Note:
 - Islam also refers to an afterlife in which **good will be rewarded, evil punished, and suffering explained.**
 - Through a **Day of Resurrection and Judgment, God will resolve the problem of evil.**
 
----
+--
 
 ### Appeal to Sovereignty
 
 - The sovereignty appeal finds its power in affirming that, at least from the human standpoint, there are no solutions to the problem of evil.
 <li class="fragment"> The book of **Job** may be taken as the archetype of the sovereignty response. As such, it has both baffled and comforted believers throughout generations of Jewish and Christian faith. </li>
 
----
+--
 
 ### The Story of Job
 
@@ -194,7 +195,7 @@ Note:
 <li class="fragment"> Job also rejects the idea that his suffering is in proportion to some sin he has committed. </li>
 <li class="fragment"> In the end, God claims the wisdom of the creator of all things and Job accepts the finitude of human understanding and the sovereignty of the maker of heaven and earth. </li>
 
----
+--
 
 ### Dualism
 
@@ -211,7 +212,7 @@ Note:
 - **Spenta Mainyu** and **Angra Mainyu** are twins, offspring of the wise lord **Ahura Mazda**, the creator of all things.
 - **Ahura Mazdas** twins represent the moral choice set before all creatures. Evil comes into the world as a result of wrongful choice, and the proper response is thus to fight against it.
 
----
+--
 
 ### Evaluating Responses to the Problem of Evil
 
