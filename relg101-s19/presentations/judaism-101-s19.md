@@ -20,7 +20,7 @@ The Jewish people are perhaps best described as an **extended family**
 
 What is Judaism? What does it mean to be a Jew? Most people, both Jewish and gentile, would instinctively say that Judaism is a religion. And yet, there are militant atheists who insist that they are Jews! Is Judaism a race? If you were to say so, most Jews would think you were an antisemite! So what is Judaism?
 
----
+--
 
 ### Is Judaism a Religion?
 
@@ -35,7 +35,7 @@ However, many people who call themselves Jews do not believe in that religion at
 
 The most traditional Jews and the most liberal Jews and everyone in between would agree that these secular people are still Jews, regardless of their disbelief. See Who is a Jew? Clearly, then, there is more to being Jewish than just a religion.
 
----
+--
 
 ### Are Jews a Race?
 
@@ -55,7 +55,7 @@ Race is a genetic distinction, and refers to people with shared ancestry and sha
 
 Common ancestry is not required to be a Jew. Many Jews worldwide share common ancestry, as shown by genetic research; however, you can be a Jew without sharing this common ancestry, for example, by converting. Thus, although I could never become black or Asian, blacks and Asians have become Jews (Sammy Davis Jr. and Connie Chung).
 
----
+--
 
 ### Is It a Culture or Ethnic Group?
 
@@ -74,7 +74,7 @@ Those secular American Jews would probably be surprised to learn that much of wh
 There are certainly cultural traits and behaviors that are shared by many Jews, that make us feel more comfortable with other Jews. Jews in many parts of the world share many of those cultural aspects. However, that culture is not shared by all Jews all over the world, and people who do not share that culture are no less Jews because of it. Thus, Judaism must be something more than a culture or an ethnic group.
 
 
----
+--
 
 ### Are the Jews a Nation?
 
@@ -91,7 +91,7 @@ Because of the inaccurate connotations that have attached themselves to the term
 - The Torah and the rabbis used this term not in the modern sense meaning a territorial and political entity, but in the ancient sense meaning a **group of people with a common history, a common destiny, and a sense that we are all connected to each other**.
 
 
----
+--
 
 ### The Jewish People are a Family
 
@@ -127,7 +127,7 @@ And when a member of our "family" accomplishes something significant, we all fee
 - **Answer**: What is Judaism, and who or what is a Jew? Is Judaism simply a religion? Is it a cultural identity or just an ethnic group? Are Jews a clan of people or are they a nation? What do Jews believe, and do they all believe the same things?
 
 
----
+--
 
 ### Definitions
 Dictionary definitions of a “Jew” include 
@@ -138,7 +138,7 @@ Dictionary definitions of a “Jew” include
 <li class="fragment">“a person belonging to a continuation through descent or conversion of the ancient Jewish people,” and</li>
 <li class="fragment">“one whose religion is Judaism.”</li>
 
----
+--
 
 ### Who Is a Jew?
 - A Jew is any person whose mother was a Jew or any person who has gone through the formal process of conversion to Judaism.
@@ -147,7 +147,7 @@ Dictionary definitions of a “Jew” include
 <li class="fragment">Judaism does not maintain that Jews are better than other people.</li>
 
 
----
+--
 
 ### Belief
 So, what is it that Jews **believe**, and what are the basic precepts of Judaism? There are five main forms or sects of Judaism in the world today. They are 
@@ -162,7 +162,7 @@ So, what is it that Jews **believe**, and what are the basic precepts of Judaism
 Note:
 The beliefs and requirements in each group differ dramatically; 
 
----
+--
 
 ### Traditional beliefs
 a short list of the traditional beliefs of Judaism would include the following:
@@ -179,7 +179,7 @@ Note:
 - God has communicated to the Jewish people through prophets.
 - God monitors the activities of humans; He rewards individuals for good deeds and punishes evil.
 
----
+--
 
 ### Scripture
 Major differences from Christianity:
@@ -198,7 +198,7 @@ Although Christians base much of their faith on the same Hebrew Scriptures as Je
 - Jewish belief does not accept the Christian concept of **original sin** (the belief that all people have inherited Adam and Eve's sin when they disobeyed God's instructions in the Garden of Eden).
 - Judaism **affirms the inherent goodness of the world and its people as creations of God**.
 
----
+--
 
 ### **Mitzvoth** (Commandments)
 Jewish believers are able to sanctify their lives and draw closer to God by fulfilling **mitzvoth** (divine commandments). 
@@ -231,7 +231,7 @@ cf.  resource: **What Do Jews Believe?: The Spiritual Foundations of Judaism** b
 
 - The position of women under traditional Jewish law is not nearly as lowly as many modern people think.
 
----
+--
 
 ### Patriarchs
 - The Patriarchs and the Origins of Judaism from Abraham to the Children of Israel, discussing the lives of the Patriarchs.
@@ -239,7 +239,7 @@ cf.  resource: **What Do Jews Believe?: The Spiritual Foundations of Judaism** b
 - Prophets and Prophecy
 - Jewish sages and scholars, including **Hillel, Shammai, Rabbi Akiba, Judah Ha-Nasi, Rashi, Maimonides** and the Baal Shem Tov.
 
----
+--
 
 ### The Name of G-d
 - YHVH &#x2013; יהוה  (“Yahweh”?)
@@ -248,7 +248,7 @@ cf.  resource: **What Do Jews Believe?: The Spiritual Foundations of Judaism** b
 - **YHVH Sabaoth**  "Lord of Hosts"
 - today often  written G-d so that prohibition for defacing name of God won't be done inadvertently
 
----
+--
 
 ### Rambam's list Maimonides
 
@@ -261,7 +261,7 @@ The closest that anyone has ever come to creating a widely-accepted list of Jewi
 - Prayer is to be directed to G-d alone and to no other
 - The words of the prophets are true
 
----
+--
  
 - Moses' prophecies are true, and Moses was the greatest of the prophets
 - The Written Torah (first 5 books of the Bible) and Oral Torah (teachings now contained in the Talmud and other writings) were given to - Moses
@@ -278,35 +278,35 @@ The closest that anyone has ever come to creating a widely-accepted list of Jewi
 - Who knows two? **I know two! Two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 - Who knows three? **I know three! Three are the fathers, and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth**.
 
----
+--
 
 - Who knows four? 
     **I know four! Four are the Mothers, and three are the fathers, and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 - Who knows five? **I know five! Five are the books of the** [clap] **Torah, Four are the mothers, and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 
----
+--
 
 - Who knows six?  
     **I know six! Six are the books of the** [clap] **Mishnah, and five are the books of the** [clap] **Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 - Who knows seven? **I know seven! Seven are the days of the week [clap, clap]**, **Six are the books of the** [clap] **Mishnah, and five are the books of the** [clap] **Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 
----
+--
 
 - Who knows eight? **I know eight! Eight are the days til the Brit Milah**. **Seven are the days of the week [clap, clap]**, **Six are the books of the clap Mishnah**, **and five are the books of the** [clap] **Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 
----
+--
 
 - Who knows nine? **I know nine! Nine are the months til the baby's born Eight are the days til the Brit Milah Seven are the days of the week [clap, clap]**, **Six are the books of the** [clap] **Mishnah**, **and five are the books of the** [clap] **Torah**, **and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 
----
+--
 
 - Who know ten? I know ten! **Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the Brit Milah Seven are the days of the week [clap, clap]**, **Six are the books of the** [clap] **Mishnah**, **and five are the books of the** [clap] **Torah**, **and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 
----
+--
 
 - Who knows eleven? **I know eleven! Eleven are the stars in Joseph's dream Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the Brit Milah Seven are the days of the week [clap, clap], Six are the books of the** [clap] **Mishnah, and five are the books of the** [clap] **Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 
----
+--
 
 - Who knows twelve? **I know twelve! Twelve are the tribes of Israel Eleven are the stars in Joseph's dream Ten are the Ten Commandments Nine are the months til the baby's born Eight are the days til the Brit Milah Seven are the days of the week [clap, clap], Six are the books of the** [clap] **Mishnah, and five are the books of the** [clap] **Torah, and four are the mothers and three are the fathers and two are the tablets that Moses brought, and one is Hashem! In the Heaven and the Earth.**
 
@@ -324,7 +324,7 @@ the concept of Torah is not one thing:
 Note: 
 The word "Torah" is a tricky one, because it can mean different things in different contexts. In its most limited sense, "Torah" refers to the Five Books of Moses: Genesis, Exodus, Leviticus, Numbers and Deuteronomy. But the word "torah" can also be used to refer to the entire Jewish bible (the body of scripture known to non-Jews as the Old Testament and to Jews as the Tanakh or Written Torah), or in its broadest sense, to the whole body of Jewish law and teachings.
 
----
+--
 
 ### Prayers and Blessings
 
@@ -337,7 +337,7 @@ Note:
 It is derived from the root Pe-Lamed-Lamed and the word l'hitpalel, meaning to judge oneself. This surprising word origin provides insight into the purpose of Jewish prayer. The most important part of any Jewish prayer, whether it be a prayer of petition, of thanksgiving, of praise of G-d, or of confession, is the introspection it provides, the moment that we spend looking inside ourselves, seeing our role in the universe and our relationship to G-d.
 - For an observant Jew, prayer is not simply something that happens in synagogue once a week (or even three times a day). Prayer an integral part of everyday life. In fact, one of the most important prayers in Judaism, the Birkat Ha-Mazon, is never recited in synagogue!
 
----
+--
 
 ### Jewish Liturgy
 
@@ -350,7 +350,7 @@ Observant Jews daven (pray) in formal worship services three times a day, every 
 
 
 
----
+--
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flickr_-_Israel_Defense_Forces_-_The_Evacuation_of_Bedolach_%2826%29.jpg/400px-Flickr_-_Israel_Defense_Forces_-_The_Evacuation_of_Bedolach_%2826%29.jpg)
 
@@ -360,14 +360,14 @@ By Israel Defense Forces - The Evacuation of Bedolach, CC BY-SA 2.0, <https://co
 
 
 
----
+--
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jews-pray-in-the-Western-Wall-1.jpg/800px-Jews-pray-in-the-Western-Wall-1.jpg)
 
 Note:
 By MathKnight and Zachi Evenor - Own work, CC BY 3.0, <https://commons.wikimedia.org/w/index.php?curid=12044309>
 
----
+--
 
 ### Central Prayers
 
@@ -400,7 +400,7 @@ Note:
 In Jewish literature, poetry and music, Shabbat is described as a bride or queen, as in the popular Shabbat hymn Lecha Dodi Likrat Kallah (come, my beloved, to meet the [Sabbath] bride). It is said "more than Israel has kept Shabbat, Shabbat has kept Israel."
 Shabbat is the most important ritual observance in Judaism.
 
----
+--
 
 ### Jewish Holidays
 Jewish holidays generally. Includes a list of all Jewish holidays and their dates for the next five years. Provides links to pages about each specific holiday. 
