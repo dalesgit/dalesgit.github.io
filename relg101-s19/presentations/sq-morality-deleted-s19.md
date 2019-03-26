@@ -1,6 +1,6 @@
 ### Sacred Quest
-
 #### Chapter Eight: Religion and Morality
+**RELG 101 F18**
 
 ---
 
@@ -172,7 +172,6 @@ Note:
 
 
 Note:
-
 - Underlying all of these issues is the problem of practical justification, or the question of reasons for action.
 - Practical justification involves the process of **advancing reasons in support of a particular action**.
 - Religious reasons may or may not be advanced as a part of the practical justification.
@@ -191,7 +190,6 @@ Note:
     - Abortion is wrong because it violates the command of God.
 
 ### On the other hand
-
 #### Deontological approach to Favoring legal and safe abortions
 
 - a person has an inherent right to control over his/her own body
@@ -208,7 +206,6 @@ Note:
 
 
 ### On the other hand
-
 #### Teleogical issues to Favoring legal and safe abortions
 
 Granting the sanctity of life, the following consequences are not negligible:
@@ -217,10 +214,11 @@ Granting the sanctity of life, the following consequences are not negligible:
 - pregnancy that threatens the life of the mother
 - an unwanted pregnancy may result in a serious detriment to the child's future well-being
 
-
+---
 
 ### Motivations
 
+Note:
 - The problem of justification must also deal with motivations.
 - The ideal of many religious traditions is that one should do the right because it is right.
 - Yet many religious traditions promise that there will, at some time in the future, be **rewards for good conduct and punishments for wrongdoing**.
@@ -234,8 +232,10 @@ Granting the sanctity of life, the following consequences are not negligible:
     - Promises of rewards and threats of punishments, the purpose being to motivate persons to do what is right.
 
 
+---
 ### Acts vs. Rules
 
+Note:
 ### Rule-Deontological Approach
 - A rule-deontological approach measures acts in terms of appeals to duty.
 - Also indicates that duty can be known through guidelines that have a general form: 
@@ -255,12 +255,37 @@ Makes reference to similar sorts of action guides but understands them to be gen
     - They provide assistance but have little or no authority in justifying particular judgments
 
 ---
-
 ### Case Studies
 
 - Hindu
 - Islamic
 - Christian
+
+---
+
+### Hindu Caste System
+- Caste is a way of institutionalizing certain forms of labor necessary to social life.
+- The four major castes represent the priestly, warrior, merchant, and laboring classes. 
+- A fifth group, the "outcastes," is in effect outside the system and does the tasks that are beneath the other classes.
+- The caste system thus represents an institution that serves to order society and that can be justified in religious terms.
+
+
+---
+
+### Hindu Caste System
+- But the religious ideals of Hinduism and the ordinary morality of Indian society are in conflict.
+- At the heart of Hinduism is the principle of renunciation.
+- One who renounces becomes a wandering ascetic, no longer fulfilling the vocation of his caste but rather living off the largesse of others.
+- But Indian society demands, as a matter of right action, fulfillment of the vocation of the caste.
+
+
+---
+
+### Islam and War
+- In Islam, discussion of the religious and moral dimensions of war appears very early, in connection with the life and work of Muhammad.
+- Muhammad and his followers were persecuted.
+- In response, they began raids and eventually a war against their persecutors.
+- As a result, ancient religious scholars justify the use of force to expand Islam.
 
 
 ---
@@ -269,3 +294,33 @@ Makes reference to similar sorts of action guides but understands them to be gen
 
 The pacifist scholar Roland Bainton argued in his study of *Christian ATttitudes Toward War and Peace* that holy wars -- wars fought for religious reasons -- tend to become crusades -- wars in which the enemy is counted as demonic and worthy of total extermination. As you think of wars in the 20th c. and 21st c. Is this true?
 
+---
+
+### Christianity and Prayer
+- Prayer can be seen as an obligation or duty of Christians.
+- Prayer is, therefore, justified by the command of God.
+- But, prayer might also be seen as an activity that is justified by the command of God.
+- Thus, prayer is justified in deontological terms and it is also an act justified by certain ends. 
+
+
+---
+
+### Religion and Morality: Patterns
+- In the case of Hinduism and the caste system, there is evidence of **religion and morality in tension**. 
+- Because the ideal of renunciation indicates the priority of sacred-regarding over other-regarding concerns, religion and morality appear to be in competition.
+- The same tension is evident in the biblical **story of Abraham**.
+
+
+---
+
+### Religion and Morality: Patterns
+- In the case of Islam, one finds **evidence of religion complementing and filling out morality**.
+- Ordinary moral concern suggests that war is an act in need of justification.
+- From the standpoint of classical Sunni teaching, religion justified the use of war to extend or defend the borders of the territory of Islam, at the discretion of the leader of the Muslim community, according to the command of God.
+
+
+---
+
+### Religion and Morality: Patterns
+- Christian discussion of the question "why pray?" provides evidence of religion animating the moral life, that is, providing reinforcement to the will to do what is good.
+- One could cite other examples of religion animating the moral life in the teaching of Christianity, Judaism, and Islam on martyrdom, and again, in Buddhist emphasis on meditation, or in the Confucian approach to ritual.
