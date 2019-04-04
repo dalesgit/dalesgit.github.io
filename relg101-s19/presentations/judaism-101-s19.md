@@ -6,9 +6,9 @@
 Judaism has been described as:
 
 - a religion,
-<li class="fragment">a race,</li>
-<li class="fragment"> a culture, and</li>
-<li class="fragment">a nation</li>
+- a race,
+-  a culture, and
+- a nation
 
 
 
@@ -25,8 +25,8 @@ What is Judaism? What does it mean to be a Jew? Most people, both Jewish and gen
 ### Is Judaism a Religion?
 
 - In some senses anyway it is clearly a religion
-<li class="fragment">However many Jews do **not** believe in religion at all</li>
-<li class="fragment">many don't believe in **G-d**</li>
+- However many Jews do **not** believe in religion at all
+- many don't believe in **G-d**
 
 Note:
 Clearly, there is a religion called Judaism, a set of ideas about the world and the way we should live our lives that is called "Judaism." It is studied in Religious Studies courses and taught to Jewish children in Hebrew schools. See What do Jews Believe? for details. There is a lot of flexibility about certain aspects of those beliefs, and a lot of disagreement about specifics, but that flexibility is built into the organized system of belief that is Judaism.
@@ -133,18 +133,18 @@ And when a member of our "family" accomplishes something significant, we all fee
 Dictionary definitions of a “Jew” include 
 
 - “a member of the tribe of Judah,”
-<li class="fragment">“an Israelite,”</li>
-<li class="fragment">“a member of a nation existing in the land of Israel from the 6th century B.C. to the 1st century A.D.,”</li>
-<li class="fragment">“a person belonging to a continuation through descent or conversion of the ancient Jewish people,” and</li>
-<li class="fragment">“one whose religion is Judaism.”</li>
+- “an Israelite,”
+- “a member of a nation existing in the land of Israel from the 6th century B.C. to the 1st century A.D.,”
+- “a person belonging to a continuation through descent or conversion of the ancient Jewish people,” and
+- “one whose religion is Judaism.”
 
 --
 
 ### Who Is a Jew?
 - A Jew is any person whose mother was a Jew or any person who has gone through the formal process of conversion to Judaism.
-<li class="fragment">Most estimates  suggest that there are about 13 million Jews in the world. The vast majority of these Jews live in either the United States (about 6 million) and Israel (about 5 million). </li>
-<li class="fragment">the differences between **Sephardic** (Spanish/Middle Eastern) and **Ashkenazic** (German/Eastern European) Jews, and other cultural subgroups of Judaism.</li>
-<li class="fragment">Judaism does not maintain that Jews are better than other people.</li>
+- Most estimates  suggest that there are about 13 million Jews in the world. The vast majority of these Jews live in either the United States (about 6 million) and Israel (about 5 million). 
+- the differences between **Sephardic** (Spanish/Middle Eastern) and **Ashkenazic** (German/Eastern European) Jews, and other cultural subgroups of Judaism.
+- Judaism does not maintain that Jews are better than other people.
 
 
 --
@@ -185,8 +185,8 @@ Note:
 Major differences from Christianity:
 
 - consider **actions and behavior to be of primary importance**; 
-<li class="fragment">no concept of  **original sin** </li>
-<li class="fragment">**affirms the inherent goodness of the world and its people as creations of God**.</li>
+- no concept of  **original sin** 
+- **affirms the inherent goodness of the world and its people as creations of God**.
 
 
 
@@ -204,8 +204,8 @@ Although Christians base much of their faith on the same Hebrew Scriptures as Je
 Jewish believers are able to sanctify their lives and draw closer to God by fulfilling **mitzvoth** (divine commandments). 
 
 - No **savior** is needed
-<li class="fragment">**613 commandments** found in Leviticus and other books regulate all aspects of Jewish life</li>
-<li class="fragment">The **Messiah** (anointed one of God) will arrive in the future and gather Jews once more into the land of Israel</li>
+- **613 commandments** found in Leviticus and other books regulate all aspects of Jewish life
+- The **Messiah** (anointed one of God) will arrive in the future and gather Jews once more into the land of Israel
 
 Note:
 - No savior is needed or is available as an intermediary.
@@ -317,9 +317,9 @@ The closest that anyone has ever come to creating a widely-accepted list of Jewi
 the concept of Torah is not one thing:
 
 - the books of Jewish scriptures and other sacred Jewish writings.
-<li class="fragment">entire Jewish Bible</li>
-<li class="fragment">Whole body of Jewish law & teachings</li>
-<li class="fragment">the whole (mystical) revelation of God to the universe</li>
+- entire Jewish Bible
+- Whole body of Jewish law & teachings
+- the whole (mystical) revelation of God to the universe
 
 Note: 
 The word "Torah" is a tricky one, because it can mean different things in different contexts. In its most limited sense, "Torah" refers to the Five Books of Moses: Genesis, Exodus, Leviticus, Numbers and Deuteronomy. But the word "torah" can also be used to refer to the entire Jewish bible (the body of scripture known to non-Jews as the Old Testament and to Jews as the Tanakh or Written Torah), or in its broadest sense, to the whole body of Jewish law and teachings.
