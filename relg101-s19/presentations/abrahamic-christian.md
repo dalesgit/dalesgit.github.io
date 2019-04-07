@@ -95,7 +95,7 @@ Note:
 
 --
 
-### Quest for Historical Jesus
+### Jesus Before Christianity
 
 Quotes from a [PBS](http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus/searching.html) series on the early centuries of Christianity.
  
