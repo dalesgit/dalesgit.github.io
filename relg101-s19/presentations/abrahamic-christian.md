@@ -101,6 +101,7 @@ Quotes from a [PBS](http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus
  
 [Viewers guide with questions:](http://www.pbs.org/wgbh/pages/frontline/shows/religion/view/)
 
+For the moment it is available to view (4 hours) at [Youtube](https://youtu.be/UulusbcS8V0)
 
 Note:
 
