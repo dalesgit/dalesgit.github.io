@@ -95,6 +95,25 @@ Note:
 
 --
 
+### Quest for Historical Jesus
+
+Quotes from a [PBS](http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus/searching.html) series on the early centuries of Christianity.
+ 
+[Viewers guide with questions:](http://www.pbs.org/wgbh/pages/frontline/shows/religion/view/)
+
+
+Note:
+
+	- Part 1: [Judaism-Rome shaped Jesus' life](https://youtu.be/kZPKCDOeyMg?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+	- Part 2: [Beginnings of Jesus movement](https://youtu.be/NB1WXhoEA0o?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+	- Part 3: [first attempts to write life of Jesus](https://youtu.be/S0pfQ2ZBe2Q?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+	- Part 4: [Challenges of the spread of Christianity](https://youtu.be/-_jY2E8I_mA?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK>)
+
+
+
+
+--
+
 
 ### **4 gospels** (and others) ###
 
