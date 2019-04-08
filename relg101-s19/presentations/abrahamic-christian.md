@@ -95,13 +95,13 @@ Note:
 
 --
 
-### Jesus Before Christianity
+### From Jesus to Christ
 
-Quotes from a [PBS](http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus/searching.html) series on the early centuries of Christianity.
- 
-[Viewers guide with questions:](http://www.pbs.org/wgbh/pages/frontline/shows/religion/view/)
-
-For the moment it is available to view (4 hours) at [Youtube](https://youtu.be/UulusbcS8V0)
+- [Trailer](https://youtu.be/vxlpdDrj2Wg)
+- Trailer focusing on Jesus' [teaching](https://youtu.be/FAa5vhLLhU0)
+- Quotes from a [PBS](http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus/searching.html) series on the early centuries of Christianity.
+- [Viewers guide with questions:](http://www.pbs.org/wgbh/pages/frontline/shows/religion/view/)
+- For the moment it is available to view (4 hours) at [Youtube](https://youtu.be/UulusbcS8V0)
 
 Note:
 
