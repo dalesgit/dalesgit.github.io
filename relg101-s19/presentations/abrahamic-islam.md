@@ -54,7 +54,17 @@ Note:
 	Muhammad: Legacy of a Prophet  
 	http://freedocumentaries.org/documentary/pbs-muhammad-legacy-of-a-prophet
 	 
+--
 
+
+### Islam: Empire of faith (PBS) [website](http://www.pbs.org/empires/islam/film.html)
+
+**Videos at:**
+
+1. [Prophet Muhammad and rise of Islam](https://youtu.be/PF6VPZsHDZQ)
+2. [The Awakening](https://youtu.be/D_mqO910jUQ)
+3. [The Ottomans](https://youtu.be/8MZJNDBTFco)
+ 
 --- 
 
 ### Outline
@@ -114,7 +124,7 @@ Note:
 	**Islam** - Submission - Peace - A way of life
 -- 
 
-## Basic elements in Islam
+## Some Basic elements in Islam
 
 | 	| *description* |
 | ----- | --------------------- |
@@ -165,10 +175,10 @@ Note:
 
 ####  Allah
 
-- "The ONLY God"
-- Characteristics and Names
-- The Most Loving
-- The Most Merciful
+- "The **Only** God"
+- Characteristics and Names:
+  - The Most Loving
+  - The Most Merciful
 
 *Say: He is Allah, the One and Only; Allah, the Eternal, Absolute; He begets not, nor is He begotten; And there is none like Him.* Qur'an 112:1-4
     
@@ -416,9 +426,9 @@ Note:
 
 ####  Hajj
 
-**Pilgrimage to Makkah**
+**Pilgrimage to Mecca**
 
-- Once in their lifetime, Muslims travel to Makkah to perform the Hajj.
+- Once in their lifetime, Muslims travel to Mecca to perform the Hajj.
 - The Hajj commemorates the trials of Prophet Abraham and his family.
 - About 3-4 million people perform Hajj annually.
 
@@ -583,13 +593,13 @@ Note:
 
 ## Watershed Events
 
-
-
-
-- Destruction 2nd Temple
-- Separation of Judaism & The Way
-- Persecution of Jews
-- Ghettos
-- Crusades
-- Holocaust
-- Foundation of Israel
+- Destruction of 1st Temple --	(586 BCE)
+- Writing, gathering, editing of Hebrew Bible --		(ca. 580 - 300 BCE)
+- Destruction 2nd Temple --		(70 CE)
+- Separation of Judaism & The Way:	
+- -–—writing of New Testament --		(70 CE - circa 120 CE)
+- Christian Persecution of Jews --		(1st c. – 20th c.)
+- Ghettos: 1st called that in Venice --		1500's
+- Crusades: 1st in --		1096 CE
+- Holocaust / Shoah --		(20th c.)
+- Foundation of Israel --		1948
