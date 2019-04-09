@@ -13,8 +13,7 @@
 --
 
 - [Timeline:](https://www.preceden.com/timelines/284990-children-of-abraham)
-- and Abrahamic timeline:
-https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hQWnCTFQkE2LiwSr1kH9O81AeBiKGcVC4xhShc59KwQ&font=Default&lang=en&initial_zoom=2&height=650
+- and Abrahamic timeline: [Simplified timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hQWnCTFQkE2LiwSr1kH9O81AeBiKGcVC4xhShc59KwQ&font=Default&lang=en&initial_zoom=2&height=650)
 - [a PBS web site for 3 religions:](http://www.pbs.org/wgbh/globalconnections/mideast/themes/religion/)
 
 Note:
@@ -34,12 +33,14 @@ Thanks to Prof. Arzu Uranli
 - [Islam through western eyes](https://www.thenation.com/article/islam-through-western-eyes/)
 - [Edward Said](https://www.youtube.com/watch?v=4QYrAqrpshw)
 - [translation of Quran:](http://www.clearquran.com/)
-- [Quran by Heart](https://www.youtube.com/watch?v=ptHdmw57rzM)
+- [Quran by Heart (2nd link)](https://www.youtube.com/watch?v=ptHdmw57rzM)
 - [Muhammad: Legacy of a Prophet](http://freedocumentaries.org/documentary/pbs-muhammad-legacy-of-a-prophet)
 	 
 
 Note:
 
+	Edward Said is linke to 2:30 video re. stereotypes
+	first few minutes of "Quran by heart" re. egs. of memorizing Quran
 	Below not found:
 	- [Islam: Empire of faith (DVD)](https://youtu.be/UHhbSvOcz4g)
 	- [Muhammad: Legacy of a Prophet](https://freedocumentaries.org/documentary/pbs-muhammad-legacy-of-a-prophet#watch-film)
@@ -86,23 +87,21 @@ Note:
 
 Note:
 
---
-	
-1.  Divine Revelation
+		
+	1.  Divine Revelation
 
-    - Sunnah (Prophetic Traditions)
-    - Sayings, actions or approvals of the Prophet Mohammad (pbuh: *Peace be
-        upon him*)
-2.  Basis of Islam
+	    - Sunnah (Prophetic Traditions)
+	    - Sayings, actions or approvals of the Prophet Mohammad (pbuh: *Peace be
+		upon him*)
+	2.  Basis of Islam
 
-| *Qu'ran*          | *Sunnah (Prophetic Traditions)*                                  |
-|-------------------|------------------------------------------------------------------|
-| Holy Book         | Sayings, actions                                                 |
-| Divine Revelation | or approvals of the Prophet Mohammad (pbuh): /Peace be upon him/ |
-    
-Note: 
+	| *Qu'ran*          | *Sunnah (Prophetic Traditions)*                                  |
+	|-------------------|------------------------------------------------------------------|
+	| Holy Book         | Sayings, actions                                                 |
+	| Divine Revelation | or approvals of the Prophet Mohammad (pbuh): *Peace be upon him* |
+	    
 
-	Seems to come from a non-Muslim perspective \* Changed "name of
+		Seems to come from a non-Muslim perspective \* Changed "name of
 	God" to Deity; put "God" in parenthesis after "Allah" \* Maybe the slide
 	could just have 3 pts (no table) under heading "What is Islam": -
 	Monotheism (believe Allah), Revealed book = Qur'an, follow Prophet
@@ -113,17 +112,29 @@ Note:
 	- Try using a table format to organize the content
 
 	**Islam** - Submission - Peace - A way of life
+-- 
+
+## Basic elements in Islam
+
+| 	| *description* |
+| ----- | --------------------- |
+| *Sunnah* | prophetic traditions, customs, etc. |
+| *Qu'ran* | Holy book dictated to Muhammad |
+| *Sura* | divisions in Qu'ran (114) |
+| *Hadith* | collection of traditions apart from the Qu'ran |
+| *Islam* | meaning submission, peace, a way of life |
 
 --
 
-1.  Who is a Muslim?
-    
+##  Who is a Muslim?
+
+
 - "One who submits to God" 
+<!-- .element: style="float: right; width: 40%" -->
+![](http://drive.google.com/uc?id=0B8ezT0-tUjVZRkg1ZWV4aENvck0)
 - Anyone can become a Muslim 
 - Common Greetings incl: *Assalamu Alaykum (Peace be with you)* & *Wa Alaykum
 Assalam (and unto you Peace)*
-
-<http://drive.google.com/uc?id=0B8ezT0-tUjVZRkg1ZWV4aENvck0>
 
 Note: 
 
@@ -186,16 +197,14 @@ Note:
 
 Chosen by Allah to be His messengers
 
-1.  Worship the One true God
-2.  Accountability
-
-Adam, Abraham, Moses, Jesus, etc...
-
-Mohammad is the final Prophet
+1. Worship the One true God
+2. Adam, Abraham, Moses, Jesus, etc... 
+3. Mohammad is the final Prophet
     
 --
 
 #### Prophet Mohammad (pbuh)
+*overview of his life*
 
 - "Al-Amin" (The Truthful)
 - First revelation in Cave Hiraa'
@@ -261,10 +270,10 @@ Note:
 
 - Accountability 
 - Weight of Good / Bad Deeds 
+<!-- .element: style="float: right; width: 40%" -->
+![](http://drive.google.com/uc?id=0B8ezT0-tUjVZVllqTFlUeHY2Tkk)
 - Day of Judgment (21:47) 
 - Heaven / Hell
-
-![](http://drive.google.com/uc?id=0B8ezT0-tUjVZVllqTFlUeHY2Tkk)
 
 Note: 
 
