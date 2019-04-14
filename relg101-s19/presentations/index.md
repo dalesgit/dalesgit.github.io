@@ -59,7 +59,9 @@ git-diary-org/diary-org/org-staging/relg101-s19/presentations/
 ## Week 13
 
 ## Week 14
-
+[biblical strand](abrahamic-biblical-strand.md)  
+[quranic strand](abrahamic-quranic-strand.md)  
+[Tent of Abraham intro videos](christian-muslim.md)
 ## Week 15
 
 ## Archived

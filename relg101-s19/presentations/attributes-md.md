@@ -1,6 +1,6 @@
 ## attributes
 
-<!-- id="plan" data-background="#ff0000" -->
+<!-- id="plan"  -->
 [Link to Plan](#/plan)
 Something with black background?
 [Link to Plan](#/plan)
