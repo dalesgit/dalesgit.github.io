@@ -80,7 +80,6 @@ Note:
 
 For Jews the challenge of a God of history, with a plan – for Christians: Where was Christ? <!-- .element: style="float: right; width: 40%" -->
 
-
 ![](http://drive.google.com/uc?export=download&id=0B8ezT0-tUjVZTUFNYjJ5VmtBTU0) <!-- .element: style="width: 40%" -->
 
 Note:

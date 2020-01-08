@@ -13,7 +13,8 @@
 --
 
 - [Timeline:](https://www.preceden.com/timelines/284990-children-of-abraham)
-- and Abrahamic timeline: [Simplified timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hQWnCTFQkE2LiwSr1kH9O81AeBiKGcVC4xhShc59KwQ&font=Default&lang=en&initial_zoom=2&height=650)
+- and Abrahamic timeline:
+https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hQWnCTFQkE2LiwSr1kH9O81AeBiKGcVC4xhShc59KwQ&font=Default&lang=en&initial_zoom=2&height=650
 - [a PBS web site for 3 religions:](http://www.pbs.org/wgbh/globalconnections/mideast/themes/religion/)
 
 Note:
@@ -33,14 +34,12 @@ Thanks to Prof. Arzu Uranli
 - [Islam through western eyes](https://www.thenation.com/article/islam-through-western-eyes/)
 - [Edward Said](https://www.youtube.com/watch?v=4QYrAqrpshw)
 - [translation of Quran:](http://www.clearquran.com/)
-- [Quran by Heart (2nd link)](https://www.youtube.com/watch?v=ptHdmw57rzM)
+- [Quran by Heart](https://www.youtube.com/watch?v=ptHdmw57rzM)
 - [Muhammad: Legacy of a Prophet](http://freedocumentaries.org/documentary/pbs-muhammad-legacy-of-a-prophet)
 	 
 
 Note:
 
-	Edward Said is linke to 2:30 video re. stereotypes
-	first few minutes of "Quran by heart" re. egs. of memorizing Quran
 	Below not found:
 	- [Islam: Empire of faith (DVD)](https://youtu.be/UHhbSvOcz4g)
 	- [Muhammad: Legacy of a Prophet](https://freedocumentaries.org/documentary/pbs-muhammad-legacy-of-a-prophet#watch-film)
@@ -54,17 +53,7 @@ Note:
 	Muhammad: Legacy of a Prophet  
 	http://freedocumentaries.org/documentary/pbs-muhammad-legacy-of-a-prophet
 	 
---
 
-
-### Islam: Empire of faith (PBS) [website](http://www.pbs.org/empires/islam/film.html)
-
-**Videos at:**
-
-1. [Prophet Muhammad and rise of Islam](https://youtu.be/PF6VPZsHDZQ)
-2. [The Awakening](https://youtu.be/D_mqO910jUQ)
-3. [The Ottomans](https://youtu.be/8MZJNDBTFco)
- 
 --- 
 
 ### Outline
@@ -97,21 +86,23 @@ Note:
 
 Note:
 
-		
-	1.  Divine Revelation
+--
+	
+1.  Divine Revelation
 
-	    - Sunnah (Prophetic Traditions)
-	    - Sayings, actions or approvals of the Prophet Mohammad (pbuh: *Peace be
-		upon him*)
-	2.  Basis of Islam
+    - Sunnah (Prophetic Traditions)
+    - Sayings, actions or approvals of the Prophet Mohammad (pbuh: *Peace be
+        upon him*)
+2.  Basis of Islam
 
-	| *Qu'ran*          | *Sunnah (Prophetic Traditions)*                                  |
-	|-------------------|------------------------------------------------------------------|
-	| Holy Book         | Sayings, actions                                                 |
-	| Divine Revelation | or approvals of the Prophet Mohammad (pbuh): *Peace be upon him* |
-	    
+| *Qu'ran*          | *Sunnah (Prophetic Traditions)*                                  |
+|-------------------|------------------------------------------------------------------|
+| Holy Book         | Sayings, actions                                                 |
+| Divine Revelation | or approvals of the Prophet Mohammad (pbuh): /Peace be upon him/ |
+    
+Note: 
 
-		Seems to come from a non-Muslim perspective \* Changed "name of
+	Seems to come from a non-Muslim perspective \* Changed "name of
 	God" to Deity; put "God" in parenthesis after "Allah" \* Maybe the slide
 	could just have 3 pts (no table) under heading "What is Islam": -
 	Monotheism (believe Allah), Revealed book = Qur'an, follow Prophet
@@ -122,29 +113,17 @@ Note:
 	- Try using a table format to organize the content
 
 	**Islam** - Submission - Peace - A way of life
--- 
-
-## Some Basic elements in Islam
-
-| 	| *description* |
-| ----- | --------------------- |
-| *Sunnah* | prophetic traditions, customs, etc. |
-| *Qu'ran* | Holy book dictated to Muhammad |
-| *Sura* | divisions in Qu'ran (114) |
-| *Hadith* | collection of traditions apart from the Qu'ran |
-| *Islam* | meaning submission, peace, a way of life |
 
 --
 
-##  Who is a Muslim?
-
-
+1.  Who is a Muslim?
+    
 - "One who submits to God" 
-<!-- .element: style="float: right; width: 40%" -->
-![](http://drive.google.com/uc?id=0B8ezT0-tUjVZRkg1ZWV4aENvck0)
 - Anyone can become a Muslim 
 - Common Greetings incl: *Assalamu Alaykum (Peace be with you)* & *Wa Alaykum
 Assalam (and unto you Peace)*
+
+<http://drive.google.com/uc?id=0B8ezT0-tUjVZRkg1ZWV4aENvck0>
 
 Note: 
 
@@ -175,10 +154,10 @@ Note:
 
 ####  Allah
 
-- "The **Only** God"
-- Characteristics and Names:
-  - The Most Loving
-  - The Most Merciful
+- "The ONLY God"
+- Characteristics and Names
+- The Most Loving
+- The Most Merciful
 
 *Say: He is Allah, the One and Only; Allah, the Eternal, Absolute; He begets not, nor is He begotten; And there is none like Him.* Qur'an 112:1-4
     
@@ -207,14 +186,16 @@ Note:
 
 Chosen by Allah to be His messengers
 
-1. Worship the One true God
-2. Adam, Abraham, Moses, Jesus, etc... 
-3. Mohammad is the final Prophet
+1.  Worship the One true God
+2.  Accountability
+
+Adam, Abraham, Moses, Jesus, etc...
+
+Mohammad is the final Prophet
     
 --
 
 #### Prophet Mohammad (pbuh)
-*overview of his life*
 
 - "Al-Amin" (The Truthful)
 - First revelation in Cave Hiraa'
@@ -280,10 +261,10 @@ Note:
 
 - Accountability 
 - Weight of Good / Bad Deeds 
-<!-- .element: style="float: right; width: 40%" -->
-![](http://drive.google.com/uc?id=0B8ezT0-tUjVZVllqTFlUeHY2Tkk)
 - Day of Judgment (21:47) 
 - Heaven / Hell
+
+![](http://drive.google.com/uc?id=0B8ezT0-tUjVZVllqTFlUeHY2Tkk)
 
 Note: 
 
@@ -426,9 +407,9 @@ Note:
 
 ####  Hajj
 
-**Pilgrimage to Mecca**
+**Pilgrimage to Makkah**
 
-- Once in their lifetime, Muslims travel to Mecca to perform the Hajj.
+- Once in their lifetime, Muslims travel to Makkah to perform the Hajj.
 - The Hajj commemorates the trials of Prophet Abraham and his family.
 - About 3-4 million people perform Hajj annually.
 
@@ -593,13 +574,13 @@ Note:
 
 ## Watershed Events
 
-- Destruction of 1st Temple --	(586 BCE)
-- Writing, gathering, editing of Hebrew Bible --		(ca. 580 - 300 BCE)
-- Destruction 2nd Temple --		(70 CE)
-- Separation of Judaism & The Way:	
-- -–—writing of New Testament --		(70 CE - circa 120 CE)
-- Christian Persecution of Jews --		(1st c. – 20th c.)
-- Ghettos: 1st called that in Venice --		1500's
-- Crusades: 1st in --		1096 CE
-- Holocaust / Shoah --		(20th c.)
-- Foundation of Israel --		1948
+
+
+
+- Destruction 2nd Temple
+- Separation of Judaism & The Way
+- Persecution of Jews
+- Ghettos
+- Crusades
+- Holocaust
+- Foundation of Israel

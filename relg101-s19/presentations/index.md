@@ -1,4 +1,4 @@
-
+[2019-01_the_journey](../../../../../2019-01_the_journey.pdf)
 _This is the path to these files_
 
 git-diary-org/diary-org/org-staging/relg101-s19/presentations/
@@ -59,9 +59,7 @@ git-diary-org/diary-org/org-staging/relg101-s19/presentations/
 ## Week 13
 
 ## Week 14
-[biblical strand](abrahamic-biblical-strand.md)  
-[quranic strand](abrahamic-quranic-strand.md)  
-[Tent of Abraham intro videos](christian-muslim.md)
+
 ## Week 15
 
 ## Archived
