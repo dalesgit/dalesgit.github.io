@@ -1,0 +1,93 @@
+#+Author: Prof. Dale Hathaway
+#+Title: Introductions
+#+Date: Jan. 13, 2020 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:nil num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+** First Presentation
+   :PROPERTIES:
+   :CUSTOM_ID: first-presentation
+   :END:
+
+Winthrop University
+
+Prof Dale Hathaway
+
+** Syllabus
+   :PROPERTIES:
+   :CUSTOM_ID: syllabus
+   :END:
+#+begin_notes
+- Rubrics will be posted
+- and
+
+#+end_notes
+
+** Notice
+   :PROPERTIES:
+   :CUSTOM_ID: notice
+   :END:
+
+
+#+BEGIN_HTML
+  <!-- .slide: data-background="https://www.acornonline.com/graphics/products/large/HR1041_F.jpg" data-background-size="1000px" -->
+#+END_HTML
+
+** Introductions
+   :PROPERTIES:
+   :CUSTOM_ID: introductions
+   :END:
+
+On sheet of paper write your name. Then write down:
+
+- What you would like to learn in this class
+- What is something that interests you but you don't know very much about (not necessarily religious in nature)
+- if there is anything the instructor should know about you with regard to this class
+
+** Significant Experience
+   :PROPERTIES:
+   :CUSTOM_ID: significant-experience
+   :END:
+
+-  Write down the most significant experience you have had, one you would not classify ****religious****
+- Write down a significant religious experience
+- Share with someone your experiences and discuss the question, “What makes one ****religious**** and the other not?”
+
+** Religious Experience covers a vast range
+    :PROPERTIES:
+    :CUSTOM_ID: religious-experience-covers-a-vast-range
+    :END:
+
+-  Breadth of Religious Experience
+- Religion touches on almost all human experience and culture
+- Religion is incredibly diverse, varied, plural
+- Religion affects the depths of human heart, motivation, direction, purpose in life.
+
+** Two Fundamental Approaches to the Study of Religion
+    :PROPERTIES:
+    :CUSTOM_ID: two-fundamental-approaches-to-the-study-of-religion
+    :END:
+
+-  Humanistic. Approach: broad historical and cultural understanding of religion
+- Theological. Approach: understanding and developing a particular religious tradition and its faith
+- **We will be following the first approach**
+
+** Remember 
+   :PROPERTIES:
+   :CUSTOM_ID: reading-journals
+   :END:
+1. More important to provide reasoning than to have a "correct opinion".
+2. What connections to your prior knowledge and understanding can you make?
+3. What surprised you?
+4. What questions arise from what you have learned?
+5. What connections with your own experience and learning can you make?
+6. What would you like to know more about?
