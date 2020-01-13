@@ -12,7 +12,7 @@
  #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
  #+REVEAL_PLUGINS: (markdown notes)
  #+REVEAL_THEME: beige
-#+REVEAL_ROOT: ../../reveal.js/
+#+REVEAL_ROOT: ../../
 ** First Presentation
    :PROPERTIES:
    :CUSTOM_ID: first-presentation
@@ -22,26 +22,25 @@ Winthrop University
 
 Prof Dale Hathaway
 
-** Syllabus
-   :PROPERTIES:
-   :CUSTOM_ID: syllabus
-   :END:
-#+begin_notes
+*** Syllabus
+    :PROPERTIES:
+    :CUSTOM_ID: syllabus
+    :END:
+ #+begin_notes
 - Rubrics will be posted
-- and
+- Changes posted in BB
+- Taking attendance
+- Books in class
+
+
+ #+end_notes
+
+*** Notice
+[[https://www.acornonline.com/graphics/products/large/HR1041_F.jpg]]
+#+begin_notes
+The most important part of your grade will be based on thinking about the issues of religion. You will be expected to use what we read, what we talk about, what is presented.
 
 #+end_notes
-
-** Notice
-   :PROPERTIES:
-   :CUSTOM_ID: notice
-   :END:
-
-
-#+BEGIN_HTML
-  <!-- .slide: data-background="https://www.acornonline.com/graphics/products/large/HR1041_F.jpg" data-background-size="1000px" -->
-#+END_HTML
-
 ** Introductions
    :PROPERTIES:
    :CUSTOM_ID: introductions
@@ -52,42 +51,59 @@ On sheet of paper write your name. Then write down:
 - What you would like to learn in this class
 - What is something that interests you but you don't know very much about (not necessarily religious in nature)
 - if there is anything the instructor should know about you with regard to this class
+#+begin_notes
+- Bring sheets or paper?
+#+end_notes
 
-** Significant Experience
-   :PROPERTIES:
-   :CUSTOM_ID: significant-experience
-   :END:
-
--  Write down the most significant experience you have had, one you would not classify ****religious****
-- Write down a significant religious experience
-- Share with someone your experiences and discuss the question, “What makes one ****religious**** and the other not?”
-
-** Religious Experience covers a vast range
+*** Significant Experience
     :PROPERTIES:
-    :CUSTOM_ID: religious-experience-covers-a-vast-range
+    :CUSTOM_ID: significant-experience
     :END:
 
--  Breadth of Religious Experience
+ - Write down a significant experience that you would characterize as *religious* and that you would be willing to briefly share with the class.
+#+ATTR_REVEAL: :frag (appear)
+ - Write down a significant that you would *not characterize as a religious experience*
+ - Share with someone your experiences and discuss the question, “What makes one ****religious**** and the other not?”
+#+begin_notes
+- In this class we will be trying to understand the distinction between these two things. How do we tell? What kinds of characteristics are we looking for?
+- Not looking to decide a *right or wrong* answer
+#+end_notes
+** Religious Experience covers a vast range
+   :PROPERTIES:
+   :CUSTOM_ID: religious-experience-covers-a-vast-range
+   :END:
+
+#+ATTR_REVEAL: :frag (appear)
+- Breadth of Religious Experience
 - Religion touches on almost all human experience and culture
 - Religion is incredibly diverse, varied, plural
 - Religion affects the depths of human heart, motivation, direction, purpose in life.
-
-** Two Fundamental Approaches to the Study of Religion
+#+begin_notes
+- Not limited by church -- we'll see not even limited by God
+- My own conviction that it is in the *ordinary* that one experiences Grace. cf. Jewish prescription for blessings associated with the most mundane and homely actions
+- Goal: to open our understanding of the immense diversity of religion
+- We will touch on intense, deeply significant events -- have charity to one another, and to yourselves. *Respect*
+#+end_notes
+*** Two Fundamental Approaches to the Study of Religion
     :PROPERTIES:
     :CUSTOM_ID: two-fundamental-approaches-to-the-study-of-religion
     :END:
 
--  Humanistic. Approach: broad historical and cultural understanding of religion
+- Humanistic. Approach: broad historical and cultural understanding of religion
+#+ATTR_REVEAL: :frag (appear)
 - Theological. Approach: understanding and developing a particular religious tradition and its faith
 - **We will be following the first approach**
-
-** Remember 
-   :PROPERTIES:
-   :CUSTOM_ID: reading-journals
-   :END:
-1. More important to provide reasoning than to have a "correct opinion".
-2. What connections to your prior knowledge and understanding can you make?
-3. What surprised you?
-4. What questions arise from what you have learned?
-5. What connections with your own experience and learning can you make?
-6. What would you like to know more about?
+#+begin_notes
+- You probably bring an expectation of religious study as related to church. You may seek answers to questions we will wrestle with from your church tradition or pastor. May or may not be helpful.
+- My own conviction is that there is a direct connection between study of religion and each of your disciplines (major) at WU
+#+end_notes
+*** Remember 
+    :PROPERTIES:
+    :CUSTOM_ID: reading-journals
+    :END:
+ 1. More important to provide reasoning than to have a "correct opinion".
+ 2. What connections to your prior knowledge and understanding can you make?
+ 3. What surprised you?
+ 4. What questions arise from what you have learned?
+ 5. What connections with your own experience and learning can you make?
+ 6. What would you like to know more about?
