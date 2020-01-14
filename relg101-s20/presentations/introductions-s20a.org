@@ -12,7 +12,7 @@
  #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
  #+REVEAL_PLUGINS: (markdown notes)
  #+REVEAL_THEME: beige
-#+REVEAL_ROOT: ../../
+#+REVEAL_ROOT: ../../reveal.js/
 ** First Presentation
    :PROPERTIES:
    :CUSTOM_ID: first-presentation
