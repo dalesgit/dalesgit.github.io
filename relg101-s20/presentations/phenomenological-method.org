@@ -1,0 +1,81 @@
+#+Author: Prof. Dale Hathaway
+#+Title: Phenomenological Method 
+#+Date: Jan. 15, 2020 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+
+* Homo Reliosus
+
+#+ATTR_REVEAL: :frag (appear)
+- Human beings seem to be religious at all times and in all places
+- The approach used in the text book is a variation of *phenomenological method*
+- resist *reductionism*
+- claim: *there is no "purely" religious phenomena*
+- 4 steps in the method
+
+#+begin_notes
+- e.g. beginnings of Islam & Protestant Reformation (on Monday we had a conjecture that religion had to do with *big changes*) -- the *power* of religion
+- a study of humanity entails a study of religion
+- use a *variety of approaches*: texts, behaviors, rituals, meditation, philosophy
+- what is *reductionism*
+- what is *phenomena*
+-  Why is understanding religion so important for understanding of human existence and culture?
+-  What is the goal of the Phenomenological Method? What error in Freud and Marx does it seek to avoid? How does learning from Max Weber help it to avoid the opposite error?
+-  Does it tend to take a more humanistic or theology approach to the study of religion?
+-  Give examples of how each of the five tools for studying religion might be used and explain how they illustrate the value of each tool.
+-  What do the last three steps in the phenomenological method have in common?
+
+
+#+end_notes
+
+** Steps of the method
+1. Gather the data
+2. Search for patterns
+3. Analyze the structure of the patterns
+4. Suggest Generalizations (repeat as needed)
+
+** With a partner or two:
+   :PROPERTIES:
+   :CUSTOM_ID: with-a-partner-or-two
+   :END:
+
+#+ATTR_REVEAL: :frag (appear)
+-  brainstorm at least 5 different religious phenomena
+-  What is the thing that you identify?
+-  What makes it religious?
+
+   
+* Tools Used in the Study Religion
+  :PROPERTIES:
+  :CUSTOM_ID: tools-used-in-the-study-religion
+  :END:
+
+#+ATTR_REVEAL: :frag (appear)
+- Textual :: study sacred texts
+- Historical :: describe origin and development of specific religions
+- Comparative :: compare specific types of religious behaviors, beliefs
+- Philosophical :: philosophical analysis of religious language and arguments
+- Intellectual & Social History :: trace development of religious ideas and institutions over time
+
+
+** Phenomenological Method draws upon all five tools and consists of four steps:
+   :PROPERTIES:
+   :CUSTOM_ID: phenomenological-method-draws-upon-all-five-tools-and-consists-of-four-steps
+   :END:
+ 
+#+ATTR_REVEAL: :frag (appear)
+ - observe and describe religious behaviors, speech, beliefs, etc. from the point of view of religious persons and seeking to identify and understand their intentions by
+ - look for common patterns across different religions and religious experiences.
+ - look for universal meanings in patterns that transcend particular religious contexts and recognize diverse meanings (lack of universal meanings)
+ - Offer Generalizations about religious patterns and about religion itself. Describe the common forms and elements of religious life and may even take the next step to offer theory or general explanation of the meaning of these patterns and the nature of religion.
