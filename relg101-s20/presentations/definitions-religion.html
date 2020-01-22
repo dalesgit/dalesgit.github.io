@@ -626,18 +626,6 @@ This is an important part of the <b>functionalist</b> aspect of religion.
 				mouseWheel: true,
 				slideNumber: true,
 				hash: true,
-				audio: {
-					prefix: 'audio/',
-					suffix: '.ogg',
-					defaultDuration: 5,
-					textToSpeechURL: "http://api.voicerss.org/?key=4a3ede6b9e0b4932bf4b94382cad2f49&hl=en-gb&c=ogg&src=",
-					advance: 5,
-					autoplay: true,
-					defaultNotes: true,
-					defaultAudio: true,
-					defaultText: true,
-					playerOpacity: 0.2,
-				},
 				menu: { // Menu works best with font-awesome installed: sudo apt-get install fonts-font-awesome
 					numbers: true,
 					openSlideNumber: true,
@@ -661,9 +649,6 @@ This is an important part of the <b>functionalist</b> aspect of religion.
 					{ src: '../../reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: '../../reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: '../../reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: '../../reveal.js/plugin/audio-slideshow/RecordRTC.js', condition: function( ) { return !!document.body.classList; } },				
-					{ src: '../../reveal.js/plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.classList; } },				
-					{ src: '../../reveal.js/plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classList; } },
 					{ src: '../../reveal.js/plugin/menu/menu.js' },
 				],
 				keyboard: { 
