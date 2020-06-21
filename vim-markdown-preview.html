@@ -1,0 +1,2426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>vim-markdown-preview.html</title>
+  <link rel="icon" href="data:image/x-icon;base64,AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAKCgr/FRUX/xYWGP8YGBr/GRkb/xsbHP8dHR7/Hh4f/x4eIP8fHyD/ICAh/yMjJP8kJCX/JiYo/ygoKv8pKSr/LCwu/y0tLv80NDT/QUFC/0ZGR/9MTE7/UFBR/1JSUv9bW1v/XFxc/2BgYP9hYWP/aGhp/2xsbP9ycnL/d3d3/3l5e/98fHz/f3+A/2dn/P9z3a//cNX8/4CAgP+Xl5f/nZ2e/56en/+fn5//n5+h/6amp/+rq6v/rKys/7CvsP+zs7T/uLi5/7u7u/+8vLz/wMDA/8fHx//Kysr/zc3N/9HR0f/d3d3/3t7e/+Xl5f/q6ur/6+vr/+3t7f/z8/P/9fX1//b29v/39/f/+Pj4//n5+f/6+vr/+/v7//z8/P/9/f3//v7+//////8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/NCYmJiYmJiYmJiYmJiYmNCZKSkpKSkpKSkpKSkpKSiYmSkpKRisdRkMbMklKSkomJkpKSSEiNUhEEQwpSUpKJiZKSi8LHhhAPAwBDDZKSiYmSkoWACA7SEc6HAEaSkomJkpKBxI/SkpKSj4ICkpKJiZKSgUTR0pKSkpGDwZKSiYmSkoTED1KSkpKOQQVSkomJkpKKgowMy4sNycIMUpKJiZKSkEZDgkDAgsNH0VKSiYmSkpKQigUBgkXLUhKSkomJkpKSkpKSkpKSkpKSkpKJiYmJiYmJiYmJiYmJiYmJiYmIyUkNDQ0NDQ0NDQ0NDQmOCYmJiYmJiYmJiYmJiYmOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=" />
+  <link rel="stylesheet" href="//octicons.github.com/components/octicons/octicons/octicons.css" />
+  <style>
+    /* Page tweaks */
+    .preview-page {
+      margin-top: 64px;
+    }
+    /* User-content tweaks */
+    .timeline-comment-wrapper > .timeline-comment:after,
+    .timeline-comment-wrapper > .timeline-comment:before {
+      content: none;
+    }
+    /* User-content overrides */
+    .discussion-timeline.wide {
+      width: 920px;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div id="preview-page" class="preview-page" data-autorefresh-url="">
+
+    
+
+      <div role="main" class="main-content">
+        <div class="container new-discussion-timeline experiment-repo-nav">
+          <div class="repository-content">
+            <div id="readme" class="readme boxed-group clearfix announce instapaper_body md">
+              
+                <h3>
+                  <span class="octicon octicon-book"></span>
+                  vim-markdown-preview.html
+                </h3>
+              
+              <article class="markdown-body entry-content" itemprop="text" id="grip-content">
+                <div id="user-content-table-of-contents">
+<h2>
+<a id="user-content-table-of-contents" class="anchor" href="#table-of-contents" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Table of Contents</h2>
+<div id="user-content-text-table-of-contents">
+<ul>
+<li><a href="#org34f3082">0.0.1.  Table Of Contents </a></li>
+</ul>
+
+
+
+<a href="#introduction">1. Introduction</a>
+<a href="#birth-to-toddler">2. Birth to toddler</a>
+<ul>
+<li><a href="#b.-1950----ray-az">2.1. b. 1950-—Ray, AZ</a></li>
+<li><a href="#ray-az-1952--2--ray-az">2.2. 1951–1–Ray, AZ 1952–2–Ray, AZ</a></li>
+<li><a href="#quay-st.">2.3. 1953–3–Quay St.</a></li>
+<li><a href="#quay-st.-1">2.4. 1954–4–Quay St.</a></li>
+</ul>
+
+<a href="#single-digits">3. Single Digits</a>
+<ul>
+<li><a href="#w.-5th-ave.">3.1. 1955–5–9585 W. 5th Ave.</a></li>
+<li><a href="#w.-5th-ave.-1">3.2. 1956–6–9585 W. 5th Ave.</a></li>
+<li><a href="#w.-5th-ave.-2">3.3. 1957–7–9585 W. 5th Ave.</a></li>
+<li><a href="#w.-5th-ave.-3">3.4. 1958–8–9585 W. 5th Ave.</a></li>
+<li><a href="#w.-5th-ave.-4">3.5. 1959–9–9585 W. 5th Ave.</a></li>
+<li><a href="#w.-5th-ave.-5">3.6. 1960–10–9585 W. 5th Ave.</a></li>
+</ul>
+
+<a href="#dudley-street">4. Dudley Street</a>
+<ul>
+<li><a href="#dudley">4.1. 1961–11–690 Dudley</a></li>
+<li><a href="#dudley-1">4.2. 1962–12–690 Dudley</a></li>
+<li><a href="#dudley-2">4.3. 1963–13–690 Dudley</a></li>
+<li><a href="#dudley-3">4.4. 1964–14–690 Dudley</a></li>
+<li><a href="#dudley-4">4.5. 1965–15–690 Dudley</a></li>
+<li><a href="#dudley-5">4.6. 1966–16–690 Dudley</a></li>
+<li><a href="#dudley-6">4.7. 1967–17–690 Dudley</a></li>
+<li><a href="#dudley-7">4.8. 1968–18–690 Dudley</a></li>
+</ul>
+
+<a href="#college">5. College</a>
+<ul>
+<li><a href="#colorado-college">5.1. 1969–19–Colorado College</a></li>
+<li><a href="#colorado-college-1">5.2. 1970–20–Colorado College</a></li>
+<li><a href="#colorado-college-2">5.3. 1971–21–Colorado College</a></li>
+<li><a href="#colorado-springs">5.4. 1972–22–Colorado Springs</a></li>
+</ul>
+
+<a href="#colorado-springs-1">6. Colorado Springs</a>
+<ul>
+<li><a href="#colorado-springs-2">6.1. 1973–23–Colorado Springs</a></li>
+<li><a href="#colorado-springs-3">6.2. 1974–24–Colorado Springs</a></li>
+<li><a href="#colorado-springs-4">6.3. 1975–25–Colorado Springs</a></li>
+<li><a href="#colorado-springs-5">6.4. 1976–26–Colorado Springs</a></li>
+<li><a href="#colorado-springs-6">6.5. 1977–27–Colorado Springs</a></li>
+<li><a href="#colorado-springs-7">6.6. 1978–28–Colorado Springs</a></li>
+</ul>
+
+<a href="#graduate-school">7. Graduate School</a>
+<ul>
+<li><a href="#nashotah-house">7.1. 1979–29–Nashotah House</a></li>
+<li><a href="#nashotah-house-1">7.2. 1980–30–Nashotah House</a></li>
+<li><a href="#nashotah-house-2">7.3. 1981–31–Nashotah House</a></li>
+<li><a href="#notre-dame">7.4. 1982–32–Notre Dame</a></li>
+<li><a href="#wauwatosa">7.5. 1983–33–Wauwatosa</a></li>
+<li><a href="#wauwatosa-1">7.6. 1984–34–Wauwatosa</a></li>
+<li><a href="#notre-dame-1">7.7. 1985–35–Notre Dame</a></li>
+</ul>
+
+<a href="#divorce-and-recovery">8. Divorce and Recovery</a>
+<ul>
+<li><a href="#buchanan">8.1. 1986–36–Buchanan</a></li>
+<li><a href="#st.-pauls">8.2. 1987–37–St. Paul's</a></li>
+<li><a href="#rensselaer">8.3. 1988–38–Rensselaer</a></li>
+<li><a href="#rensselaer-1">8.4. 1989–39–Rensselaer</a></li>
+<li><a href="#rensselaer-2">8.5. 1990–40–Rensselaer</a></li>
+</ul>
+
+<a href="#michigan-city">9. Michigan City</a>
+<ul>
+<li><a href="#michigan-city-1">9.1. 1991–41–Michigan City</a></li>
+<li><a href="#michigan-city-2">9.2. 1992–42–Michigan City</a></li>
+<li><a href="#michigan-city-3">9.3. 1993–43–Michigan City</a></li>
+<li><a href="#michigan-city-4">9.4. 1994–44–Michigan City</a></li>
+<li><a href="#michigan-city-5">9.5. 1995–45–Michigan City</a></li>
+<li><a href="#michigan-city-6">9.6. 1996–46–Michigan City</a></li>
+<li><a href="#michigan-city-7">9.7. 1997–47–Michigan City</a></li>
+<li><a href="#michigan-city-8">9.8. 1998–48–Michigan City</a></li>
+<li><a href="#michigan-city-9">9.9. 1999–49–Michigan City</a></li>
+<li><a href="#michigan-city-10">9.10. 2000–50–Michigan City</a></li>
+</ul>
+
+<a href="#hawaii">10. Hawai'i</a>
+<ul>
+<li><a href="#section">10.1. 2001</a></li>
+<li><a href="#section-1">10.2. 2002</a></li>
+<li><a href="#section-2">10.3. 2003</a></li>
+<li><a href="#section-3">10.4. 2004</a></li>
+<li><a href="#section-4">10.5. 2005</a></li>
+<li><a href="#section-5">10.6. 2006</a></li>
+<li><a href="#section-6">10.7. 2007</a></li>
+<li><a href="#org0782c24">10.8. 2008</a></li>
+<li><a href="#orge7ce47b">10.9. 2009</a></li>
+<li><a href="#org38af878">10.10. 2010</a></li>
+<li>
+<a href="#org791b1a8">10.11. 2011</a>
+<ul>
+<li><a href="#orgd38921e">10.11.1. January</a></li>
+<li><a href="#org943f37e">10.11.2. February</a></li>
+<li><a href="#org6a2430e">10.11.3. March</a></li>
+<li><a href="#org9c105f4">10.11.4. April</a></li>
+<li><a href="#orgea41f90">10.11.5. May</a></li>
+<li><a href="#org34d0e37">10.11.6. June</a></li>
+<li><a href="#orgf8f2fe1">10.11.7. July</a></li>
+<li><a href="#orga0f456c">10.11.8. August</a></li>
+<li><a href="#org2e14965">10.11.9. Sept</a></li>
+<li><a href="#orgd077849">10.11.10. Oct.</a></li>
+<li><a href="#orga7cf327">10.11.11. Nov</a></li>
+<li><a href="#orgebb8496">10.11.12. Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="#org77b4ce4">10.12. 2012</a>
+<ul>
+<li><a href="#orgfd39d7e">10.12.1. Jan</a></li>
+<li><a href="#org3b7dd6a">10.12.2. Feb</a></li>
+<li><a href="#org7fa822e">10.12.3. Mar</a></li>
+<li><a href="#org000a502">10.12.4. Apr</a></li>
+<li><a href="#org5a69d0c">10.12.5. May</a></li>
+<li><a href="#orgf4c2ae6">10.12.6. June</a></li>
+<li><a href="#orgc01b812">10.12.7. July</a></li>
+<li><a href="#org12a78ab">10.12.8. Aug</a></li>
+<li><a href="#org34a5639">10.12.9. Sep</a></li>
+<li><a href="#org977dacf">10.12.10. Oct</a></li>
+<li><a href="#org501e9e9">10.12.11. Nov</a></li>
+<li><a href="#org8a4f88b">10.12.12. Dec</a></li>
+</ul>
+</li>
+<li>
+<a href="#orgcca4930">10.13. 2013</a>
+<ul>
+<li><a href="#org6044b0f">10.13.1. April</a></li>
+</ul>
+</li>
+<li>
+<a href="#org508c264">10.14. 2014</a>
+<ul>
+<li><a href="#org4485aed">10.14.1. April</a></li>
+</ul>
+</li>
+<li>
+<a href="#org45f0161">10.15. 2015</a>
+<ul>
+<li><a href="#org8b7f88f">10.15.1. April</a></li>
+</ul>
+</li>
+<li>
+<a href="#orga13d1b9">10.16. 2016</a>
+<ul>
+<li><a href="#org6cd3f5f">10.16.1. April</a></li>
+</ul>
+</li>
+<li>
+<a href="#org7696139">10.17. 2017</a>
+<ul>
+<li><a href="#orgd4b3ccd">10.17.1. April</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div>
+**Author**: &amp; Dale C. Hathaway
+<p>Sept. 2017</p>
+</div>
+<blockquote>
+<p><em>Taken from file memories.otl.txt</em></p>
+</blockquote>
+<p><a id="user-content-org34f3082"></a></p>
+<h3>
+<a id="user-content-table-of-contents-1" class="anchor" href="#table-of-contents-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a> Table Of Contents </h3>
+<p><a href="#introduction">Introduction</a></p>
+<p><a href="#birth-to-toddler">Birth to toddler</a></p>
+<p><a href="#b.-1950----ray-az">2.1</a></p>
+<p><a href="#ray-az-1952--2--ray-az">2.2</a></p>
+<p><a href="#quay-st.">2.3</a></p>
+<p><a href="#quay-st.-1">2.4</a></p>
+<p><a href="#single-digits">Single Digits</a></p>
+<p><a href="#w.-5th-ave.">3.1</a></p>
+<p><a href="#w.-5th-ave.-1">3.2</a></p>
+<p><a href="#w.-5th-ave.-2">3.3</a></p>
+<p><a href="#w.-5th-ave.-3">3.4</a></p>
+<p><a href="#w.-5th-ave.-4">3.5</a></p>
+<p><a href="#w.-5th-ave.-5">3.6</a></p>
+<p><a href="#dudley-street">4</a></p>
+<p><a href="#dudley">4.1</a></p>
+<p><a href="#dudley-1">4.2</a></p>
+<p><a href="#dudley-2">4.3</a></p>
+<p><a href="#dudley-3">4.4</a></p>
+<p><a href="#dudley-4">4.5</a></p>
+<p><a href="#dudley-5">4.6</a></p>
+<p><a href="#dudley-6">4.7</a></p>
+<p><a href="#dudley-7">4.8</a></p>
+<p><a href="#college">5</a></p>
+<p><a href="#colorado-college">5.1</a></p>
+<p><a href="#colorado-college-1">5.2</a></p>
+<p><a href="#colorado-college-2">5.3</a></p>
+<p><a href="#colorado-springs">5.4</a></p>
+<p><a href="#colorado-springs-1">6</a></p>
+<p><a href="#colorado-springs-2">6.1</a></p>
+<p><a href="#colorado-springs-3">6.2</a></p>
+<p><a href="#colorado-springs-4">6.3</a></p>
+<p><a href="#colorado-springs-5">6.4</a></p>
+<p><a href="#colorado-springs-6">6.5</a></p>
+<p><a href="#colorado-springs-7">6.6</a></p>
+<p><a href="#graduate-school">7</a></p>
+<p><a href="#nashotah-house">7.1</a></p>
+<p><a href="#nashotah-house-1">7.2</a></p>
+<p><a href="#nashotah-house-2">7.3</a></p>
+<p><a href="#notre-dame">7.4</a></p>
+<p><a href="#wauwatosa">7.5</a></p>
+<p><a href="#wauwatosa-1">7.6</a></p>
+<p><a href="#notre-dame-1">7.7</a></p>
+<p><a href="#divorce-and-recovery">8</a></p>
+<p><a href="#buchanan">8.1</a></p>
+<p><a href="#st.-pauls">8.2</a></p>
+<p><a href="#rensselaer">8.3</a></p>
+<p><a href="#rensselaer-1">8.4</a></p>
+<p><a href="#rensselaer-2">8.5</a></p>
+<p><a href="#michigan-city">9</a></p>
+<p><a href="#michigan-city-1">9.1</a></p>
+<p><a href="#michigan-city-2">9.2</a></p>
+<p><a href="#michigan-city-3">9.3</a></p>
+<p><a href="#michigan-city-4">9.4</a></p>
+<p><a href="#michigan-city-5">9.5</a></p>
+<p><a href="#michigan-city-6">9.6</a></p>
+<p><a href="#michigan-city-7">9.7</a></p>
+<p><a href="#michigan-city-8">9.8</a></p>
+<p><a href="#michigan-city-9">9.9</a></p>
+<p><a href="#michigan-city-10">9.10</a></p>
+<p><a href="#hawaii">10</a></p>
+<p><a href="#section">10.1</a></p>
+<p><a href="#section-1">10.2</a></p>
+<p><a href="#section-2">10.3</a></p>
+<p><a href="#section-3">10.4</a></p>
+<p><a href="#section-4">10.5</a></p>
+<p><a href="#section-5">10.6</a></p>
+<p><a href="#section-6">10.7</a></p>
+<p><a id="user-content-introduction"></a></p>
+<h1>
+<a id="user-content-introduction" class="anchor" href="#introduction" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Introduction</h1>
+<p>I sit down to write. I am looking for my voice. The struggle is great to
+put in place the discipline. I feel the passing of time so swift these
+days. For so long I have felt deep within me the pull of witing. It was
+over 15 years ago, when I lost daily contact with my children through
+divorce and separation, that I first felt the desire to pass on
+something of me, perchance even something of value, to them.</p>
+<p>Frequently through the years, I have remembered driving through the
+Arizona desert with my family. The year was probably 1956 or 1957. My
+father drove his Pontiac, the car with distnctive marks like a Buick.
+The paved road passed up and down across arroyos. At the time it meant
+little to me. Later, as we became accustomed to Eisenhower's interstate
+highway system, those roads seemed so quaint, at times flooded as they
+passed across a "crick." The memory is of no particular value. But it
+seems to point to something I want to hand on to my children. A
+connection with a past that they do not know? A route through the lost
+map of memory into their present? I don't know. But it motivates me
+nonetheless.</p>
+<p>I have a real fear of putting down words that deliver just an
+excruciating common-place. Perhaps I have reached the age where a
+greater fear is in not leaving anything at all to my children. I
+experienced my older children as stolen from my life at an early age. My
+younger children will not get to know me in their middle age. Perhaps
+the mystery of syntax, ordinary words linked together, will communicate
+something of value to them.</p>
+<p>I am currently wed to a woman who obsessively rehearses the shared,
+corporate memory of her family. "Nana always did …" "Jacob patiently
+helped me get dressed when I broke my arm." I frequently think that she
+experiences and understands present experience only as reflections of
+her past. It feels like a prison to me. And yet I understand the
+fundamental truth in her approach, that we are in many ways at least,
+the product of who we have been.</p>
+<p><a id="user-content-birth-to-toddler"></a></p>
+<h1>
+<a id="user-content-birth-to-toddler" class="anchor" href="#birth-to-toddler" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Birth to toddler</h1>
+<p><a id="user-content-b.-1950----ray-az"></a></p>
+<h2>
+<a id="user-content-b-1950-ray-az" class="anchor" href="#b-1950-ray-az" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>b. 1950-—Ray, AZ</h2>
+<p>Memory,of course, doesn't stretch back to one's birth. What we
+consciously pass on from that period we learn at a later age. It is only
+the remembered legacy, not the real thing.</p>
+<p>In 2002, on our way to a move to Honolulu, I contrived to drive through
+the Arizona desert so that I could see the place of my birth. I knew
+that I would not be able to see a familiar kind of nostalgia. Long
+before I had learned that Ray, Arizona had been abandoned in order to
+make way for the copper mine that had been the town's reason for
+existence. By the 1980's it seemed a fit part of my public story that
+the town I was born in no longer existed.</p>
+<p>After leaving the army air force that had helped pay for my father's
+medical schooling, he had taken a job as a company physician. From the
+midwest of his origins, he and his wife traveled to the western desert
+and set up a home. He would never again think of the midwest, Illinois
+along the Mississippi River, as home.</p>
+<p>My parents described the hospital in which I was born as a small
+building, only a few rooms. I remember seeing a photograph of it
+somewhere.</p>
+<p>The dusty hot vision that met us on the drive was not at all romantic.
+It took us some asking around to get close enough to the pit to even
+make it out. Ray, of course, was not on the road map, so I couldn't be
+confident of where it was. I remembered long ago references to Hayden.
+As we drove through that town which was on the map, there were a serious
+of copper mine pits surrounding it. I wondered if that was the Ray mine.
+We drove, slowly. There was a sign to the "Old Ray Road." We couldn't
+follow it because a gate announced that it was private property. But it
+pointed down the twisting mountain road. We drove on. Then we saw it,
+distant and upward. A monumental set of tailings. And we knew that THAT
+was the Ray mine.</p>
+<p><a id="user-content-ray-az-1952--2--ray-az"></a></p>
+<h2>
+<a id="user-content-19511ray-az-19522ray-az" class="anchor" href="#19511ray-az-19522ray-az" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1951–1–Ray, AZ 1952–2–Ray, AZ</h2>
+<p>I have no memories from this period. What little I carry with me derives
+from slides &amp; movies. There are photographs of my grandmother and
+grandmother holding me, "Grandpa" and "Nanny". I think, my goodness,
+they were only a little older than the age I am now. They looked so old
+the last time I saw them, which is probably 25 years ago. My grandfather
+would be dead within a few years of the photograph. They looked happy
+and proud of their grandson, dressed in a white undershirt and diapers.
+My grandfather was so formal, I think the right word would be "severe."
+But he was smiling as I remember him.</p>
+<p>Just this past summer, at David's, I saw photographs of him as a soldier
+going off to fight WWI. He survived that one.</p>
+<p>Stories that I remember about him have mostly to do with his practice as
+a small town family doctor. My father reported that during the
+depression he was paid in chickens and the like. I don't know where he
+studied to be a doctor, but I think I remember someone telling me that
+it was a rather informal affair, almost an apprenticeship. I heard many
+times from my mother that my own father became a physician because his
+father had expected it.</p>
+<p>My grandfather's birth and childhood is shrouded in unknown by me. His
+geographical background was southern Illinois and Kentucky. He ended up
+settling further north in Illinois, along the Mississippi river, right
+where it juts out to the west, in Hamilton, Illinois.</p>
+<p>From a later time, after my grandfather's death from heart attack at age
+62, I do have lots of memories of the house my father grew up in there
+in Hamilton. Originally half had been the living quarters and half was
+the office with examination room. By the time I remember it, it had been
+converted to living quarters.</p>
+<p>Further photographic memories of my life in Ray include the movie scene
+of me pulling my baby sister around in a wagon – the shaky 8mm film
+seeming to cast the scene back into the 1920's of silent films.</p>
+<p>There was a house-keeper who kept flitting in and out of the scene,
+protective of the little baby girl and afraid that I was going to hurt
+her. She was the first of many "characters" who came to live with us
+over the years. I recognize, now, that my mother was accustomed to
+acting the part of the physician's wife, so it was appropriate that she
+have a nanny. Later, after my parents were divorced, it seemed to me
+growing up that my mother reached out to handicapped or outcasts. Of
+course they did help her to raise 4 children and work full-time. The
+only name I remember was from a time when I was 15-16, it was "Spitzy",
+short for Spitzfaden.</p>
+<p><a id="user-content-quay-st."></a></p>
+<h2>
+<a id="user-content-19533quay-st" class="anchor" href="#19533quay-st" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1953–3–Quay St.</h2>
+<p>What used to be my earliest memory: a birthday party. I've mostly lost
+that, even as the memory of a memory, which it was for a long time.</p>
+<p>Somewhat closer is the memory of riding my tricycle past the end of the
+block, beyond which I was not supposed to go. I kept going. I went
+several blocks before I realized I was lost. I don't really remember how
+I got home, but I think someone in the neighborhood may have recognized
+that I was too far from home and returned me. My recollection, hazy at
+it is, is that I wasn't so much punished for that infraction because my
+mother was so relieved to have me found.</p>
+<p>Even more vivid is the time I played bounce the ball against the storm
+windows my father was cleaning, leaned up against the side of the house.
+I can remember the thought processes going on, possibly because I have
+retold the story a number of times. It started with bouncing the ball
+against the side of the house. My aim went astray and one of the throws
+hit the glass of the window. I thought, "How cool, the glass doesn't
+break." So I tried it again, with different results this time. I was so
+afraid of my father's anger that I ran into the garage, attempting to
+hide. Funny how silly our thought processes seem from just a little ways
+down the road. Again, my memory is that I wasn't severely punished,
+perhaps because my parents thought that I had already punished myself.</p>
+<p>The house was a little white box of a thing. Driving past in later
+years, it seemed so tiny.</p>
+<p>My father's move to setting up a practice in Denver. Kincaid's pharmacy
+where everyone knew him and we treated as special – eating at the
+fountain there.</p>
+<p><a id="user-content-quay-st.-1"></a></p>
+<h2>
+<a id="user-content-19544quay-st" class="anchor" href="#19544quay-st" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1954–4–Quay St.</h2>
+<ul>
+<li>
+<p>Travel to Ray: up/down road, blind single lane, pencil into hand,</p>
+</li>
+<li>
+<p>Shirley's burn</p>
+</li>
+</ul>
+<p>As with the earlier memories, I have trouble now, at age 56, knowing
+whether I have the memory, or whether I have the memory of the memory.</p>
+<p>Driving in our father's Pontiac. He always owned Pontiacs, and I
+remember him saying more than once, "I dream of owning a Cadillac
+someday." He never did, though he could have if he had really wanted it.
+The memory is of driving on a paved road that was just a curvy layer of
+asphalt laid on the desert floor. It went up and around. In particular
+this was my introduction, via my parents' stern warning, that arroyos
+were very dangerous and could be flooded without warning at any moment.
+The storms might well be occurring so far in the distance that we
+wouldn't know about it, but down would come rushing the water.</p>
+<p>I also remember hearing from my parents during this period about the
+experience they had had of driving on these bare asphalt roads and the
+crunch of tarantulas, escaping the water, would be noticeable, even
+through the hunk of iron that were American cars during the 50's.</p>
+<p>This memory recalls the crib that all of us Hathaway's slept in,
+purchased in Ray, Arizona, that was made up of screen mesh rather than
+the usual wooden posts. Many people who saw it remarked that it looked
+like a cage. And indeed it could be made to function as a cage, with its
+own lid. But the "cage" was to keep the tarantulas and scorpions out of
+the baby's sleeping area. I wonder what happened to the crib. My sense
+is that at least Owen slept in it. But I could be wrong.</p>
+<p>During a visit we made at this time, to see the friends my parents had
+made in Ray, we stayed for a week or so with one of them. I can't
+remember their names, but they had children a few years older than
+Shirley and me. They had a heating system in their home that functioned
+by forcing the heated air up into the middle of the house – in a corner
+of the living room. I wonder whether it was a coal fired furnace? (I
+need to write later of our visit to my grandparents' house in Chicago
+and their old coal burning furnace.) Shirley woke up in the morning very
+cold and she went and stood on the grating covering the 3 foot square
+opening out of which the warm air was emanating. She stood too long,
+only a couple of minutes, and scorched the bottom of her feet. They were
+branded for many days and she cried inconsoleably.</p>
+<p>This same visit had me playing with a fascinating toy that the older boy
+had in the household. It was a toy cannon that "really fired things." I
+am supposing it came with its own rubber artillery, but I found that it
+shot pencils admirably. I tried this a number of times. Then I got it in
+my head to cover the barrel with my hand. Perhaps I wanted to see what
+kind of force the thing actually had. In any case, this is my earliest
+memory of making a bad decision on the spur of the moment. There wasn't
+even time to say, "Oops." I had embedded the pencil led into my palm.
+For many decades I could still see the black mark in the groove of my
+palm line, though now in my 6th decade I can't see it any more.</p>
+<p>Billy would have been born this year. As I drudge up memories, I believe
+that I used to have a memory of Billy's arrival into the family. It was
+one of those early ones. Now, it is all gone and only a faint
+recollection that I used to remember it. Was the memory of the meal that
+was served when he arrived home from the hospital? Probably my mother
+would remember what my memory used to be from the repetition of later
+years.</p>
+<p>We must have moved, I figured out years later, in order to accomodate
+the arrival of this 5th person into our family. So, while I think Billy
+may arrived at Quay Street, my only memory of life with him is at 5th
+Ave.</p>
+<p><a id="user-content-single-digits"></a></p>
+<h1>
+<a id="user-content-single-digits" class="anchor" href="#single-digits" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Single Digits</h1>
+<p><a id="user-content-w.-5th-ave."></a></p>
+<h2>
+<a id="user-content-195559585-w-5th-ave" class="anchor" href="#195559585-w-5th-ave" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1955–5–9585 W. 5th Ave.</h2>
+<ul>
+<li>Kindergarten</li>
+</ul>
+<p>I am reaching back to the far reaches of my memory to think of this
+time. I don't remember moving from Quay St. to 5th Ave. But it is as if
+it is the difference between the prehistoric and the historic. Images
+and events begin to come into focus for me with the move to 5th Ave.
+Some of the images I hang onto from photographs:</p>
+<p>the deep snow settling on the house, the image of the family (minus
+David, of course) sitting on the front porch. I do have a kind of gut
+memory of tunneling in the snow that seemed so deep out front. I wasn't
+exposed to that kind of snow until December 1978 at Nashotah House.</p>
+<p>I can remember picking out my first 2 wheel bike at some shop. It had a
+long hallway, dark and droopy, with tools and parts hanging every which
+way, and one was able to "test drive" the bicycle down this long
+hallway. Well, I got my bike home and evidently set out to learn to ride
+the darn thing. I felt cocky that I could coast down our sloping
+driveway. On the 2nd or third repetition I slammed into the mailbox, a
+sturdy thing made of 4x4's, and I broke the fork on the bike. It was a
+kind of repetition of the example of the broken window from Quay St.</p>
+<p>In an earlier effort on this memoir I put down the "fear" that I felt. A
+fear of what? A kind of generalized fear of the world. A response to the
+fact that I had no older siblings leading the way. I had to do
+everything for the first time. There is really much more to explore in
+that feeling, especially things having to do with being the
+"first-born."</p>
+<p>Among the key events of this year was heading for kindergarten. Off to
+school. And for the first 3 years of my schooling I had to take a bus
+ride. I think the school was named Eiger School. There was an Eiger
+Tunnel in Colorado as I recall. It was quite journey for the tender boy
+that I was. I have a memory still of the institutional cafeteria that
+one ate at at this school I was being sent of to. Trays. Lines. It has
+left primordial images for me to this day. It is perhaps the image I
+carry for the joke I tell about doctors.</p>
+<blockquote>
+<p>A fellow died and went to heaven, where upon he was ushered into the
+area of the banquet he was to receive. Unfortunately it was being
+served cafeteria-style. Most irritating was the man butting into the
+head of each of the lines and getting served first.</p>
+<p>Upon asking, "Who is that obnoxious person?" The answer was received,
+"That's God, he thinks he's a doctor."</p>
+<p>I have always thought that I was allowed to tell that joke since I
+grew up with a doctor. But it is much more complicated than that,
+really, since I was his namesake, a "Junior", who looked like him</p>
+</blockquote>
+<p>I don't remember very much from kindergarten. I remember the mats and
+having to take naps. Just a given part of the day that I accepted. Much
+of my life I have been that accepting, accomodating good little boy.
+Sometimes it serves me well. Other times I am undone by it.</p>
+<p>Bridget somehow saw a slew of drawings I did during this period, saved
+by my mother. I'm not sure where they are now. But there was picture
+after picture of bunny rabbits. For her it is a way of making fun of me.
+She would call it teasing.</p>
+<p><a id="user-content-w.-5th-ave.-1"></a></p>
+<h2>
+<a id="user-content-195669585-w-5th-ave" class="anchor" href="#195669585-w-5th-ave" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1956–6–9585 W. 5th Ave.</h2>
+<p>The next year sent me to 1st grade. Now it would be all day at school.
+But I don't remember that being a burden or a fear. It must have been
+that I liked school already by that time and looked forward to more of
+it. It would have been the year that I began to learn to read. But
+amazingly, given the importance that reading has had for my life, I
+don't remember the rudiments of learning. All I remember is the
+sensation of being able to read. My assumption is that it came easily
+and I just marched through the exercises.</p>
+<p>Age 6 is when I began studying piano. Again I don't have memories of the
+learning of it – only later when I knew the language. I know that I
+took to it. Some of it may have been the good little boy, doing what was
+expected. Maybe it was that I did have some native talent. In later
+years I seemed to regret that I had so many potentialities and so little
+in what I could look to as accomplishments. Part of the reason for this
+writing is to be able to look back for myself and to say, "Yes, I've
+done something with this life that God has given me."</p>
+<p>It was during this year that we made a trip to Chicago that still seems
+real to me in memory. It was our only visit to my mother's parents home
+– the house that she was born in. I remember prowling the basement and
+being fascinated by the monstrosity of a coal burner, like a metal
+octopus, reigning in the middle of the space. Someone pointed out to me
+the window into the small room that was the coal shoot and storage. Coal
+would have been delivered to the house through the winged window or
+doorway. I think I remember coal dust still in the room. By that time,
+however, the house was heated in a "modern" way – I'm supposing oil.</p>
+<p>On the side of the basement there was a stairway up to the living area.
+It was narrow and dirty, but somewhere alongside it was grandpa's work
+space. There must have been a long and narrow bench with tools spread
+about. Trying to write about it now, I realize that I don't have very
+much in the way of a tangible memory of that. But I have carried with me
+all these years a kind of sensation of awe at grandpa's space. It was
+maybe one of the few ways that I ever had of relating to him – all of
+it through imagination.</p>
+<p><a id="user-content-w.-5th-ave.-2"></a></p>
+<h2>
+<a id="user-content-195779585-w-5th-ave" class="anchor" href="#195779585-w-5th-ave" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1957–7–9585 W. 5th Ave.</h2>
+<p>The arrival of television into our house is associated with watching one
+show in particular. Later there would be Mickey Mouse Club, Howdy Doody
+and what not. But the earliest memory I have is of watching Gunga Din.
+We gathered around this box that to my small boy's eyes looked to be an
+immense tower. And in the middle of this tower was the eye of a small
+screen that had moving pictures and sound. The images were powerful to
+me, for sure, but the main living narrative about the event has to do
+with my sister, Shirley. She evidently had nightmares for years
+involving the snakes at the bottom of the pit. It was the death, I
+think, the bittersweet ending, that was the more powerful to me, though
+I really didn't like those wriggling snakes. I would think of this
+moment later when I read 1984, with Winston's confrontation with his
+worst fears as the climax of the book.</p>
+<p>It was also at about this time that we went to see the movie "Bambi." It
+may have been my first real movie. The theater was in the building that
+I would later work at, "Little Canino's." What a sensation it was. I was
+magically and utterly drawn into the story and devastated at the death
+that it fed me. Fear of death. Did it begin then? My father's father and
+sister were both dead or dying by that time. Why don't I have any
+recollection of it? I only vaguely recall, perhaps from the retelling of
+it, that my father drove all through the night back to Illinois.</p>
+<p>It was about this time, still at a very young age, when I was first
+exposed to the big screen, to a movie theater. We saw "Bambi" – at the
+theater in the location of my future work-place while in high school,
+"Little Canino's". The movie hit me and took my breath away. It sounds
+like a joke to write that now, but the separation between fiction and
+reality was shattered to my young person. The fire was fearsome, and
+then the death – of a parent. It was all so frightening and
+overwhelming.</p>
+<p>Not having television for some years, not getting it until others in the
+neighborhood already had theirs, meant that we had to go up the street
+to view specials. I remember doing this for several presentations from
+Walt Disney. Why were they so important? I don't remember.</p>
+<p>Second grade was the time that I took my first pride in school work.
+There were two of us that were head and shoulders above all the rest in
+our reading ability. Evelyn was the other student's name. So she was my
+competition. The same kind of emotion was probably present as I felt
+myself competing with women in seminary and graduate school – Mary
+Schrom and Marva Dawn. From my experiences with them, I guess back in
+second grade, if I'd been forced to stay in the relationship with
+Evelyn, dork that she was, I would have become her friend. It's the
+dorks in my life, I think, who have been my best friends and at the time
+I have never recognized it.</p>
+<p>Would it have been about this time that I can remember first viewing the
+moving pictures that were taken of me and Shirley from Ray, Arizona? I
+can still see them in my mind as if it were yesterday. Nanny kind of
+lumbering along in the background. Perhaps "grandpa" was in part of it,
+too. And I pulled along my little sister in the red wagon, so dutifully,
+so oldest-child-ish. The movies, viewed through the years, would serve
+to reinforce those narratives that would become so operative in my
+future life.</p>
+<p>Since I left my first elementary school at second grade, I know that it
+was during this period, and up through the summer before third grade, I
+think, that we played around the construction of West Lakewood
+elementary school. This new neighborhood school was just up the street.
+No longer would I be riding the bus, but would be able to walk.I think
+my mother accompanied Shirley and me at first. The main memory that
+lingers from this construction is one of the mischievous things I was
+involved in. There have been those, along the way, though perhaps not as
+many as with other children – oldest and dutiful that I was – but
+there have been plenty, anyway. I and some friends, in exploring the
+construction site, discovered that there were huge sand piles, located
+next to the building, and the 2nd floor was not completed and open to
+the fresh air. "What a fun idea to climb up there and jump off into the
+sand pile!" It was. And we didn't get caught, at least at first. We may
+have been warned away in time, or the construction may have advanced to
+force the activity away.</p>
+<p><a id="user-content-w.-5th-ave.-3"></a></p>
+<h2>
+<a id="user-content-195889585-w-5th-ave" class="anchor" href="#195889585-w-5th-ave" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1958–8–9585 W. 5th Ave.</h2>
+<p>Third grade. A new school. This wasn't the year I starred as a student.
+That would be the next year. A new school experience, the strangeness of
+that, combined with the familiarity of being within sight of my home. It
+was an easy transition.</p>
+<p>But this would have been the year of extra-curricular activities taking
+over. My recollection is that I actually began piano at age 6. Could
+that be so? Certainly by this time the piano had become a part of my
+life. The 1/2 hour of practice. A part of the rhythm of life that would
+stay with me for almost a decade. But it was the language of music that
+I was learning at this stage of my life that would remain with me to the
+present day. The language, the ability to have some understanding of
+this thing we call <em>music</em>, that has been one of the most valuable
+things I have acquired.</p>
+<p>About this time I must have started playing baseball. Oh I remember that
+first mitt my fater bought for me. A flat thing, seemingly from the
+1940's. No pocket at all. And he reassuring me that it was good for
+developing my skills at fielding the ball. He was probably right, but I
+so hated it when I compared it to the mitts of the other kids. I just
+wanted one like all the others had.</p>
+<p>That whole cluster of emotions could only have happened, however, if my
+father hadn't been involved at this stage of my life, with this part of
+my life. The piano, of course, was the thing my mother wanted for me. I
+now recognize that my father must have felt no connection with that at
+all. But sports – he knew sports. At some point I remember seeing
+pictures of my father playing football in high school, maybe even
+college at Knox College. The equipment so crude, like one sees at a Hall
+of Fame exposition. But he was involved with me. He took an interest. In
+such a short few years he would be so outside my life, and I would
+resent it so. He was never really that involved, but the little bit went
+a long way. Harry Chapin's song: "I'm gonna be like you, Dad, I'm gonna
+be just like you."</p>
+<p><a id="user-content-w.-5th-ave.-4"></a></p>
+<h2>
+<a id="user-content-195999585-w-5th-ave" class="anchor" href="#195999585-w-5th-ave" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1959–9–9585 W. 5th Ave.</h2>
+<p>This was the time that I was "marked" as an achiever. Though I had been
+a good reader early on, this was the first year I brought home grades
+that labeled me "superior."</p>
+<p>I was unaware of the conflict my mother had with the teacher, with me at
+the center somehow of the controversy. To this day I don't really know.
+I think that my mother has responded to my questions by saying something
+along the lines that she thought the teacher was playing favorites. Now
+the whole thing about this class is that Shirley and I were in it
+together. It was a combined 3rd and 4th grade class. Was it that the
+teacher favored me over Shirley? That would mean that my mother was
+going to bat for Shirley. And my impression has been that Shirley has
+harbored a grudge against me her whole life that our mother favored me
+over her. Interesting.</p>
+<p>This would have been the year that I began band. I had already been
+playing piano for several years. So taking up the trumpet seemed like a
+snap to me. I don't really have much recollection of the struggle to
+learn the basics, perhaps because my basics didn't include learning how
+to deal with music, I always felt like I was ahead of the other
+students. This persisted for the next few years – I guess until the
+competition got stiffer and my natural abilities couldn't carry me as
+easily. That would be a theme that would follow me the rest of my life.
+I wanted to coast on my abilities, without the hard work that was
+required. In graduate school at Notre Dame I wanted to demonstrate that
+I could do the hard work. By then it was too late. That and the events
+of life overrode my intentions.</p>
+<p><a id="user-content-w.-5th-ave.-5"></a></p>
+<h2>
+<a id="user-content-1960109585-w-5th-ave" class="anchor" href="#1960109585-w-5th-ave" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1960–10–9585 W. 5th Ave.</h2>
+<p>Fifth grade. The beginning of the 1960's. Age 10. So long ago, yet the
+seeds of so much that is me today can be seen in the memories of that
+time.</p>
+<p>In music I was feeling like a standout. My piano was progressing and I
+applied that native ability to band at school. I felt myself to be one
+of the best trumpet players. Then, was it this year or the next?, I
+tried to expand to drums. What was I thinking? Today (2007) I am in a
+continuing mode of trying to find drummers for the music at church. Just
+the other day, after so many have said "no" I thought, well, with the
+informality of the 2nd service, maybe I could play drums. And I remember
+the terrible failure I was at West Lakewood Elementary.</p>
+<p>I suppose that regular rehearsals went OK. I was in a beginning band,
+not the advanced one I was used to with trumpet. But then came the
+concert for parents. I don't remember what I did, but after trying to
+get into the piece (how simple it must have been) the director stopped
+us and we started over. I was the cause of the humiliation. Perhaps my
+difficulty with rhythm dates from that moment.</p>
+<p>I was good at baseball, too, by now. Sometime later my mother would get
+us into swimming and I would be good at that too, just as I was good at
+skiing. It was a time in my life when I just expected to be good at
+whatever I tried. [Oh, I think of the agony I have felt, loving Lydia,
+as she has got used to not being good at whatever she tries.]</p>
+<p>It was at this time that I was trying to "flex" my prowess that I went
+so far as to to physically stand up to one of the interminable
+intimidators at school. I quickly got beat and retreated with blood
+flowing down my face. My glasses had been smashed into my eyebrow and
+cut it good. This was the first time of two that I remember, that my
+father carefully stitched my eyebrows. First he cleaned the cut, then
+injected it with novacaine. Then stitched it. I can remember repeating
+often that I had had 22 stitches in my eyebrows. He was proud of his
+work because he was sure that there would be no scar remaining.</p>
+<p>Another arena where my physical abilities were put to the test during
+this period was in throwing tops. Many of us carried our prized
+possessions with us to school and showed off our ability on the square
+asphalt playground, containing 4 square marks and tether ball poles. I
+was pretty good at getting the thing to land where I targeted, dance on
+the string when I asked it to, and outshine my peers. I tried yo-yo's,
+too, though I think I wasn't as good with them as with the top. Perhaps
+there were too many others who were better than I and I just remember it
+differently.</p>
+<p>Finally, I note that it was about this time that I must have had my two
+adventures with showing and seeing pudenda with neighborhood girls. I
+can place it in my memory because it took place before we moved to
+Dudley Street in 1960-61.</p>
+<p>It took the form of, "I'll show you mine if you'll show me yours." I
+have filed these memories under the category of how all children at one
+point or another are initiated into the mysteries of sex. The game of
+playing doctor. An older initiator. Such are the ways that all of us
+seem to follow.</p>
+<p>The first time for me was with the older girl down and on the corner.
+Were they the Matson's? I think so. The family remained friends even
+after we moved to Dudley Street, because I can remember having them for
+Thanksgiving dinner. One of those events that I cite often at which our
+mother would invite whoever knew who. Teaching us a kind of deep
+hospitality. My recollection is that the father of the household owned a
+part of a hardware company that later went bankrupt. Mother referred to
+them as having "fallen on bad times." He, too, was the one who served on
+the jury for the Coors murder trial.</p>
+<p>The girl, was her name Nancy?, had babysat us. She may have been the one
+to teach my cursive. I was thrilled with seeing her bare vagina.</p>
+<p>The second experience, which I initiated, was with the girl on the
+corner opposite our house. Somehow even then I thought of her as an
+"easy" girl. I suppose she went on to great things, but I lost total
+track of her after we moved. We hid in the garage of her house and
+pulled down our pants. Again the excitement. But this time I felt the
+danger of "being caught." My recollection is that there may have been a
+third time in which we did get caught. Have I blanked that out?</p>
+<p><a id="user-content-dudley-street"></a></p>
+<h1>
+<a id="user-content-dudley-street" class="anchor" href="#dudley-street" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Dudley Street</h1>
+<p><a id="user-content-dudley"></a></p>
+<h2>
+<a id="user-content-196111690-dudley" class="anchor" href="#196111690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1961–11–690 Dudley</h2>
+<ul>
+<li>farewell to elementary school (the dream of long ago of the
+institution)</li>
+</ul>
+<p>I remember the joy and pride I felt in being permitted to ride my
+bicycle across 6th Avenue. We had moved. To make room, I would long
+afterward figure out, for the arrival of a new child, David, born in
+February of 1960. My world had formerly been bordered by the mighty 4
+lane road with the major intersection and stoplights at the corner of
+Garrison, the same corner that had held the small candy store we journed
+to when I was younger.</p>
+<p>At the time the biggest journey I had taken, all of about 3 blocks away.
+The speeding cars on 6th Ave. formed one boundary of our house, the huge
+field to the west formed the other. This was the same field that I
+remember walking out into to have a picnic under the tree with Shirley
+and Billy. We must have been 7-8 years old. I think there may have been
+horses grazing in the field. It was also the same field in which Billy
+and I got over our heads with playing with fire. We were lighting
+matches, setting branches afire, and it got bigger than we could put
+out. One of the neighbors, the man with the girls that Shirley played
+with, came to the rescue with his garden hose stretched across the
+roadway.</p>
+<p>One of the few things that stand out in my memory of 6th grade supports
+the view that I was a talent with potential. That mode that stayed with
+me, perhaps up to my first couple of years in Hawai'i. Someone with
+potential, or offering potential, so would Bridget have seen me as well
+as Lucille. I think probably Bob only saw me as a solution to a problem
+– his problem was filling a vacancy at St. Mary's. But the memory is of
+taking a quiz. I think it was in a subject I liked, history? science?.
+But the rather short one page quiz was all true and false questions. It
+was something a trick quiz, because all the answers were true (as I
+recall) – though they might have been all false. Anyway, only one
+person got all the answers correct. Me.</p>
+<p>I have written above of the humiliating experience trying to play drums,
+but I continued to be one of the best, if not the best trumpet player in
+the school. Things were going to get tougher as I went to a bigger
+school.</p>
+<p>It was this year that I made the transition to Junior High. The summer
+had been spent playing baseball. Again, I was good, if not the star. My
+position was cemented at 2nd base. But I wanted more. I tried first
+base. I had such a good throw that I was played sometimes at 3rd base.
+Then it was catcher. I probably began experimenting with switch hitting.
+I thought of my father as an ambidextrous sort of person. He could do
+such amazing things, I still thought at that age.</p>
+<p>My father taught me the phrase about "gentlemen." "A gentleman is one
+who is as comfortable moving among the rich as he is moving among the
+poor." That's just a paraphrase of what I remember. I watched my
+father's hands and fingers as he drew things I could not. I would
+recognize them now as technical and scientific in nature, not aesthetic.
+But I was still in awe. Was it during this time that my father taught me
+that a gentleman always had a clean handkerchief in his pocket, to be
+able to offer to a lady. Or was it later? He was soon to be gone from
+the house.</p>
+<p>So in the fall I began the walk to Junior High. It was on our side of
+6th Ave. It was about a mile. I wonder now whether it was that
+experience that gave birth to the ongoing dreams of an overwhelming
+institution and not the gradeschool. It is a blur to me now. But it was
+to be repeated over and over again as I journed into new situations, new
+institutions, new expectations of me. That continues to this day when I
+wonder sometimes what exactly are the expectations of a clergyman in</p>
+<ol>
+<li>
+</li>
+</ol>
+<p><a id="user-content-dudley-1"></a></p>
+<h2>
+<a id="user-content-196212690-dudley" class="anchor" href="#196212690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1962–12–690 Dudley</h2>
+<ul>
+<li>
+<p>Peter Paul &amp; Mary on transistor radio</p>
+</li>
+<li>
+<p>Walking 1 mile</p>
+</li>
+</ul>
+<p>So began a chapter in my life as I advanced to junior high school, 7th
+grade to 9th grade. The school was located in buildings that had at one
+time been a "Lakewood High School," but had for a few years been divided
+between an elementary school and two or three large buildings that
+constituted the junior high.</p>
+<p>Every year of school I began with anxiety about the new things to be
+faced and a nagging sense that I didn't quite get it all, that I was
+naive of some important piece(s) of information. A result of the
+lingering effects of having started school as a 4 year old, I suppose.
+Junior high was my third school, so the third time of adjusting to a new
+institution. This one was bigger than the rest. And adolescence was
+going to happen during these 3 years. They were big.</p>
+<p>There was a small convenience type store on the corner. It seemed to me
+slightly naughty to go into it. I didn't have much occasion to. The one
+thing that I did buy there was cinammon oil, to be used to soak
+toothpicks that could then be chewed on. Why did that seem like
+something I wasn't supposed to do? Because I was a goody two shoes?
+Because it was a "hoody" thing to do?</p>
+<p>Eventually there was a McDonalds hamburger stand built next to the shop.
+And, of course, in time all of it would be razed for progress. But that
+McDonalds was an almost magical sort of place. All made of bright
+colored plastic. And these tasty things you could order by walking up to
+the window. Previously the only thing I really knew like that was some
+ice cream stands on Colfax Ave. – at least I think they were around
+first. That McDonalds had to be one of the early ones to go up in Denver
+– maybe even nationally. We didn't eat the food from it very often and
+certainly didn't think of it as a place to get a "meal." It was for
+in-between-meals.</p>
+<p>7th grade was the year I took Spanish. We had had some exposure to it in
+grade school. It seemed like the obvious and easy choice when I had been
+filling out schedules. There were probably lots of sections of it. I did
+not like the class.</p>
+<p>That foreign language was my first awareness of not being particularly
+skilled at languages. I know that many through the years, maybe partly
+at my encouragement, have looked at me as particularly verbally gifted.
+But the origins for me are exactly the opposite. Math and numbers, to a
+lesser extent science, all seemed natural to me. Language, however,
+seemed beyond me. In time it would seem mystical.</p>
+<p>My solution to 7th grade Spanish was to enroll in Latin for 8th grade,
+and I would stay with that through high school.</p>
+<p><a id="user-content-dudley-2"></a></p>
+<h2>
+<a id="user-content-196313690-dudley" class="anchor" href="#196313690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1963–13–690 Dudley</h2>
+<p>What a year this was and I didn't even recognize it as such at the time.
+I remember just "keepin on keepin on." I can remember the classroom as
+the notification came round that the President had been shot. I still
+identified with my parents' predilections at that point – I had rooted
+for Nixon because they had. I felt an inner kind "whoa", which was a
+combination of "holy smokes" and "that's kind of cool." I felt guilty
+afterwards for feeling an initial kind of elation. It was not unlike the
+high that I felt when we had to get down to inspect the flood of
+downtown Denver several years later. The class was algebra class, my
+homeroom teacher for 8th grade. He made his reputation with us by
+requiring students to wear string on their trousers if they forgot to
+wear a built. He also made you stand against the wall on your finger
+tips for various infractions. And then, finally, he threw chalk at
+"talkers" or other problems in the class, hard enough to leave a mark on
+the wall. Such things, of course, that wouldn't be tolerated these days.</p>
+<p>It would have been about this time that I began to learn to ski. I
+remember so clearly the times of skiing down the little hills at the
+park across from the Jansen house. There were 2 ponds not far apart.
+They often froze and we would skate on them. I just loved the sensation
+of skiing and wanted to do more. When was the time that the Jansen's
+first took me skiing. I think it would have been Loveland Basin, but I
+remember well the slope. In later years I knew it as a simple
+intermediate hill that was too easy for me to ever ski unless I had to.
+But that first day it seemed like a cliff and I didn't know how I would
+ever get down. I did just fine with my stem turns.</p>
+<p>This was the year that I exercised my desire to try football. Mother had
+kept me out of it all the years of playing in the backyard, playing in
+the snowy front yard, etc. So I went out for 8th grade football. And it
+was a total bust. The coach put me as a guard. Was it defense or
+offense? I can't remember. But I was not cut out to be a guard. It was I
+suppose a position he could most safely put a non-performer.</p>
+<p>I also took up wrestling. I wasn't any good at basketball. Wrestling
+seemed like something I could do. I advanced a little bit through junior
+high, competing in a few tournaments. Mostly learning the techniques
+that would allow me to beat a much larger opponent in high school gym
+class – one of my great physical victories.</p>
+<p>This would have also been the year that my mother first went to bat for
+me as a counter-cultural kind of figure. At a time when all the other
+guys were cutting their hair very short, I wanted to wear my hair long.
+I remember it as a Beatles' inspired sort of thing, so maybe it came in
+late 8th grade. I sported bangs – that's all. Nothing very radical. But
+I was in big doodoo until my mother sent a note or visited the school.
+Then I was permitted to continue with my bangs. I don't really know the
+details about that that I should. Like the issue of 4th grade and
+Shirley and – I don't know what the deal was all about.</p>
+<p><a id="user-content-dudley-3"></a></p>
+<h2>
+<a id="user-content-196414690-dudley" class="anchor" href="#196414690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1964–14–690 Dudley</h2>
+<ul>
+<li>
+<p>9th grade</p>
+</li>
+<li>
+<p>guitar lessons</p>
+</li>
+</ul>
+<p>Bridget has sought to make fun of me through the years as I had repeated
+stories that involved "my friend Don Debacker." So, of course, I stopped
+telling the stories and began to resent her when she launched into the
+recitation. It seems so like shit that my mother used to do; so I guess
+it pushes buttons in me left over from then.</p>
+<p>The year 1964 would have been about the time that that friendship began
+to be forged. It probably began in band. My walking path to junior high
+took my past his house. I think I remember that in the beginning, it
+seemed a tad exotic and scary to be visiting his house. It was a long
+way away from my house. It was my friend not a connection with my
+mother.</p>
+<p>We ended up sharing a variety of activities through the years. I can
+remember:</p>
+<blockquote>
+<ul>
+<li>
+<p>the marble box</p>
+</li>
+<li>
+<p>unicycle</p>
+</li>
+<li>
+<p>guitar, banjo</p>
+</li>
+<li>
+<p>the Folklore Center</p>
+</li>
+<li>
+<p>Officer Goody and judo/karate</p>
+</li>
+<li>
+<p>the game of Go</p>
+</li>
+<li>
+<p>an ampex tape recorder</p>
+</li>
+<li>
+<p>ultimately: marijuana, hashish, opium</p>
+</li>
+<li>
+<p>playing jugs for his gigs in the mountains of Colorado</p>
+</li>
+<li>
+<p>Max the guitar maker</p>
+</li>
+<li>
+<p>sneaking out of the house on graduation night (and in fact many
+other nights too)</p>
+</li>
+<li>
+<p>dance band and the valve trombone</p>
+</li>
+<li>
+<p>the dulcimer maker</p>
+</li>
+</ul>
+</blockquote>
+<p>I can remember an episode from walking to or from school that I have
+repeated even to my kids and others. It illustrates "luck" or having
+more skill than one knows. We were throwing stones at things. I was
+pretty good at it, in as much as I was pretty good at baseball. In fact
+you might even say that I prided myself on my throwing ability –
+witness my disappointment years later when I couldn't throw a rock
+across the St. Joseph River in South Bend. So it was an innocent
+activity, aiming for harmless targets. But then, as a totally
+off-the-wall swagger, I pointed to a lamp more than a block away. I
+said, "I can hit that lamp." Now in reality I didn't know whether I
+could even throw the stone that far, let alone hit something I was
+aiming at. But I heaved the stone. And sure enough, I hit that lamp
+square in the middle, and we took off running because at that point we
+were vandals.</p>
+<p>The memory of that calls to mind other things from my baseball period.
+My best year, which might have been '63 or '64, I played all the bases
+around the infield. I had generally been 2nd base through the seasons.
+But this year I played third base because of throwing arm, and then
+settled as the team catcher, again because I had the best throw to
+second base. At one point at practice we were given 20 pitches and if we
+hit each one we wouldn't have to run laps. I was the only one on the
+team to hit all 20. The following year of baseball I was a total bust,
+had zero hits, was assigned to the outfield, and barely played. I don't
+know what happened – but it was a formative experience. I never really
+thought of myself as an athlete after that.</p>
+<p>One other memory from baseball, however, is another story that I have
+often repeated. We were in the home team dugout and at bat. Someone on
+the other team, in center field, lost a contact. The game was stopped
+and all the help invited to look for the lost contact. I arose from the
+bench, walked in a straight line to center field, stopped and looked
+down and picked up the contact lens. So extraordinary! And I kind of
+just went along with and continued playing the game.</p>
+<p>Beginning in 8th grade I had gone out for wrestling. It wasn't exactly
+that I did well, but I did tolerably well. I was a successful 2nd string
+sort of wrestler. By the 9th grade I knew that I didn't have a future in
+that, so wouldn't plan on starting that in high school.</p>
+<p>The possible exception to the athlete in me was skiing. That began to
+take off at this point, my father paying for us to "keep up with the
+Jansen's." [It would be decades later that I would learn that this was
+also the time that our father was having an affair with Mrs. Jansen.]
+For 2 years we took the train to Winter Park each weekend. How fun was
+that! After that we took a bus to Loveland Basin – until my last couple
+of years of high school during which I parked cars at Loveland and got
+to ski on Saturday and Sunday.</p>
+<p>1964 was the year that Barry Goldwater ran for President. It would be
+the last year that my father's politics was rubbing off on me. He
+supported Goldwater as the conservative reactionary that he always was.
+I, however, saw in Goldwater a break with "business as usual." I think
+that possibly I was already becoming alarmed about the Vietnam War and
+wanted to see it ended. I imagined Goldwater's forcefulness as the best
+course for ending it (winning it) soon. I was seeing something different
+from my father, and my counter-culture tendencies were beginning to
+emerge. I can remember all this in part because of a bicycle trip I
+made, downtown, across the 8th Ave. bridge, to a rally where Goldwater
+was speaking. I have always remembered it as in a low-lying park of some
+kind.</p>
+<p><a id="user-content-dudley-4"></a></p>
+<h2>
+<a id="user-content-196515690-dudley" class="anchor" href="#196515690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1965–15–690 Dudley</h2>
+<ul>
+<li>
+<p>Freshman – Sophomore</p>
+</li>
+<li>
+<p>beating bigger than I in wrestling</p>
+</li>
+<li>
+<p>bus to Loveland</p>
+</li>
+</ul>
+<p><a id="user-content-dudley-5"></a></p>
+<h2>
+<a id="user-content-196616690-dudley" class="anchor" href="#196616690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1966–16–690 Dudley</h2>
+<ul>
+<li>
+<p>Sophomore – Junior</p>
+</li>
+<li>
+<p>Drivers license</p>
+</li>
+<li>
+<p>again in Band</p>
+</li>
+<li>
+<p>Dance band: valve trombone</p>
+</li>
+<li>
+<p>Parking cars at Loveland</p>
+</li>
+</ul>
+<p><a id="user-content-dudley-6"></a></p>
+<h2>
+<a id="user-content-196717690-dudley" class="anchor" href="#196717690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1967–17–690 Dudley</h2>
+<ul>
+<li>
+<p>Junior – Senior</p>
+</li>
+<li>
+<p>Driving at 130 mph</p>
+</li>
+<li>
+<p>European tour</p>
+</li>
+</ul>
+<p><a id="user-content-dudley-7"></a></p>
+<h2>
+<a id="user-content-196818690-dudley" class="anchor" href="#196818690-dudley" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1968–18–690 Dudley</h2>
+<ul>
+<li>
+<p>Fear</p>
+</li>
+<li>
+<p>Sex</p>
+</li>
+<li>
+<p>Senior year and graduation</p>
+</li>
+<li>
+<p>off to Colorado College</p>
+</li>
+<li>
+<p>A's &amp; F's</p>
+</li>
+<li>
+<p>Principles of Morals: philosophy</p>
+</li>
+</ul>
+<p>What an epochal year 1968 was. Did we know it was so as we experienced
+it? Retrospectives and nostalgia has rehearsed several times that year
+in the decades that have ensued.</p>
+<p>Perhaps the clearest memory I have of those fateful events was the
+killing of Robert Kennedy. Four years before I had ridden my bicycle
+downtown in order be present for a gathering of Barry Goldwater. Perhaps
+in 1964 I was still influenced by my parents' politics. But I remember
+most the sense that Goldwater's policies would bring about change. And I
+wanted change. I wanted something to happen. The wishes, I suppose, of
+an ordinary adolescent.</p>
+<p>But by 1968 I felt myself to be wiser. I had experienced for some time
+the sense that the Vietnam War would last forever. Literally. I felt
+like it had always been and always would. Such is the perspective of a
+teenager. So I was interested in the anti-war energy being fanned in the
+Democratic Party. Eugene McCarthy was the one to raise that banner. And
+he attracted the white, middle-class, students. But somehow my
+sympathies were far deeper for Kennedy who was running not as a
+one-issue candidate but as one who sought to reach out to the poor, the
+underclass, the blacks (still called negroes? in that day?). Perhaps
+again he was one who seemed to promise real change. Perhaps I have had
+the heart for the poor and the outcast from an early age.</p>
+<p>I think it is related to the steady stream of such type folks that made
+their way through our home through the years of my growing up. Spitzy
+McFadden, the house-cleaner. The mentally handicapped woman who was a
+nanny and house-keeper type in my pre-teen years. My mother's early
+investment in nursing home care – the kind of nursing she has always
+loved the most. It was for me not a condescending kind of thing. Perhaps
+more the natural sympathies that are evoked by the Kennedy clan, even
+with (or because of) their considerable wealth.</p>
+<p>So Bobby Kennedy was the one I was rapidly building a passion for. Keep
+in mind, that in 1968 I was still 3 years away from being able to vote.
+That would change in the next years, so that my little brother Billy
+would vote in a presidential election the same year I did – 1972. I
+slept in the dugout crawl space of our house – the dungeon. I had real
+privacy down there, though I never had the bathroom that was provided
+for in the roughed out carpentry. I awoke with a prized clock radio. It
+had been ordered through National Geographic, I think, as a special
+luxury item. Mom had bought it for me. I relied on it because I didn't
+get much sunlight through that small sunken window well. I awoke that
+day to the sound of a newscaster describing something about a shooting.
+It was the morning after the California primary when Bobby Kennedy would
+finally make himself the candidate to beat. I knew with a deep
+resignation, the start of a pervasive cynicism, that he was the one who
+was shot, even without hearing his name for several minutes.</p>
+<p>Following graduation from high school, I had received the all-American
+message that I had to work. Go out and find a job. My lead came from the
+"man" in my mother's life. He had some kind of mechanic sort of job
+working for one of the airlines. Somehow, whether by his suggestion or
+his recommendation, I ended up applying for a job at Stapleton
+International Airport. [Was it already "International"? Or was it still
+just "Stapleton Field" in 1968? I don't know.] The work I ended up with
+was the lowest of all grunt work. The kind that today goes to the newest
+arrivals from Central America. I washed dishes and did some food service
+type work for "Sky Chef", the outfit that supplied the food to the
+airlines. And it was the graveyard shift, 11pm - 7:30am.</p>
+<p>Of course I did well, better than most of the hires that they were
+accustomed to. It wasn't easy for me, however, to do such mindless work.
+I actually relished the opportunity to go out on the trucks to make
+deliveries to the planes – that was some kind of "advancement" and
+responsibility. I think I was even allowed to drive a truck on several
+occasions.</p>
+<p>Two things stick out about that experience. One was that I vowed never
+to work the graveyard shift again. But secondly, that work schedule
+allowed me to do more things than I would have otherwise. I remember
+playing golf on a number of occasions after I got off work in the
+morning. The course was empty and it was a significant shift in focus
+from the job to be playing at father's country club. Perhaps I also
+played public courses, I don't remember.</p>
+<p>It must have been during this time that I went out with Dad to buy a
+car. He may even have loaned some or all of the $300 dollars I paid for
+a 6-7 year old Simca (made in France.) Such a silly car. You had to jam
+the gear shift into the radio in order to get it into reverse. On one
+occasion I was unable to actually get it in gear, so I just opened the
+driver's side door and pushed the car backwards with one foot. It was a
+tiny sedan, cream in color. It was off to college I went in that
+automobile.</p>
+<p><a id="user-content-college"></a></p>
+<h1>
+<a id="user-content-college" class="anchor" href="#college" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>College</h1>
+<p><a id="user-content-colorado-college"></a></p>
+<h2>
+<a id="user-content-196919colorado-college" class="anchor" href="#196919colorado-college" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1969–19–Colorado College</h2>
+<ul>
+<li>
+<p>travel to Europe</p>
+</li>
+<li>
+<p>A's &amp; F's again</p>
+</li>
+<li>
+<p>Maralyn Crosetto</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-college-1"></a></p>
+<h2>
+<a id="user-content-197020colorado-college" class="anchor" href="#197020colorado-college" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1970–20–Colorado College</h2>
+<ul>
+<li>
+<p>Block system</p>
+</li>
+<li>
+<p>try for NY: Mo</p>
+</li>
+<li>
+<p>mediocre</p>
+</li>
+<li>
+<p>Kierkegaard</p>
+</li>
+<li>
+<p>Dr. Pickle</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-college-2"></a></p>
+<h2>
+<a id="user-content-197121colorado-college" class="anchor" href="#197121colorado-college" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1971–21–Colorado College</h2>
+<ul>
+<li>
+<p>Draft &amp; lottery: CO</p>
+</li>
+<li>
+<p>living with ?? the alcoholic</p>
+</li>
+<li>
+<p>CO prepared</p>
+</li>
+<li>
+<p>Maggie's ranch</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-springs"></a></p>
+<h2>
+<a id="user-content-197222colorado-springs" class="anchor" href="#197222colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1972–22–Colorado Springs</h2>
+<ul>
+<li>
+<p>Library</p>
+</li>
+<li>
+<p>What to do with you? (What is this question about? Is this an old
+question directed at Mo?)</p>
+</li>
+<li>
+<p>small business with JP</p>
+</li>
+<li>
+<p>Quit smoking</p>
+</li>
+</ul>
+<p>Was it Halloween this year? Sometime around then. Do I still have a
+picture of those braids?</p>
+<p>Ah, my diary reminded me (10/31/2006) that it is Halloween night. An
+event I don't mind missing. But it partially explains the absence of any
+calls from the girls. Perhaps B. told them not to call. But Emma is
+really focused on the dressing up. Lydia said she is not really going to
+observe, I think.</p>
+<p>I related to someone the other day, and thus the memory, of the last
+time I "observed" the evening. I was thinking of the time on Dudley
+street when Mo and I put my braids up with clothes hangers, standing on
+end like horns. How silly it was – and weird.</p>
+<p><a id="user-content-colorado-springs-1"></a></p>
+<h1>
+<a id="user-content-colorado-springs" class="anchor" href="#colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Colorado Springs</h1>
+<p><a id="user-content-colorado-springs-2"></a></p>
+<h2>
+<a id="user-content-197323colorado-springs" class="anchor" href="#197323colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1973–23–Colorado Springs</h2>
+<ul>
+<li>
+<p>Library</p>
+</li>
+<li>
+<p>urged to get MLS degree</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-springs-3"></a></p>
+<h2>
+<a id="user-content-197424colorado-springs" class="anchor" href="#197424colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1974–24–Colorado Springs</h2>
+<ul>
+<li>
+<p>Library</p>
+</li>
+<li>
+<p>rare books</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-springs-4"></a></p>
+<h2>
+<a id="user-content-197525colorado-springs" class="anchor" href="#197525colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1975–25–Colorado Springs</h2>
+<ul>
+<li>
+<p>Library</p>
+</li>
+<li>
+<p>trip to East coast</p>
+</li>
+<li>
+<p>Musical instruments: building, tuning</p>
+</li>
+<li>
+<p>Making decision on basis of Mo's needs</p>
+</li>
+<li>
+<p>meet Charles Carroll</p>
+</li>
+<li>
+<p>Good Friday: St. Raphael's</p>
+</li>
+<li>
+<p>Larry Donoghue</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-springs-5"></a></p>
+<h2>
+<a id="user-content-197626colorado-springs" class="anchor" href="#197626colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1976–26–Colorado Springs</h2>
+<ul>
+<li>
+<p>Musical instruments</p>
+</li>
+<li>
+<p>Marriage</p>
+</li>
+<li>
+<p>miscarriage</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-springs-6"></a></p>
+<h2>
+<a id="user-content-197727colorado-springs" class="anchor" href="#197727colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1977–27–Colorado Springs</h2>
+<ul>
+<li>
+<p>TWA job</p>
+</li>
+<li>
+<p>Learning how to make things</p>
+</li>
+<li>
+<p>Owen</p>
+</li>
+<li>
+<p>Sexuality study group</p>
+</li>
+<li>
+<p>Prof. ?? as a peer</p>
+</li>
+</ul>
+<p><a id="user-content-colorado-springs-7"></a></p>
+<h2>
+<a id="user-content-197828colorado-springs" class="anchor" href="#197828colorado-springs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1978–28–Colorado Springs</h2>
+<ul>
+<li>
+<p>quit job after 1 week</p>
+</li>
+<li>
+<p>The move</p>
+</li>
+</ul>
+<p><a id="user-content-graduate-school"></a></p>
+<h1>
+<a id="user-content-graduate-school" class="anchor" href="#graduate-school" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Graduate School</h1>
+<p><a id="user-content-nashotah-house"></a></p>
+<h2>
+<a id="user-content-197929nashotah-house" class="anchor" href="#197929nashotah-house" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1979–29–Nashotah House</h2>
+<ul>
+<li>
+<p>Boulder CPE</p>
+</li>
+<li>
+<p>Sr. ?? &amp; having children refused mass at Regis?</p>
+</li>
+<li>
+<p>Love for ?? and she revealing she lesbian</p>
+</li>
+</ul>
+<p><a id="user-content-nashotah-house-1"></a></p>
+<h2>
+<a id="user-content-198030nashotah-house" class="anchor" href="#198030nashotah-house" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1980–30–Nashotah House</h2>
+<ul>
+<li>
+<p>Mary Schromm</p>
+</li>
+<li>
+<p>Julian</p>
+</li>
+<li>
+<p>Bart DeMerchant</p>
+</li>
+</ul>
+<p><a id="user-content-nashotah-house-2"></a></p>
+<h2>
+<a id="user-content-198131nashotah-house" class="anchor" href="#198131nashotah-house" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1981–31–Nashotah House</h2>
+<ul>
+<li>
+<p>summer at Shirley's</p>
+</li>
+<li>
+<p>St. Thomas &amp; Holy Family with black dog</p>
+</li>
+<li>
+<p>Lloyd Holifield &amp; David connection</p>
+</li>
+</ul>
+<p><a id="user-content-notre-dame"></a></p>
+<h2>
+<a id="user-content-198232notre-dame" class="anchor" href="#198232notre-dame" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1982–32–Notre Dame</h2>
+<ul>
+<li>
+<p>moving again</p>
+</li>
+<li>
+<p>Miriam</p>
+</li>
+<li>
+<p>Diaconate &amp; Priesthood</p>
+</li>
+</ul>
+<p><a id="user-content-wauwatosa"></a></p>
+<h2>
+<a id="user-content-198333wauwatosa" class="anchor" href="#198333wauwatosa" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1983–33–Wauwatosa</h2>
+<ul>
+<li>
+<p>moving again</p>
+</li>
+<li>
+<p>Owen to kindergarten</p>
+</li>
+<li>
+<p>Cort H. &amp; Church of the Resurrection</p>
+</li>
+</ul>
+<p><a id="user-content-wauwatosa-1"></a></p>
+<h2>
+<a id="user-content-198434wauwatosa" class="anchor" href="#198434wauwatosa" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1984–34–Wauwatosa</h2>
+<ul>
+<li>
+<p>Larry Smith</p>
+</li>
+<li>
+<p>Owen with learning probs?</p>
+</li>
+</ul>
+<p><a id="user-content-notre-dame-1"></a></p>
+<h2>
+<a id="user-content-198535notre-dame" class="anchor" href="#198535notre-dame" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1985–35–Notre Dame</h2>
+<ul>
+<li>baseball with Owen</li>
+</ul>
+<p><a id="user-content-divorce-and-recovery"></a></p>
+<h1>
+<a id="user-content-divorce-and-recovery" class="anchor" href="#divorce-and-recovery" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Divorce and Recovery</h1>
+<p><a id="user-content-buchanan"></a></p>
+<h2>
+<a id="user-content-198636buchanan" class="anchor" href="#198636buchanan" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1986–36–Buchanan</h2>
+<ul>
+<li>
+<p>baseball with Owen &amp; Julian</p>
+</li>
+<li>
+<p>Betty</p>
+</li>
+</ul>
+<p><a id="user-content-st.-pauls"></a></p>
+<h2>
+<a id="user-content-198737st-pauls" class="anchor" href="#198737st-pauls" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1987–37–St. Paul's</h2>
+<ul>
+<li>
+<p>Reading Narnia to kids</p>
+</li>
+<li>
+<p>Rescue by J. Hornbuckle (another alcoholic)</p>
+</li>
+</ul>
+<p><a id="user-content-rensselaer"></a></p>
+<h2>
+<a id="user-content-198838rensselaer" class="anchor" href="#198838rensselaer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1988–38–Rensselaer</h2>
+<ul>
+<li>Counseling, teaching</li>
+</ul>
+<p><a id="user-content-rensselaer-1"></a></p>
+<h2>
+<a id="user-content-198939rensselaer" class="anchor" href="#198939rensselaer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1989–39–Rensselaer</h2>
+<ul>
+<li>Tammy</li>
+</ul>
+<p><a id="user-content-rensselaer-2"></a></p>
+<h2>
+<a id="user-content-199040rensselaer" class="anchor" href="#199040rensselaer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1990–40–Rensselaer</h2>
+<ul>
+<li>meet Bridget</li>
+</ul>
+<p><a id="user-content-michigan-city"></a></p>
+<h1>
+<a id="user-content-michigan-city" class="anchor" href="#michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Michigan City</h1>
+<p><a id="user-content-michigan-city-1"></a></p>
+<h2>
+<a id="user-content-199141michigan-city" class="anchor" href="#199141michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1991–41–Michigan City</h2>
+<p>The small apartment I moved into for a few months. The panic of being
+"caught" by Bob McKay, coming to help out while Bridget was there.</p>
+<p>In a parenthesis, I learned years after this, from Bridget, that the
+several times of playing with sex at the apartment were times that she
+didn't enjoy. Once in the bathroom, locking the door, while the children
+were outside knocking, asking, "What are you doing in there?" Another
+time, in the pool, slipping my hand in her swim suit. Ah, well,</p>
+<ul>
+<li>
+<p>Wedding</p>
+</li>
+<li>
+<p>Children in winter for installation</p>
+</li>
+<li>
+<p>Children for summer: trip to?</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-2"></a></p>
+<h2>
+<a id="user-content-199242michigan-city" class="anchor" href="#199242michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1992–42–Michigan City</h2>
+<p>I am writing long after the events. It's good that I made brief notes to
+myself years ago or I'd be hard pressed to drag out anything from the
+year 1992.</p>
+<p>It was the beginning of what would be the first full year of marriage to
+Bridget. There was still enthusiasm and hope at the beginning of the
+year. We got scheduled to attend Marriage Encounter.</p>
+<p>It was probably the McKay's who sponsored us. In later years I learned a
+little about their marriage experience and intuited a little bit more.
+They were a couple who built their relationship on the two roles that
+they played. Marilyn was the saint, the responsible one, the one who did
+the right things. Bob was the failure, the screw-up. Later he would
+admit to depression and the help that Prozac had for him. I sensed from
+an early time an alcoholic-style personality about him. I always
+wondered whether that had been a part of their original break-up and
+divorce. They were apart for some period of time, then chose to remarry.
+There was a part of me throughout our 10 years in Michigan City that
+said, "The McKay's did the right thing about marriage. I did the wrong
+thing."</p>
+<p>I suppose it might have happened with Maureen and me if we hadn't been
+intent on remarrying. Both of us were remarried before there was any
+kind of rapprochement. It happened at Owen or Julian's high school
+graduation. I attended church with them on the Sunday I was there and
+Mo's hug with me at the peace indicated a profound kind of
+reconciliation. I suppose it meant that she had forgiven me. Several
+years earlier I had set about praying for her and found a peace that was
+a gift from God. By then, however, Mo and I had chosen other paths than
+the one the McKay's chose.</p>
+<p>So Bridget and I went to Ft. Wayne for ME. It started out as one would
+expect. There was the promise of a deeper intimacy to be shared between
+us – at least that's how I interpreted it. It seemed as if Bridget was
+going along with it until Saturday night. Something happened. She came
+up against a brick wall or something. No longer was there the promise of
+something that could grow, but there was a dead-end.</p>
+<p>I think it may have been related to a failed pregnancy. I'm thinking
+that the bleeding began there. But how could it have been then? It was
+something other than the disappointment of pregnancy that alienated us
+by Sunday. We were going through the motions. Making a good show. And
+that would be the style for years to come.</p>
+<p>So we emerged from the weekend battered. And the pattern began
+repeating: Bridget suffered and Dale stepped in to do the saving. She
+had lost our first effort at having a child, which we both agreed we
+wanted. So we set about getting pregnant at the earliest opportunity.
+That must have been sometime in March.</p>
+<p>There was joy when pregnancy happened. But it didn't really last. Not
+unsurprisingly Bridget lost all interest in sex. This would become her
+normal pattern, only to be interrupted on a few occasions in the next 14
+years. Then she became profoundly jealous over the secretary at the
+church. I totally could not understand the source of her feelings
+because I knew in myself that there was absolutely nothing there. There
+was not even any emotional sharing between us. The closest I could get
+would be to think that I trusted her. She had duties and
+responsibilities and I trusted that she would carry them out. I wasn't
+aware of it at the time, but it's possible that Bridget already
+understood that I would eventually be unable to trust her.</p>
+<p>Bridget claimed that Cheryl was undermining my ministry at St. Andrew's.
+And it's true that some 6 years later Cheryl would in fact be the person
+who sabotaged my leadership at the church by her lone vote on the
+vestry. I would eventually terminate her on the grounds that the church
+could not afford a secretary. But the truth was that I had by then lost
+all trust in her. In 1992 it was not that way. I had not yet encountered
+a conservative, pentecostal pastor who was at the same time openly
+homosexual, along with his readings from the Bible.</p>
+<p>I thought that Bridget's reactions to Cheryl were a rather petty
+girl-girl thing. And I told her that I thought that it was a matter that
+she should resolve with Cheryl, not through me. But Bridget claimed that
+I was siding with Cheryl and wouldn't take the side of my wife. The
+feelings escalated until August – at least I know it was the later part
+of the summer – when she said to me, "I want a divorce." My response to
+her was the same as it has been through the years since when she has
+repeated the sentiment. I said that if that's what she wanted then she
+would have to do it. At least through 2006 she has not acted on that.</p>
+<p>I know that I was responding because of the self-critique I made in the
+wake of my first marriage. Though Maureen and I had mutually agreed that
+we needed to divorce, out of what I thought was chivalry, I volunteered
+that I would be the one to file for divorce. That decision was then used
+against me repeatedly, with the bishop of Northern Indiana and with our
+children that I know of. Mo could act the part of the victim and I was
+the persecutor. I came to realize this when I had occasion to remind Mo
+that we had mutually agreed to the divorce and she denied it. So I vowed
+to myself that I would never do that again.</p>
+<p>I was reacting to things that had happened in my first marriage. In this
+case that I knew there was nothing – or at least nothing that I could
+imagine, and I could imagine quite a few strange and radical scenarios
+– that could lead me to file for divorce.</p>
+<p>Bridget, at least through 2006, has never acted upon my response. I have
+felt that she was unwilling to take responsibility for such a decision.
+I have also sensed through the years that she may well be reacting to me
+out of past experiences in the same way that I have done it to her. In
+2006, during a very emotional encounter in which I was extremely angry
+at something she had decided to do, she shot back at me, "Go ahead, hit
+me." Now what I knew was that there was not a shred in me that was
+inclined to hit her or anything, even though I was so angry I was
+shaking. But this encounter, and others like it, have led me to think
+that she was responding to me as if I were her first husband, Glendall,
+who did hit her.</p>
+<p>My notes indicate that it was during this year that I led the church
+into buying a digital copier. This purchase ushered in a new level of
+publishing capabilities that piqued my predilections for years to come.</p>
+<p>The notes also indicate that this summer the 3 children from Colorado
+came to stay with us for the full allotted 8 weeks of the divorce
+agreement. Soon they would each grow old enough that 8 weeks with Dad in
+the summer was not an attractive offer. It may have been in the midst of
+the stress that Bridget felt with their presence that the intensity of
+her emotions led her to the extremity of saying she wanted a divorce. In
+long hind-sight I can see that here she was, getting more and more
+pregnant and suddenly she had 3 strangers plopped into the middle of her
+life and home. Miriam and Jacob were more or less the same age and there
+began a competition in her mind that lasted for a long time afterward.
+She saw that I loved my children with an unconditional pasison. She
+would later say that I couldn't see the flaws in my children that she
+could. This was always in the context of the obvious flaws in her own
+son.</p>
+<p>1992 would have been his first year in a private school, made possible
+by our marriage, wherein he learned to read, as he repeated 3rd grade.
+There was the failure of his former school and a learning disability of
+some kind. We were not able to really get a firm diagnosis, however,
+even as Bridget came to the conclusion that it was ADHD and she trusted
+in his use of Ritalin (and substitutes) through the next years. I will
+talk about Jacob more at another time.</p>
+<p><a id="user-content-michigan-city-3"></a></p>
+<h2>
+<a id="user-content-199343michigan-city" class="anchor" href="#199343michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1993–43–Michigan City</h2>
+<ul>
+<li>
+<p>Lydia</p>
+</li>
+<li>
+<p>David at birth time</p>
+</li>
+<li>
+<p>Children for 8 weeks</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-4"></a></p>
+<h2>
+<a id="user-content-199444michigan-city" class="anchor" href="#199444michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1994–44–Michigan City</h2>
+<ul>
+<li>
+<p>Organ and Phil</p>
+</li>
+<li>
+<p>Senters</p>
+</li>
+<li>
+<p>2 children for 8 weeks; Owen for 2 weeks</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-5"></a></p>
+<h2>
+<a id="user-content-199545michigan-city" class="anchor" href="#199545michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1995–45–Michigan City</h2>
+<ul>
+<li>
+<p>Emma</p>
+</li>
+<li>
+<p>Miriam for 8 weeks; Julian for 2</p>
+</li>
+<li>
+<p>Owen at Christmas</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-6"></a></p>
+<h2>
+<a id="user-content-199646michigan-city" class="anchor" href="#199646michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1996–46–Michigan City</h2>
+<ul>
+<li>
+<p>Jacob to hospital</p>
+</li>
+<li>
+<p>Marr Counseling with Phil</p>
+</li>
+<li>
+<p>Miriam for 3 weeks</p>
+</li>
+<li>
+<p>Miriam/Julian at Christmas</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-7"></a></p>
+<h2>
+<a id="user-content-199747michigan-city" class="anchor" href="#199747michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1997–47–Michigan City</h2>
+<ul>
+<li>
+<p>Phil gone</p>
+</li>
+<li>
+<p>No children</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-8"></a></p>
+<h2>
+<a id="user-content-199848michigan-city" class="anchor" href="#199848michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1998–48–Michigan City</h2>
+<ul>
+<li>
+<p>Lydia: kindergarten</p>
+</li>
+<li>
+<p>No children</p>
+</li>
+<li>
+<p>How the fuck did I get to this place?</p>
+</li>
+<li>
+<p>How come to rejecting 3 kids?</p>
+</li>
+<li>
+<p>Hovering spirit of things: sense of divorce, sense that I won't see?</p>
+</li>
+<li>
+<p>So many things I was good at I was: careful, complete, accurate, had
+good rhythm, coordination</p>
+</li>
+<li>
+<p>I was also fearful: baseball eventually, supporting self (sales job),
+rocks</p>
+</li>
+<li>
+<p>Shame: cf. broken window</p>
+</li>
+<li>
+<p>Possible themes: Dad, Marked as an achiever</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-9"></a></p>
+<h2>
+<a id="user-content-199949michigan-city" class="anchor" href="#199949michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>1999–49–Michigan City</h2>
+<p>1999-2000</p>
+<ul>
+<li>
+<p>Black year at St. Andrew's</p>
+</li>
+<li>
+<p>fall out from vote against New Life Church (Gays)</p>
+</li>
+<li>
+<p>firing Cheryl</p>
+</li>
+<li>
+<p>baptism, confirmation, and marriage of John Long</p>
+</li>
+<li>
+<p>year of serving at Trinity</p>
+</li>
+<li>
+<p>beginning of Bridget's weird 8 months, starting with working out and
+her determination to buy a walker</p>
+</li>
+</ul>
+<p>8/10/00: pattern</p>
+<ul>
+<li>
+<p>Sept 99: began exercise</p>
+</li>
+<li>
+<p>Infatuation with?</p>
+</li>
+<li>
+<p>Louisville trip began eroticizing</p>
+</li>
+<li>
+<p>Fallen in love with, experiencing intimacies</p>
+</li>
+<li>
+<p>She began taking Prozac again</p>
+</li>
+<li>
+<p>Physical intimacy?</p>
+</li>
+<li>
+<p>Push away w/ assoc w/ John's love making</p>
+</li>
+<li>
+<p>refusal to talk about why the erotic period</p>
+</li>
+<li>
+<p>May 12 that was waning</p>
+</li>
+<li>
+<p>Difficulties in her intimate relationship</p>
+</li>
+<li>
+<p>May 20? Blow up over Teresa &amp; my mom</p>
+</li>
+<li>
+<p>get the focus back on me!</p>
+</li>
+<li>
+<p>May 30 panic over pregnancy</p>
+</li>
+<li>
+<p>last physical act, got scared</p>
+</li>
+<li>
+<p>By 1st June erotic was gone</p>
+</li>
+<li>
+<p>Decision to remain married? An "out" with move to NC</p>
+</li>
+<li>
+<p>Trip to NC</p>
+</li>
+<li>
+<p>She really wanted all her fantasies to come true</p>
+</li>
+<li>
+<p>July ? Projected J's violence to me</p>
+</li>
+<li>
+<p>More and more persuaded that it is really my fault – cf. my own
+thoughts in my experience</p>
+</li>
+<li>
+<p>Theresa won't talk to her (I don't really know this T knows of affair</p>
+</li>
+<li>
+<p>Aug 1 evidence she held anniv in low esteem</p>
+</li>
+</ul>
+<p>8/12/00</p>
+<ul>
+<li>
+<p>attack by Paul</p>
+</li>
+<li>
+<p>"lewd" the word that drove her into a frenzy / also the word for the
+stripper for gary which is ok w/ her</p>
+</li>
+</ul>
+<p>8/13/00</p>
+<ul>
+<li>
+<p>she rejected my sugg that each day do back rubs as last night w/
+platitudes of: sometimes, a little touch, yes, not sexual</p>
+</li>
+<li>
+<p>way of saying, "I survived another day."</p>
+</li>
+<li>
+<p>I exp'd her "well such &amp; such" as a form of "no" that allowed her to
+feel wise and superior. Felt rejection that I think she either didn't
+see or interpreted as my crude male desire for sex. (the point for me
+of last night was that there was no sex)</p>
+</li>
+<li>
+<p>she is so fearful of touching and then makes the platitude about
+"touching". O god help me to accept this sterile relationship. The
+self-righteousness sometimes makes me nauseous. She just doesn't get
+it. So uncomfortable in her own skin. She carries such heavy burdens
+from the past. I am constantly responding to phantoms of some other
+time &amp; place.</p>
+</li>
+<li>
+<p>The worst I think is that I think I will not again suggest such a
+thing because of her response.</p>
+</li>
+</ul>
+<p>8/14/00</p>
+<ul>
+<li>
+<p>Awesome flash of insight from "The Good Husband" (p412 attraction to
+what is painful to us.):</p>
+</li>
+<li>
+<p>my "attraction" to Bridget was because I somehow knew that she would
+relentlessly punish me.</p>
+</li>
+<li>
+<p>I would be forever locked into serving a cold harpy.</p>
+</li>
+</ul>
+<p><a id="user-content-michigan-city-10"></a></p>
+<h2>
+<a id="user-content-200050michigan-city" class="anchor" href="#200050michigan-city" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2000–50–Michigan City</h2>
+<p>interview in North Carolina</p>
+<p>tension having to work in proximity to Cheryl – experiencing it as
+manipulation and insensitivity on the part of John Mikenas.</p>
+<p>imagining that Mikenas &amp; Cheryl want to "take over" after I'm gone</p>
+<p>baptism of Dale Guckenberger</p>
+<p>in May, finally getting a court judgment in my favor re. child support</p>
+<p>end of year learning that Mo is probably getting divorced</p>
+<p>June: reconciliation and reconnection with Owen, his marriage and his
+child</p>
+<p><a id="user-content-hawaii"></a></p>
+<h1>
+<a id="user-content-hawaii" class="anchor" href="#hawaii" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Hawai'i</h1>
+<p><a id="user-content-section"></a></p>
+<h2>
+<a id="user-content-2001" class="anchor" href="#2001" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2001</h2>
+<p>5/5/01</p>
+<p>Yesterday, Lydia told me after school that her unbroken record,
+stretching back to the beginning of 1st grade had been broken. She had
+forgotten her homework on Friday. She had done a great job the night
+before to finish, without blemish. This kind of inner striving is one of
+her great strengths.</p>
+<p>This year saw the culmination of many years of quiet witnessing,
+together with God's marvelous serendipity. I had had Brian Jakelski as a
+student at St. Joseph's College. He wouldn't have withstood the passage
+of time in my memory if hadn't been for the fact that I had had to come
+to his aid. He got in trouble with the administration and was threatened
+with expulsion or suspension. It had to do with drinking and I don't
+know what. In effect I was asked to give a character witness sort of
+testimony – "he was a diligent student with lots of promise etc. etc."
+I think because of the pull of his influential parents he was able to
+stay in school and graduate.</p>
+<p>Well low and behold he turned up on the scene in Michigan City. He was
+the grandson of a stalwart of the parish. (Writing in 2006 I can't
+remember her name. She's probably gone by now. She was elderly and quite
+frail, living alone in a huge house beside the lake on Lakeshore Dr. She
+came down with shingles once. Often wore a back brace. And she
+consistently voted in favor of whatever change was needed to attract
+young people. Such a sweet spirit.) Well, it turned out that Brian was
+devoted to his grandmother and was often at the house watching out for
+her.</p>
+<p>Brian eventually married and by the time his son was born he had become
+an attender at St. Andrew's. David J. &amp; ?? helped to incorporate them in
+an oral tradition fellowship group. So we oversaw the baptism and young
+Merrick become a favorite of Lydia and Emma. We rode our bikes to their
+house several times.</p>
+<p>Jobs, jobs: interview in Springfield; Clarkesville, TN; Northern
+Michigan; Hawaii;</p>
+<p>Accepted call to St. Mary's, Honolulu</p>
+<p><a id="user-content-section-1"></a></p>
+<h2>
+<a id="user-content-2002" class="anchor" href="#2002" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2002</h2>
+<p>First year at St. Mary's. Honeymoon period. Experiencing the indulgence
+of Jan Horimoto.</p>
+<p>Computer learnings directed at the preparation of the booklet for the
+centennial celebration in December. Using Pagemaker – so glad to be
+able to pass a Pagemaker file over to printer. By 2005 the standard had
+become pdf files – and since I was using Linux by then, that part was
+easy.</p>
+<p>Lydia's first year at Kamiloiki included the awesome openness to run for
+school office. She was resoundingly defeated. The poignance of her naive
+belief in herself inspires me.</p>
+<p>Same kind of enthusiasm, that in 2006 I look back on with such
+nostalgia, was her desire to play soccer. I was a kind of unofficial
+assistant coach in her 2nd season (winter 2003). Later, in 2006, she
+confessed to me that she had harbored a dream that she would be chosen
+for a "select" team. The coach apologized to me in fall 2005 that he and
+his assistant debated choosing Lydia because her spirit, her
+coachability, was so strong, but ultimately they felt they couldn't.
+Probably much of Lydia's "dream" had been the result of Emma's being so
+successful at soccer – so that softens the pang in my heart.</p>
+<p><a id="user-content-section-2"></a></p>
+<h2>
+<a id="user-content-2003" class="anchor" href="#2003" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2003</h2>
+<p>It would have been 2003 that Emma would have begun soccer. It wasn't
+immediately apparent that Emma was a natural player, but she had
+enthusiasm and determination that wouldn't quit. Her 1st season was with
+U8. Nobody really knew much about playing soccer – the rules didn't
+even call for a goalie at that point. But later she was playing with
+girls that had been playing longer than she and had skills that she just
+didn't. She took at as a challenge and by her 4th season she had been
+chosen for a select team. Then for a HYSA club newly forming in Hawai'i
+Kai.</p>
+<p>Emma looked at Lydia with such envy. As a parent it becomes apparent
+that these 2 girls look at one another and think the other has
+everything they don't. Emma ends up saying in 2005 that Lydia is the
+perfect child, the perfect student. That she is just stupid. Lydia looks
+at Emma as successful at soccer, a champion at making friends, and
+seemingly unaffected by the latent depression that Lydia has wrestled
+with since moving to Hawai'i.</p>
+<p>Lydia's depression and so much more I perceive as an extension of her
+identification with Bridget. By 2005 she sits in front of the tv for
+hours at a time, just like Bridget. Lydia echoes B's longing for
+Indiana. She takes up her arguments against me, even when it doesn't
+involve her thinking. e.g. budgetary conflicts in 2006 re. fixing the
+2nd car.</p>
+<p>This would have been the summer that B. took the girls to Indiana
+without me. I had my first experience of the panic of this, left over
+from my experience with the older kids. It would be repeated again in</p>
+<ol>
+<li>
+</li>
+</ol>
+<p><a id="user-content-section-3"></a></p>
+<h2>
+<a id="user-content-2004" class="anchor" href="#2004" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2004</h2>
+<p>This would be the year that B's mom would die of cancer.</p>
+<p>Return for a few hours to St. Andrew's Michigan City.</p>
+<p>In the fall Lydia and I began prepping her for entrance into The Priory.
+She had to take SSAT. It was good to coach her to exercise teaching
+abilities. I think it was about this time that we began having talks at
+night as she went to bed. The one thing I remember from those nightly
+coaching and talks was the vocabulary word on the first page of the
+practice test: "tenacity." I told her that she had tenacity with her
+determination to "do what it takes". She applied it to getting into The
+Priory. She showed it in her being elected the reconciler of the year
+with the group she was with the previous year at Kamiloiki – finding
+reconciliation in conflicts on the playground. She understood and
+claimed it for herself.</p>
+<p>I had become the one to put the girls to bed from Michigan City days. B.
+never took it upon herself to practice this great blessing.</p>
+<p>While B. was still in Indiana following her mother's death, Emma broke
+her nose playing "capture the flag" at school. I was at work when I
+received the call from the school nurse. I had left the car at the house
+for the Car Doctor to work on. Cal (Christy's grandpa) took Emma to the
+clinic in Hawai'i Kai and then on to the church to pick me up as we went
+to Kapiolani Hospital for X-rays. Surgery was scheduled after an
+appointment with a pediatric plastic surgeon.</p>
+<p>I experienced a variation of the agony I had felt with Owen when he got
+his ear tubes in Boulder Colorado, summer 1979. I held and hugged Emma
+until she was gone, under the anaesthesia – it only took a few moments.
+Then the wait. She was so brave in wearing the gaudy bandage on her nose
+for the days that followed. It was something a badge of importance, I
+guess.</p>
+<p>Her story of the game that caused the injury became for the epitome of
+Emma's spirit of determination. Two girls got to the "flag" at the same
+time and there was no way that Emma was going to let her get it. No
+pulling back for her. Instead the other girl's head came roaring up to
+smash into Emma's nose.</p>
+<p>[I'm listening to Harry Chapin right now and the song "Mr. Tanner" has
+been so present for me being a parent. Knowing and seeing that my
+children start out with a delightful exuberance and passion that gets
+crushed by others along the way. They end up only singing for
+"themselves, late at night."]</p>
+<p><a id="user-content-section-4"></a></p>
+<h2>
+<a id="user-content-2005" class="anchor" href="#2005" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2005</h2>
+<p>This was the year in which Lydia and Emma and I went to Miriam's
+graduation in Tacoma. Such a beautiful trip.</p>
+<p>Later in the summer B. went by herself to Indiana.</p>
+<p>Later still we would all travel to Maui for diocesan convention. Writing
+in 2006 I am guessing that was our last vacation as a family. The last
+time had been the move to Hawai'i – not what B. would call a vacation
+in as much as she has repeatedly referred to her agreeing to move her as
+a giant concession to me that I should forever after acknowledge.</p>
+<p>Visit for a few hours from Bob and Marilyn McKay of St. Andrew's.</p>
+<p>Julian was with us for about 10 days in August.</p>
+<p>Lydia began school at The Priory.</p>
+<p>Emma began playing HYSA with Riggers. First season was in the fall. They
+were repeatedly slaughtered by more experienced and skilled teams (e.g.
+Chicago Bulls).</p>
+<p><a id="user-content-section-5"></a></p>
+<h2>
+<a id="user-content-2006" class="anchor" href="#2006" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2006</h2>
+<ul>
+<li>elected to Standing Committee? 6/7, 7/8, 8/9, 9/10</li>
+</ul>
+<p>takes the children without me to Indiana.</p>
+<p>I experienced my 2nd year of teaching Bible at Iolani. As my colleague
+there said, "the first year is shear hell. The second is just hell." I
+didn't really experience it that way. I laughed with all but a couple of
+days. I set for myself the goal of creating a slideshow presentation for
+every one of my lectures and I met the goal. It seemed to help with the
+students and helped with my ability to keep on track and to feel
+comfortable with the material.</p>
+<p>I had wanted to experiment with the increased use of video teaching
+methods and I harped with the students that I wanted creativity in their
+presentations. Finally, towards the end, one of the students submitted a
+video collage on "Greek philosophy." It was masterful, and as my
+colleague observed, was probably easy for him to produce. Nevertheless
+my own victory was in being able to elicit that kind of work from the
+students.</p>
+<p>I have written in <em>The Angelus</em> about this experience.</p>
+<p>Later, I culminated a year of working with the Search Committee of the
+diocese by accompanying our candidates on our "fly-about"of the diocese.
+I got to visit Molok'ai for the first time.</p>
+<p><a id="user-content-section-6"></a></p>
+<h2>
+<a id="user-content-2007" class="anchor" href="#2007" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2007</h2>
+<ul>
+<li>year 3 at Iolani</li>
+<li>This must have been when Miriam was married to Lee.</li>
+<li>I asked MB about wanting to go, but acknowledged for myself that I didn't want her there.</li>
+<li>Was this CREDO 2 for me?</li>
+</ul>
+<p><a id="user-content-org0782c24"></a></p>
+<h2>
+<a id="user-content-2008" class="anchor" href="#2008" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2008</h2>
+<ul>
+<li>year 4 at Iolani</li>
+<li>If Leen came in 2009, Mia must have lived with us in 2008-9? or 2007-8? In both Leen and Mia's case, Bridget couldn't get along with them.</li>
+</ul>
+<p><a id="user-content-orge7ce47b"></a></p>
+<h2>
+<a id="user-content-2009" class="anchor" href="#2009" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2009</h2>
+<ul>
+<li>year 5 at Iolani</li>
+<li>Was this when Leen arrived?</li>
+</ul>
+<p><a id="user-content-org38af878"></a></p>
+<h2>
+<a id="user-content-2010" class="anchor" href="#2010" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2010</h2>
+<ul>
+<li>year 6 at Iolani</li>
+<li>B. took the girls to Indiana</li>
+<li>I went to Las Vegas with Michael over my birthday</li>
+<li>Emma was upset, at least complaining to me that they had wanted to do something for my birthday but were unable to because I went on my own.</li>
+<li>While B. was with girls in Indiana I scheduled 3 weeks with mother that turned into getting George into Hospice</li>
+<li>George died in Nov. – Mom wrote "George left" on her calendar, something she kept at least until 2017, tucked under her large calendar on her desk. She also keeps the light on on the desk "for George."</li>
+<li>This must be when I went off the Standing Committee, last year as the "President"</li>
+</ul>
+<p><a id="user-content-org791b1a8"></a></p>
+<h2>
+<a id="user-content-2011" class="anchor" href="#2011" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2011</h2>
+<p><a id="user-content-orgd38921e"></a></p>
+<h3>
+<a id="user-content-january" class="anchor" href="#january" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>January</h3>
+<ul>
+<li>told Bp. of presumed move toward divorce. He assured me with promise to keep me at St. Mary's for 2 years to get Emma? through HS.</li>
+<li>end of Jan. tried to talk to Bridget. Fiasco. She didn't speak for 2 weeks and then announced that she and the girls were moving out at end of Feb.</li>
+</ul>
+<p><a id="user-content-org943f37e"></a></p>
+<h3>
+<a id="user-content-february" class="anchor" href="#february" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>February</h3>
+<ul>
+<li>end of month, 26th?, I climbed Koko Crater twice while Bridget was moving out of the house.</li>
+</ul>
+<p><a id="user-content-org6a2430e"></a></p>
+<h3>
+<a id="user-content-march" class="anchor" href="#march" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>March</h3>
+<ul>
+<li>St. Patrick's Day at Brother Gary's. Was this the day or was it Easter when Gary said it seemed like I was begging a dinner?</li>
+<li>Met Barb Belle. She was on the phone because her daughter had gone missing – later known as the drunken event that ended her brief marriage.</li>
+</ul>
+<p><a id="user-content-org9c105f4"></a></p>
+<h3>
+<a id="user-content-april" class="anchor" href="#april" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>April</h3>
+<ul>
+<li>April 24 Easter. After feeding in the park and evensong at St. Andrew's, I called Mary Pat, wondering if she wanted to have dinner.</li>
+</ul>
+<p><a id="user-content-orgea41f90"></a></p>
+<h3>
+<a id="user-content-may" class="anchor" href="#may" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>May</h3>
+<ul>
+<li>Osama killed May 2,</li>
+<li>Began rehearsals for Gary's play.</li>
+<li>Sean's infection, trip to treatment while MP was headed for mainland. Aborted.</li>
+<li>MP's Alaska tour with Beth</li>
+</ul>
+<p><a id="user-content-org34d0e37"></a></p>
+<h3>
+<a id="user-content-june" class="anchor" href="#june" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>June</h3>
+<ul>
+<li>
+<em>A Delicate Balance</em> with Gary at TAG theater</li>
+</ul>
+<p><a id="user-content-orgf8f2fe1"></a></p>
+<h3>
+<a id="user-content-july" class="anchor" href="#july" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>July</h3>
+<p><a id="user-content-orga0f456c"></a></p>
+<h3>
+<a id="user-content-august" class="anchor" href="#august" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>August</h3>
+<ul>
+<li>trip to Kaua'i?</li>
+</ul>
+<p><a id="user-content-org2e14965"></a></p>
+<h3>
+<a id="user-content-sept" class="anchor" href="#sept" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sept</h3>
+<ul>
+<li>
+<em>Futrellelogy</em> at TAG theater</li>
+<li>Joe began Dean at CU. Immediately I saw crossing of boundaries where MP saw good things.</li>
+</ul>
+<p><a id="user-content-orgd077849"></a></p>
+<h3>
+<a id="user-content-oct" class="anchor" href="#oct" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Oct.</h3>
+<p><a id="user-content-orga7cf327"></a></p>
+<h3>
+<a id="user-content-nov" class="anchor" href="#nov" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Nov</h3>
+<p><a id="user-content-orgebb8496"></a></p>
+<h3>
+<a id="user-content-dec" class="anchor" href="#dec" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Dec</h3>
+<p><a id="user-content-org77b4ce4"></a></p>
+<h2>
+<a id="user-content-2012" class="anchor" href="#2012" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2012</h2>
+<p>By sometime in 2012 MP knew that Joe Peters was not acting right or fairly. Came to a head in the fall of 2013.</p>
+<p><a id="user-content-orgfd39d7e"></a></p>
+<h3>
+<a id="user-content-jan" class="anchor" href="#jan" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Jan</h3>
+<p><a id="user-content-org3b7dd6a"></a></p>
+<h3>
+<a id="user-content-feb" class="anchor" href="#feb" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Feb</h3>
+<p><a id="user-content-org7fa822e"></a></p>
+<h3>
+<a id="user-content-mar" class="anchor" href="#mar" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Mar</h3>
+<p><a id="user-content-org000a502"></a></p>
+<h3>
+<a id="user-content-apr" class="anchor" href="#apr" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Apr</h3>
+<ul>
+<li>NCTM Philadelphia</li>
+</ul>
+<p><a id="user-content-org5a69d0c"></a></p>
+<h3>
+<a id="user-content-may-1" class="anchor" href="#may-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>May</h3>
+<p><a id="user-content-orgf4c2ae6"></a></p>
+<h3>
+<a id="user-content-june-1" class="anchor" href="#june-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>June</h3>
+<ul>
+<li>Miriam/Lee on Maui?</li>
+</ul>
+<p><a id="user-content-orgc01b812"></a></p>
+<h3>
+<a id="user-content-july-1" class="anchor" href="#july-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>July</h3>
+<ul>
+<li>Emma's trip to Africa in July.</li>
+</ul>
+<p><a id="user-content-org12a78ab"></a></p>
+<h3>
+<a id="user-content-aug" class="anchor" href="#aug" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Aug</h3>
+<ul>
+<li>Fiasco with books, priory, and Emma and I became friends.</li>
+<li>Several difficult passionate calls with Lydia, she may have been trying to tell me what to do?</li>
+<li>a couple of angry calls from Bridget.</li>
+</ul>
+<p><a id="user-content-org34a5639"></a></p>
+<h3>
+<a id="user-content-sep" class="anchor" href="#sep" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sep</h3>
+<ul>
+<li>began under contract at CU</li>
+</ul>
+<p><a id="user-content-org977dacf"></a></p>
+<h3>
+<a id="user-content-oct-1" class="anchor" href="#oct-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Oct</h3>
+<p><a id="user-content-org501e9e9"></a></p>
+<h3>
+<a id="user-content-nov-1" class="anchor" href="#nov-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Nov</h3>
+<ul>
+<li>Emma's gift of the hanggliding?</li>
+</ul>
+<p><a id="user-content-org8a4f88b"></a></p>
+<h3>
+<a id="user-content-dec-1" class="anchor" href="#dec-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Dec</h3>
+<ul>
+<li>began teaching online at Chaminade with Betty</li>
+<li>12/9/2012 married Mary Patricia at Punalu'u, O'ahu</li>
+</ul>
+<p><a id="user-content-orgcca4930"></a></p>
+<h2>
+<a id="user-content-2013" class="anchor" href="#2013" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2013</h2>
+<p><a id="user-content-org6044b0f"></a></p>
+<h3>
+<a id="user-content-april-1" class="anchor" href="#april-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>April</h3>
+<ul>
+<li>NCTM Denver</li>
+<li>Emma's graduation?</li>
+</ul>
+<p><a id="user-content-org508c264"></a></p>
+<h2>
+<a id="user-content-2014" class="anchor" href="#2014" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2014</h2>
+<p><a id="user-content-org4485aed"></a></p>
+<h3>
+<a id="user-content-april-2" class="anchor" href="#april-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>April</h3>
+<ul>
+<li>NCTM New Orleans</li>
+</ul>
+<p><a id="user-content-org45f0161"></a></p>
+<h2>
+<a id="user-content-2015" class="anchor" href="#2015" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2015</h2>
+<ul>
+<li>Lydia graduated in May. So proud of her to have figured out a way to get me there. In retrospect she seemed to want money for a car.</li>
+</ul>
+<p><a id="user-content-org8b7f88f"></a></p>
+<h3>
+<a id="user-content-april-3" class="anchor" href="#april-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>April</h3>
+<ul>
+<li>NCTM Boston</li>
+</ul>
+<p><a id="user-content-orga13d1b9"></a></p>
+<h2>
+<a id="user-content-2016" class="anchor" href="#2016" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2016</h2>
+<p><a id="user-content-org6cd3f5f"></a></p>
+<h3>
+<a id="user-content-april-4" class="anchor" href="#april-4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>April</h3>
+<ul>
+<li>NCTM San Francisco</li>
+</ul>
+<p><a id="user-content-org7696139"></a></p>
+<h2>
+<a id="user-content-2017" class="anchor" href="#2017" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>2017</h2>
+<p><a id="user-content-orgd4b3ccd"></a></p>
+<h3>
+<a id="user-content-april-5" class="anchor" href="#april-5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>April</h3>
+<ul>
+<li>NCTM San Antonio</li>
+</ul>
+
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+
+  </div>
+  <div>&nbsp;</div>
+  </div><script>
+    function showCanonicalImages() {
+      var images = document.getElementsByTagName('img');
+      if (!images) {
+        return;
+      }
+      for (var index = 0; index < images.length; index++) {
+        var image = images[index];
+        if (image.getAttribute('data-canonical-src') && image.src !== image.getAttribute('data-canonical-src')) {
+          image.src = image.getAttribute('data-canonical-src');
+        }
+      }
+    }
+
+    function scrollToHash() {
+      if (location.hash && !document.querySelector(':target')) {
+        var element = document.getElementById('user-content-' + location.hash.slice(1));
+        if (element) {
+           element.scrollIntoView();
+        }
+      }
+    }
+
+    function autorefreshContent(eventSourceUrl) {
+      var initialTitle = document.title;
+      var contentElement = document.getElementById('grip-content');
+      var source = new EventSource(eventSourceUrl);
+      var isRendering = false;
+
+      source.onmessage = function(ev) {
+        var msg = JSON.parse(ev.data);
+        if (msg.updating) {
+          isRendering = true;
+          document.title = '(Rendering) ' + document.title;
+        } else {
+          isRendering = false;
+          document.title = initialTitle;
+          contentElement.innerHTML = msg.content;
+          showCanonicalImages();
+        }
+      }
+
+      source.onerror = function(e) {
+        if (e.readyState === EventSource.CLOSED && isRendering) {
+          isRendering = false;
+          document.title = initialTitle;
+        }
+      }
+    }
+
+    window.onhashchange = function() {
+      scrollToHash();
+    }
+
+    window.onload = function() {
+      scrollToHash();
+    }
+
+    showCanonicalImages();
+
+    var autorefreshUrl = document.getElementById('preview-page').getAttribute('data-autorefresh-url');
+    if (autorefreshUrl) {
+      autorefreshContent(autorefreshUrl);
+    }
+  </script>
+</body>
+</html>
