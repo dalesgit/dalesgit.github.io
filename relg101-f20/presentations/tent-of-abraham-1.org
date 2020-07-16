@@ -1,0 +1,202 @@
+#+Author: Dale Hathaway
+#+Title:Tent of Abraham #1
+#+Date:2018-03-28 Wed
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+
+
+
+* Scripture: SQ p. 63-64
+#+ATTR_REVEAL: :frag (appear)
+- Hebrew Scriptures
+- Old Covenant (Testament) & New Covenant (Testament)
+- *Quran links*
+  - http://www.clearquran.com/ a web based trans
+  - [[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjw_NGRrfzSAhVRziYKHfv_Be0QFggcMAA&url=https%3A%2F%2Fwww.clearquran.com%2Fdownloads%2Fquran-english-translation-clearquran-edition-allah.pdf&usg=AFQjCNEq54YL2lh6H3NQU85HzCJ2j2hSDg&sig2=MGu6VGWoDKIjh_sAO2jPUg&cad=rja][pdf version]]
+  
+   #+BEGIN_NOTES
+   - in gdrive: https://drive.google.com/file/d/0B8ezT0-tUjVZRjYxOEJQSWxYY2s/view?usp=sharing
+   #+END_NOTES
+
+* Interfaith Amigos
+
+The invitation & the challenge of "interfaith dialogue"
+
+http://www.interfaithamigos.com/Home.html
+
+https://youtu.be/soC_MSUo5Qo
+
+* Abraham Saga
+
+- Biblical Strand [[file:biblical-strand-s20.html][Biblical Strand]]
+- Narrative is scattered in Quranic Strand [[file:quranic-strand-s20.html][Quranic Strand]]
+- The struggle continues to this day -- A recording of my wife's nephew [[https://youtu.be/Z3a3-gImhPc][Kevin Heider on "Brothers"]]
+* Overview
+3 Religions of Abraham
+- [[https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hQWnCTFQkE2LiwSr1kH9O81AeBiKGcVC4xhShc59KwQ&font=Default&lang=en&initial_zoom=2&height=650][Outline History]]
+- [[http://www.religionfacts.com/charts/christianity-islam-judaism][A chart with links to data]]
+
+* Introduction to Abrahamic Religions
+- [[file:abrahamic-judaism-s20.html][Judaism 101]]
+- [[file:abrahamic-christian-s20.html][Christianity 101]]
+- [[file:abrahamic-islam-s20.html][Islam 101]]  
+* Table of Origins of 3 Religions of Abraham
+** Judaism
+|--------------------------------------+------------------+---------------------------------------------|
+| Judaism                              | Dates            |                              Notes          |
+|--------------------------------------+------------------+---------------------------------------------|
+| Life without a temple                | 587-500 bce      | synagogues, written Torah                   |
+| growth apocalyptic and Messianism    | 250 bce - 135 ce |                                             |
+| conflict over influence of Hellenism | 300 bce - 100 ce | What means to be Jewish in foreign culture? |
+| Qumran community - Dead Sea Scrolls  | 200 bce - 150 ce |                                             |
+#+REVEAL: split:t
+|-------------------+------------------+-------------------------------------------|
+| Judaism (cont.)   | after 1st c. CE  | beginning of *modern Judaism*             |
+|-------------------+------------------+-------------------------------------------|
+| Schools of Rabbis | 100 bce - 250 ce | writing *Mishnah*, e.g. Hillel & Shammai  |
+| Diaspora          |                  | commentary on Mishnah (Gemara) - *Talmud* |
+
+** Christianity
+|------------------------+-----------------+-------------------------------------|
+| Christianity           | Dates                |                                     |
+|------------------------+-----------------+-------------------------------------|
+| letters (chiefly Paul) | 50-60 ce        |                                     |
+| Gospels written        | 70-90 ce        |                                     |
+|                        | 70-100 ce       | *Parousia* is “delayed”             |
+|                        | 100 ce - 200 ce | break with Judaism                  |
+|                        | 70 ce - 300 ce  | missionary spread throughout Empire |
+|                        | 300-400 ce      | Official religion of Empire         |
+
+** Islam
+
+|----------------------------------------------------+-----------------+----------------------------------------------------------------|
+| Islam                                              | Dates           |                                                                |
+|----------------------------------------------------+-----------------+----------------------------------------------------------------|
+| Life of Muhammad                                   | 570 ce - 632 ce | No “Quest for historical Muhammad” as there is for Jesus       |
+| Qur’an revealed to M.                              | “mid-life”      | “as it stands now, a composite work” tho' little critical work |
+| retreat to “City of the Prophet”                   | 622             | *Medina*, “Hegira”                                               |
+| growth of *Islam* -- “submission” to will of Allah   | 622 ff.         |                                                                |
+#+REVEAL: split:t
+|----------------------------------------------------+--------+----------------------------------------------------|
+| Following death: both *church* and *state*         |        | No separation of ...                               |
+| M. = “judge, spiritual guide, military, political” |        | M's pattern parallels later leadership in Islam    |
+| Dramatic expansion                                 | by 750 | Extending to the borders of China & within striking of Paris |
+
+** 5 Pillars of Islam
+  | 5 Pillars of Faith  |                                                       |
+  |---------------------+-------------------------------------------------------|
+  | Profession of faith | There is no god but God and Muhammad is his messenger |
+  | Pray                | 5 times daily, in community at noon Friday            |
+  | Almsgiving          | service to widows, poor, etc.                         |
+  | Fasting             | esp. month of Ramadan                                 |
+  | Pilgrimage (/hajj/) | where practical to Mecca                              |
+
+  #+begin_notes
+  
+## Additional info
+
+-  [[http://prezi.com/o8xux-hfc_qf/?utm_campaign=share&utm_medium=copy&rc=ex0share][Renaissance prezi]]
+-  [[http://prezi.com/fhez9w-01fzi/?utm_campaign=share&utm_medium=copy&rc=ex0share][Reformation prezi]]
+
+## Geography
+   :PROPERTIES:
+   :CUSTOM_ID: geography
+   :END:
+##  Middle east: 
+   [[https://i.pinimg.com/originals/a8/35/3a/a8353aa9c68645ded38e79e9b082371c.jpg][The Levant]]
+##  Roman Empire 
+   [[http://www.ozpolitic.com/articles/images/Expansion-of-the-Roman-Empire.png][Extent of Roman Empire]]
+[[https://cdn.vox-cdn.com/thumbor/s8dWgYJ_mZ5kffb2iAsu6JKfcys=/0x0:1393x1053/1200x0/filters:focal(0x0:1393x1053):no_upscale()/cdn.vox-cdn.com/assets/4836822/Mapspreadofxity.jpg][Spread of Christianity]]
+[[https://www.bible-history.com/new-testament/the-spread-of-christianity.gif][Spread of Christianity 2]]
+##  Growth of Islam 
+   [[https://raymondpronk.files.wordpress.com/2012/03/growth_of_islamic_caliphate.jpg][Growth of Islamic Caliphate]]
+##  European expansion -- cf. 
+   [[http://prezi.com/npdu043ajimy/?utm_campaign=share&utm_medium=copy&rc=ex0share][European expansion prezi]] Christianity no longer European only
+##  New World -- a *tarnished* light on a hill 
+   [[http://slideplayer.com/slide/3295328/11/images/12/A+City+Upon+a+Hill+John+Winthrop+wanted+this+colony+to+be+like+a+city+upon+a+hill+.+What+he+meant+was:.jpg][City on a hill]]
+## Issues of great contention
+   :PROPERTIES:
+   :CUSTOM_ID: issues-of-great-contention
+   :END:
+##  Jewish or Christian? 
+
+##  monotheistic? Trinity?  
+ #+ATTR_HTML: width="300" 
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shield-Trinity-Scutum-Fidei-English.svg/2000px-Shield-Trinity-Scutum-Fidei-English.svg.png][Classic symbol of Trinity]]
+
+##  nature of Christ
+    [[http://2.bp.blogspot.com/-iqzWsWIr6as/TfyfGDO8tnI/AAAAAAAAAEU/tJqYcYweBPY/s1600/Superhero+Christology.jpg][Super-hero Christology]]
+
+##   how interpret Bible? How incorporate surrounding culture?
+     [[https://i.pinimg.com/originals/ab/b6/ce/abb6ce2d9d97235d6b07b02c825d83ad.jpg][Process of exegesis]]
+## Church & State
+  - relation church & state
+  - model of US is unusual and only quite recent
+## Only the Bible (grace, faith, etc.)
+  - *sola scriptura*, *sola gratia* -
+  [[https://nwbchurch.org/sites/default/files/sermons/2017-11/Five_Solas.jpg][5 "sola" of Reformation]]
+## Sacraments
+  - sacraments,
+  - ritual,
+  - iconoclastic controversy,
+  - Puritan cleansing - one
+## Church & Culture
+  - body, one church? - Does Jesus speak Mandarin? or Swahili?
+  [[https://blogs.ancientfaith.com/orthodoxbridge/wp-content/uploads/sites/27/2013/12/tumblr_mgjx0pjsOX1rk4qt8o2_1280.jpg][Asian Holy Family]]
+
+  ## Issues of challenge
+   :PROPERTIES:
+   :CUSTOM_ID: issues-of-challenge
+   :END:
+
+-  Conversion, "missiology"
+-  Peace? War?
+-  Poverty? Wealth?
+-  Creeds cf.
+   [[https://en.wikipedia.org/wiki/List_of_Christian_creeds][Creeds & Confessions (Wikipedia)]]
+
+## Early Christian Creeds [[https://carm.org/creeds-and-confessions][link]]
+
+-  Apostles' Creed
+-  Nicene Creed (A.D. 325)
+-  Athanasian Creed (A.D. 500)
+-  Chalcedonian Creed (A.D. 451)
+-  Canons on the Council of Orange (A.D. 529)
+-  Statement of faith of the 3rd Council of Constantinople (A.D. 681)
+
+## Reformation Confessions
+
+-  Luther's 95 Theses (A.D. 1517)
+-  Augsburg Confession (A.D. 1530)
+-  Belgic Confession (A.D. 1561)
+-  Heidelberg Catechism (A.D. 1576)
+-  Canons of Dort (A.D. 1619)
+-  Westminster Confession (A.D. 1647)
+-  Westminster Shorter Catechism (A.D. 1647)
+-  Waldensian Confession (A.D. 1655)
+-  Second London Baptist Confession (A.D. 1689)
+
+## Issues of Identity
+   :PROPERTIES:
+   :CUSTOM_ID: issues-of-identity
+   :END:
+
+  -  Bible: Old/New Testaments -- nature of interpretation
+  -  Sacraments? Priests/Presbyters?
+  -  Authority: local?, pyramidical? dispersed? sacerdotal?
+  -  Individualism
+
+
+  #+end_notes
+

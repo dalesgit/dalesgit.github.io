@@ -1,0 +1,149 @@
+#+Author: Dale Hathaway
+#+Title: Abraham Saga: Quranic strand
+#+Date: Week of April 12, 2020
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+
+** Sources of Islamic strand
+
+- Quran :: not organized by subject or chronology
+- Hadith :: later recorded sayings of Muhammad and other early authorities
+- Pre-islamic Arabian legends :: this includes Jewish and Christian stories
+#+begin_notes
+- The differences here might be compared by Christians as the difference between Jesus /Sermon on the Mount/ and Paul's Epistles 
+#+end_notes
+*** Shape of Quran:
+
+-  cf. links above
+-  not in a nice narrative as the Biblical strand presents
+-  lacking obvious organization
+-  divided into *Suras*
+
+#+begin_notes
+- The story of Abraham is related in the Islamic tradition. 
+- But it is with many differences
+- The story is not told in a linear fashion
+- ... but in various religious sources
+
+#+end_notes
+*** Life of Muhammad /(c. 570–632)/ [[https://www.biography.com/religious-figure/muhammad][Reference]]
+
+Muhammad was the prophet and founder of Islam. Most of his early life was spent as a merchant. At age 40, he began to have revelations from Allah that became the basis for the Koran and the foundation of Islam. By 630 he had unified most of Arabia under a single religion. As of 2015, there are over 1.8 billion Muslims in the world who profess, “There is no God but Allah, and Muhammad is his prophet.”
+
+Muhammad was born around 570, AD in Mecca (now in Saudi Arabia). His father died before he was born and he was raised first by his grandfather and then his uncle. He belonged to a poor but respectable family of the Quraysh tribe. The family was active in Meccan politics and trade.
+
+#+REVEAL: split
+Many of the tribes living in the Arabian Peninsula at the time were nomadic, trading goods as they crisscrossed the desert. Most tribes were polytheistic, worshipping their own set of gods. The town of Mecca was an important trading and religious center, home to many temples and worship sites where the devoted prayed to the idols of these gods. The most famous site was the Kaaba (meaning cube in Arabic). It is believed to have been built by Abraham (Ibrahim to Muslims) and his son Ismail. Gradually the people of Mecca turned to polytheism and idolatry. Of all the gods worshipped, it is believed that Allah was considered the greatest and the only one without an idol.
+
+In his early teens, Muhammad worked in a camel caravan, following in the footsteps of many people his age, born of meager wealth. Working for his uncle, he gained experience in commercial trade traveling to Syria and eventually from the Mediterranean Sea to the Indian Ocean. In time, Muhammad earned a reputation as honest and sincere, acquiring the nickname “al-Amin” meaning faithful or trustworthy.
+
+
+#+REVEAL: split
+In his early 20s, Muhammad began working for a wealthy merchant woman named Khadijah, 15 years his senior. She soon became attracted to this young, accomplished man and proposed marriage. He accepted and over the years the happy union brought several children. Not all lived to adulthood, but one, Fatima, would marry Muhammad’s cousin, Ali ibn Abi Talib, whom Shi’ite Muslims regard as Muhammad’s successor.
+
+Muhammad was also very religious, occasionally taking journeys of devotion to sacred sites near Mecca. On one of his pilgrimages in 610, he was meditating in a cave on Mount Jabal aI-Nour. The Angel Gabriel appeared and relayed the word of God: “Recite in the name of your Lord who creates, creates man from a clot! Recite for your lord is most generous….” These words became the opening verses of sūrah (chapter) 96 of the Qur'an. Most Islamic historians believe Muhammad was initially disturbed by the revelations and that he didn’t reveal them publicly for several years. However, Shi’a tradition states he welcomed the message from the Angel Gabriel and was deeply inspired to share his experience with other potential believers.
+#+REVEAL: split
+Islamic tradition holds that the first persons to believe were his wife, Khadija and his close friend Abu Bakr (regarded as the successor to Muhammad by Sunni Muslims). Soon, Muhammad began to gather a small following, initially encountering no opposition. Most people in Mecca either ignored him or mocked him as just another prophet. However, when his message condemned idol worship and polytheism, many of Mecca’s tribal leaders began to see Muhammad and his message as a threat. Besides going against long standing beliefs, the condemnation of idol worship had economic consequences for merchants who catered to the thousands of pilgrims who came to Mecca every year. This was especially true for members of Muhammad’s own tribe, the Quraysh, who were the guardians of the Kaaba. Sensing a threat, Mecca’s merchants and leaders offered Muhammad incentives to abandon his preaching, but he refused.
+
+Increasingly, the resistance to Muhammed and his followers grew and they were eventually forced to emigrate from Mecca to Medina, a city 260 miles to the north in 622. This event marks the beginning of the Muslim calendar. There Muhammad was instrumental in bringing an end to a civil war raging amongst several of the city’s tribes. Muhammad settled in Medina, building his Muslim community and gradually gathering acceptance and more followers.
+
+#+REVEAL: split
+Between 624 and 628, the Muslims were involved in a series of battles for their survival. In the final major confrontation, The Battle of the Trench and Siege of Medina, Muhammad and his followers prevailed and a treaty was signed. The treaty was broken by the Meccan allies a year later. By now, Muhammad had plenty of forces and the balance of power had shifted away from the Meccan leaders to him. In 630, the Muslim army marched into Mecca, taking the city with minimum casualties. Muhammad gave amnesty to many of the Meccan leaders who had opposed him and pardoned many others. Most of the Meccan population converted to Islam. Muhammad and his followers then proceeded to destroy all of the statues of pagan gods in and around the Kaaba.
+
+After the conflict with Mecca was finally settled, Muhammad took his first true Islamic pilgrimage to that city and in March, 632, he delivered his last sermon at Mount Arafat. Upon his return to Medina to his wife’s home, he fell ill for several days. He died on June 8, 632, at the age of 62, and was buried at al-Masjid an-Nabawi (the Mosque of the Prophet) one of the first mosques built by Muhammad in Medina. 
+*** Mecca to Medina:
+
+-  importance of Muhammed life (biography)[[https://www.khanacademy.org/humanities/world-history/medieval-times/origins-of-islam/v/life-of-muhammad-and-beginnings-of-islam-part-1][Series of videos on life of Muhammad]] 
+-  formation of community -- repeatedly accomplished as Islam formed and spread rapidly
+-  cp. Gospels vs. Paul in NT -- different kinds of literature brought together
+#+begin_notes
+
+#+end_notes
+
+*** early commentators:
+
+-  using sayings of Muhammad with early traditions
+-  (19) literature about Abraham includes:
+
+   1. pre-Islamic Arabian legends
+   2. stories told by Jews and Christians living in Arabia at time
+   3. early commentators trying to make sense of Muslims' place among
+   4. *Peoples of the Book*
+#+begin_notes
+
+#+end_notes
+
+** Outline of Abraham's life in Quranic strand
+- there is no account of birth in /Quran/
+- legends attribute a miraculous birth
+- his father is a great ruler under the despot Nimrod
+- Abraham challenges the idolatry of his family and community
+*** Legends abound about Abraham's life and origins:
+
+- e.g. time of Nimrod (Mesopotamian despot):
+-  great grandson of Noah?
+-  challenging idolatry (Above all Abraham is the patriarch of those who follow the One, Universal God)
+-  sees stars and moon, temptation to mistake them for the One God
+-  /Sura 21:51-67/ why worship idols ...
+-  Thrown into furnace -- cf. story in Daniel
+-  series of miracles, culminating in gnats sent from God that kill Nimrod (21)
+#+begin_notes
+
+#+end_notes
+
+*** leaves home to enter "Holy Land" (*al-ard al-muqaddasa*):
+
+- commentators (but not the /Quran/) relate encounter with Pharaoh
+- Beersheba (cp. /Gen 21/) -- encounter *guests* cp. Gen 18
+- He has adventures, some of which have parallels in the Hebrew Bible
+- action shifts between Syria and Mecca
+- Tradition (not /Quran/) pays special attention to Hagar and Ishmael
+- Quran relates briefly Abraham's response to God's demand for a "sacrifice" of his son (without naming him Ishmael or Isaac)
+
+#+begin_notes
+- He is regarded as the first prophet
+#+end_notes
+
+*** focus on Mecca:
+
+-  Abraham takes Hagar and Ishmael to Mecca, leaving them under a tree
+-  Hagar prefigures the "running" of the Hajj by 7 times looking for water.
+-  water miraculously appears
+-  early commentators relate legends that Abraham visited Ishmael in Mecca
+
+#+begin_notes
+
+#+end_notes
+*** the 3rd visit
+
+-  they build the Kaaba at the site that the *sakina*  (Arabic: سكينة‎) (cp. Hebrew *shekhinah* "divine presence")  (Biblical Hebrew: שכינה‎ šekīnah)
+-  Kaaba built on the site of an earlier shrine built by Adam
+-  prayer recited by Abraham and Ishmael (/Sura 2:127/)
+-  Abraham calls all people to pilgrimage (/Sura 22:27/)
+
+#+begin_notes
+
+#+end_notes
+*** "Sacrifice" of Ishmael 
+| https://hurstrobert.files.wordpress.com/2014/06/x-sacrifice-of-ishmael.jpg |
+*** "Sacrifice" of Isaac
+| https://hurstrobert.files.wordpress.com/2014/06/x-sacrifice-of-isaac-rembrandt.jpg |
+*** "sacrifice" of Son:
+
+-  divided witness in Islam whether Isaac or Ishmael
+-  legends include account of Abraham's death, linking back with biblical strand
+
+#+begin_notes
+
+#+end_notes

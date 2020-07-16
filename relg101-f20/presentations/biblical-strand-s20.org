@@ -1,0 +1,166 @@
+#+Author: Dale Hathaway
+#+Title: Abraham Saga: Biblical Strand
+#+Date: Week of April 12, 2020
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+
+
+** Biblical Strand
+
+*** Abrahamic family
+- multiple sources for telling the story, but two basic strands
+- Biblical strand, made up of:
+  - Hebrew Bible (chiefly book of /Genesis/
+  - later Jewish /Midrash/ and Christian interpretations
+- Quranic strand, made up of:
+  - Quran: literally "recitation", the revelation to Mohammad
+  - Hadith: later sayings and traditions
+
+#+begin_notes
+- different voices leading to the truth
+- mystical and prophetic voices
+#+end_notes
+*** Outline of Abraham saga in book of Genesis
+
+Abraham, known as the first Patriarch, is thought to have lived sometime around 1,750-1,500 BC, and was known for leaving his home of Ur to go to Haran when God called him. The Bible tells the story of his travels from Ur to Haran, through Canaan, into Egypt and back to Haran.
+
+Abraham was married to Sarah, who was barren. God promised to give him a son through whom a mighty nation would arise. Having a son seemed impossible due to the old age of Sarah, which led to Abraham doubting God's promise at one time and trying to have a child with his servant girl, Hagar. This led to Abraham suffering for that sin. His son from Hagar, Ishmael, turned against the son from Sarah, Isaac, which meant that Ishmael had to leave Abraham's household. Isaac was born when Abraham was 100 and Sarah was 90.
+#+REVEAL: split
+Another part of Abraham's life includes God telling him to offer his son Isaac as a burnt offering to prove his faith. Abraham obeyed this command, bringing Isaac to Mount Moriah and laying him on the alter. At the last moment, God told Abraham not to kill Isaac and gave him a ram.
+
+Abraham also asked God to spare the cities Sodom and Gomorrah because his nephew Lot lived there. God sent an angel to save Lot and his family but destroyed the cities because of their abominations.
+#+REVEAL: split
+God established His covenant with Abraham, and the seal and reminder of the covenant was circumcision. All of Abraham's male descendants would be circumcised as a reminder of God's promises to Abraham. [[https://www.reference.com/world-view/biblical-summary-life-abraham-b7c3b30eaa1ddc16][Source]]
+
+*** Midrash:
+- *Torah*: can be understood to have a range of meanings: 
+  - the ultimate truth of the one God 
+  - the Hebrew Scriptures (/Old Testament/) 
+  - the first 5 books of the Hebrew Scriptures.
+- *Midrash*: means "Interpretation" 
+  - (p. 4) read the open space between the letters of the *Torah*
+
+
+
+#+begin_notes
+Note:
+- Abraham Waskow refers again and again to the word *Torah*. For him, as Jews generally, it has a wide range of meanings.
+- The "strand" he writes about draws from biblical sources as well as ancient sources outside the Bible. I didn't realize when I was young how broad is the literature from the ancient outside of what we have in the Bible.
+- Some of that literature is consciously trying to *interpret* (midrash) Scripture. All of it is relevant for our *interpretation* of Scripture.
+#+end_notes
+
+*** Midrash on Prayer 
+
+  |https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Midrash_tehillim_title.jpg/250px-Midrash_tehillim_title.jpg |
+*** Introductory:
+
+- *Shem* (/HaShem/) was one of Noah's sons. Abraham is in the line of Shem. From his name we get the word (/semitic/):
+- Narrative rooted in historical strata:
+- "satirical critique of Babylonian culture" (3):
+- main character is God, known by several different names: /El/, /Elohim/, /YHWH/. Later known by /Deus/, /Dominus/, /Allah/
+
+#+begin_notes
+
+Note:
+#+end_notes
+
+** Babylonian history -- diaspora:
+
+*** Abraham leaves home (Gen 12)
+- name YHWH (p. 5ff.) provides play on words. 
+- In its most basic form the name of God has some relationship with the verb "to be"
+- Abraham moves away from Babylon. 
+- discovering a *Unity* -- "One God"
+
+#+begin_notes
+
+#+end_notes
+
+*** Horned altar at Beersheba
+https://bleon1.files.wordpress.com/2011/02/dsc04589.jpg
+*** Built altars to YHWH, then to Egypt:
+
+- again and again YHWH appears to Abraham
+- Abraham comes to Egypt, a "long and narrow place" (p. 6)
+- In Egypt Abraham "pimps" his wife to protect him/them:
+
+
+#+begin_notes
+
+#+end_notes
+*** Return to Canaan (battled local kingdoms):
+
+-  God repeatedly promises the land to Abraham and posterity:
+-  But he/they have *no offspring*:
+-  So as *per custom*, Sarah offered her servant Hagar
+-  Hagar is the 1st person to hear an "Angel" of YHWH -- she is promised a son
+-  name of Ishmael "God hears" cp. *Shema* a confession of Judaism Dt (6 ff).
+
+#+begin_notes
+
+#+end_notes
+*** Hagar 
+https://bramboniusinenglish.files.wordpress.com/2018/04/tattarescu-hagar_in_the_desert-lr.jpg
+*** The promise 
+
+- (/berith/) :: "covenant", a promise, a vow, a contract
+- circumcision :: became the "sign" of that covenant
+- 3 travelers (angels) :: affirming the promise of a son from Sarah:
+- *Hospitality* :: Vital importance of  throughout Mesopotamia (/between the rivers/)
+- Sodom & Gomorrah :: -- having to do with failure of hospitality -- *hatred of foreigners and strangers*
+
+
+#+begin_notes
+
+#+end_notes
+*** Isaac (laughing one) born:
+
+-  sibling stories abound
+-  cf. biblical pattern of the younger son being the heir (upending tradition)
+-  story of the brothers (p. 11) ends in reconciliation
+-  *relevance for the present work* -- the /Tent of Abraham/ can be read as an extended reflection on the relations between brothers and sisters: Jews, Christians, Muslims
+#+begin_notes
+
+#+end_notes
+*** Wells 
+- along with *hospitality*, water is of vital importance in the desert:
+- wells have an important role to play in Abraham's narrative
+
+#+begin_notes
+
+#+end_notes
+
+*** "Lech l'cha" 
+ - "go forth toward yourself"
+ - head toward unknown destination:
+   - "binding" of Isaac
+   - They walked as one
+   - "angel - messenger" called his name
+   - Abraham's response (like Hagar's) to look to heaven
+
+ #+begin_notes
+
+ #+end_notes
+
+*** Conclusion
+- Death of Sarah at the well Be'er Sheva:
+- Abraham from "resident alien" to landowner
+- 3rd wife: Keturah:
+- in Jewish Midrash "Keturah" was Hagar
+- Abraham died at age 175
+- Isaac & Ishmael united buried their father
+
+#+begin_notes
+
+#+end_notes

@@ -1,0 +1,271 @@
+#+Author: Dale Hathaway
+#+Title:Sunflower & the Holocaust 
+#+Date:2018-03-05 Mon 
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+
+
+* Sunflower
+
+** Overview
+A Holocaust survivor’s surprising and thought-provoking study of 
+- forgiveness, 
+- justice, 
+- compassion, and 
+- human responsibility,
+
+**  
+:PROPERTIES:
+:reveal_background: http://www.wiesenthal.com/atf/cf/%7B54d385e6-f1b9-4e9f-8e94-890c3e6dd277%7D/SW_PHOTO.JPG
+:reveal_background_size: 600px
+:reveal_background_trans: slide
+:END:
+** Summary
+While imprisoned in a Nazi concentration camp, Simon Wiesenthal was taken one day from his work detail to the bedside of a dying member of the SS. Haunted by the crimes in which he had participated, the soldier wanted to confess to–and obtain absolution from–a Jew. Faced with the choice between compassion and justice, silence and truth, Wiesenthal said nothing.  But even years after the way had ended, he wondered: Had he done the right thing? What would you have done in his place?
+** Ongoing work of Wiesenthal 
+http://www.wiesenthal.com/site/pp.asp?c=lsKWLbPJLnF&b=6212365#.UuSq8rROnIU
+* Overview of Shoah 
+** “Holocaust”
+#+BEGIN_QUOTE
+  As noted in an earlier discussion, an alternate name Shoah is often
+  used to distinguish from a word that could be used of sacrifice to
+  God*
+#+END_QUOTE
+
+
+#+ATTR_REVEAL: :frag (appear)
+-  The mass murder of European Jews and others under Nazi rule during World War II has come to be known simply as the *Holocaust*.(/see below/)
+-  Timeline of a long history of anti-semitism:
+   -  https://en.wikipedia.org/wiki/Timeline_of_antisemitism
+   -  http://www.simpletoremember.com/articles/a/HistoryJewishPersecution/
+   -  http://www.zionism-israel.com/his/Anti-semitism_timeline.htm
+
+#+BEGIN_NOTES
+
+Note: "Holocaust" literally means "massive destruction by fire." It is
+thought that as many as eleven million people were killed by the Nazis.
+
+/Christianity vs. Judaism has a long history/: timeline:
+[[https://www.preceden.com/timelines/253106-religions]]
+
+These included political opponents (particularly Communists), Slavs,
+gypsies, mentally and/or physically disabled, homosexuals, and other
+"undesirables." An estimated six million men, women, and children were
+killed merely because they were Jews. The destruction of the Jews in
+Europe stands as the archetype of genocide in human history.
+
+#+END_NOTES
+** Major facets of the Shoah
+Major groups of people affected by *Shoah* the groups are not mutually exclusive.
+
+- Victims. :: Millions were victimized by the Nazi regime during the Holocaust: Jews, Gypsies, political enemies, Jehovah's Witnesses, homosexuals, and people with disabilities.
+- Perpetrators. :: Hitler created an atmosphere of terror that was maintained by force.
+- Bystanders. :: Throughout the world, many stood by and watched as the atrocities mounted.
+#+REVEAL: split
+- Resisters. :: Resistance took many forms, from individual acts to organized armed resistance against the Nazi terror.
+- Rescuers. :: Rescuers, by hiding victims in attics or by helping them to escape to other countries, saved many who would have perished.
+- Liberators. :: The Allies liberated the concentration camps in 1945 and became unwilling witnesses to the horror.
+#+REVEAL: split
+- Survivors. :: Survivors relate their thoughts and feelings about living through such a terrible period of human history.
+- Children. :: Children were especially vulnerable in this tragic period.
+
+* Final Solution
+
+** Hitler's Final Solution
+- Hitler's Nazi government planned a "Final Solution" to the "Jewish
+  question." After experimenting with different methods of mass
+  extermination, Nazis settled on the gas chamber as the most efficient
+- Death camp operations began in December 1941 at Semlin in Serbia and
+  at Chelmno in Poland
+- More camps opened in the spring and summer of 1942
+
+#+BEGIN_NOTES
+
+Note: Hitler's Nazi government planned a "Final Solution" to the "Jewish
+question." After experimenting with different methods of mass
+extermination, Nazis settled on the gas chamber as the most efficient.
+Death camp operations began in December 1941 at Semlin in Serbia and at
+Chelmno in Poland, where people were killed by exhaust fumes in
+specially modified vans that were driven to nearby sites where bodies
+were plundered and burnt. At Chelmno and Semlin, 265,000 Jews were
+killed in this way. - The largest of the death camps was at Auschwitz.
+It was originally a concentration camp for Polish political prisoners
+but was expanded in 1941 with the addition of a larger camp at nearby
+Birkenau. - The extermination of European Jews reached a new peak in the
+summer of 1944, after Germany invaded Hungary - The Final Solution moved
+into its last stages as Allied forces closed in on Germany in 1944. The
+camps were closed and burned down - When the war ended and the
+concentration camps were liberated by Allied troops, thousands of
+unburied corpses and tens of thousands of sick and dying prisoners were
+found crammed into overcrowded barracks without food or water.
+
+More camps opened in the spring and summer of 1942, when the Nazis began
+clearing the ghettos in Poland and rounding up Jews in western Europe
+for deportation to labor and concentration camps such as those at
+Treblinka, Belzec, and Sobibor. The largest of the death camps was at
+Auschwitz. It was originally a concentration camp for Polish political
+prisoners but was expanded in 1941 with the addition of a larger camp at
+nearby Birkenau. Auschwitz-Birkenau and its subcamps held 400,000
+prisoners, including 205,000 Jews. In the spring of 1942, gas chambers
+were built at Birkenau, and mass transports of Jews began to arrive
+there. Some were held as registered prisoners, but the great majority
+was gassed. These gassing operations were expanded in 1943, and four gas
+chamber and crematorium complexes were built. Before they were killed,
+the victims' valuables were stripped from them. Their hair was used to
+stuff mattresses, and any gold in their teeth was melted down. In total,
+about one million Jews died at Auschwitz-Birkenau.
+
+The extermination of European Jews reached a new peak in the summer of
+1944, after Germany invaded Hungary, and the new (but not yet fully
+fascist) Hungarian government fully cooperated in the deportation of
+430,000 Jews to Auschwitz in only seven weeks, from May 15 to July 9.
+About 100,000 of the Hungarian Jews were selected for forced
+labor---they were assigned to work in the construction of factories for
+German fighter planes and other tasks. Another 80,000 Jews were exempted
+from deportation and consigned instead to the Hungarian Army's forced
+Labor Service.
+
+The Final Solution moved into its last stages as Allied forces closed in
+on Germany in 1944. The camps were closed and burned down. Prisoners
+remaining at concentration camps in the occupied lands were transported
+or force-marched to camps in Germany. Thousands of prisoners on these
+death marches died of starvation, exhaustion, and cold, or they were
+shot. When the war ended and the concentration camps were liberated by
+Allied troops, thousands of unburied corpses and tens of thousands of
+sick and dying prisoners were found crammed into overcrowded barracks
+without food or water.
+
+Much of Europe was destroyed in the war. Survivors of the camps were in
+terrible condition, both physically and psychologically. Many lost their
+faith, committed suicide, or were otherwise unable to resume normal
+lives. Trials were held in Nuremberg in 1945 at which top surviving Nazi
+leaders were tried for war crimes. Similar trials followed, but
+thousands of war criminals eluded justice. Millions of people were
+displaced, feeling unwelcome or unable to return to their former homes.
+Israel was established as a state in 1948 and opened its doors to all
+Jews, and many of them who survived the Holocaust migrated there, as
+well as to the United States, Australia, and elsewhere.
+
+#+END_NOTES
+
+** Gradual progression
+- In Hitler's program for the "Aryanization" of Germany and world
+  conquest, Jews were subjected first to discrimination, then
+  persecution, and then state-condoned terrorism.
+- the "night of the broken glass" also known as *Kristallnacht*,
+  which took place in Munich, Germany, in November 1938
+- By the outbreak of war in September 1939, half of Germany's
+  five hundred thousand Jews had fled, as had many Jews from
+  other German-occupied areas.
+
+
+#+BEGIN_NOTES
+
+
+Note: In Hitler's program for the "Aryanization" of Germany and world
+conquest, Jews were subjected first to discrimination, then persecution,
+and then state-condoned terrorism. This had as a turning point, the
+"night of the broken glass" also known as Kristallnacht, which took
+place in Munich, Germany, in November 1938. Nazi storm troopers burned
+down synagogues and broke into Jewish homes, terrorizing men, women, and
+children. Over twenty thousand people were arrested and taken to
+concentration camps. After Kristallnacht, Jewish businesses were
+expropriated, employers were urged to fire Jewish employees, and offices
+were set up to expedite emigration. Jews could buy their freedom and
+leave the country, but they had to abandon their assets when they left.
+By the outbreak of war in September 1939, half of Germany's five hundred
+thousand Jews had fled, as had many Jews from other German-occupied
+areas.
+
+#+END_NOTES
+** Simplified timeline 
+- Rise of the Nazi Party (1918-1933). :: During the fourteen years following the end of World War I, the Nazi party grew from a small political group to the most powerful party in Germany.
+- Nazification (1933-1939). :: Once Hitler became Chancellor and later Reichsführer, the Nazi party quickly changed Germany's political, social, and economic structure.
+- The Ghettos (1939-1941). :: Confining Jews to ghettos was another critical step in Hitler's Final Solution.
+#+REVEAL: split
+- The Camps (1941-1942). :: The concentration camps were Hitler's final step in the annihilation of the Jews.
+- Resistance (1942-1944). :: People resisted by any means possible, from stealing a slice of bread to sabotaging Nazi installations.
+- Rescue and Liberation (1944-1945). :: Some survived through the heroics of neighbors; others were liberated by the Allies.
+#+REVEAL: split
+- Aftermath (1945-2000). :: After the war, Nazi perpetrators faced punishment for their war crimes and survivors began rebuilding their lives.
+** The victims 
+http://www.holocaustsurvivors.org/
+
+See for rich resources on the web:
+https://www.holocaustcenter.org/page.aspx?pid=429
+
+* Antisemitism
+** Jews and antisemitism
+- Jews had long been victims of persecution
+- Hitler rose to prominence as a charismatic demagogue in 1920's
+- He lost an election for president in 1932
+- in 1933 he became chancellor and set in motion the
+  destruction of democracy in Germany
+
+#+BEGIN_NOTES
+
+Note: Jews had been the subjects of persecution in Europe at least since
+the seventeenth century. When Adolph Hitler, the charismatic,
+Austrian-born demagogue, rose to power in Germany during the 1920s and
+early 1930s, he rallied the German people with a message that included
+notions of "Aryan," or white, superiority and the inferiority of other
+races. The Jews were a special target of his hatred, and they were
+incorrectly represented during this time of social, political, and
+economic upheaval as being wealthy and in control of the country's
+economy. In 1932, Hitler ran for president of Germany. He did not win,
+but he did well, and when the party in power was unable to end the
+depression, its leaders turned to Hitler for help. He became chancellor,
+or prime minister, of Germany in 1933. Within weeks, he set into motion
+a series of laws that destroyed the nation's democratic government. He
+eliminated all opposition and launched a program of world domination and
+extermination of the Jews. His government, like all totalitarian
+regimes, established complete political, social, and cultural control
+over its subjects.
+
+#+END_NOTES
+** Some major events in history of antisemitism
+|------------------------------------------------------------------------+-----------|
+| First attempt to annihilate a Jewish state                             | 722 BCE   |
+| Second attempt (successful) to annihilate Jewish state                 | 586 BCE   |
+| Third annihilation of a Jewish State                                   | 70 CE     |
+| Judaism made illegal in Roman Empire                                   | 119 CE    |
+| Crushing of Jewish Revolt                                              | 135 CE    |
+| 1st known Christian claim that it was Jews who killed the Son of God   | 167 CE    |
+#+REVEAL: split
+| sporadic, often systematic, persecution & murder of Jews by Christians | 325 CE- ? |
+| periodic expelling of Jews from Europe                                 | cont. ?   |
+| 1st Crusade                                                            | 1096 CE   |
+| Jews expelled from Muslim Spain                                        | 1147 CE   |
+| Jewish books burned                                                    | cont. ?   |
+#+REVEAL: split
+
+| Jews expelled from France                                              | 1322 CE   |
+| Jews are blamed for the Black Death                                    | 1349 CE   |
+| Pogroms & local expelling of Jews                                      | cont. ?   |
+| Luther produces a plan to get rid of Jews                              | 1543 CE   |
+#+REVEAL: split
+| Henry Ford produced pamphlet "Jewish Menace"                           | 1920 CE   |
+| the *Shoah*                                                              | 1939-1945 |
+|------------------------------------------------------------------------+-----------|
+
+** Antisemitism 
+"Antisemitism and all other forms of racism present a danger not only to Jews but also to the community of nations. These days the 'new antisemitism' is directed simultaneously against Jews, against Israel and against Zionism. By equating these terms the danger for Jews as a whole is exacerbated. This phenomenon is also common in propaganda emanating from the Arab world. The Holocaust showed the world the extent of the destructive power of antisemitism and racism. Holocaust denial, as well as minimization and banalization of the Holocaust provide a means of avoiding the evident conclusions and learning the lessons for the future. We, the survivors, call upon the world to wipe out these phenomena and to combat them relentlessly." -- statement by survivors of *Shoah*
+
+* Some Questions
+- How are human beings capable of such violence?
+- What are the causes?
+- Who is to blame? What good does it do to know who to blame?
+- Why did so many seemingly *good* people cooperate?
+- Why did God allow this to happen?
+- Why does it keep happening? Why does it happen to the Jews?
+- What is the responsibility of survivors? Of perpetrators? Of those complicit? Of those of us who come after?
+- What does the history of antisemitism mean for Christianity?

@@ -1,0 +1,93 @@
+#+Author: Dale Hathaway
+#+Title: World Religions
+#+Date: Sept. 11, 2017
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:0 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+
+** Religions of the World
+
+| http://sorenkerk.com/wp-content/uploads/Pie-chart-of-WoR.jpg |
+| video growth of religions https://youtu.be/AvFl6UBZLv4                                                             |
+
+** Relative size of World religions
+
+
+- The circle graph: http://www.businessinsider.com/infographic-map-world-religions-2012-4 
+
+
+** Study of Religion
+
+ http://studyreligion.org/what/index.html
+
+** Why study religion
+#+ATTR_REVEAL: :frag (appear)
+- Religion has always been with us
+- Religion is studied by an energetic academic field
+- The study of religion leads in many directions
+
+
+** Chapters 3-4 Sacred Quest
+** Important terms from these chapters
+
+| 1. Ka’ba          | 2. Qur’an as speech of God |
+| 3. canon          | 4. cosmology               |
+| 5. cyclical time  | 6. hierophany              |
+| 7. immanence      | 8. linear time             |
+| 9. logos          | 10. mystical               |
+| 11. myth          | 12. parable                |
+| 13. prophet       | 14. sacrament              |
+| 15. salat         | 16. samsara                |
+| 17. sanctus       | 18. scripture              |
+| 19. shaman        | 20. stupa                  |
+| 21. transcendence | 22. tradition              |
+
+
+#+BEGIN_NOTES
+theology
+*6. dharma
+*11. moksha
+*14. nirvana
+*18. sacred as “really real” 
+
+#+END_NOTES
+
+** An example of the sacred
+
+https://youtu.be/nrG5Yuwpapc
+
+http://2.bp.blogspot.com/-aKZNli_hyHU/UMB4wJCWKQI/AAAAAAAANGw/0hor-KYYji0/s1600/Oahu_from_air2.jpg
+
+** 3 patterns of understanding the appearance of the sacred 
+#+ATTR_REVEAL: :frag (appear)
+- *Prophetic* (stress on belief, society, and morality—all centered on revelation) Moses.  Mohammed.  A prophet is a person who receives a revelation that deals with historical life of community. 
+- *Sacramental* (stress on sacred objects and ritual as vehicles for the sacred), Jesus. The presence of sacred through an aspect of material reality or objects; stresses role of priests.
+- *Mystical* (stress on states of consciousness, feeling, and experience) the Buddha.  Emphasis on a state of being or consciousness, such as enlightenment or contact with God.
+
+** 4 media shaped by 3 patterns
+these 3 patterns shape how one understands the 4 types of sacred media:
+#+ATTR_REVEAL: :frag (appear)
+- *person—prophet* (prophetic), *God incarnate* (sacramental), and *sage* (mystical), 
+- *objects—texts* (prophetic), bread, wine & material objects (sacramental), breathing & tea (mystical) 
+- *time—linear/historical* (prophetic) v. *cyclical* (often mystical) [sacramental can be either]
+- *space—places of revelations*, places of worship, stupa, and nature (note how all 3 patterns apply)
+
+** 5 Concepts
+#+ATTR_REVEAL: :frag (appear)
+- *Manifest* — to show, reveal, or make known 
+- *Hierophany* — a revelation of the holy, 
+- *Prophet* [one who speaks with the authority of another]: one who speaks with the authority of God or the sacred; a spokesperson for the sacred based upon a received revelation or contact with the sacred.
+- *Sacrament* a sign and instrument of the sacred; a sign that causes or makes effective the reality to which it points
+- *Cosmology*  worldview; an account of the meaning and order of the universe and the relationships between its different parts.
+
+
+
+

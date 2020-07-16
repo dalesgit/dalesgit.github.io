@@ -1,0 +1,192 @@
+#+Author: Dale Hathaway
+#+Title: Hesse's Siddhartha 
+#+Date:2018-02-14 Wed  
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 2 
+#+OPTIONS: toc:2  num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js 
+#+REVEAL_THEME: beige
+* Transition
+- From learning concepts
+- to exploring religious phenomena
+- from academic language to ... poetic? religious? narrative?
+** Liebeslied "Love Song"
+[[https://youtu.be/2lzmgfscdMo][love song to HH:]]
+
+lyrics [[https://www.lieder.net/lieder/get_text.html?TextId=126884][here with english]] (3 min)
+
+#+BEGIN_VERSE
+Ich bin der Hirsch und du das Reh,  
+Der Vogel du und ich der Baum, 
+Die Sonne du und ich der Schnee, 
+Du bist der Tag und ich der Traum.
+
+Nachts aus meinem schlafenden Mund 
+Fliegt ein Goldvogel zu dir,
+Hell ist seine Stimme, sein Flügel bunt, 
+Der singt dir das Lied voll der Liebe,
+Der singt dir das Lied von mir.
+#+END_VERSE
+** Hesse's voice "On the word bread"
+
+[[https://www.hermann-hesse.de/node/2586]["on word bread"]] with audio [[https://youtu.be/rXELJl00WLY][part 1]] and [[https://youtu.be/mu3uk-y6E18][part 2]]
+
+** Poetry & Religious language?
+- Study of religion vs. practicing religion? discussion?
+- Learning *about* vs. ???
+- As soon as we put things into categories do we lose them?
+* Hesse and a world of religion
+ <https://www.hermann-hesse.de/en/biography>
+#+ATTR_REVEAL: :frag (appear)
+- Religion
+- Father Christian minister
+- living in a world of a diversity of religions
+- life-long *search*
+#+begin_notes
+- e.g. move through the "tabs" on the *biography* page, reading some of the text
+- then look at *paintings*
+- n.b. the *severity* of the family -- quest for identity
+- *stern* mood of pietism + a very sophisticated and educated parents and grandparents
+- journey / "pilgrimage" (*haaj*) as a fundamental element of religion? some religions?
+- 1946 Nobel prize for literature
+- read from page "biography / religion" on web page
+- /Hermann Hesse's life and literary oeuvre are characterized by a constant preoccupation with the questions of religion and faith that were his companion virtually from the cradle on/
+#+end_notes
+** Make sense of life  
+#+ATTR_REVEAL: :frag (appear)
+- Life crisis (“author of crisis”)
+- influence of Freud & psychoanalysis
+- we saw in *Sacred Quest* that psychoanalysis can be seen to function something like a religion
+- Travel to India
+
+  #+begin_notes
+- 1911 journey to India
+- tried all kinds of vocations in life
+- The task of overcoming personal crises is one of the defining elements of Hesse's work, though other issues such as religion and politics also feature prominently
+- with Thomas Mann & Stefan Zweig among the most important German writers of 20th c.
+- sought to escape the militarism of the Kaiser Wilhelm:w
+
+  #+end_notes
+** the "voice" of his critique
+"For many years, I have been convinced that the European spirit is on the wane, and is in need of a return to its Asian roots. I have admired Buddha for many years, and have been reading Indian literature since my earliest youth. Later, I became more familiar with Lao Tsu and the other Chinese philosophers“
+#+begin_notes
+- in *Siddhartha* we hear references to *bread* as a sacred
+- the power of a *word* in the novel
+#+end_notes
+** Setting of the novel
+
+#+ATTR_REVEAL: :frag (appear)
+- Tom Robbins introduction
+- translator's preface
+- glossary
+- On the one hand, set in imagined India of 5-6th c. BCE
+- On the other hand, written in "Machine Age Europe"
+- what *happens* is mostly inward
+- an "odyssey"? how to *enlightenment*? personal *salvation*? 
+#+begin_notes
+- steeped in German mysticism, Asian philosophy
+- a "new kind of psychological novel"
+- "road movie"
+- quest for spiritual ... something or other
+- poetry, lyrical, *metaphor*
+#+end_notes
+* Religious context of Siddhartha 
+ What Religion is/is not ...
+** first, religion is *not*:
+#+ATTR_REVEAL: :frag (appear)
+-   necessarily monotheistic,
+-   necessarily a body of moral rules
+-   necessarily a belief in the supernatural, heaven, hell, or even life after death
+-   necessarily an explanation of the origins of creation.
+#+begin_notes
+- One of the central "characters" of the novel is *Buddhism* and the normal evaluation of it is that the *agnostic* about deities
+- often in the US media etc. religion can be reduced to *morality* -- connected to our "Puritan" heritage? -- but many religious practices can seem "immoral"
+- some parts of Judaism and other indigenous and ancient religious traditions do not conceive of "afterlife"
+- "creation" myths are a part of many religions -- cf. "Genesis* -- but not all
+#+end_notes
+** Religion *is*:
+#+ATTR_REVEAL: :frag (appear)
+- notion of sacred reality
+- orders and brings understanding to human existence
+- has lasting effect on thinking, feeling, acting`
+#+begin_notes
+These we get from our definitions.
+#+end_notes
+* Kinds of Stories 
+**  Booker's 7 basic types of story plots
+[[https://tobedwithatrollope.wordpress.com/2007/12/11/the-seven-basic-plots-wh-we-tell-stories-by-christopher-booker/][link to 7 Basic plots]]: This is an example of how one can examine data and then look for patterns.
+#+ATTR_REVEAL: :frag (appear)
+- *Overcoming the Monster* — Stories like /Beowulf/, ‘Little Red Riding Hood’, /Jaws/, and many of the James Bond films, where a hero must defeat a monster and restore order to a world that has been threatened by the monster’s presence.
+- *Rags to Riches* — These stories feature modest, generally virtuous but downtrodden characters, who achieve a happy ending when their special talents or true beauty is revealed to the world at large. Includes any number of classics such as ‘*Cinderella*’, David Copperfield, and the Horatio Alger novels.
+- *The Quest* — A hero, often accompanied by sidekicks, travels in search of a priceless treasure and fights against evil and overpowering odds, and ends when he gets both the treasure and the girl. The /Odyssey/ is a classic example of this kind of story.
+- *Voyage and Return* — /Alice in Wonderland/, Robinson Crusoe on his desert island, other stories of normal protagonists who are suddenly thrust into strange and alien worlds and must make their way back to normal life once more.
+#+begin_notes
+- The Seven Basic Plots: Why We Tell Stories is a 2004 book by Christopher Booker containing a Jung-influenced analysis of stories and their psychological meaning. Booker worked on the book for thirty-four years (Wikipedia)
+- explore humans' archetypal plots 
+- Other patterns have been explored. 
+- Get some discussion and buy in
+
+Overcoming the Monster
+
+Definition: The protagonist sets out to defeat an antagonistic force (often evil) which threatens the protagonist and/or protagonist's homeland.
+
+Examples: Perseus, Theseus, Beowulf, Dracula, The War of the Worlds, Nicholas Nickleby, The Guns of Navarone, Seven Samurai (and its Western remake The Magnificent Seven), James Bond, Star Wars.[2]
+Rags to Riches
+
+Definition: The poor protagonist acquires power, wealth, and/or a mate, loses it all and gains it back, growing as a person as a result.
+
+Examples: Cinderella, Aladdin, Jane Eyre, A Little Princess, Great Expectations, David Copperfield, The Prince and the Pauper, Brewster's Millions, Ratatouille.[2]
+The Quest
+
+Definition: The protagonist and companions set out to acquire an important object or to get to a location. They face temptations and other obstacles along the way.
+
+Examples: The Odyssey, The Pilgrim's Progress, The Lord Of The Rings, King Solomon's Mines, Six of Crows, Watership Down, Lightning Thief, Apocalypse Now.[2], Raiders of the Lost Ark.
+Voyage and Return
+
+Definition: The protagonist goes to a strange land and, after overcoming the threats it poses or learning important lessons unique to that location, they return with experience.
+
+Examples: Ramayana, Alice in Wonderland, Goldilocks and the Three Bears, Orpheus, The Time Machine, Peter Rabbit, The Hobbit, The SpongeBob SquarePants Movie, Brideshead Revisited, The Rime of the Ancient Mariner, Gone with the Wind, The Third Man, Cars, The Lion King, Back to the Future.[2]
+Comedy
+
+Definition: Light and humorous character with a happy or cheerful ending; a dramatic work in which the central motif is the triumph over adverse circumstance, resulting in a successful or happy conclusion.[3] Booker stresses that comedy is more than humor. It refers to a pattern where the conflict becomes more and more confusing, but is at last made plain in a single clarifying event. The majority of romance films fall into this category.
+
+Examples: A Midsummer Night's Dream, Much Ado About Nothing, Twelfth Night, Bridget Jones's Diary, Music and Lyrics, Sliding Doors, Four Weddings and a Funeral, The Big Lebowski.
+Tragedy
+
+Definition: The protagonist is a hero with a major character flaw or great mistake which is ultimately their undoing. Their unfortunate end evokes pity at their folly and the fall of a fundamentally good character.
+
+Examples: Macbeth, The Picture of Dorian Gray, Carmen, Bonnie and Clyde, Jules et Jim, Anna Karenina, Madame Bovary, John Dillinger, Romeo and Juliet, Julius Caesar, Avengers: Infinity War, Citizen Kane.[2]
+Rebirth
+
+Definition: An event forces the main character to change their ways and often become a better individual.
+
+Examples: Pride and Prejudice, The Frog Prince, Beauty and the Beast, The Snow Queen, A Christmas Carol, The Secret Garden, Peer Gynt, Groundhog Day.[2]
+
+#+end_notes
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+- *Comedy* — Not always synonymous with humour. Instead, the plot of a comedy involves some kind of confusion that must be resolved before the hero and heroine can be united in love. Think of Shakespeare’s comedies, /The Marriage of Figaro/, the plays of Oscar Wilde and Gilbert and Sullivan, and even /War and Peace/.
+- *Tragedy* — As a rule, the terrible consequences of human overreaching and egotism. /The Picture of Dorian Gray/, /Julius Caesar/, /Anna Karenina/ …this category is usually self-evident.
+- *Rebirth* — The stories of Ebeneezer Scrooge and Mary Lennox would fall into this basic plot type, which focuses on a threatening shadow that seems nearly victorious until a sequence of fortuitous (or even miraculous) events lead to redemption and rebirth, and the restoration of a happier world.
+* Exercise on themes of Siddhartha
+
+**  5 Themes of Siddhartha
+ Write on a piece of  paper an example from text of:
+1. Self-realization
+2. Personal experience vs. Formal training
+3. Persistence
+4. Folly of materialism or less is more
+5. paradox of unreal reality (reality is an illusion)
+**  With a partner discuss:
+1. most important illustration of the theme from the text
+2. How important was that theme in the context of the whole work
+3. What does the theme tell us about religion?
+   

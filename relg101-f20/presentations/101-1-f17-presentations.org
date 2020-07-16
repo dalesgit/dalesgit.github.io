@@ -1,0 +1,26 @@
+#+TITLE: RELG 101-1 (F-17)
+#+AUTHOR: Prof. Dale Hathaway
+#+OPTIONS:     H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t f:t TeX:t ...
+#     H:         set the number of headline levels for export
+#     num:       turn on/off section-numbers
+#     toc:nil       turn on/off table of contents, or set level limit (integer)
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../css/mystyle.css">
+
+#+BEGIN_CENTER
+*Presentations*
+#+END_CENTER
+
+------------
+
+[[file:opening-f17.html][Week 1: Introductions]]
+
+[[file:study-of-religion.html][Week 2: Study of Religion]]
+
+[[file:definitions-religion.html][Chapter 2 SQ]] & [[file:definitions-sacred.html][Definitions of Sacred]]
+
+[[file:manifestation-sacred.html][Manifestation of the Sacred]]
+
+[[file:world-religions-sacred.html][World Religions - Sacred]]
+
+[[file:religious-language.html][Religious Language]]

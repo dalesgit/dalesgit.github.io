@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-03-09 Mon 13:16 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ritual</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Dale Hathaway" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Ritual</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgf925a1d">Sacred story for modern world</a></li>
+<li><a href="#the-sacred-quest">The Sacred Quest</a></li>
+<li><a href="#ritual----questions">Ritual &#x2013; Questions</a></li>
+<li><a href="#ritual-in-religious-contexts">Ritual in Religious Contexts</a></li>
+<li><a href="#org209863f">Rites of Passage</a></li>
+<li><a href="#types-of-rituals">Types of rituals</a></li>
+<li><a href="#org977db83">Religious Meanings of Ritual</a></li>
+<li><a href="#examples-from-around-the-world">Examples from around the world</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf925a1d" class="outline-2">
+<h2 id="orgf925a1d">Sacred story for modern world</h2>
+<div class="outline-text-2" id="text-orgf925a1d">
+<ul class="org-ul">
+<li>it helps to form us</li>
+<li>it helps us understand who we are in the world we live in</li>
+<li>it motivates our actions</li>
+<li>it connects us to the past and binds us to the future</li>
+</ul>
+
+
+<p>
+What are some of our sacred stories?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbbcf641" class="outline-2">
+<h2 id="the-sacred-quest">The Sacred Quest</h2>
+<div class="outline-text-2" id="text-the-sacred-quest">
+<p>
+Lawrence S. Cunningham
+</p>
+
+<p>
+John Kelsay
+</p>
+
+<p>
+Chapter Five: Ritual
+</p>
+</div>
+
+<div id="outline-container-org2b87f4d" class="outline-3">
+<h3 id="org2b87f4d"></h3>
+<div class="outline-text-3" id="text-org2b87f4d">
+</div>
+</div>
+
+
+
+
+
+<div id="outline-container-org0a996f1" class="outline-3">
+<h3 id="ritual-defined">Ritual Defined</h3>
+<div class="outline-text-3" id="text-ritual-defined">
+<ul class="org-ul">
+<li>A ritual is a <b>ceremonial act</b> or a <b>repeated stylized gesture</b> used for
+specific occasions.</li>
+<li>n.b. not necessarily "sacred"</li>
+</ul>
+<div class="notes">
+<ul class="org-ul">
+<li>In society, there are many civic rituals.</li>
+<li>In American courts, raising the right hand, swearing on the Bible,
+and reciting an oath signifies the obligation to tell the truth.</li>
+<li>In everyday life we participate in numerous personal rituals.</li>
+<li>Shaking hands as a sign of mutual trust</li>
+<li>Standing in honor of a particular person</li>
+</ul>
+
+</div>
+</div>
+</div>
+
+<div id="outline-container-org23fb2bc" class="outline-3">
+<h3 id="org23fb2bc"></h3>
+<div class="outline-text-3" id="text-org23fb2bc">
+<div class="notes">
+<ul class="org-ul">
+<li>the purpose of the ritual</li>
+<li>that it can be adjusted for the <b>audience</b></li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org3b4e0f7" class="outline-2">
+<h2 id="ritual----questions">Ritual &#x2013; Questions</h2>
+<div class="outline-text-2" id="text-ritual----questions">
+<ul class="org-ul">
+<li>Give an example of a ritual that orders your interaction with others.</li>
+<li>What is a ritual that has important meaning for you and your friends or family? Explain.</li>
+<li>How does ritual help us to understand the ways that religion is more than a set of beliefs?</li>
+<li>What are the best arguments for and against the following claim: “Religion begins with ritual and it remains ritual before it is anything else.”</li>
+<li>How can ritual go wrong? What happens when it goes right?</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org272826a" class="outline-2">
+<h2 id="ritual-in-religious-contexts">Ritual in Religious Contexts</h2>
+<div class="outline-text-2" id="text-ritual-in-religious-contexts">
+<ul class="org-ul">
+<li>Ritual plays an important role in every religious tradition.</li>
+<li><p>
+Some religions are famous for their ritual character
+</p>
+
+<ul class="org-ul">
+<li>Roman Catholicism</li>
+<li>Eastern Orthodoxy</li>
+<li>Tibetan Buddhism</li>
+</ul></li>
+<li>Other religions are known for their resistance to ritual, but even these religions have certain stylized forms of behavior that are rituals
+<ul class="org-ul">
+<li>Society of Friends (Quakers</li>
+</ul></li>
+</ul>
+</div>
+
+<div id="outline-container-orgfdec1ed" class="outline-3">
+<h3 id="mythos-and-ritual">Mythos and Ritual</h3>
+<div class="outline-text-3" id="text-mythos-and-ritual">
+<ul class="org-ul">
+<li>common form of ritual is dramatizing sacred stories</li>
+
+<li>such drama allows for participation in the <b>creative power of the sacred</b></li>
+
+<li><p>
+"remembering" &#x2013; "acting out" &#x2013; "participating in the power"  
+</p>
+<div class="notes">
+<p>
+    
+</p>
+<ul class="org-ul">
+<li>One of the most common forms of ritual involves acting out or dramatizing religious stories.</li>
+<li>The conjunction of myth and ritual serves as a way for people to participate in the creative power of the sacred.</li>
+<li>In many tribal societies people not only remember the tribal myths but also live them and act them out.</li>
+</ul>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb78f089" class="outline-3">
+<h3 id="ritual-reenactment">Ritual Reenactment</h3>
+<div class="outline-text-3" id="text-ritual-reenactment">
+<ul class="org-ul">
+<li>tribal societies ritualize creation stories through dance and gesture</li>
+
+<li>Greek traged derived from ritualized worship</li>
+
+<li><p>
+modern drama derives from "Passion Plays" of the middle ages.
+</p>
+<div class="notes">
+<p>
+    
+</p>
+<ul class="org-ul">
+<li>In tribal societies, creation stories may be ritualized through dance and gesture at particular times of the year so that people reenact - the first deeds of gods and goddesses.</li>
+<li>The Greek tragedy is derived from the ritualized worship of the Dionysus.</li>
+<li>The modern drama derives from the acting out of the Easter story in French monasteries during the Middle Ages.</li>
+</ul>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org049a1a8" class="outline-3">
+<h3 id="the-passover">The Passover</h3>
+<div class="outline-text-3" id="text-the-passover">
+<ul class="org-ul">
+<li>The <b>Passover</b> meal is also called the seder, a Hebrew word that means “order” or “arrangement.”</li>
+<li>Commemorates the meal eaten by the Jews as the were delivered from slavery</li>
+<li>Retelling the story of the <b>Exodus</b> is central to the meal</li>
+<li>The <b>Passover</b> meal is not merely a historical remembrance.</li>
+</ul>
+<p>
+<b>The key thing to remember is that the meal is far more than just a meal</b>
+</p>
+<ul class="org-ul">
+<li>For Jews participating in the Passover meal, there is a combination of memory, worship, and hope.</li>
+<li>To celebrate the Passover is to become ritually one with those who first observed it before leaving Egypt.</li>
+<li>Thus, Jews celebrate an ancient story in their tradition by reenacting the story in a highly ritualized fashion</li>
+</ul>
+
+<div class="notes">
+<p>
+
+</p>
+
+<p>
+Note: - At Passover, Jews all over the world gather in their homes to share a formal meal involving the eating of symbolic foods, various readings and prayers, and a number of blessings. - The meal is orchestrated by the head of the household, who conducts it according to well established traditions.
+</p>
+
+<ul class="org-ul">
+<li>Passover commemorates the meal eaten by the Jews the evening before they left Egypt and the enslavement of their people in order to journey toward, and eventually reach, the Promised Land.</li>
+<li>Central to the Passover meal are the great events described in the Bible in the book of Exodus.</li>
+<li>One of the high points of the meal comes when the youngest person present at the table asks why the meal is eaten. The response comes in the form of a reading from the haggadah.</li>
+</ul>
+
+</div>
+</div>
+</div>
+<div id="outline-container-orga45ba7a" class="outline-3">
+<h3 id="orga45ba7a">3 min Seder</h3>
+<div class="outline-text-3" id="text-orga45ba7a">
+<p>
+<img src="http://ourbksocial.com/wp-content/uploads/2018/03/Passover_Seder_Dinner_at_the_White_House_2011-1000x600.jpg" alt="Passover_Seder_Dinner_at_the_White_House_2011-1000x600.jpg" />
+3 min. video: <a href="https://youtu.be/rfWtBpR1VzA">https://youtu.be/rfWtBpR1VzA</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5e5e0ec" class="outline-3">
+<h3 id="holy-communion">Holy Communion</h3>
+<div class="outline-text-3" id="text-holy-communion">
+<ul class="org-ul">
+<li><b>Holy Communion</b> in Christianity functions in ways that are analogous to the <b>Passover</b> in Judaism.</li>
+<li>The various Christian communities give diverse interpretations of the significance of communion.</li>
+<li>However, all Christian groups agree that when they celebrate the communion meal, they are reenacting events connected with Jesus of Nazareth.</li>
+</ul>
+
+<div class="notes">
+<p>
+
+</p>
+
+<p>
+Note: - The gospels of Matthew, Mark, and Luke, as well as the letter of Paul known as First Corinthians, describe a ceremony involving the use of bread and wine, which are given significance through words attributed to Jesus. - Holy Communion is a ritual reenactment of this story. - Like the Passover meal, the celebration of Holy Communion carries a meaning that the community of believers, long after the event itself, wishes to restate.
+</p>
+
+</div>
+</div>
+</div>
+<div id="outline-container-org9c3fe6d" class="outline-3">
+<h3 id="other-examples-of-religious-rituals">Other examples of Religious Rituals</h3>
+<div class="outline-text-3" id="text-other-examples-of-religious-rituals">
+<ul class="org-ul">
+<li>In <b>Shi'a Islam</b>, the “passion plays” of the month of <b>Muharram</b> reenact the martyrdom of <b>Husayn</b> at Karbala in 692 C.E.</li>
+<li>In Shinto, the rituals performed at shrines throughout Japan reenact the conflict between the sun goddess and the god of storms</li>
+<li>thus the participants themselves are a part of the struggle to bring order to the world</li>
+</ul>
+<div class="notes">
+<p>
+Note: - In <b>Shi'a Islam</b>, the “passion plays” of the month of <b>Muharram</b> reenact the martyrdom of <b>Husayn</b> at Karbala in 692 C.E. and draw members of the Shi'a community into an eternal drama in which good suffers in its struggle with evil. - In Shinto, the rituals performed at shrines throughout Japan reenact the conflict between <b>Amaterasu</b> (the sun goddess) and <b>Susanoo</b> (the god of storms) and enable participants to feel themselves a part of the struggle to bring order to the world.
+</p>
+
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org209863f" class="outline-2">
+<h2 id="org209863f">Rites of Passage</h2>
+<div class="outline-text-2" id="text-org209863f">
+<div class="notes">
+<p>
+<a href="https://dribbble.com/shots/4766210-Rite-of-Passage">https://dribbble.com/shots/4766210-Rite-of-Passage</a>
+</p>
+
+<p>
+Rite of Passage
+by James OBrien
+</p>
+
+<p>
+An illustration for Notre Dame magazine for a story about rites of passage.
+</p>
+
+</div>
+</div>
+
+<div id="outline-container-orge2b9c5f" class="outline-3">
+<h3 id="rites-of-passage">Rites of Passage</h3>
+<div class="outline-text-3" id="text-rites-of-passage">
+<ul class="org-ul">
+<li>Rites of passage describe those ceremonies associated with the transitional moments in a person's life.</li>
+<li>All religions provide rituals of some sort or another</li>
+<li>Rituals may transformed to be for <b>nominal</b> believers to observe customs of tradition (e.g. weddings)</li>
+</ul>
+<p>
+<b>All rites of passage have three phases:</b> 
+</p>
+<ul class="org-ul">
+<li>separation,</li>
+<li>liminal, and</li>
+<li><p>
+reintegration.
+</p>
+
+<div class="notes">
+<p>
+
+</p>
+
+<p>
+Note: - All religions provide rituals and/or theological rationales to commemorate such moments. - Even nominal believers who feel no great need to observe most of the customs of a tradition may still turn to religion for rites of passage.
+</p>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3749792" class="outline-3">
+<h3 id="org3749792">Stages</h3>
+<div class="outline-text-3" id="text-org3749792">
+<div class="notes">
+<p>
+Van  Gennep  viewed  rites  of  passage  as  an  essential  ingredient  in  the  rejuvenation  of  society because they highlight and validate changes in a person’s status. Hence, he argues that they serve to preserve social stability by easing the transition of cohorts of individuals into new statuses;  in  part,  this  transition  is  a  social  acknowledgement  of  aging.  Furthermore,  as  individuals  are  born  and  age,  their  positions  in  society  change.  In  the  absence  of  rites  of  passage, he says, society would be fraught with conflict as individuals either struggle to assert new social statuses or resist these statuses. Figure 1 Diagrammatic Summary from Les Rites de Passage (diagram by author) Literal: The Territorial Passage:  A  frontier,  an  imaginary  line  connecting  milestones  marked  by  an  element  of  nature  or  landmark,  has  a  physically  and  magico-religious  quality  (Gennep,  1960;  p.  18).A  person  passing through a frontier finds him or herself in a special situation for a certain length of time; they wavering between two worlds. It is this situation which is designated as a liminal transition.  This symbolic and spatial area of transition may be found in a more or less pronounced form in 
+</p>
+
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org6729c0e" class="outline-2">
+<h2 id="types-of-rituals">Types of rituals</h2>
+<div class="outline-text-2" id="text-types-of-rituals">
+<ul class="org-ul">
+<li>Birth rituals</li>
+<li>Initiation rites</li>
+<li>in Postmodern Society?</li>
+<li>Mourning &amp; Death</li>
+<li>temporal rites &amp; celebrations</li>
+</ul>
+
+<div class="notes">
+<p>
+
+</p>
+
+<p>
+Note: - Birth rituals - Rites of Initiation - Rituals of Mourning &amp; Death - Rites of passage of time, e.g. cycle of the year, cycle of seasons
+</p>
+
+</div>
+</div>
+<div id="outline-container-org61726ae" class="outline-3">
+<h3 id="birth-rituals">Birth Rituals</h3>
+<div class="outline-text-3" id="text-birth-rituals">
+<ul class="org-ul">
+<li>actions connected with newborns and their parents</li>
+
+<li>e.g. circumcision rituals for males</li>
+
+<li>baptism in some Christian communities</li>
+
+<li><p>
+Hindus rites initiating the male into the duties of his caste
+</p>
+<div class="notes">
+<p>
+    
+</p>
+<ul class="org-ul">
+<li>Although some traditional cultures actually ritualize the moment of birth, “birth rituals” usually refer to rites connected to the newborn and its parents.</li>
+<li>For Jews and Muslims, circumcision initiates male children into the religious community.</li>
+<li>In Christian communities, baptism makes the child a member of the Christian church.</li>
+<li>Hindus use a ritualized feeding to initiate a male member into the duties of his caste.</li>
+<li>Similar meanings are given to birth rituals in the various religious traditions, even though the forms are quite diverse.</li>
+<li>People celebrate the safe passage of the infant from the womb into the world; they welcome him or her into the family; they give the child a name; they pay homage to the creative power of the sacred.</li>
+</ul>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org37734b6" class="outline-3">
+<h3 id="rituals-of-initiation">Rituals of Initiation</h3>
+<div class="outline-text-3" id="text-rituals-of-initiation">
+<ul class="org-ul">
+<li>Initiation rites celebrate and symbolize "passages" e.g. childhood to adulthood</li>
+<li><p>
+outlines of the rites sort into 3 parts
+</p>
+
+<ol class="org-ol">
+<li>segregation from the larger group</li>
+<li>ritual actions</li>
+<li>reentry into group in the new state</li>
+</ol>
+
+<div class="notes">
+<p>
+    
+</p>
+<ul class="org-ul">
+<li>Rituals of initiation celebrate and symbolize the passage of a person from childhood into adulthood.</li>
+<li>While the specifics of this rite varied in different cultures, the outlines of the ceremony remained rather constant:
+
+<ul class="org-ul">
+<li>ritual segregation from the larger group and some form of testing</li>
+<li>the actual ceremonies of initiation</li>
+<li>reentry into the group as a recognized adult</li>
+</ul></li>
+</ul>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7f54de6" class="outline-3">
+<h3 id="initiation-rites-in-postmodern-society">Initiation Rites in Postmodern Society</h3>
+<div class="outline-text-3" id="text-initiation-rites-in-postmodern-society">
+<ul class="org-ul">
+<li><p>
+contemporary passage into "adulthood" &#x2013; ??
+</p>
+<div class="notes">
+<p>
+    
+</p>
+<ul class="org-ul">
+<li>In contemporary society, many young people go through a traditional rite of passage, but the “adults” are not really adults for some time after their “passage.”</li>
+<li>Today, the most common ritual of initiation is marriage.</li>
+<li>Many elements of the marriage rite hearken back to ancient rituals.</li>
+</ul>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org44d68b9" class="outline-3">
+<h3 id="rituals-of-mourning-and-death">Rituals of Mourning and Death</h3>
+<div class="outline-text-3" id="text-rituals-of-mourning-and-death">
+<ul class="org-ul">
+<li>American way of death?</li>
+
+<li>ritual of the <b>mourning process</b></li>
+
+<li>burial rites: e.g. Taoist, Hindu, etc.</li>
+</ul>
+
+<ul class="org-ul">
+<li>Funeral rites are intended to accomplish different ends in different cultures.</li>
+<li>To aid the spirits of the dead to journey through the afterworld either by providing symbolic gifts for them (ancient Egyptians and native peoples of North America).</li>
+<li>To provide living “guides” for the dead (Taoism).</li>
+<li><p>
+To help the souls of the dead to purge sin (Roman Catholicism and Orthodoxy).
+</p>
+
+<div class="notes">
+<p>
+    
+</p>
+<ul class="org-ul">
+<li>Different religious traditions ritualize the mourning process in various ways.
+
+<ul class="org-ul">
+<li>Taoist rites include an elaborate ritual involving an enactment of the soul's journey into the underworld and its rescue and delivery into heaven by ancestral spirits.</li>
+</ul></li>
+
+<li>Many burial rites symbolize the relationship of human beings to the natural world.
+
+<ul class="org-ul">
+<li>Pious Hindus in India cremate their dead and consign the ashes to the river Ganges as a sign of the never-ending cycle of life and death.</li>
+</ul></li>
+</ul>
+
+</div></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orga04edef" class="outline-3">
+<h3 id="temporal-rites-and-celebrations">Temporal Rites and Celebrations</h3>
+<div class="outline-text-3" id="text-temporal-rites-and-celebrations">
+<ul class="org-ul">
+<li>observance of cycles of time</li>
+
+<li>hunter/gatherers and farmers the seasons</li>
+
+<li><p>
+modern culture?
+</p>
+
+<div class="notes">
+<p>
+    
+</p>
+<ul class="org-ul">
+<li>The observance of cycles of time has been a central characteristic of most, if not all, historic religious traditions.</li>
+<li>For people who hunted, gathered, or planted, the cycle of the seasons was crucial to life. As a result, great celebrations and rituals were associated with the change of the seasons.</li>
+<li>Even in modern industrial societies, many of the great festivals continue to take place in conjunction with the change of the seasons.</li>
+</ul>
+
+</div></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org977db83" class="outline-2">
+<h2 id="org977db83">Religious Meanings of Ritual</h2>
+<div class="outline-text-2" id="text-org977db83">
+<ul class="org-ul">
+<li>Ritual is so closely identified with formal worship that one can generally say that the ends of ritual are the ends of worship.</li>
+<li>Traditionally speaking, worship promotes one of these four ends or purposes, or a combination of them:
+
+<ul class="org-ul">
+<li>Adoration</li>
+<li>Thanksgiving</li>
+<li>Petition</li>
+<li>Penance/purification</li>
+</ul></li>
+</ul>
+
+<div class="notes">
+<p>
+
+</p>
+
+<ol class="org-ol">
+<li>Adoration
+
+<ul class="org-ul">
+<li>Basically, adoration means acknowledgment of the sovereignty of the Sacred over the person.</li>
+<li>Adoration means the acknowledgment that one is not self-sufficient, but dependent.</li>
+<li>In religions with a personal, transcendent God, there are basic ritual gestures assumed in moments of prayer that dramatically illustrate the concept of adoration.</li>
+<li>In religions without a transcendent deity, the focus is on the search for enlightenment and the primary gesture of adoration is meditative.</li>
+</ul></li>
+
+<li>Thanksgiving
+
+<ul class="org-ul">
+<li>Because one of the basic insights of many religious traditions is that the world and all its bounty flow from the world of the sacred, it is only fitting that such traditions emphasize the need to acknowledge that gift.</li>
+<li>The most common form of thanksgiving is the ritual act of giving a gift. Such donations may run from the formal act of a sacrifice, to the leaving of a gift at an altar or shrine</li>
+</ul></li>
+
+<li>Petition</li>
+
+<li>Penance / Purification</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div id="outline-container-org1cdf24f" class="outline-2">
+<h2 id="examples-from-around-the-world">Examples from around the world</h2>
+<div class="outline-text-2" id="text-examples-from-around-the-world">
+</div>
+
+<div id="outline-container-org54be9bf" class="outline-3">
+<h3 id="male-initiation">Male initiation</h3>
+<div class="outline-text-3" id="text-male-initiation">
+<ul class="org-ul">
+<li><a href="http://video.nationalgeographic.com/video/benin_fulaniinitiation">http://video.nationalgeographic.com/video/benin_fulaniinitiation</a>
+(4:34 min)</li>
+<li><p>
+<a href="http://www.artofmanliness.com/2010/02/21/male-rites-of-passage-from-around-the-world/">http://www.artofmanliness.com/2010/02/21/male-rites-of-passage-from-around-the-world/</a>
+</p>
+
+<div class="notes">
+<p>
+
+Note: Benin boys move toward manhood by enduring sting of a whip
+</p>
+
+<p>
+<b>Vanuatu Land Diving</b> (4 min)
+</p>
+
+<p>
+Vanuatu Land Diving male rite of passage
+</p>
+
+<p>
+Bungee jumping is for wusses&#x2026; at least compared to the men who live in Vanuatu, a small island nation in the middle of the South Pacific. Here the men take place in a yearly harvest ritual called Land Diving.
+</p>
+
+<p>
+<b>Hamar Cow Jumping</b>
+</p>
+
+<p>
+hamar cow jumping photo male rite of passage
+</p>
+
+<p>
+Imagine sitting down with your girlfriend's dad to ask for his daughter's hand in marriage. You're nervous. Sweat gathers on your forehead. You make small talk, but finally manage to get the question out while your voice cracks.
+</p>
+
+<p>
+The dad responds, “Sure! But you'll have to jump over some cows first.”
+</p>
+
+<p>
+<b>The Ancient Spartan Helot Killing</b>
+</p>
+
+<p>
+Ancient Spartan Helot Killing male rite of passage
+</p>
+
+<p>
+For ancient Spartans, becoming a soldier was the only way one could be recognized as a man. Military training began at age seven when boys would be taken from their families and placed in the Agoge system. For the next 10 years Spartan boys learned the skills necessary to become a trained killing machine.
+</p>
+
+<p>
+<b>Satere-Mawe Bullet Ant Glove</b>
+</p>
+
+<p>
+Satere-Mawe Bullet Ant Glove male rite of passage (2:27 min)
+</p>
+
+<p>
+Deep in the heart of the Brazilian Amazon lives the Satere-Mawe tribe. To become a man in the Satere-Mawe, a boy must stick his hand in a glove woven with bullet ants and withstand their stings for over 10 minutes without making a noise.
+</p>
+
+<p>
+<b>Maasai Warrior Passage</b>
+</p>
+
+<p>
+Maasai Warrior boys male rite of passage (5:50 min)
+</p>
+
+<p>
+The Maasai of Kenya and Tanzania have a series of rites of passage that carry boys into manhood. Every 10 or 15 years a new warrior class will be initiated into the tribe. Boys between the ages of 10 and 20 are brought together from all across the country. Dozens of houses are built that will serve as the place of initiation. The night before the ceremony, the boys sleep outside in the forest. At dawn, they return to the little makeshift homestead for a day of singing and dancing. They drink a mixture of milk, cow's blood, and alcohol and eat piles and piles of meat. After the festivities, boys who are of age (12-16) are ready to be circumcised.
+</p>
+
+<p>
+<b>Mandan Hook Hanging</b>
+</p>
+
+<p>
+Mandan indians Hook Hanging male rite of passage
+</p>
+
+<p>
+Native American tribes each had their own unique coming of age rituals for the men in the tribe. But few were as intense as that of the Mandans. Before his rite-of-passage, a Mandan boy fasted for 3 days to cleanse his body of impurities. Then, on the day of the ritual, elders of tribe would pierce the boy's chest, shoulder, and back muscles with large wooden splints. Ropes, which extended from the roof of a hut, were then attached to the splints, and the young man was winched up into the air, his whole body weight suspended from the ropes. Despite the pain, the boy was not to cry out in pain. While hanging in the air, more splints were hammered through his arms and legs. Skulls of his dead grandfather and other ancestors were placed on the ends of the splints.
+</p>
+
+<p>
+<b>Sambia of Papa New Guinea</b>
+</p>
+
+<p>
+Sambia Papa New Guinea male rite of passage
+</p>
+
+<p>
+In the small country of Papau New Guinea, over 1,000 different culture groups exist. Among them is the Sambia tribe, a group with perhaps the most insane rite of passage into manhood in the world.
+</p>
+
+<p>
+The initiation begins at age seven with the separation of the boy from the mother. The boy will spend the rest of his young life only in the presence of men in an all male hut. The gender separation is taken to such extremes that boys and women use different walking paths around the village. &#x2026;
+</p>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6541537" class="outline-3">
+<h3 id="female-initiation">Female initiation<a id="orgheadline2"></a></h3>
+<div class="outline-text-3" id="text-female-initiation">
+<ul class="org-ul">
+<li>apache women's initiation (4:30):
+<a href="https://video.nationalgeographic.com/video/us-apachegirl-pp">https://video.nationalgeographic.com/video/us-apachegirl-pp</a> at
+youtube: <a href="https://youtu.be/5B3Abpv0ysM">https://youtu.be/5B3Abpv0ysM</a></li>
+<li><p>
+Women's Bwiti Full Initiation Ceremony in Gabon, Africa February
+2013: <a href="https://youtu.be/XWnE-yoQ02I">https://youtu.be/XWnE-yoQ02I</a> (2 min)
+</p>
+
+<div class="notes">
+<p>
+
+Note: Gabon, Africa February 2013 Women's Bwiti Initiation in Moukoumou village. This was a dancing ritual that took place after a whole night of ceremony, still going strong the following morning and through most of the day. Iboga House took staff and students to the village for a full initiation and to film a documentary about iboga.
+</p>
+
+</div></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: March 8, 2020</p>
+<p class="author">Author: Dale Hathaway</p>
+<p class="date">Created: 2020-03-09 Mon 13:16</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

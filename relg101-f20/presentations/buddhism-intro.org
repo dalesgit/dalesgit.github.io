@@ -1,0 +1,253 @@
+#+Author: Dale Hathaway
+#+Title: Buddhism 101 
+#+Date:2018-02-19 Mon 
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1  num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+*#+REVEAL_THEME: sky	
+#+REVEAL_ROOT: ../../reveal.js
+
+ Timeline
+
+[[https://www.preceden.com/timelines/274460-buddhism---hinduism]]
+
+
+* Axial Age: Classical Hinduism
+-  Transformations of thought in the Axial Age (c. 800--200 B.C.E.) led
+   to the re-evaluation of Vedic ritual and new ideas about the nature
+   of human existence.
+#+ATTR_REVEAL: :frag (appear)
+-  Deeper spiritual questions led to the examination of human nature and
+   the possibility of an *afterlife*.
+-  (/This evolution in Indian religion was roughly contemporaneous with similar developments in other civilizations, including ancient Greece, China, Mesopotamia, and Israel./)
+-  The function of religion changed from that of *cosmic maintenance* to
+   one of *personal enlightenment* and transformation.
+#+REVEAL: split
+-  Classical Hinduism established the central problem of human existence
+   for Hindus -- *samsara*, the cycle of continual *transmigrations of
+   the soul*.
+#+ATTR_REVEAL: :frag (appear)
+-  *Karma*, even good *karma*, keeps a person bound to the cycle of
+   transmigration. One path the Hindu tradition offers for the
+   attainment of *moksha*, or ultimate release, is the path of wisdom.
+#+REVEAL: split
+-  The path of wisdom found in the Axial Age, when the most important
+   Hindu responses to the anxieties about death and rebirth were
+   recorded in a collection of texts called the *Upanishads*. The oldest
+   of the *Upanishads* was probably composed between 800--400 B.C.E.,
+   but actually written down much later.
+#+ATTR_REVEAL: :frag (appear)
+-  Modern Hinduism has had to face challenges brought by the advent of
+   Islam and Western culture.
+#+BEGIN_NOTES
+Note: Both incursions into India have left profound and lasting imprints
+on Hinduism.
+#+END_NOTES
+
+* Kinds of Stories 
+**  Booker's 7 basic types of story plots
+<https://tobedwithatrollope.wordpress.com/2007/12/11/the-seven-basic-plots-wh-we-tell-stories-by-christopher-booker/>
+***  1-2
+- *Overcoming the Monster* — Stories like Beowulf, ‘Little Red Riding Hood’, Jaws, and many of the James Bond films, where a hero must defeat a monster and restore order to a world that has been threatened by the monster’s presence.
+#+ATTR_REVEAL: :frag (appear)
+- *Rags to Riches* — These stories feature modest, generally virtuous but downtrodden characters, who achieve a happy ending when their special talents or true beauty is revealed to the world at large. Includes any number of classics such as ‘Cinderella’, David Copperfield, and the Horatio Alger novels.
+***  3-4
+- *The Quest* — A hero, often accompanied by sidekicks, travels in search of a priceless treasure and fights against evil and overpowering odds, and ends when he gets both the treasure and the girl. The Odyssey is a classic example of this kind of story.
+#+ATTR_REVEAL: :frag (appear)
+- *Voyage and Return* — Alice in Wonderland, Robinson Crusoe on his desert island, other stories of normal protagonists who are suddenly thrust into strange and alien worlds and must make their way back to normal life once more.
+***  5-7
+- *Comedy* — Not always synonymous with humour. Instead, the plot of a comedy involves some kind of confusion that must be resolved before the hero and heroine can be united in love. Think of Shakespeare’s comedies, The Marriage of Figaro, the plays of Oscar Wilde and Gilbert and Sullivan, and even War and Peace.
+#+ATTR_REVEAL: :frag (appear)
+- *Tragedy* — As a rule, the terrible consequences of human overreaching and egotism. The Picture of Dorian Gray, Julius Caesar, Anna Karenina…this category is usually self-evident.
+- *Rebirth* — The stories of Ebeneezer Scrooge and Mary Lennox would fall into this basic plot type, which focuses on a threatening shadow that seems nearly victorious until a sequence of fortuitous (or even miraculous) events lead to redemption and rebirth, and the restoration of a happier world.
+*** In group consider 
+In Which of these categories would you place Siddhartha? Why?
+---------------
+- Overcoming the monster
+- Rags to Riches
+- The Quest
+- Voyage and Return
+- Comedy
+- Tragedy
+- Rebirth
+* Buddhism 101
+** Introduction to Buddhism
+   :PROPERTIES:
+   :reveal_background: https://www.toonpool.com/user/1688/files/buddhist_compliment_321119.jpg 
+   :reveal_background_size: 700px
+   :reveal_background_trans: slide
+   :END:
+
+** Buddhism
+   :PROPERTIES:
+   :CUSTOM_ID: buddhism
+   :END:
+
+| Vocabulary           |              |             |         |
+|----------------------+--------------+-------------+---------|
+| bodhisattva          | Confucianism | Non-duality | Pa'a    |
+| Dharma (Pali Dhamma) | Emptiness    | Pali        | Samadhi |
+| Hinayana             | Karma        | Shinto      | Sila    |
+| Mahayana             | Mandala      | Soto School | Stupa   |
+| Mantra               | Nembutsu     | Tantra      | Taoism  |
+| Nirvana              | Theravada    | Zen         | Veda    |
+
+** Introduction
+   :PROPERTIES:
+   :CUSTOM_ID: introduction
+   :END:
+
+- During its 2,500-year history, from the time of the Buddha to the
+  present day, Buddhism has grown from a tiny religious community in
+  northern India into a movement that now spans the globe.
+#+ATTR_REVEAL: :frag (appear)
+- the tradition begins simply with a *human being -- Siddhartha
+  Gautama* who found a solution to the problem of human suffering.
+- Buddhists focus on his experience, and they *deny the existence of a
+  single, almighty God.*
+- The most basic Buddhist expression of faith is called the triple
+  refuge:
+
+#+ATTR_REVEAL: :frag (appear)
+    - I take refuge in the *Buddha*;
+    - I take refuge in the *Dharma* [ /the Buddhas teaching/ ];
+    - I take refuge in the *Samgha* [ /the community of the Buddhas
+      followers/ ].
+#+BEGIN_NOTES
+Note: The Buddhist tradition will challenge us to look in new ways at
+some basic religious questions: What is ultimate reality? How can I know
+it? And does it love me? Many religious traditions emphasize the
+importance of an immortal soul. This is not so in Buddhism.
+
+#+END_NOTES
+
+
+
+** Buddha
+   :PROPERTIES:
+   :CUSTOM_ID: buddha
+   :END:
+
+-  The doctrine of reincarnation or rebirth is known as *samsara*
+   (literally, /wandering/). Samsara was not considered a pleasant
+   prospect. For many people, it was not an opportunity as much as it
+   was a burden, and they tried to find a way out.
+-  The release from *samsara* is found in *moksha*
+-  Four Noble Truths are:
+#+ATTR_REVEAL: :frag (appear)
+   1. the truth of suffering (*Gurkha*): /all is suffering/
+   2. the truth of the arising of suffering: /it is from desire/
+   3. the truth of the cessation of suffering (also known as *nirvana* or
+      *nibbana*): /i.e. cease from desire/
+   4. the truth of the path that leads to the cessation of suffering: /via
+      8-fold path/
+#+BEGIN_NOTES
+Note: Buddhists have a rich tradition of stories and legends about the
+Buddha. The stories begin with the Buddhas previous lives. Buddhist
+tradition arose at a time when the doctrine of reincarnation was a basic
+assumption in Indian religious life.
+
+#+END_NOTES
+
+
+** The path to nirvana is divided into eight categories:
+   :PROPERTIES:
+   :CUSTOM_ID: the-path-to-nirvana-is-divided-into-eight-categories
+   :END:
+#+ATTR_REVEAL: :frag (appear)
+- right understanding,
+- right thought,
+- right speech,
+- right action,
+- right livelihood,
+- right effort,
+- right mindfulness,
+- right concentration.
+*** 
+*The logic might be expressed in 3 categories:*
+
+-  *sila*, or moral conduct;
+-  *samadhi*, or mental concentration; and
+-  *pa-a*, or wisdom
+
+#+BEGIN_NOTES
+Note: Buddhists have a rich tradition of stories and legends about the
+Buddha. The stories begin with the Buddhas previous lives. Buddhist
+tradition arose at a time when the doctrine of reincarnation was a basic
+assumption in Indian religious life. , or wisdom.
+
+-  The contents of the Buddhist scriptures often are quite simple and
+   pragmatic.
+
+--------------
+
+#+END_NOTES
+ 
+** Mahayana arose as reform ca. beginning of common era
+   :PROPERTIES:
+   :CUSTOM_ID: mahayana-arose-as-reform-ca.-beginning-of-common-era
+   :END:
+
+-  spread to China, Tibet, Japan, Korea, Vietnam
+#+ATTR_REVEAL: :frag (appear)
+-  One of the Mahayana traditions most important innovations is the
+   *bodhisattva* ideal. A *bodhisattva* is a Buddha-to-be or future
+   Buddha who does not attempt to go straight to *nirvana* but returns
+   to this world to help others along the path.
+-  *emptiness*: Hinduism there is an eternal self. Buddhism there is
+   “no-self”
+-  *non-duality* (physical / spiritual)
+
+
+
+** Politics and Buddhism
+   :PROPERTIES:
+   :CUSTOM_ID: politics-and-buddhism
+   :END:
+
+-  *Complex histories of relationship between politics and Buddhism
+   throughout Asia*
+#+ATTR_REVEAL: :frag (appear)
+-  Played out over a millenia throughout Asia
+
+#+ATTR_REVEAL: :frag (appear)
+     - Burma / Myanmar
+     - Tibet
+     - China
+     - Japan
+
+
+
+** Chinese adoption of Buddhism blended with an adaptation of Chinese Taoism
+
+The Tao that can be told of is not the eternal Tao; The name that can be
+named is not the eternal name. The Nameless is the origin of Heaven and
+Earth; The Named is the mother of all things.\\
+The Tao is empty like a bowl.\\
+It may be used but its capacity is never exhausted.
+
+
+
+** Quick overview of Buddha
+   :PROPERTIES:
+   :CUSTOM_ID: quick-overview-of-buddha
+   :END:
+
+https://youtu.be/ZTI3P9zx-oY
+
+
+#+BEGIN_NOTES
+formerly used
+
+
+[[https://youtu.be/YpVlbPeX37A]]
+
+#+END_NOTES

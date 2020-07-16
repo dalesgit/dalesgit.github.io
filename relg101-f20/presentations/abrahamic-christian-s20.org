@@ -1,0 +1,157 @@
+#+Author: Dale Hathaway
+#+Title: Christianity: 101
+#+Date: Week of April 12, 2020
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+
+
+
+** Distinctive aspects of Christianity
+
+- [[http://www.businessinsider.com/infographic-map-world-religions-2012-4][Circle graph of world religions]]
+- *Proselytizing*: Built on premise of expansion of Judaism *(evangelize)*
+- A religion that appropriated another's *sacred text*
+- *Prophetic, Sacramental*, and *Mystical*
+- *Sacred text* not essentially in original language (*translations*)
+- Anchored in *history* i.e. linear history that is fulfilled, brought to perfection, 
+- *progress* is built into the foundation of the religion
+- *4 gospels* ,and many other issues, leads to a *critical* reading of scripture
+
+
+ #+BEGIN_notes
+
+ Note:
+     - cf. we lived in Iran, we would think that Shia Islam was the only kind there was
+     - living in US until recently it seemed as if Protestant Christianity was the only kind
+ #+END_notes
+
+
+*** From Judaism to Roman Empire
+
+-  Jesus was not the first Christian. He was a Jew.
+-  Paul's writing were the earliest testimony to the emerging Jewish sect
+-  Paul established the pattern of *evangelism*
+-  Only after the destruction of the temple by the Romans and dispersion (Diaspora) of the Jews did synagogue and church (*ecclesia*) separate
+
+#+begin_notes
+
+Note:
+#+end_notes
+
+*** From Old Testament to "Holy Bible"
+
+-  All of the writers of the NT understood the Bible to be what we would call the Old Testament
+-  consensus on what was in the New Testament was not reached until 4th-5th c.
+-  while the Rabbis pruned their Hebrew Bible, Christians continued to use the Jewish Bible from 300 BCE
+-  Reformation (16th c. and following) brought new standards for what was in the Bible
+#+begin_notes
+
+Note: - leading to divisions still to this day about what is in the
+Bible
+
+#+end_notes
+
+*** Sacred Quest ch. 3: Appearance of the Sacred
+
+Christianity displays each of the 3 patterns from /Sacred Quest/:
+
+1. Prophetic
+2. Sacramental
+3. Mystical
+
+
+#+BEGIN_notes
+Note:
+    - **Prophetic**; absorbing the OT prophets, John the Baptist as forerunner of Jesus, Jesus as the Prophet who is to come
+    - **Sacramental** priests who preside over the appearance of sacred in ordinary material things: 2 primary sacraments of Christianity
+    - **Mystical** from the transfiguration on the mountain to monks in the desert to spiritual writers through the centuries, growth of inner life is essential aspect
+#+END_notes
+
+
+*** Overlap of 2 religions
+- From the beginning of Christianity there has been conflict and division with Judaism
+- in teaching the Old Testament I came to realize that that text is the only one I am aware of that is sacred to two different religions
+- interplay of how Jews interpret the text and how Christians approach it differently
+
+
+#+BEGIN_notes
+
+Note:
+    e.g. Rabbis knowing from 
+#+END_notes
+
+
+
+*** Anchored in *history*
+
+-  eschatological
+-  fulfillment of linear history (progress)
+-  controversies over historical data are somehow peculiar to a
+   particular brand of Christianity
+-  importance of rise of historical / critical
+
+
+*** From Jesus to Christ
+
+-  [[https://youtu.be/vxlpdDrj2Wg][Trailer]]
+-  Trailer focusing on Jesus' [[https://youtu.be/FAa5vhLLhU0][teaching]]
+-  Quotes from a [[http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus/searching.html][PBS]] series on the early centuries of Christianity.
+-  [[http://www.pbs.org/wgbh/pages/frontline/shows/religion/view/][Viewers guide with questions:]]
+
+
+#+BEGIN_notes
+
+Note:
+-  Was available to view (4 hours) at [[https://youtu.be/UulusbcS8V0][Youtube]]
+    - Part 1: [Judaism-Rome shaped Jesus' life](https://youtu.be/kZPKCDOeyMg?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+    - Part 2: [Beginnings of Jesus movement](https://youtu.be/NB1WXhoEA0o?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+    - Part 3: [first attempts to write life of Jesus](https://youtu.be/S0pfQ2ZBe2Q?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK)
+    - Part 4: [Challenges of the spread of Christianity](https://youtu.be/-_jY2E8I_mA?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK>)
+#+END_notes
+
+
+*** *4 gospels* (and others)
+
+- the "good news" were each written to bring about new followers
+- relatively few details that are common across all 4 gospels
+- *harmonizing* vs. *parallel*
+- Some places to explore: http://www.gospelparallels.com/  http://sites.utoronto.ca/religion/synopsis/
+
+
+** Origins
+
+-  Paul established much of groundwork of early Christianity, but he's not the only one
+-  Bishops, presbyters, deacons and growth of Orthodox Church
+-  reputation as pacifist, care for widows and orphans, unwillingness to worship idols
+-  in the 4th c. CE persecution pivoted to *status quo* after Emperor Constantine
+-  need for *uniformity* led to creeds and orthodoxy, establishing canon of NT, theology, liturgical practice, etc.
+
+
+** Theology to Creeds
+
+1. *Orthodox* vs. *Orthopraxis*
+2. *Heresy* repressed, censorship, persecution
+3. *Creed*: "I believe ..."
+
+
+** History overview 
+
+- "Dark Ages": slow recovery of classical thought, science, literature
+- Rise of Islam: spreading advanced knowledge from engineering, medicine, and more
+- Dissolution of Roman Empire
+- Competition with local expressions of Christianity (Celtic)
+- splintering of Protestantism
+- religious wars
+- from pacifism to blessing battleships
+- current struggle for place of Christianity in a world of diversity

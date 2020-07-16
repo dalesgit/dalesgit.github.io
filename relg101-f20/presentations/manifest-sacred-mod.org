@@ -1,0 +1,216 @@
+#+Author: Dale Hathaway
+#+Title: Definitions: The Manifestation of the Sacred
+#+Date: Feb. 3, 2020 
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:0 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js/
+#+REVEAL_THEME: beige
+
+* A Notion of Sacred Reality
+#+ATTR_REVEAL: :frag (appear)
+- *sacredness* provides a *boundary* between what is religious and what is not
+- the *sacred* is other than *ordinary*
+
+#+begin_notes
+  - A notion of sacred reality establishes a boundary between religion and non-religion.
+  - “Sacred” indicates a reality that is somehow distinct, “set apart,” “other” than ordinary.
+  - “Sacred reality” includes the God of the Bible, the Qur’anic Allah, the Brahman of Hinduism, Buddhism’s Nirvana, the kami of Shinto.
+
+#+end_notes
+
+* Manifest in Human Experience
+#+ATTR_REVEAL: :frag (appear)
+- although set apart from *ordinary*, nevertheless it is *experienced, thought about*, and *acted upon* in ordinary life.
+- *manifest in various ways: ritual, persons, and natural phenomena*
+#+begin_notes
+  - Although the sacred is “set apart” from the ordinary, it nevertheless may be experienced, thought about, and acted upon. 
+  - Thus, all religion has to do with “the element of the sacred” manifesting itself in various ways: in rituals, persons, and natural phenomena. 
+    - Muslims = the sacred reality (Allah) is made manifest through prophecy
+    - Buddhists = the goal of Nirvana “comes to life” in the life and teaching of the Buddha
+    - Navaho = the story of the Navaho people makes wisdom available for those who seek harmony between all things.
+
+#+end_notes
+
+* What is Sacred?
+#+ATTR_REVEAL: :frag (appear)
+- *sacred* is complex and varied
+- wide range of *phenomena*
+- value is that *sacred* is not bound to any particular religious tradition
+#+begin_notes
+  - “Sacred” is a complex word because it is used for a wide range of phenomena: places, time, persons, events, and deities.
+  - But, generally, when people speak of something as sacred, they mean to designate the thing in question as “other than ordinary.” 
+  - In the broadest sense of the term, the sacred is the “extraordinary.” 
+  - The value of using the term “sacred” is that it is not tradition specific.
+
+#+end_notes
+
+* Sacred and Profane
+* The Sacred and The Ordinary
+#+ATTR_REVEAL: :frag (appear)
+- *sacred* can be thought of as *the really real*
+- provides *absolute and objective authority*
+- a *different order* than the ordinary life of human beings
+- vehicles of *sacred* can include: stones, trees, the sky, bodies of water, people ... all of whom share in the *distinctive reality*
+
+
+#+begin_notes
+- The sacred can further be characterized in terms of “the real.”
+- The sacred stands for that which provides absolute and objective authority to an otherwise relative and subjective existence. 
+- The sacred consists of an entirely different order than the ordinary life of human beings, but is manifest through ordinary existence.
+- Stones, trees, the sky, bodies of water, various people—all these may be the vehicles of the sacred and thus share in its distinctive reality.
+
+#+end_notes
+* General Concept of the Sacred
+#+ATTR_REVEAL: :frag (appear)
+  - Sacred reality is present wherever something is *real* by 4 criteria:
+#+ATTR_REVEAL: :frag (appear)
+    - it is "set apart" from everything else in the world
+    - it is in some sense beyond human control
+    - it is in some sense vital for the well-being of humans
+    - it orders human existence
+
+
+* Manifestation of the Sacred
+
+* An example 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g3_DkIujgZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Hierophany
+  :PROPERTIES:
+  :reveal_background: http://drive.google.com/uc?export=view&id=0B8ezT0-tUjVZWHpaM1l0RVRpNTA
+  :END:
+** 3 Patterns
+*hierophany* literally means "the appearance of the holy"
+
+ 3 Patterns of Manifestation
+ #+ATTR_REVEAL: :frag (appear)
+ 1. prophetic
+ 2. sacramental
+ 3. mystical
+** 4 Media
+4 Media of Manifestation
+#+ATTR_REVEAL: :frag (appear)
+1. Persons
+2. Objects
+3. Time
+4. Place
+
+#+BEGIN_NOTES
+- revelation of Qur’an
+- enlightenment to Gautama Buddha
+
+#+END_NOTES
+
+***  Persons
+
+ #+ATTR_REVEAL: :frag (appear)
+- persons from the past: Moses, Jesus, Buddha
+- from the present: Jesus, holy men and women
+- from the future: the *Messiah* to come
+ #+begin_notes
+ 
+ - Moses
+ - Buddha as teacher (41 incl. Siddhartha)
+
+ #+end_notes
+
+***  Things
+
+ #+ATTR_REVEAL: :frag (appear)
+ - Qur’an (people of the Book)
+ - tea in Zen Buddhism (45)
+ - Catholic tradition, sacramental bread and wine
+
+***  Time
+
+ #+ATTR_REVEAL: :frag (appear)
+ - participating in the *cosmology* when retelling the narrative
+ - cf. Jewish seder, Christian Eucharist
+
+***  Space
+ #+ATTR_REVEAL: :frag (appear)
+ - Ka’ba
+ - Shinto shrines
+ - *stupa* “burial mound” in Buddhism
+
+*  4 elements of the sacred
+
+#+ATTR_REVEAL: :frag (appear)
+1.  “set apart”
+2.  to some extent beyond the volitional control of human beings
+3.  prominent with respect to human welface
+4.  “determinative of various aspects of human existence” (33)
+
+
+**  Set apart
+
+#+ATTR_REVEAL: :frag (appear)
+- other than ordinary
+- appearing in the ordinary
+- in both *transcendent* and *immanent* religions
+- *different* & *similar*** to everyday life
+
+
+**  Beyond Volitional Control of Humans
+#+ATTR_REVEAL: :frag (appear)
+- eg. of 2 Sam. 6 ff. the *sacred* presence functions almost as a magical talisman
+- while seemingly under human control, it is essentially the power of God not of Israelites / Philistines
+- the *sacredness* of the ark seems to have a life of its own
+
+
+   #+begin_notes
+   
+Uzzah and ark () (30)
+
+- 2 Sam 6
+- fair? just? 
+- the sacred character of the ark seems to have a life of its own, "sovereignty or independence of the ark" (31)
+
+   #+end_notes
+
+
+**  Prominent with respect to human welfare
+
+#+ATTR_REVEAL: :frag (appear)
+- brings peace in the midst of chaos
+- judgment day provides a sense of fairness about the suffering of life
+- Navaho sacred guides to living in harmony with all things
+
+   #+begin_notes
+   
+ Qur'anic justice -- "God's actions and decisions have a tangible impact on the welfare of human beings"
+
+- judgment day as ultimate goal of human life & creation
+- Navaho sacred guides to living in harmony with all things
+
+   #+end_notes
+
+**  Determinative of various aspects of human existence
+
+#+ATTR_REVEAL: :frag (appear)
+- one pursues *practices* that promise peace, Nirvana
+- life of *prayer* brings about Shalom
+- in Buddhism *the self* is the ultimate falsehood
+#+begin_notes
+
+  Practice of Buddhism (34)
+
+
+- One practices Buddhism in order to attain Nirvana
+- “all else is illusion”
+- ultimate falsehood = the self
+- to attain Nirvana is to see the truth
+- *some would combine numbers 3 & 4 above*
+
+#+end_notes
+
+
+

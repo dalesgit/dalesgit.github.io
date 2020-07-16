@@ -1,0 +1,31 @@
+#+Author: Dale Hathaway
+#+Title: Appearance of the Sacred
+#+Date: 2018-01-29 Mon
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:0 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+* World Religions
+** Religions of the World
+
+| http://sorenkerk.com/wp-content/uploads/Pie-chart-of-WoR.jpg |
+| video growth of religions https://youtu.be/AvFl6UBZLv4       |
+
+** Relative size of World religions
+
+
+- The circle graph: http://www.businessinsider.com/infographic-map-world-religions-2012-4 
+
+** An example of the sacred
+
+ https://youtu.be/nrG5Yuwpapc
+
+ http://2.bp.blogspot.com/-aKZNli_hyHU/UMB4wJCWKQI/AAAAAAAANGw/0hor-KYYji0/s1600/Oahu_from_air2.jpg
+

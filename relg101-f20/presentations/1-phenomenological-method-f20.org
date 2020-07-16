@@ -1,0 +1,126 @@
+#+Author: Professor Dale Hathaway
+#+Title: Phenomenological Method 
+#+Date: Fall 2020
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+* Guide to app usage 
+| Key stroke   | Effect                    |
+|--------------+---------------------------|
+| n, space     | next slide                |
+| p            | previous slide            |
+| f            | fullscreen                |
+| esc, o       | overview slide            |
+| m            | toggle menu               |
+|--------------+---------------------------|
+|--------------+---------------------------|
+| audio inlay  | start/stop audio playback |
+
+
+* Homo Reliosus
+
+** Something essentially religious about human beings 
+ #+ATTR_REVEAL: :frag (appear)
+ - Human beings seem to be religious at all times and in all places
+ - The approach used in the text book is a variation of *phenomenological method*
+#+begin_notes
+- many observers through the centuries have assumed that religion was an essential part of what it means to be human
+- observations from the fields of anthropology and sociology in the 20th c. have demonstrated that religious experiences and phenomena pervade cultures around the globe, in all kinds of circumstances
+- a study of humanity entails a study of religion
+- use a *variety of approaches*: texts, behaviors, rituals, meditation, philosophy
+- these varieties of approaches follow methods appropriate to each
+
+ #+end_notes
+
+** Need for caution and clarity in our study
+ - resist *reductionism*
+ - claim: *there is no "purely" religious phenomena*
+ - 4 steps in the method
+
+ #+begin_notes
+ - what is *reductionism*: the saying when all you have is a hammer everything looks like a nail.
+ - often we encounter people in our daily life who have found something that works for them: vegetarians, quiting cigarettes, a new philosophical approach, the latest fad, etc. -- and we hear from them non-stop that their new discovery explains everything
+ - Such is the way *reductionism* works.
+ - classically there are several several "isms" that have sought to explain religion in a reductionist way: psychology, Marxism, sociology, anthropology, etc.
+ - in the mid-20th c. there a concern that students of religion ought to avoid reductionism while taking religious phenomena seriously
+
+
+ #+end_notes
+
+* Phenomenological Method
+#+begin_notes
+ - what do we mean by *phenomena*? Literally the word means: /a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question/.
+
+ #+end_notes
+
+
+** Steps of the method
+1. Gather the data
+2. Search for patterns
+3. Analyze the structure of the patterns
+4. Suggest Generalizations (repeat as needed)
+#+begin_notes
+- the authors outline what they call the *phenomenological method*
+- It is similar to the "scientific method" for those of you familiar with a method of developing and testing hypotheses in science
+- the method doesn't argue from principles to conclusions but rather from evidence and finding patterns in the evidence
+- the same method has sought to take seriously the evidence, the phenomena, and to reduce the impact of the observer
+
+#+end_notes
+** "What is required is perspective" (p. 8)
+From the text we get this example:
+***  A tourist to Pacific island
+
+A North American touring the highlands of New Guinea for a visit to one of the tribes living in the outback might well witness men decorated in bird-of-paradise feathers, nude (save for a penis sheath), covered in ashes, and dancing before a fire at the side of which are pigs bound in vines and banana leaves. His or her first reaction might well be to take some photographs in order to show “the folks back home” some  of the exotic aspects of life among primitive peoples. But this picture can be reversed.
+
+***  A tourist from Pacific island
+Suppose the tribesmen of the outback visit a downtown church on Sunday morning. They observe rows of oddly dressed people (what, after all, is the purpose of a necktie?), notice that some sit while others sing, listen to one person speak at length, and see still others pass plates onto which paper and metal disks are placed. What are these tribesmen to think? Where, after all, are the pigs? The fire? The sacred feathers? In both cases, the observer lacks a sense of perspective and context.
+ 
+*** A lesson
+The lesson is a simple one. It is impossible to get at the intention that lies behind religious behavior unless we have a willingness to *enter sympathetically into the cultural worldview of another person*, at least for a moment.
+    #+begin_notes
+- The method of religious studies seeks to take seriously the human experience of the religious 
+- and at the same to use methods of study that are well-grounded in the methodology of scientific and academic study
+    #+end_notes
+
+
+* Tools Used in the Study Religion
+  :PROPERTIES:
+  :CUSTOM_ID: tools-used-in-the-study-religion
+  :END:
+
+#+ATTR_REVEAL: :frag (appear)
+- Textual :: study sacred texts
+- Historical :: describe origin and development of specific religions
+- Comparative :: compare specific types of religious behaviors, beliefs
+- Philosophical :: philosophical analysis of religious language and arguments
+- Intellectual & Social History :: trace development of religious ideas and institutions over time
+
+#+begin_notes
+- In the pursuit of religious studies there are several areas of particular concern, they include:
+
+  - Language, ancient and modern, cf. translating the Bible -- Quran
+  - historical/critical studies.
+  - comparative religions, anthropology, sociology
+  - philosophical
+  - institutions
+
+
+ Phenomenological Method draws upon all five tools 
+ 
+ - observe and describe religious behaviors, speech, beliefs, etc. from the point of view of religious persons and seeking to identify and understand their intentions by
+ - look for common patterns across different religions and religious experiences.
+ - look for universal meanings in patterns that transcend particular religious contexts and recognize diverse meanings (lack of universal meanings)
+ - Offer Generalizations about religious patterns and about religion itself. Describe the common forms and elements of religious life and may even take the next step to offer theory or general explanation of the meaning of these patterns and the nature of religion.
+
+#+end_notes
+

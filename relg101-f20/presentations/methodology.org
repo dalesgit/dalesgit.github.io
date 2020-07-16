@@ -1,0 +1,126 @@
+#+Author: Dale Hathaway
+#+Title: From Methodology to Definitions
+#+Date: 2018-01-10 Wed
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 2
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_THEME: beige
+** Office Hours
+Have a smile:
+
+https://youtu.be/yQq1-_ujXrM
+*** Complicating life?
+    :PROPERTIES:
+    :reveal_background: http://drive.google.com/uc?id=0B8ezT0-tUjVZa2VrV3JVTm5JeWM
+    :END:
+** Methodology
+*** What is Religion?
+- How would you describe, in religious terms, the following events?  Is one more, or less, religious than the other?  Why?
+#+ATTR_REVEAL: :frag (appear)
+  - A morning prayer service at the National Cathedral.
+  - A political rally that is led by a local pastor, begins with a religious prayer, and concludes with the crowd singing “Gob Bless America.”
+
+*** Brainstorm 
+Gather in groups of 3.
+
+#+ATTR_REVEAL: :frag (appear)
+- Write down at least 5 examples of religious phenomena. These would be religious experiences that either you have yourself experienced or that you know about from other sources.
+- Try to make them as many different kinds of phenomena as you can think of.
+- Now try to find a name for the different kinds of things that you have identified. Group them into categories.
+*** This thing called Phenomenological Method
+
+ A religious phenomenon will only be recognized as such if it is grasped at its own level, that is to say, if it is studied as something religious. To try to grasp the essence of such a phenomenon by means of physiology, sociology, economics, linguistics, art or any other study is false; it misses the one unique and irreducible element in it -- the element of the sacred  (Mircea Eliade, *Patterns in Comparative Religion)*
+
+
+*** Avoiding reductionism 
+while embracing a wide-ranging approach
+
+#+ATTR_REVEAL: :frag (appear)
+- Freud understood the close relationship between the study of psychology and religion. Jung would pursue the same phenomena in a different direction 
+- Marx and Weber and many others have understood the close interconnection between economic (class) analysis and the phenomena of religion  
+- avoiding reductionism while taking seriously the *intentions* of the *homo religiosus* 
+
+
+
+*** "What is required is perspective" (p. 8)
+
+
+ A North American touring the highlands of New Guinea for a visit to one of the tribes living in the outback might well witness men decorated in bird-of-paradise feathers, nude (save for a penis sheath), covered in ashes, and dancing before a fire at the side of which are pigs bound in vines and banana leaves. His or her first reaction might well be to take some photographs in order to show “the folks back home” some  of the exotic aspects of life among primitive peoples. But this picture can be reversed.
+
+**** 
+
+   Suppose the tribesmen of the outback visit a downtown church on Sunday morning. They observe rows of oddly dressed people (what, after all, is the purpose of a necktie?), notice that some sit while others sing, listen to one person speak at length, and see still others pass plates onto which paper and metal disks are placed. What are these tribesmen to think? Where, after all, are the pigs? The fire? The sacred feathers? In both cases, the observer lacks a sense of perspective and context. 
+ 
+**** 
+ 
+   The lesson is a simple one. It is impossible to get at the intention that lies behind religious behavior unless we have a willingness to *enter sympathetically into the cultural worldview of another person*, at least for a moment.
+
+
+***  Tools Used in the Study Religion
+Religious studies is the attempt to study these things, taking *homo religiosus* seriously
+
+#+ATTR_REVEAL: :frag (appear)
+- Textual: study sacred texts 
+- Historical: describe origin and development of specific religions 
+- Comparative: compare specific types of religious behaviors, beliefs 
+- Philosophical: philosophical analysis of religious language and arguments 
+- Intellectual & Social History: trace development of religious ideas and institutions over time 
+
+
+
+***  Phenomenological Method 
+  draws upon all five tools and consists of four steps:
+
+ #+ATTR_REVEAL: :frag (appear)
+ - *Gathering Data*: observe and describe religious behaviors, speech, beliefs, etc. from the point of view of religious persons and seeking to identify and understand their intentions by 
+ - *Search for Patterns*: look for common patterns across different religions and religious experiences. 
+
+**** (cont)
+ #+ATTR_REVEAL: :frag (appear)
+ - *Analysis of Patterns* (for their structures): look for universal meanings in patterns that transcend particular religious contexts and recognize diverse meanings (lack of universal meanings) 
+ - *Offer Generalizations* about religious patterns and about religion itself. Describe the common forms and elements of religious life and may even take the next step to offer theory or general explanation of the meaning of these patterns and the nature of religion.
+
+
+
+** Definitions
+*** A Definition of Religion (1)
+- The terms “religion” and “religious” are used every day to describe:
+#+ATTR_REVEAL: :frag (appear)
+  - places
+  - actions
+  - ways of thinking and feeling
+  - persons or groups who engage in certain rituals
+#+ATTR_REVEAL: :frag (appear)
+- The search for definitions is a search for boundaries; a desire to say that X is religious and Y is not.
+
+
+*** (James Martineau)
+“Religion is the belief in an ever living God, that is, in a Divine Mind and Will ruling the Universe and holding moral relations with mankind” .
+
+
+*** (Friedrich Schleiermacher)
+Religion is the “feeling of absolute dependence” or “the consciousness that the whole of our spontaneous activity comes from a source outside of us” .
+
+
+*** (Anthony Wallace)
+Religion is “a set of rituals, rationalized by myth, which mobilizes supernatural powers for the purpose of achieving or preventing transformations of state in man or nature” .
+
+
+*** (Emile Durkheim)
+ “Religion is only the sentiment inspired by the group in its members, but projected outside of the consciousness that experiences them, and objectified” .
+
+
+*** (James G. Frazer)
+Religion is “a propitiation or conciliation of powers superior to man which are believed to direct and control the course of Nature and of human life” .
+
+
+*** Other possible definitions?
+

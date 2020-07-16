@@ -1,0 +1,213 @@
+#+Author: Dale Hathaway
+#+Title:Sunflower & the Holocaust 
+#+Date: Week of March 30, 2020
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+
+* Sunflower
+
+** Overview
+A Holocaust survivor’s surprising and thought-provoking study of 
+
+- forgiveness, 
+- justice, 
+- compassion, and 
+- human responsibility,
+#+begin_notes
+Note:
+I first became aware of this text from one of my students some years ago. I had used Elie Wiesel's /Night/ as a way of engaging the class in the issues involved in "Evil" and the study of religion. That text had the advantage of being well-known to students and an acknowledged classic.
+
+After my first use of /Sunflower/ I decided that Wiesenthal's text had some distinct advantages itself. Chief among them was that we could begin the study of *evil* through the concept of *forgiveness*. Forgiveness is an experience that is broadly known and experienced from an early age. We experience the difficulty of forgiveness. Our need for forgiveness. The power of forgiveness.
+
+At the same time one must have some awareness of the 20th c. "Holocaust", Judaism and the history of anti-Semitism and the complicity of Christianity in that history of anti-Semitism.
+#+end_notes
+** Wiesenthal ca. 1940-45 & 1982 
+| https://allthatsinteresting.com/wordpress/wp-content/uploads/2019/04/simon-wiesenthal-young.jpg| https://allthatsinteresting.com/wordpress/wp-content/uploads/2019/04/simon-wiesenthal.jpg|
+** Ongoing work of Wiesenthal 
+- after the war he worked with American War Crimes Unit
+- long-term effort to bring escaped perpetrators to accountability
+- founded the Simon Wiesenthal Center helping to
+
+*Never Forget!*
+
+http://www.wiesenthal.com/
+
+#+begin_notes
+Note:
+Wiesenthal became an almost legendary figure. There has been an attempt to re-evaluate his influence in recent years. His contribution to keep the memory of the *Holocaust* alive is not contestable.
+#+end_notes
+** Summary of /Sunflower/
+- While imprisoned in a Nazi concentration camp, Simon Wiesenthal was taken one day from his work detail to the bedside of a dying member of the SS. 
+- Haunted by the crimes in which he had participated, the soldier wanted to confess to–and obtain absolution from–a Jew. 
+- Faced with the choice between compassion and justice, silence and truth, Wiesenthal said nothing.  
+- But even years after the way had ended, he wondered: Had he done the right thing? What would you have done in his place?
+#+begin_notes
+Note:
+There is something almost lyrical about Wiesenthal's memoir. Is it dream-like? Is it a reverie? In any case it ends with a question.
+#+end_notes
+* Overview of Shoah 
+** “Holocaust” "Shoah"
+#+BEGIN_QUOTE
+  As noted in an earlier discussion, an alternate name *Shoah* has been proposed as a more appropriate word than the word *Holocaust*. "Holocaust" is a word used in the Hebrew Bible to refer to burnt offerings made to God. It is a sacred act. In some contexts it is an act that is favorable to God.
+#+END_QUOTE
+| Holocaust | a burnt offering (as to God) |
+| Shoah     | a calamity                  |
+
+#+begin_notes
+Note:
+How important are the words we use to refer to things? Gender-wise: he / she / they? Does "Man" appropriately refer to humanity and not men? AD/BC vs. CE/BCE?
+#+end_notes
+** Timeline
+-  The mass murder of European Jews and others under Nazi rule during World War II as *Holocaust* or *Shoah*.(/see below/)
+-  Timeline of a long history of anti-semitism:
+   -  https://en.wikipedia.org/wiki/Timeline_of_antisemitism
+   -  http://www.simpletoremember.com/articles/a/HistoryJewishPersecution/
+   -  http://www.zionism-israel.com/his/Anti-semitism_timeline.htm
+
+#+BEGIN_NOTES
+
+Note: 
+It is thought that as many as eleven million people were killed by the Nazis.
+
+/Christianity vs. Judaism has a long history/: timeline:
+[[https://www.preceden.com/timelines/253106-religions]]
+
+These included political opponents (particularly Communists), Slavs, gypsies, mentally and/or physically disabled, homosexuals, and other "undesirables." An estimated six million men, women, and children were killed merely because they were Jews. The destruction of the Jews in Europe stands as the archetype of genocide in human history.
+
+#+END_NOTES
+** Major facets of the Shoah
+Major groups of people affected by *Shoah* the groups are not mutually exclusive.
+
+- Victims. :: Millions were victimized by the Nazi regime during the Holocaust: Jews, Gypsies, political enemies, Jehovah's Witnesses, homosexuals, and people with disabilities.
+- Perpetrators. :: Hitler created an atmosphere of terror that was maintained by force.
+- Bystanders. :: Throughout the world, many stood by and watched as the atrocities mounted.
+- Resisters. :: Resistance took many forms, from individual acts to organized armed resistance against the Nazi terror.
+#+REVEAL: split
+- Rescuers. :: Rescuers, by hiding victims in attics or by helping them to escape to other countries, saved many who would have perished.
+- Liberators. :: The Allies liberated the concentration camps in 1945 and became unwilling witnesses to the horror.
+- Survivors. :: Survivors relate their thoughts and feelings about living through such a terrible period of human history.
+- Children. :: Children were especially vulnerable in this tragic period.
+#+begin_notes
+Note:
+The *theodicy* problem does not simply have to do with victims and perpetrators. Possibly the greatest challenge comes to us in trying to understand the role of those who looked on but did not nothing. 
+
+In the immediacy of evil those who resist are drawn into the violence and victimizing of the perpetrators. It seems that no one is entirely innocent. The liberators may be present to be liberators because they were silently complicit in the evil.
+
+And for all of us, the most important issue has to do with those who come after -- the children of the *Shoah*. Will we remember?  
+#+end_notes
+* Final Solution
+
+** Hitler's Final Solution
+
+ - Hitler's Nazi government planned a "Final Solution" to the "Jewish question." After experimenting with different methods of mass extermination, Nazis settled on the gas chamber as the most efficient
+ - Death camp operations began in December 1941 at Semlin in Serbia and at Chelmno in Poland
+ - More camps opened in the spring and summer of 1942
+
+ #+BEGIN_NOTES
+Note: 
+ - "Final solution" to the "Jewish question"
+ - 1st death camps established in Serbia and Poland
+ - largest death camp was at Auschwitz
+ - In Hitler's program for the "Aryanization" of Germany and world conquest, Jews were subjected first to discrimination, then persecution, and then state-condoned terrorism.
+ - the "night of the broken glass" also known as *Kristallnacht*, which took place in Munich, Germany, in November 1938 
+ - By the outbreak of war in September 1939, half of Germany's five hundred thousand Jews had fled, as had many Jews from other German-occupied areas.
+
+
+ #+END_NOTES
+
+** Simplified timeline 
+- Rise of the Nazi Party (1918-1933). :: During the fourteen years following the end of World War I, the Nazi party grew from a small political group to the most powerful party in Germany.
+- Nazification (1933-1939). :: Once Hitler became Chancellor and later Reichsführer, the Nazi party quickly changed Germany's political, social, and economic structure.
+- The Ghettos (1939-1941). :: Confining Jews to ghettos was another critical step in Hitler's Final Solution.
+- The Camps (1941-1942). :: The concentration camps were Hitler's final step in the annihilation of the Jews.
+#+REVEAL: split
+- Resistance (1942-1944). :: People resisted by any means possible, from stealing a slice of bread to sabotaging Nazi installations.
+- Rescue and Liberation (1944-1945). :: Some survived through the heroics of neighbors; others were liberated by the Allies.
+- Aftermath (1945-2000). :: After the war, Nazi perpetrators faced punishment for their war crimes and survivors began rebuilding their lives.
+  #+begin_notes
+Note:
+
+  The transformation of Germany from a leader of the Enlightenment, one of the most educated and cultured populations in the world, into the nation that perpetrated one of the great horrors of the 20th c. was a gradual one. It includes the history of the rise of a national political party -- the National Socialists under Adolph Hitler -- the seduction of a population that gave silent as well as material support to the brutal actions that followed, the imprisonment of a cultural segment of the population, and finally the support of a military operation that gave rise to many of the weapons of mass destruction that are familiar to us to this day.
+  #+end_notes
+** The victims 
+#+BEGIN_CENTER
+See [[https://www.haaretz.com/misc/tags/TAG-holocaust-survivors-1.5599080][Survivors]] for a collection of vivid accounts and perspectives of survivors of "Shoah"
+
+The U.S. Holocaust Memorial Museum has a large quantity of resources to explore online. Some of you may have visited it. [[https://www.ushmm.org/][US Holocaust Memorial Museum]]
+#+END_CENTER
+
+#+begin_notes
+Note:
+We live in the last twilight of the first generation of survivors of the *Shoah*. All of them will have died in a few short years. The impact of the *Shoah* may be felt for centuries to come.
+
+
+See e.g. for other resources on the web:
+[[https://www.holocaustcenter.org][Holocaust Center]]
+
+http://www.holocaustsurvivors.org/ (under revision 3/23/20)
+#+end_notes
+* Antisemitism
+** Jews and antisemitism
+- Jews had long been victims of persecution
+- Hitler rose to prominence as a charismatic demagogue in 1920's
+- He lost an election for president in 1932
+- in 1933 he became chancellor and set in motion the
+  destruction of democracy in Germany
+
+#+BEGIN_NOTES
+
+Note: 
+Jews had been the subjects of persecution in Europe at least since the seventeenth century. When Adolph Hitler rose to power in Germany during the 1920s and early 1930s, he rallied the German people with a message that included notions of "Aryan," or white, superiority and the inferiority of other races. 
+
+The Jews were a special target of his hatred, and they were incorrectly represented during this time of social, political, and economic upheaval as being wealthy and in control of the country's economy. 
+
+#+END_NOTES
+** Some major events in history of antisemitism
+|------------------------------------------------------------------------+-----------|
+| First attempt to annihilate a Jewish state                             | 722 BCE   |
+| Second attempt (successful) to annihilate Jewish state                 | 586 BCE   |
+| Third annihilation of a Jewish State                                   | 70 CE     |
+| Judaism made illegal in Roman Empire                                   | 119 CE    |
+| Crushing of Jewish Revolt                                              | 135 CE    |
+| 1st known Christian claim that it was Jews who killed the Son of God   | 167 CE    |
+| sporadic, often systematic, persecution & murder of Jews by Christians | 325 CE- ? |
+| periodic expelling of Jews from Europe                                 | cont. ?   |
+| 1st Crusade                                                            | 1096 CE   |
+#+REVEAL: split
+| Jews expelled from Muslim Spain                                        | 1147 CE   |
+| Jewish books burned                                                    | cont. ?   |
+| Jews expelled from France                                              | 1322 CE   |
+| Jews are blamed for the Black Death                                    | 1349 CE   |
+| Pogroms & local expelling of Jews                                      | cont. ?   |
+| Luther produces a plan to get rid of Jews                              | 1543 CE   |
+| Henry Ford produced pamphlet "Jewish Menace"                           | 1920 CE   |
+| the *Shoah*                                                              | 1939-1945 |
+|------------------------------------------------------------------------+-----------|
+
+#+begin_notes
+Note:
+The table here reveals the long history of efforts to annihilate the Jews (or as the oldest dates would have it, the "Israelites.") The first annihilation came with the destruction of the political state with its capital in Jerusalem. The next came with the destruction of Judea & Jerusalem at the time of Jesus and the writing of the New Testament. In time Christianity replaced the  political power of the Roman Empire and it continued anti-semitic actions. Variation of Christian anti-semitism continued -- and continue -- up to the present day.
+#+end_notes
+** Antisemitism 
+"Antisemitism and all other forms of racism present a danger not only to Jews but also to the community of nations. These days the 'new antisemitism' is directed simultaneously against Jews, against Israel and against Zionism. By equating these terms the danger for Jews as a whole is exacerbated. This phenomenon is also common in propaganda emanating from the Arab world. The Holocaust showed the world the extent of the destructive power of antisemitism and racism. Holocaust denial, as well as minimization and banalization of the Holocaust provide a means of avoiding the evident conclusions and learning the lessons for the future. We, the survivors, call upon the world to wipe out these phenomena and to combat them relentlessly." -- statement by survivors of *Shoah*
+
+* Some Questions
+- How are human beings capable of such violence?
+- What are the causes?
+- Who is to blame? What good does it do to know who to blame?
+- Why did so many seemingly *good* people cooperate?
+- Why did God allow this to happen?
+- Why does it keep happening? Why does it happen to the Jews?
+- What is the responsibility of survivors? Of perpetrators? Of those complicit? Of those of us who come after?
+- What does the history of antisemitism mean for Christianity?

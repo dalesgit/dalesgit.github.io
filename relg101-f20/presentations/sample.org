@@ -1,0 +1,32 @@
+#+Author: Dale Hathaway
+#+Title: Religious Language
+#+Date: 2018-02-05 Mon
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+* Religious language 
+** Question re. language:
+
+1. Describe in words who you are
+2. Explain what coffee tastes like to someone who has never tasted it
+3. Convey the meaning of a spiral staircase without using your hands
+4. What is the meaning of a "blink"
+5. Why is there something rather than nothing?
+6. Using only words, explain the most beautiful thing you have ever seen.
+** hermeneutics / interpretation
+    :PROPERTIES:
+    :reveal_background: https://drive.google.com/uc?export=view&id=11KtvsOR4wCkztxg1FVlut6nXWhYtFBKs
+    :reveal_background_trans: slide
+    :reveal_background_size: 700px 
+    :END:
+*

@@ -1,0 +1,204 @@
+#+Author: Dale Hathaway
+#+Title: Religious Language
+#+Date: 2018-02-05 Mon
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+* Religious language 
+** Question re. language:
+
+1. Describe in words who you are
+2. Explain what coffee tastes like to someone who has never tasted it
+3. Convey the meaning of a spiral staircase without using your hands
+4. What is the meaning of a "blink"
+5. Why is there something rather than nothing?
+6. Using only words, explain the most beautiful thing you have ever seen.
+** hermeneutics / interpretation
+    :PROPERTIES:
+    :reveal_background: https://drive.google.com/uc?export=view&id=11KtvsOR4wCkztxg1FVlut6nXWhYtFBKs
+    :reveal_background_trans: slide
+    :END:
+** hermeneutics at work
+1 In the beginning when God created[fn:1] the heavens and the earth,
+2 the earth was a formless void and darkness covered the face of the
+deep, while a wind from God[fn:2] swept over the face of the waters. 3
+Then God said, "Let there be light"; and there was light. (NRSV)
+
+#+begin_notes
+
+^1 when God began to create or In the beginning God created
+
+^2 while the spirit of God or while a mighty wind
+
+ בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃
+#+end_notes
+** Like Poetry
+ Joseph Campbell:  https://youtu.be/R7xuLN8WIkI
+
+
+ Most often *poetic* in the sense that, like poetry, it *seeks to use ordinary words to convey extraordinary meanings*. 
+| http://baumwollarchives.com/wp-content/uploads/2012/10/101-3-J-CAMPBELL-top3.jpg                                   |
+
+#+BEGIN_NOTES
+I was first hooked by the effort to understand language,  particularly religious & theological language -- Soren Kierkegaard.
+
+These videos are gone:
+missing? https://youtu.be/L_Hcoru77Gs?list=PL66bRS2DhVi-6gDUTfbHh_-dsuXZ_BGio     
+star wars:  https://youtu.be/GicWZl9HmU4
+#+END_NOTES
+
+
+** Religious Myth: 
+- A story that *sets up a world by describing ultimate reality and its relationship to humanity*.
+  - Myths seek to *explain the ultimate meaning* of the universe (cosmos) and our existence, its ultimate origins, destiny, order (or disorder) and relationships.
+  - Purpose = *revelation of the nature of the sacred*, the universe, and human nature.
+  - In short, “How does reality makes sense in light of the sacred?"
+
+#+REVEAL: split:t
+- Myths seek to *narrate or reveal a transcendent reality* and its relation to ordinary reality.
+- Mythic time *transcends ordinary time*.
+- Mythic events transcend “ *empirically observable*" events.
+
+#+REVEAL: split:t
+- Myths do not aim at *scientific truth*
+- Myths represent *collective wisdom* of a community over time
+- Myths frequently communicate through *exaggeration*
+- Myths provide a lense for *seeing the world*
+   
+#+REVEAL: split:t
+
+- *Note Well*: Many of us may instinctively think of "myth" as something that is *false* or *fictional*. This is not how the term is used in this course. 
+
+#+begin_notes
+- They *do not seek to record simply what happened* in ordinary reality.  They do not aim at empirical or scientific truth (that can be tested via experiments). 
+- Rather myths *represent the collective experience and wisdom of a community over time* concerning the deepest meaning of reality
+  - and the ultimate frame of reference for understanding it expressed in the most powerful and fundamental forms of human language—stories conveyed via imaginative, poetic language
+  - (exaggeration = frequent vehicle because ordinary language inadequate).
+  - A myth is like a pair of glasses or framework through which people “image" or see the world.
+ 
+#+end_notes
+** Religious stories
+- "Religion is /my/ story being shaped by another (religious) story."
+- religious stories not told to hold onto a historical truth but to *disclose a notion of the sacred to people.*
+
+** Functions
+
+- Functions include:
+  - passes on the traditions of a people
+  - recall/retell "paradigmatic moments and/or persons"
+  - vehicle for *revelation*
+* Parable:
+- A story that *upsets an existing world or turns it upside down*;
+- makes a point by *violating our expectations* and calling into questions our assumptions.
+- It seeks to shock the hearer into *seeing ordinary things in a new way*, i.e., in light of the sacred reality which is totally “other" than the ordinary and customary.
+- A parable seeks to move people into a deeper *engagement with sacred reality*.
+
+#+REVEAL: split:t
+- *Sacred figures often perform “parabolic actions"* or actions that upset the way things are and open our eyes to a new reality.
+
+#+BEGIN_NOTES
+Parables are short stories that are told in order to get a point across and occur in both testaments of the Bible. The word "parable" (Gk. parabole) was generally used in reference to any short narrative that had symbolic meaning (Louw & Nida 1989, p. 391). There are many stories and saying of Jesus in the New Testament that are identified as parables, but not all of these are parables in the true sense. *The Good Samaritan (Luke 10:30-35) may be regarded as a true parable* because it is a complete story with a beginning, ending and plot, but the Leaven in the Meal is a similitude, "You are the salt of the earth" is a metaphor and "Do people pick grapes from thorn bushes" is an epigram (Fee & Stuart 1993, p. 136-137). When "parable" is used in this section it refers to the true parables.
+
+A true parable then may be regarded as an extended simile (Blomberg 1990, p. 32). It is a story that resembles real-life natural situations and does not contain any mythical or supernatural elements (Kuske 1995, p. 97). *These stories were told in order to catch the listener's attention and provoke a response*. C. H. Dodd (1961, p.16) defines a parable as: "a metaphor or simile drawn from nature or common life, arresting the hearer by its vividness or strangeness, and leaving the mind in sufficient doubt about its precise application to tease it into active thought." They often embody a message that may not be communicated in any other way (Marshall & Tasker, in New Bible Dictionary:Parables).
+
+*An allegory, however, is quite different. It is essentially an extended metaphor (Kuske 1995, p. 94*) and uses a story or event (often mythical and supernatural) to illustrate a point (Marshall & Tasker, in New Bible Dictionary:Parables). *They are stories with 2 levels of meaning: human activity and spiritual reality (Blomberg 1990, p. 15*). Allegories encode relatively static series of comparisons that the author wishes to communicate and always need to be interpreted (Blomberg 1990, p. 35).
+
+Allegories are much less common in the New Testament but are more frequent in the Old Testament. *In an allegory virtually every person, thing, place and event has a symbolic meaning (Fee & Stuart 1993, p. 140*). Examples of allegories are the visions in Daniel 8:1-11 (which is interpreted in Daniel 8:20-26), and Ezekiel 1. In the New Testament, nearly every chapter of Revelation contains allegorical visions. http://hermeneutics.kulikovskyonline.net/hermeneutics/parab.htm (this a strict, even radical, creationist who argues that the truth of scripture extends to natural world issues (science)
+#+END_NOTES
+
+** Allegory
+- ... are stories in which the various characters and incidents actually represent figures and events not a part of the story as such.
+- cp. George Orwell's /Animcal Farm/
+- some of Jesus' parables were "explained" by his followers through the use of allegory
+
+** Examples of Parables/Parabolic Actions
+- Zen koan: "What is the sound of one hand clapping?"
+- A seeker to the Buddha "Are you a god or a magician?"
+- Buddha: "I am not a god or a magician.  I am awake."
+- Awake seems ordinary but it is not.  Greatness can't lie in it.
+
+#+REVEAL: split:t
+- Jesus seeks to open people's eyes to the kingdom of God when he reads from /Isaiah 61:1-2/ in Luke 
+#+BEGIN_QUOTE
+"The Spirit of the Lord Yahweh is upon me, for he has anointed me to bring glad tidings to the poor.  He has sent me to proclaim liberty to captives and recovery of sight to the blind, to let the oppressed go free, and to proclaim a year of favor from Yahweh [a jubilee year]" . . . and a day of vengeance for our God . .  /Luke 4:18-19/
+#+END_QUOTE
+
+#+REVEAL: split:t
+- *Good Samaritan* = like the good Al Qaeda terrorist. Our social status does not determine our holiness; but our compassion—even a compassion that violates social customs re: ritual purity.  That is what God wants. 
+- *Matthew 25*: Whenever you did it to the least of my brothers and sisters you did it to me—Christ is encountered in the needy.  
+- *Prodigal Son* (Who is lost, the younger or the older son?) or Workers in the Vineyard—those who worked a little get paid the same as those who worked a lot; or Unforgiving debtor. (Luke 15-16)
+
+* Sacred Stories
+
+** 4 functions of Sacred Stories (including scriptures): 
+
+1. connect with sacred,
+2. order cosmos,
+3. pass on the *traditio*, and
+4. instill ethical expectations and norms
+
+#+BEGIN_NOTES
+Perhaps leave this overview without going into detail of the functions
+
+- *Connect us to the sacred*:
+  - reveal the sacred and provide a vehicle for (or mediate) encounter with the sacred through the imaginative experience and ritual re-enacting of the story;
+  - reveal a path to the sacred (e.g. Buddha's journey to enlightenment);
+  - provide insight/wisdom re: ultimate truth. 
+- *Order the cosmos*:
+  - give an account of the nature, purpose, order, and destiny of the universe,
+  - explain how things are related, where things belong, what they mean, how it all fits together ultimately;
+  - relate the transcendent reality to the ordinary reality.  
+- *Traditio*:
+  - "hand over" a way of life, worldview, set of practices, values, and stories that constitute a community over time from one generation to the next.
+  - Remember truth handed on from the past and bring it to life in the present by helping people to apply it and live it out today.
+  - Continue a way of life and teach it to the next generation.
+  - Tradition—an extended conversation about the meaning of life of a community over time.
+- *Convey an Ethic*:
+  - present patterns, models (saints, prophets), and standards of behavior for living in harmony with the sacred order.
+  - E.g. Sunna = the beaten path of the prophet Mohammed.
+
+#+END_NOTES
+* Other Religious Language
+- canon :: A *measuring reed or stick, ruler, standard*; list of authoritative texts/scriptures in a tradition
+- Scriptures :: Literally "*writings*" (/scripture/ -- "that which is written"), writings considered sacred and authoritative in a particular community.
+ 
+#+REVEAL: split:t
+
+- Theology :: Understanding of or *reflection on God-the sacred-faith*; 
+   - "*faith seeking understanding*"
+   - Systematic explanation of the meaning of sacred stories and their conceptual relations as well as translation of this meaning in contemporary language.  
+   - *Transform story into doctrine that speaks to today's world*.
+
+
+
+
+#+BEGIN_NOTES
+- Example: The "*sutra*" (or Pali "sutta"), i.e., a short exposition on a particular teaching of the Buddha, is the basic form of the scriptures in Theravada and Mahayana Buddhism 
+- Oral & Written cultures :: religious stories and traditions transmitted through different media
+- Scripture  :: Literally "*writings*" (scripture -- "that which is written"), writings considered sacred and authoritative in a particular community.
+
+- Canon :: A *measuring reed or stick, ruler, standard*; list of authoritative texts/scriptures in a tradition
+
+
+- Theology :: Understanding of *reflection on God/sacred/faith*; 
+
+- "*faith seeking understanding*"
+- Systematic explanation of the meaning of sacred stories and their conceptual relations as well as translation of this meaning in contemporary language.  *Transform story into doctrine that speaks to today's world*.
+
+
+#+END_NOTES
+
+* Footnotes
+
+[fn:1] 
+[fn:2]

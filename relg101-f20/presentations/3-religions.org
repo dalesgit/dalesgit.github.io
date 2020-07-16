@@ -1,0 +1,318 @@
+
+#+Author: Dale Hathaway
+#+Title:Compare 3 Religions
+#+Date: 2018-04-16 Mon
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+* Origins
+
+** Judaism
+| Judaism                              | Dates                          |
+|--------------------------------------+--------------------------------|
+| Life without a temple                | 587-500 bce                    |
+| conflict over influence of Hellenism | 300 bce - 100 ce               |
+| growth apocalyptic and Messianism    | 250 bce - 135 ce               |
+| Qumran community - Dead Sea Scrolls  | 200 bce - 150 ce               |
+| Schools of Rabbis                    | 100 bce - 250 ce               |
+| Diaspora                             | 70 ce - 1948 (state of Israel) |
+
+#+BEGIN_NOTES
+Notes:
+
+| Judaism                              | Dates            | Notes                                   |
+|--------------------------------------+------------------+-----------------------------------------|
+| Life without a temple                | 587-500 bce      | synagogues, written Torah               |
+| growth apocalyptic and Messianism    | 250 bce - 135 ce |                                         |
+| conflict over influence of Hellenism | 300 bce - 100 ce |                                         |
+| Qumran community - Dead Sea Scrolls  | 200 bce - 150 ce |                                         |
+| Schools of Rabbis                    | 100 bce - 250 ce | writing Mishnah, e.g. Hillel & Shammai  |
+| Diaspora                             |                  | commentary on Mishnah (Gemara) - Talmud |
+
+#+END_NOTES
+
+*** 4 Groups in 1st c. Judaism
+
+-  Pharisees: reforming religion
+-  Sadduccees: traditional religion
+-  Zealots: resistance to Romans
+-  Essenes: Qumran, apocalyptic, messianic
+
+#+BEGIN_NOTES
+cf. e.g. PBS
+notes:[[http://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/essenes.html][Essenes & the Dead Sea Scrolls]]
+
+#+END_NOTES
+
+
+*** Qumran Community (reconstructed)
+:PROPERTIES:
+:reveal_background: http://drive.google.com/uc?id=0B8ezT0-tUjVZbWR5bDhQb1pQN1E
+:reveal_background_size: 1100px
+:reveal_background_trans: slide
+:END:
+
+*** Qumran:
+    :PROPERTIES:
+    :CUSTOM_ID: qumran
+    :END:
+
+-  digital texts (see e.g. Isaiah scroll) [[http://dss.collections.imj.org.il/][Link]]
+-  sites: [[http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites?locale=en_US][Maps & timeline]]
+
+
+*** 
+:PROPERTIES:
+:reveal_background: http://drive.google.com/uc?id=0B8ezT0-tUjVZemlrSkZ2Tk5MNVk
+:reveal_background_size: 1100px
+:reveal_background_trans: slide
+:END:
+
+#+BEGIN_NOTES
+
+
+ Shammai
+
+
+Hillel the Elder's friendly adversary was Shammai, a native of the Land
+of Israel about whom little is known except that he was a builder, known
+for the strictness of his views. He was reputed to be quick-tempered and
+impatient. Both lived during the reign of King Herod (37-4 BCE), an
+oppressive period in Jewish history because of the Roman occupation of
+the Land of Israel. Shammai was concerned that if Jews had too much
+contact with the Romans, the Jewish community would be weakened, and
+this attitude was reflected in his strict interpretation of Jewish law.
+Hillel did not share Shammai's fear and therefore was more liberal in
+his view of law.
+#+END_NOTES
+
+*** Hillel
+
+
+*On the "Golden Rule"* Once there was a gentile who came before Shammai,
+and said to him: "Convert me on the condition that you teach me the
+whole Torah while I stand on one foot. Shammai pushed him aside with the
+measuring stick he was holding. The same fellow came before Hillel, and
+Hillel converted him, saying: That which is despicable to you, do not do
+to your fellow, this is the whole Torah, and the rest is commentary, go
+and learn it." - *Babylonian Talmud*, /Shabbat 31a/
+ 
+#+BEGIN_NOTES
+Notes:
+
+*If Not Now, When?* "If I am not for myself, then who will be for me?
+And if I am only for myself, then what am I? And if not now, when?"
+
+
+*On Time for Study* "Do not say: 'When I have leisure I shall study,'
+perhaps you will never have leisure."
+
+#+END_NOTES
+
+
+
+** Christianity
+
+
+| Christianity                        | Dates           |
+|-------------------------------------+-----------------|
+| letters (chiefly Paul)              | 50-60 ce        |
+| Gospels written                     | 70-90 ce        |
+| **Parousia** is "delayed"           | 70-100 ce       |
+| break with Judaism                  | 100 ce - 200 ce |
+| missionary spread throughout Empire | 70 ce - 300 ce  |
+| Official religion of Empire         | 300-400 ce      |
+
+
+*** Quest for Historical Jesus
+*From Jesus to Christ:*
+1. Judaism-Rome shaped Jesus' life
+2. Beginnings of Jesus movement
+3. First attempts to write life of Jesus
+4. Challenges in the spread of Christianity
+
+[[https://youtu.be/UulusbcS8V0][- Full 3 + hrs]] -- [[https://youtu.be/tsSerrDEdzc][part 1]] -- [[https://youtu.be/vxlpdDrj2Wg][Trailer]] -- [[http://www.pbs.org/wgbh/pages/frontline/shows/religion/jesus/searching.html][Quotes]]
+
+
+#+BEGIN_NOTES
+ 
+(this from a series that is very informative about the development of Christianity)
+
+- Part 1: [[https://youtu.be/kZPKCDOeyMg?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK][Judaism-Rome shaped Jesus' life]]
+- Part 2: [[https://youtu.be/NB1WXhoEA0o?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK][Beginnings of Jesus movement]]
+- Part 3: [[https://youtu.be/S0pfQ2ZBe2Q?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK][first attempts to write life of Jesus]]
+- Part 4: [[https://youtu.be/-_jY2E8I_mA?list=PLC8QQh7gnOp21IP-EJidqOSQEOoEmQyBK>][Challenges of the spread of Christianity]]
+
+- viewers guide with questions: [[http://www.pbs.org/wgbh/pages/frontline/shows/religion/view/][Frontline]]
+#+END_NOTES
+
+
+
+** Islam
+
+
+| Islam                                                    | Dates           |
+|----------------------------------------------------------+-----------------|
+| Life of Muhammad: needs "Quest for historical Muhammed"  | 570 ce - 632 ce |
+| Qur'an revealed to M. -- *as it stands a composite work* | "mid-life"      |
+| retreat to "City of the Prophet", Medina, "hegira"       | 622             |
+| growth of **Islam** "submission"                         | 622 ff.         |
+| Following his death: both political & religious          |                 |
+| expansion by 750, to China & almost Paris                |                 |
+|----------------------------------------------------------+-----------------|
+
+*** 
+ "At base *submission* to God's will. The "cultic" outward obligations were few."
+
+| 5 Pillars of Faith                  |                                                       |
+|-------------------------------------+-------------------------------------------------------|
+| The *Shahadah*: Profession of faith | There is no god but God and Muhammad is his messenger |
+| Pray                                | 5 times daily, in community at noon Friday            |
+| Almsgiving                          | foundation of a healthy, whole life                   |
+| Fasting                             | esp. month of Ramadan                                 |
+| Pilgrimage (*hajj*)                 | where practical to Mecca                              |
+|-------------------------------------+-------------------------------------------------------|
+
+#+BEGIN_NOTES
+Notes:
+Ask what are the pillars in Judaism & Christianity?
+
+- "The Meccan suras of the Quran have a dramatic eschatological emphasis" (apocalyptic)
+- Clearly the "redaction" of the Quran as we have it today took some time after Muhammad's death, it is still relatively little understood
+- Islam became quickly an **urban** religion, "and so a scribal and literary one."
+#+END_NOTES
+
+
+* Major Intersections
+
+|---------------------------------------+---------------------------------------------------|
+| 1st c. Palestine                      | Fall of Jerusalem                                 |
+| Arabian peninsula 7th c.              | Mixture of Jewish & Christian groups              |
+| expansion of Islam into Europe        | until c. 750 ce                                   |
+| Crusades: 11th - 13th c.              | Christians against Jews, Muslims, Arab Christians |
+| Islamic contributions to Civilization | "Golden Age" 8th - 14th c.                        |
+| Fall of Constantinople: 1453 ce       | "end of middle ages"                              |
+| 20th c.: /Zionism/, state of Israel   |                                                   |
+|---------------------------------------+---------------------------------------------------|
+
+#+BEGIN_NOTES
+
+Notes:
+
+- resistance
+ by Byzantium
+- French resistance: Battle of Tours 732 ce
+
+Contributions of Islam: literature, science, technology, math, medicine, philosophy
+#+END_NOTES
+
+* Examining 3 religions side by side
+
+-  Community and hierarchy
+-  Law: Torah, Nomos, Namus
+-  Scripture & Tradition
+-  Worship
+-  Asceticism
+-  Thinking & Talking about God
+
+
+** Community & Hierarchy
+   
+-  seeking authority as movements continue
+-  development of organization
+*** Judaism
+
+   - Rabbinic Judaism
+   - "Modern Judaism": Talmud
+   - Organization that function globally with no secular, political authority
+
+*** Christianity
+
+ -  Constantine
+ -  growth of "orders" & clergy
+ -  growth of monasticism
+
+
+*** Islam
+
+ -  e.g. rightful seat of authority at stake in Shia and Sunni divisions
+ -  from beginning politics & theology enmeshed
+
+#+BEGIN_NOTES
+Notes:
+ -  Umma and Abode of Islam
+ -  Caliphate
+#+END_NOTES
+
+** Law
+
+-  what are "commandments" in each tradition
+-  What are the norms of the community
+-  how do the norms *change* over time
+-  Oral law "fulfilled" in each of the traditions
+*** Judaism
+- Rabbinic Judaism
+- "The tradition that 613 commandments (Hebrew: תרי"ג מצוות‬, *taryag mitzvot*, "613 mitzvot") is the number of mitzvot in the Torah, began in the 3rd century CE, when Rabbi Simlai mentioned it in a sermon that is recorded in Talmud Makkot 23b"
+- Later systematized
+*** Christianity
+ - Messianic expectations
+ - growth of Canon law with the Constantine's establishment of Christianity
+ - with the Reformation there began a splintering of patterns of church authority, (local, regional, spirit-led, legal etc.)
+
+*** Islam
+
+ -  Quranic statute
+ -  *"Sharia":* the muslim way
+ -  standing in the prophetic tradition
+ -  development of *Hadith* "traditions"
+ -  Lawyers and adjustments
+
+
+** Scripture
+
+-  How to be interpreted
+
+-  How and why explain Scripture in each tradition
+-  Allegorical exegesis
+-  *Scripture* vs. *Tradition*
+
+#+BEGIN_NOTES
+Notes:
+
+ Judaism
+-  Midrash
+
+ Islam
+
+ -  Quranic exegesis
+ -  Quranic commentary
+ -  Challenging tradition
+ -  "Tradition" in Islam
+ -  Tradition & Reason in Islamic Exegesis
+#+END_NOTES
+
+** Living a Holy Life
+
+- Asceticism in *Judaism* / *Christianity*
+- (Qumran, monasticism)
+- quest for *Holiness* and *Sanctity*
+- Kabbalah in Judaism
+*** Christianity
+  - Monastic Rule
+  - Path "upward" (*Mount Athos*)
+  - mystics (*Cloud of Unknowing*)
+*** Islam
+ -  Muslim path
+ -  Sufi
+ -  Religious orders
+ -  *Gnosis* (Impacting all 3 religions)
+
+

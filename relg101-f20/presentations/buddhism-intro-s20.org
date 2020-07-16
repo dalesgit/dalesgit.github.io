@@ -1,0 +1,330 @@
+#+Author: Dale Hathaway
+#+Title: From Hinduism to Buddhism
+#+Date: Feb. 26 2020
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1  num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js
+
+* Background to Buddhism
+
+** Timeline
+
+ [[https://www.preceden.com/timelines/274460-buddhism---hinduism]]
+** Confucianism
+ #+ATTR_REVEAL: :frag (appear)
+- a worldview, a pattern of acting in the world, a philosophy -- not so much a "religion"
+- 3 values are notable: *Filial piety*, *humaneness*, and *ritual*
+- influence in China 2,500 up to the present
+
+#+begin_notes
+see documents 
+
+[[https://cesa.rc.iseg.ulisboa.pt/Three%20Confucian%20Values.pdf][Confucianism]]
+
+[[https://www.britannica.com/topic/Confucianism][Encyc Britt]]
+Confucianism, a Western term that has no counterpart in Chinese, is a worldview, a social ethic, a political ideology, a scholarly tradition, and a way of life. Sometimes viewed as a philosophy and sometimes as a religion, Confucianism may be understood as an all-encompassing way of thinking and living that entails ancestor reverence and a profound human-centred religiousness. East Asians may profess themselves to be Shintōists, Daoists, Buddhists, Muslims, or Christians, but, by announcing their religious affiliations, seldom do they cease to be Confucians.
+
+Confucian ethical values have for well over 2,000 years served as the source of inspiration as well as the court of appeal for human interaction between individuals, communities, and nations in the Sinitic world.
+
+3 legged stool:
+- Respect for one's parents, filial piety, is considered the most fundamental of the Confucian values, the root of all others.
+- Another key value in Confucian thinking--the second leg of the tripod--is humaneness, the care and concern for other human beings.
+- The last of the three central Confucian values is respect for ritual--the proper way of doing things in the deepest sense
+
+
+ and also see *Reading from Confucius*Reading from Confucius
+
+
+#+end_notes
+** Taoism
+ #+ATTR_REVEAL: :frag (appear)
+- philosophy? or religion? a way of life?
+- founder Lao-tzu "the wise old man"
+- the *Tao*, "the Way", is the origin and law of all things.
+- *yin / yang*
+
+#+begin_notes
+The core of the basic belief and doctrine of Taoism is that "Tao" is the origin and law of all things in the universe. Taoists believes that people can become deities or live forever through practicing certain rituals and austerities
+
+Read from text
+#+end_notes
+
+** Axial Age: Classical Hinduism
+
+ #+ATTR_REVEAL: :frag (appear)
+- Axial Age (circa 800-200 BCE) & reform movements in multiple different cultures
+
+- *Vedic* emphasis on *ritual* gave way to concern for inner life of the individual *Upanishads*
+
+- central problem of human existence established as overcoming *samsara* (cycle of birth, death, rebirth...)
+
+- *Karma*, even good *karma*, keeps a person bound to *samsara*
+
+ #+begin_notes
+ 
+ -  Transformations of thought in the Axial Age (c. 800--200 B.C.E.) led
+    to the re-evaluation of Vedic ritual and new ideas about the nature
+    of human existence.
+ -  Deeper spiritual questions led to the examination of human nature and
+    the possibility of an *afterlife*.
+ -  (/This evolution in Indian religion was roughly contemporaneous with similar developments in other civilizations, including ancient Greece, China, Mesopotamia, and Israel./)
+ -  The function of religion changed from that of *cosmic maintenance* to
+    one of *personal enlightenment* and transformation.
+ -  Classical Hinduism established the central problem of human existence
+    for Hindus -- *samsara*, the cycle of continual *transmigrations of
+    the soul*.
+ -  *Karma*, even good *karma*, keeps a person bound to the cycle of
+    transmigration. One path the Hindu tradition offers for the
+    attainment of *moksha*, or ultimate release, is the path of wisdom.
+ -  The path of wisdom found in the Axial Age, when the most important
+    Hindu responses to the anxieties about death and rebirth were
+    recorded in a collection of texts called the *Upanishads*. The oldest
+    of the *Upanishads* was probably composed between 800--400 B.C.E.,
+    but actually written down much later.
+ -  Modern Hinduism has had to face challenges brought by the advent of
+    Islam and Western culture.
+
+ Note: Both incursions into India have left profound and lasting imprints
+ on Hinduism.
+ #+END_NOTES
+
+** 3 Ways of Hinduism
+- Over time there developed 3 paths to *moksha*
+
+ #+ATTR_REVEAL: :frag (appear)
+   - Way of action
+   - Way of wisdom
+   - Way of devotion
+
+
+   #+begin_notes
+The ultimate goal of Hinduism is freedom from samsara. Classical Hinduism establish the basic problem of life as escaping the cycle. Moksha.  There are three traditional ways to do this in Hinduism.
+
+The first is the way of action. The things that one does in life such as rituals, pilgrimage, are done in order to achieve moksha. There are three goods in life, duty, wealth, pleasure, and Mockshire. The first three must be given up in order to gain the fourth. All of these interact to fulfill one’s karma. Karma has to do with actions and its consequences. It is a principle of justice and it is what binds a soul to samsara. 
+
+Second is the way of wisdom. The way of wisdom is reflected in the texts of the Upanishads. This dates from the axial age. The principle of the unity of Brahman and Atman is foundational theory for the path of wisdom. Braman is the power of all powers and is chiefly understood through negative theology, identifying what it is not. Atman came to be the word for soul. It is imperceptible, spiritual, beyond comprehension, immortal.
+
+Third is the way of devotion. Hinduism embraces both polytheism and monotheism. This approach focuses ones love on a personal deity. This allows different people to focus on different gods and us different paths.
+
+Into this developing Hinduism came a reformer by the Gautama. 
+   #+end_notes
+* Buddhism 101
+** Introduction to Buddhism
+   :PROPERTIES:
+   :reveal_background: https://www.toonpool.com/user/1688/files/buddhist_compliment_321119.jpg 
+   :reveal_background_size: 700px
+   :reveal_background_trans: slide
+   :END:
+[[https://youtu.be/8Nn5uqE3C9w][12 min. video]]
+
+
+** Introduction
+   :PROPERTIES:
+   :CUSTOM_ID: introduction
+   :END:
+
+- During its 2,500-year history, from the time of the Buddha to the
+  present day, Buddhism has grown from a tiny religious community in
+  northern India into a movement that now spans the globe.
+#+ATTR_REVEAL: :frag (appear)
+- the tradition begins simply with a *human being -- Siddhartha
+  Gautama* who found a solution to the problem of human suffering.
+- Buddhists focus on his experience, and they *deny the existence of a
+  single, almighty God.*
+- The most basic Buddhist expression of faith is called the triple
+  refuge:
+
+#+ATTR_REVEAL: :frag (appear)
+    - I take refuge in the *Buddha*;
+    - I take refuge in the *Dharma* [ /the Buddhas teaching/ ];
+    - I take refuge in the *Samgha* [ /the community of the Buddhas
+      followers/ ].
+#+BEGIN_NOTES
+Note: The Buddhist tradition will challenge us to look in new ways at
+some basic religious questions: What is ultimate reality? How can I know
+it? And does it love me? Many religious traditions emphasize the
+importance of an immortal soul. This is not so in Buddhism.
+
+#+END_NOTES
+
+
+** Buddhism
+  :PROPERTIES:
+   :CUSTOM_ID: buddhism
+   :END:
+ *Concepts*
+- Bodhisattva :: one who has taken a vow to become a fully enlightened Buddha; but available to help all sentient beings
+- Confucianism :: the great religious-political tradition of China founded by Confucius (551-479 BCE)
+- Dharma  :: the Buddha's teachings, truth, basic building blocks of reality 
+- Karma :: action, deed, the law of cause and effect
+
+#+REVEAL: split:t
+- Nirvana :: (in Buddhism) a transcendent state in which there is neither suffering, desire, nor sense of self, and the subject is released from the effects of karma and the cycle of death and rebirth (cp. *moksha* in Hinduism)
+- Mandala :: a geometric figure representing the universe in Hindu and Buddhist symbolism.      
+- Mantra :: (originally in Hinduism and Buddhism) a word or sound repeated to aid concentration in meditation.
+- Nembutsu :: Japanese term which means to think on or contemplate the Buddha
+#+REVEAL: split:t
+- Non-duality :: Nondualism primarily refers to a mature state of consciousness, in which the dichotomy of I-other is "transcended" 
+- Samadhi :: a deep state of meditation
+- Sila :: moral or ethical conduct, virtue
+- Pa'a :: wisdom
+
+#+REVEAL: split:t
+*Kinds of Buddhism*
+- Theravada :: area of south-east Asia; goal of life is *nirvana*
+- Mahayana :: area of China, Japan, Korea; goal of life is *buddhahood*, both a holy life and wisdom             
+- Vajrayana :: Tibetan; mantras and esoteric practices
+- Soto School :: leading school of Zen Buddhism; goal is not *satori* (enlightenment); meditation with no objects 
+- Zen :: form of Buddhism, esp. in Japan 
+#+REVEAL: split:t
+*Other*
+- Tantra :: Hindu or Buddhist mystical or magical texts and practices, dating from circa 500-700 CE
+- Shinto :: indigenous religion of Japan 
+- Taoism :: practice of following the *Tao* "the Way" or "power" of harmony and balance among all things 
+- Veda :: ancient scriptures of Hinduism 
+
+ #+begin_notes
+Nembutsu as meditation is the Japanese term which means to think on or contemplate the Buddha. It has a long history in Buddhism and has been considered the central core of practice to gain enlightenment Sakyamuni Buddha used this practice in order to gain enlightenment.
+
+Over its now 2600 year history various forms of meditation evolved in Buddhism. Essentially they are the Vipassana-Samatha practice of the Theravada tradition; Ch’an or Zen (Son in Korea) developed in China and East Asia; and Tantric meditation in Tibet.
+ #+end_notes
+
+** Buddha
+   :PROPERTIES:
+   :CUSTOM_ID: buddha
+   :END:
+
+#+ATTR_REVEAL: :frag (appear)
+- The doctrine of reincarnation or rebirth is known as *samsara* (literally, /wandering/). Samsara was not considered a pleasant prospect. For many people, it was not an opportunity as much as it was a burden, and they tried to find a way out.
+
+- The release from *samsara* is found in *moksha*
+
+- *moksha* :: emancipation, enlightenment, liberation, and release; both a deep wisdom and a goal for life
+
+
+------------------------------
+
+#+ATTR_REVEAL: :frag (appear)
+Four Noble Truths (The Buddha's first teaching) are:
+
+#+ATTR_REVEAL: :frag (appear)
+   1. the truth of suffering (*Gurkha*): /all is suffering/
+   2. the truth of the arising of suffering: /it is from desire/
+   3. the truth of the cessation of suffering (also known as *nirvana* or
+      *nibbana*): /i.e. cease from desire/
+   4. the truth of the path that leads to the cessation of suffering: /via
+      8-fold path/
+#+BEGIN_NOTES
+Note: Buddhists have a rich tradition of stories and legends about the
+Buddha. The stories begin with the Buddhas previous lives. Buddhist
+tradition arose at a time when the doctrine of reincarnation was a basic
+assumption in Indian religious life.
+
+#+END_NOTES
+
+** The path to nirvana is divided into eight categories:
+   :PROPERTIES:
+   :CUSTOM_ID: the-path-to-nirvana-is-divided-into-eight-categories
+   :END:
+#+ATTR_REVEAL: :frag (appear)
+- right understanding,
+- right thought,
+- right speech,
+- right action,
+- right livelihood,
+- right effort,
+- right mindfulness,
+- right concentration.
+** The logic might be expressed in 3 categories:*
+
+-  *sila*, or moral conduct; virtue
+-  *samadhi*, or mental concentration; meditation
+-  *pa-a*, or wisdom
+
+#+BEGIN_NOTES
+Note: Buddhists have a rich tradition of stories and legends about the Buddha. The stories begin with the Buddhas previous lives. Buddhist tradition arose at a time when the doctrine of reincarnation was a basic assumption in Indian religious life. , or wisdom.
+
+-  The contents of the Buddhist scriptures often are quite simple and pragmatic.
+
+#+END_NOTES
+ 
+** circa 1st c. CE a reforming and "missionary" impulse
+Buddhism was able to associate Taoist concepts and practices with the way of Buddhism
+#+ATTR_REVEAL: :frag (appear)
+- Mahayana spread to China, Tibet, Japan, Korea, Vietnam
+- One of the Mahayana traditions most important innovations is the *bodhisattva* ideal. 
+- A *bodhisattva* is a Buddha-to-be or future Buddha who does not attempt to go straight to *nirvana* but returns to this world to help others along the path.
+- *emptiness*: Hinduism there is an eternal self. Buddhism there is “no-self”
+- *non-duality* (physical / spiritual)
+
+** Chinese adoption of Buddhism blended with an adaptation of Chinese Taoism
+
+- the *Tao* is the "Way" and Buddhism generally rejects theism
+
+- *samsara* can be understood as similar to the evolution and manifestation of the Tao over time
+
+- most Taoists today follow a Buddhist way
+
+- compare "one with the Tao" with the "release found in moksha"
+   #+begin_notes
+The Tao that can be told of is not the eternal Tao; The name that can be named is not the eternal name. The Nameless is the origin of Heaven and Earth; The Named is the mother of all things.\\ The Tao is empty like a bowl.\\ It may be used but its capacity is never exhausted.
+
+  
+   #+end_notes
+
+
+** Politics and Buddhism
+   :PROPERTIES:
+   :CUSTOM_ID: politics-and-buddhism
+   :END:
+
+-  *Complex histories of relationship between politics and Buddhism throughout Asia*
+-  Played out over a millenia throughout Asia
+
+#+ATTR_REVEAL: :frag (appear)
+     - Burma / Myanmar
+     - Tibet
+     - China
+     - Japan
+
+
+
+** Chinese adoption of Buddhism blended with an adaptation of Chinese Taoism
+
+
+The Tao that can be told of is not the eternal Tao; 
+The name that can be named is not the eternal name. 
+The Nameless is the origin of Heaven and Earth; 
+The Named is the mother of all things
+...
+
+The Tao is empty like a bowl.
+It may be used but its capacity is never exhausted.
+
+
+
+** Quick overview of Buddha
+   :PROPERTIES:
+   :CUSTOM_ID: quick-overview-of-buddha
+   :END:
+
+https://youtu.be/ZTI3P9zx-oY
+
+
+#+BEGIN_NOTES
+formerly used
+
+
+[[https://youtu.be/YpVlbPeX37A]]
+
+#+END_NOTES

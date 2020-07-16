@@ -1,0 +1,80 @@
+#+Author: Dale Hathaway
+#+Title: Exploring Hesse's /Siddhartha/ 
+#+Date: Feb. 17, 2020 
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:0 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js/
+#+REVEAL_THEME: beige
+
+
+** Hesse (2)
+   :PROPERTIES:
+   :ID:       426afa10-39ac-456f-aae2-114086110506
+   :END:
+
+*** first, religion *is not*:
+
+ -  necessarily monotheistic,
+ -  necessarily a body of moral rules
+ -  necessarily a belief in the supernatural, heaven, hell, or even life
+    after death
+ -  necessarily an explanation of the origins of creation.
+
+
+*** Religion *is*:
+
+ -  notion of sacred reality
+ -  orders and brings understanding to human existence
+ -  has lasting effect on thinking, feeling, acting
+
+** Outline of Siddhartha 
+
+|   | Siddhartha             |   | Chapters         |
+|---|------------------------|---|------------------|
+| 1 | The Son of the Brahmin | 4 | Sansara          |
+|   | Among the Samanas      |   | Beside the River |
+| 2 | Gautama                | 5 | The Ferryman     |
+|   | Awakening              |   | The Son          |
+| 3 | Kamala                 | 6 | Om               |
+|   | Among the Child People |   | Govinda          |
+
+
+*** Directions
+
+ In each group do the following:
+
+ 1. Choose 1 person to keep notes
+ 2. Discuss the 2 sections among yourselves -- with the goal of being able to give the class a summary of that section of the book
+ 3. Choose 1 or 2 people who will draw a picture on the board to illustrate the plot and your discussion
+** 6 Themes of Siddhartha
+
+1. Self-realization
+2. Personal experience vs. Formal training
+3. Persistence
+4. Folly of materialism or less is more
+5. paradox of unreal reality (reality is an illusion)
+6. knowledge v. wisdom
+
+
+*** With your group discuss:
+
+ 1. most important illustration of the theme from the text
+ 2. How important was that theme in the context of the whole work
+ 3. What does the theme tell us about religion?
+
+
+** Exam 1
+
+- If you answered just about anything you would get credit for the question -- leading to a probably C
+- The vocabulary was to be found in the 2 books we read to date
+- The essays were marked on a scale of 1-3 (needs improvement, adequate, good job)
+- The grades from the 5 parts were averaged

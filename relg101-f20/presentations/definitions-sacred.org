@@ -1,0 +1,79 @@
+#+Author: Dale Hathaway
+#+Title: Definitions: The Sacred
+#+Date: August 30, 2017
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+
+* What is Sacred
+** What is Sacred?
+#+ATTR_REVEAL: :frag (appear)
+  - “Sacred” is a complex word because it is used for a wide range of phenomena: places, time, persons, events, and deities.
+  - But, generally, when people speak of something as sacred, they mean to designate the thing in question as “other than ordinary.” 
+  - In the broadest sense of the term, the sacred is the “extraordinary.” 
+  - The value of using the term “sacred” is that it is not tradition specific.
+** The Sacred and The Holy
+#+ATTR_REVEAL: :frag (appear)
+  - Often the words “sacred” and “holy” are used as equivalents.  
+  - Thus, the best way to identify the sacred is to identify that which is designated holy.
+#+ATTR_REVEAL: :frag (appear)
+    - The early Israelites were instructed: “Observe the sabbath day and keep it holy.”
+    - A popular Christian hymn begins “Holy, holy, holy, Lord God almighty!” 
+    - Islamic tradition refers to Jerusalem as /al-quds—the holy city, or the city set apart/.
+* Examples
+** Examples of the Sacred
+#+BEGIN_QUOTE
+O God, you are my God, I seek you, my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water. So I have looked upon you in the sanctuary, beholding your power and glory. Because your steadfast love is better than life,my lips will praise You. (Psalm 63:1–3)
+#+END_QUOTE
+** Examples of the Sacred 
+#+BEGIN_QUOTE
+Thou [God] art the Imperishable, the supreme Object of Knowledge, Thou art the ultimate resting-place of this universe; Thou art the immortal guardian of the eternal right; Thou art the everlasting Spirit. . . . Without beginning, middle, or end, of infinite power, Of infinite arms, whose eyes are the moon and sun, I see Thee, whose face is flaming fire, Burning this whole universe with Thy radiance. (11:18–20)  (*Bhagavad Gita*)
+#+END_QUOTE
+
+
+** Examples of the Sacred 
+#+BEGIN_QUOTE
+“Its form, O king, cannot be elucidated by similes, but its qualities can. . . . As the lotus is unstained by water, so is Nirvana unstained by all the defilements. . . . As cool water allays feverish heat, so also Nirvana is cool and allays the fever of all the passions. . . . As medicine protects from the torments of poison, so Nirvana protects from the torments of the poisonous passions. . . . Nirvana and medicine both give security. . . . As a mountain peak is unshakeable, so is Nirvana. . . . ”  *Buddhism*: "The Nature of Nirvana"
+#+END_QUOTE
+
+
+* The Concept in various cultures
+** The Concept of Sacred Reality
+#+ATTR_REVEAL: :frag (appear)
+  - Derived from the Latin “sanctus”.
+  - “Sanctus” means “holy” and refers to something separated or set apart from other things.
+  - The related terms from the Hebrew (/kadosh  קדוש ) and the Greek (/hagios, 'αγιος/) mean the same.
+  - At minimum, the sacred is distinct from the profane.
+** Sacred Reality in Various Cultures
+#+ATTR_REVEAL: :frag (appear)
+  - In the Bible, God is preeminently sacred or holy, and everyone else and everything else is holy or sacred only in relation to God. 
+  - In ancient Rome, sanctus applied as much to the place of certain activities as to the activities themselves. 
+    - Those acts that were sanctified were performed in the /fanum or temple; other acts were pro fanum/, that is, performed in front of or outside the temple.
+** Sacred Reality in the Hebrew Bible
+#+ATTR_REVEAL: :frag (appear)
+  - By contrast, the Hebrew Bible uses /kadosh/ to describe God and things set apart by God’s choice: the people of Israel, the land they live in, types of food, modes of human relations.
+  - There is nothing special about such things except that they are chosen by God or are in some kind of relation to God.
+* Sacred and Profane
+** The Sacred and The Ordinary
+#+ATTR_REVEAL: :frag (appear)
+  - The sacred can further be characterized in terms of “the real.”
+  - The sacred stands for that which provides absolute and objective authority to an otherwise relative and subjective existence. 
+  - The sacred consists of an entirely different order than the ordinary life of human beings, but is manifest through ordinary existence.
+  - Stones, trees, the sky, bodies of water, various people—all these may be the vehicles of the sacred and thus share in its distinctive reality.
+** General Concept of the Sacred
+#+ATTR_REVEAL: :frag (appear)
+  - Sacred reality is present wherever something is *real* by 4 criteria:
+#+ATTR_REVEAL: :frag (appear)
+    - it is "set apart" from everything else in the world
+    - it is in some sense beyond human control
+    - it is in some sense vital for the well-being of humans
+    - it orders human existence
+

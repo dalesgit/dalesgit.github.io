@@ -1,0 +1,180 @@
+#+Author: Dale Hathaway
+#+Title: Hinduism 101 
+#+Date: Feb. 18, 2020
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:2  num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js 
+#+REVEAL_THEME: beige
+
+
+* Introduction to Hinduism
+
+** Common cliche
+   :PROPERTIES:
+   :reveal_background: https://www.toonpool.com/user/997/files/episcopalian_hindu_heaven_1368285.jpg
+   :reveal_background_size: 900px
+   :reveal_background_trans: slide
+   :END:      
+
+
+** Hinduism Vocabulary
+- Brahman :: Impersonal spirit, the Absolute, the Eternal; the Universal essence from which all created things emanate.
+- Brahmin :: Member of the highest ranking social class, a class of priests.
+- Buddha :: "One who has awakened" or "the one who has understood," an epithet or title rather than a proper name.
+- Krishna :: A widely revered and popular Indian deity, son of Vasudeva. One of his aspects is Govinda Krishna, lord of cowherds.
+
+#+REVEAL: split:t
+- Lakshmi :: Hindu goddess of wealth and good fortune, consort of Vishnu. In one of her incarnations, she bears the name Kamala.
+- Mara :: "Lord of the Senses," a tempter bent on distracting monks and buddhas-to-be during meditation.
+- Maya :: Principle of appearance, displays the unreal as real; brings about the illusory manifestation of the universe.
+- Nirvana :: Liberation from passion, suffering, and rebirth; an overcoming of the wheel of birth and death (*Sansara*).
+#+REVEAL: split:t
+- Samadhi :: Perfect one-pointedness of mind; absorption; the serene, unifying concentration achieved in meditation.
+- Samana :: One of a class of wandering mendicant ascetics of ancient India.
+- Sansara :: The wheel of birth and death, cycle of rebirths; empirical existence.
+- Upanishads :: The concluding portion of the Vedas, containing the teachings of the ancient sages; the *Upanishads* teach that the Self of a human being is the same as Brahman. There are 10 main Upanishads.
+#+REVEAL: split:t
+- Vedas :: Sacred scriptures of the Hindu tradition, consisting of 4 books: /Rig-Veda/, /Yajur-Veda/, /Sama-Veda/, and /Atharva-Veda/.
+- Vishu :: One of the principal Hindu deities, protector and preserver of the world. Krishna is one of his incarnations.
+
+** resources for Vocabulary
+#+ATTR_REVEAL: :frag (appear)
+-  Both /Sacred Quest/ and /Siddhartha/ (Bernofsky edition) have
+   glossaries
+-  Each of the following have reliable glossaries
+#+ATTR_REVEAL: :frag (appear)
+   -  http://www.dharma.org/resources/glossary
+   -  http://www.accesstoinsight.org/glossary.html
+
+* Complexity 
+
+** Overlay of Foreign concepts
+
+ -  The concepts of *Hindu* and *Hinduism* are problematic for several
+    reasons.
+ -  *Hindu* and *Hinduism* are words of Persian origin from the 12th
+    century C.E.; thus, they are not native to India.
+ -  Those who have conceptualized *Hinduism* have been western European
+
+** What do we mean by "religion" (cf. Our definition)
+
+-  notion of sacred reality
+-  made manifest in human experience
+-  in such a way as to produce long-lasting ways of thinking, feeling &
+   activity
+-  with respect to problems of ordering & understanding existence
+
+** Questions
+#+ATTR_REVEAL: :frag (appear)
+1. When you attempt to understand a new religious tradition, what is the
+   most important thing to learn? Would you focus on its doctrines, the
+   way it tells stories, its art, its rituals, or its institutions?
+   Would you focus on something else?
+2. If you were trying to explain your own religious tradition to someone
+   who knew nothing about it, what would be the most important thing for
+   that person to learn?
+
+* Hinduism
+  
+** Is / Is not
+ #+ATTR_REVEAL: :frag (appear)
+ -  Hinduism is not *just* a part or aspect of Indian life or culture; it
+    is far more encompassing than that.
+ -  It structures and influences every aspect of Hindu life, including
+ #+ATTR_REVEAL: :frag (appear)
+    -  arts,
+    -  music,
+    -  medicine,
+    -  etc.
+ #+BEGIN_NOTES
+ Note: and the like, which may explain the lack of a specific
+ self-referential term.
+
+
+
+ #+END_NOTES
+** Timeline
+
+[[https://www.preceden.com/timelines/274460-buddhism---hinduism]]
+
+** Veda, classic Scripture
+#+ATTR_REVEAL: :frag (appear)
+- most authoritative text for Hinduism
+- composed between 2300 and 1200 B.C.E.
+- oldest named *Rig* contains thousands of songs of praise
+- many different gods sung to
+#+begin_notes
+-  e.g. The oldest and most important of these collections contains more
+   than a thousand songs to various gods and goddesses and is aptly
+   named the Rig, meaning praise. Scholars believe it was composed
+   between 2300 and 1200 B.C.E.
+
+#+end_notes
+** Humans
+
+#+ATTR_REVEAL: :frag (appear)
+-  The Veda regarded humans as being individual souls
+-  and members of a stratified society.
+-  For the Aryans, the essence of human life is the soul, which they
+      associated with the *breath*, designated by the word *atman*.
+#+ATTR_REVEAL: :frag (appear)
+-  The Aryans' strong emphasis on *ritual* over *doctrine and belief* -
+   was the basis of the Vedic tradition.
+#+BEGIN_NOTES
+Note: The Veda regarded humans as being individual souls and members of
+a stratified society. For the Aryans, the essence of human life is the
+soul, which they associated with the breath, designated by the word
+tman. The Sanskrit atman has cognates in the English word atmosphere and
+the German word atmen, which means to breathe.
+
+
+#+END_NOTES
+
+** Classical Hinduism
+ - during Axial Age Vedic thought and ritual were re-evaluated
+ - beginning of belief in *afterlife*
+ - from *cosmic maintenance* to *personal enlightenment*
+ - established the central problem of human existence for Hindus, viz. *samsara*
+ - *Karma* and *Moksha*
+ - *Upanishads* (800-400 B.C.E.)
+ #+BEGIN_NOTES
+ -  Transformations of thought in the Axial Age (c. 800--200 B.C.E.) led
+    to the re-evaluation of Vedic ritual and new ideas about the nature
+    of human existence.
+ -  Deeper spiritual questions led to the examination of human nature and
+    the possibility of an *afterlife*.
+ -  (/This evolution in Indian religion was roughly contemporaneous with similar developments in other civilizations, including ancient Greece, China, Mesopotamia, and Israel./)
+ -  The function of religion changed from that of *cosmic maintenance* to
+    one of *personal enlightenment* and transformation.
+ -  Classical Hinduism established the central problem of human existence
+    for Hindus -- *samsara*, the cycle of continual *transmigrations of
+    the soul*.
+ -  *Karma*, even good *karma*, keeps a person bound to the cycle of
+    transmigration. One path the Hindu tradition offers for the
+    attainment of *moksha*, or ultimate release, is the path of wisdom.
+ -  The path of wisdom found in the Axial Age, when the most important
+    Hindu responses to the anxieties about death and rebirth were
+    recorded in a collection of texts called the *Upanishads*. The oldest
+    of the *Upanishads* was probably composed between 800--400 B.C.E.,
+    but actually written down much later.
+ -  Modern Hinduism has had to face challenges brought by the advent of
+    Islam and Western culture.
+
+ Note: Both incursions into India have left profound and lasting imprints
+ on Hinduism.
+ #+END_NOTES
+
+* Overview of history 
+https://youtu.be/n7ndRwqJYDM
+
+** or 
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/n7ndRwqJYDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

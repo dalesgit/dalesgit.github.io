@@ -1,0 +1,133 @@
+
+#+Author: Dale Hathaway
+#+Title:Tent of Abraham 2
+#+Date:2018-03-28 Wed
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+
+
+* Tent of Abraham #2
+*** hermeneutics / interpretation
+    :PROPERTIES:
+    :reveal_background: https://drive.google.com/uc?export=view&id=11KtvsOR4wCkztxg1FVlut6nXWhYtFBKs
+    :reveal_background_trans: slide
+    :reveal_background_size: 800px
+    :END:
+
+*** 4 functions of Sacred Stories (including scriptures): 
+
+ 1. connect with sacred,
+ 2. order cosmos,
+ 3. pass on the *traditio*, and
+ 4. instill ethical expectations and norms
+
+
+* Rabbi Arthur Waskow
+
+** Biography
+
+*Arthur Ocean Waskow* (born *Arthur I. Waskow* ; 1933) is an American author, political activist, andrabbi associated with theJewish Renewal movement.
+
+** Rabbi Waskow Midrash
+- A note on Midrash :: Introduce Talmud, Midrash, the white fire
+
+- When Abraham sees God :: /Gen 18/, YHWH, 3 visitors, Oaks of Mamre,
+
+- The Cloudy Mirror :: A treatment of 2 sons, Yitzschak, Yishma El, gerim/hagar in the land of Egypt
+
+#+REVEAL: split:t
+
+- Call me Ishmael :: Rosh Hashanah Moby Dick, Call me Ishmael, who is the outcast, names
+
+- In Gaza, Where was Isaac's angel? :: /Gen 22/ 1967, Abraham Heschel, 12 y/o Palestinian shot, Rosh Hashanah reading Gen 22, 10 days of tschuvah
+
+- The tomb and the well :: Abraham's death, his tomb, sojourners, Hagar first to be associated with well, acquire the land, Isaac/Ishmael intertwined. Both exp. Shoah and Naqba. Yom Kiippur & Goat
+#+REVEAL: split:t
+
+- Banishment and offering: the goats of Yom Kippur :: 10 days of awe, tshuvah, goat expelled, identify goat (banished) with Ishmael (banished), how see one another face to face?
+
+- A blessing to the families of the earth? :: /Gen 12:3/, all families blessed by Abraham? Wintertime for decency. Seeds of renewal?
+
+- When Messiah builds a temple :: Safed, story of Hasid ... seeing the Messiah. Whose temple will it be?
+
+* Sr. Joan Chittister OSB
+
+** Biography
+
+Sr. Joan Chittister (Catholic nun) is an outspoken advocate of justice, peace and equality --- especially for women world-wide --- and has been one of America's visionary spiritual voices for more than 30 years.
+
+** Sr. Joan Midrash
+
+- The middle east through lens of Genesis :: Story of Abraham. Whose side is God on? Who firstborn?
+
+- To you and to your seed :: /Gen 12:7/ I will give land to descendants.Village of Neve Shalom/Wahat al-Salaam.
+
+- Suppose there are fifty :: Suppose there are 50. Gathering of women in Oslo.
+#+REVEAL: split:t
+
+- Do not lay your hand on the boy :: mothers who've lost sons and daughters. Had all been to Mt. Moriah.
+
+- The right not to choose :: Jerusalem, Palestinians traveling,
+
+- But he lingered :: /Gen 19:19-21/. Story of Lot, he wanted things to go the way he wanted. Lot should be patron saint
+#+REVEAL: split:t
+
+- And you shall live :: /Gen 20:6-7/. gathering of women, carried by prayer, Abimelech & Abraham. Both sinned.
+
+- I will not take a thread :: Dresden, bombed out cafe. Why stay with the project? /Gen 14:14-16/. Abraham didn't profit from war. Why so many in the west?
+
+- His sons Isaac and Ishmael buried him :: /Gen 21:11-13/. Both are heirs. /Gen 25:8-10/. Both bury him.
+#+REVEAL: split:t
+
+- I will indeed bless you :: /Gen 22: 15-18/
+
+- Blame enough to go around :: /Gen 21:15-20/ God provides. Litany of success and failures.
+
+* Saadi Shakur Chishti
+
+** Sufism
+
+   An ancient branch of Islam that has maintained a "mystical" approach to Islamic faith. Many Muslims would not regard them as true Muslims.
+
+** Biography
+
+Chashti currently lives in Fife, Scotland, where he directs the Edinburgh Institute for Advanced Learning (www.eial.org). For eight years, he was the co-chair of the Mysticism Group of the American Academy of Religion. His books include /Prayers of the Cosmos/ , /Desert Wisdom/ , /The Hidden Gospel/ , /The Genesis Meditations/ , /The Sufi Book of Life/ and /The Tent of Abraham/ (with Rabbi Arthur Waskow and Sr. Joan Chittister). In 2004, he co-founded the Edinburgh International Festival of Middle Eastern Spirituality and Peace (www.mesp.org.uk).
+
+** Saadi Chishti Midrash
++ The stories today: a Muslim perspective :: Multiple traditions in Islam. Sufi. Creation as process -- Sufi method? Spiritual interpretation? Hadith. Discover inner self (nafs)
+
++ The birth of a prophet :: Miracle stories of birth. Tyrant within us fears... Islamic mysticism, birth of conscience.
+
++ Stargazing :: /Gen 15:5/ / /Sura 6:76/. Many gods to one God? Quran says Torah and NT are also monotheist.
+#+REVEAL: split:t
+
++ A gnat in the head :: Abraham smashing idols, tale of Nimrod. Democracy an idol?
+
++ The brother, his “sister,” and the tyrant :: cp. nation nafs, Sufi many voices, common story to both traditions. A thorough-going psychologizing interpretation.
+
++ The mysterious strangers :: /Sura 11:69-70/. /Sura 51:29-30/. begin meetings with a meal. Hospitality
+#+REVEAL: split:t
+
++ The well of abundant water :: Bible / Sura re. Hagar at the well. Explicity allegorizing. Shalom / Salaam.
+
++ Visiting rights and border control :: /Sura 14:37-38/. /Matt. 25:35-45/. cp. the quote from Quran. What is revealed / hidden. Abraham in Arabia. "Spiritual interpretation" 
+
++ Where Adam and Eve made love :: /Sura 22:26/. Climax of A's 3rd visit to Arabia -- build Kaaba. Adam & Eve in the Quran. "Importance of story, sacred space, shared community ritual"
+#+REVEAL: split:t
+
++ The original pilgrimage :: /Sura 22:27/. /Sura 6:38/, Allah constantly forgiving & merciful. "Hajj" indirectly related to "Hagar", Inner meaning of hajj for the soul.
+
++ The sacrifice :: /Sura 37:100-109/ cp. /Gen. 22/. /Sura 14:39-41/. /Sura 37:105-109/. A constantly figuring things out. Abraham as soul's journey through life. Sacrifice of a son. In the West -- do we need to ask for forgiveness? Abraham did.
+
+

@@ -1,0 +1,266 @@
+#+Author: Dale Hathaway
+#+Title:Theodicy pt 1
+#+Date: Week of March 23, 2020
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes menu)
+#+REVEAL_ROOT: ../../reveal.js
+#+REVEAL_THEME: beige
+
+* Guide to app usage 
+| Key stroke  | Effect                    |
+|-------------+--------------|
+| n, space    | next slide                |
+| p           | previous slide            |
+| f           | fullscreen                |
+| esc, o      | overview slide            |
+| m           | toggle menu               |
+|------------ +--------------------|
+|------------ +--------------------|
+| audio inlay | start/stop audio playback |
+
+
+* The Problem of Evil
+  :PROPERTIES:
+  :CUSTOM_ID: the-problem-of-evil
+  :END:
+
+
+- The word theodicy derives from the Greek words
+
+| Θεός  | Τheos     | "God" |
+| δίκη  | dikē      | "Justice" |
+
+#+begin_notes
+- Charles Carroll exposed me to religion & evil
+- Nurnberg, he knew such as Martin Niemoeller & members of the White Rose
+- After those experiences CC became a priest
+- literature on "evil" continues to be popular (M. Scott Peck etc.)
+- Some Christian traditions have emphasized the reality of the devil and blamed "liberal" theologians for downplaying the impact of evil
+
+#+end_notes
+*** Humanity seems to never learn 
+  :PROPERTIES:
+  :CUSTOM_ID: θεός-τheos-and-δίκη-dikē.
+  :END:
+| https://reformjudaism.org/sites/default/files/styles/article_inline_image/public/elie_wiesel_1.jpg |  [[https://youtu.be/uqcfZZR7_v0][Youtube]] Elie Wiesel asks, "What are we doing?" |
+
+We must remember
+#+begin_notes
+- the technical word refers to 2 aspects of God that seem incompatible in the world we live in.
+- the excerpt expresses his deep question about humanity's seeming inability to learn a lesson from "Auschwitz"
+- one of the repeated themes of Wiesel's life was the need to *never forget* the evil that cultured, educated, even religious people perpetrated during Germany's "Final Solution."
+- in the twilight of his life it appeared to him that humans don't learn, that the "haters" have continued, and by implication it must be that God is impotent
+#+end_notes
+** What is the Problem of Evil?*
+
+- actually a cluster of "problems" related to understanding *Sacred reality*
+- Why does good fortune turn to bad? (*Psalms*)
+- Why do the righteous suffer and the wicked flourish? (*Hindu*)
+
+#+BEGIN_NOTES
+- perhaps the most fundamental challenge to *religion*, from the earliest times, is the presence of profound evil and a trust or devotion towards a *sacred reality* as we have defined it -- often personified in *God* or *gods*
+
+Note: - The problem of evil actually represents not a single problem but a cluster of issues arising from the attempt to relate a diverse set of experiences to notions of sacred reality. - Drawing on the tradition of his faith community, for example, the psalmist asks, in effect, Why does good fortune turn to bad? - In a very different context, a critic of Hindu beliefs asks a different sort of question: Why do the righteous suffer and the wicked flourish? (SQ)
+
+
+#+END_NOTES 
+
+
+** Problem of Evil (Christianity)
+  :PROPERTIES:
+  :CUSTOM_ID: problem-of-evil-christianity
+  :END:
+
+1-2a We’ve been hearing about this, God,
+    all our lives.
+Our fathers told us the stories
+    their fathers told them,
+...
+9-12 
+But now you’ve walked off and left us,
+    you’ve disgraced us and won’t fight for us.
+You made us turn tail and run;
+    those who hate us have cleaned us out.
+You delivered us as sheep to the butcher,
+    you scattered us to the four winds.
+You sold your people at a discount—
+    you made nothing on the sale.
+
+(/Psalm 44/)
+
+--------------------
+
+#+begin_notes
+The Psalms of the Bible are ancient songs that are deeply felt and passionately expressed. Some are praise. Some are deeply sad and remorseful. Some cry out for help. Many have the sense of *abandonment* that we hear in Psalm 44. To experience the power of evil is often to experience equally the absence of God. The two seem to be incompatible.
+
+#+end_notes
+** Problem of Evil Hinduism
+  :PROPERTIES:
+  :CUSTOM_ID: problem-of-evil-hinduism
+  :END:
+
+The world is so confused and out of joint, why does Brahma not set it straight? If he is master of the whole world, Brahma, lord of the many beings born, why in the whole world did he ordain misfortune? Why did he not make the whole world happy? . . .Why did he make the world with deception, lies, and excess, with injustice?
+
+---------------------
+
+(/A very early example of an explicit statement of the problem of evil -- the justice of God -- occurs in a BUddhist text that satirizes the Hindu's failure to come to terms with the problem./)
+
+--------------
+
+#+begin_notes
+It's not just Christianity. The most ancient of the major religions, Hinduism, felt the confrontation, the dilemma, of the problem of evil.
+#+end_notes
+** Logical dilemma
+- God's omnipotence (power), God's benevolence (goodness), and God's justice together seem incompatible with the presence of evil in the world
+
+  - If God can change the world, and God is good, how can there be evil?
+
+  - If God allows evil can God be said to be "good"?
+
+  - If God is good but cannot prevent evil -- can it be said that God is powerful?
+#+begin_notes
+
+- In religious traditions that stress the power and goodness of one God who rules over all creation, the existence of evil presents a logical dilemma.
+
+  - If God is good and powerful, what is the nature of evil?
+  - If God could prevent evil but does not, can God be good?
+  - On the other hand, if God is good but cannot prevent evil, can God be powerful?
+
+
+
+#+end_notes
+
+
+* Theodicy
+  :PROPERTIES:
+  :CUSTOM_ID: theodicy
+  :END:
+It is argued that if God is all-merciful, all-powerful, perfect-justice
+
+and there is evil:
+
+only 2 of those can be true
+
+| God is merciful and powerful | but not just |
+| God is merciful and just | but not powerful |
+| God is powerful and just | but not merciful |
+#+BEGIN_NOTES
+Note:
+- God is all-merciful. God is all-powerful. God is perfect-justice.
+- Any 2 of these can be held at the same time - but not all 3
+
+
+Chart:
+
+
+cf. slideshare: https://www.slideshare.net/Mrs-B/apologetics-101-wk6-evil-suffering
+
+
+Note: - When the problem of evil is raised in connection with belief in God or gods, we may describe them as issues of *theodicy*, or divine justice. - However, even those religious traditions that stress the impersonal nature of the sacred, must seek to explain the existence of evil or suffering in the world. 
+
+
+#+END_NOTES
+
+** It is a dilemma, even for non-religious
+The psychologist M. Scott Peck wrote a book in the 1980's titled /The People of the Lie/. In it he argued that people engaged in evil acts are at the deepest level lying, betraying the truth. cf. the web site:   [[http://www.gurteen.com/gurteen/gurteen.nsf/id/X0038E2E2/][Scott Peck]]
+   #+begin_notes
+   
+- even non-theists must explain the presence of evil & suffering (cf. e.g. a psychologists perspective: [[http://www.gurteen.com/gurteen/gurteen.nsf/id/X0038E2E2/][Scott Peck]])
+
+ There really are people and institutions made up of people, who respond with hatred in the presence of goodness and would destroy the good insofar as it is in their power to do so. They do this not with conscious malice but blindly, lacking awareness of their own evil -- indeed, seeking to avoid any such awareness. As has been described of the devil in religious literature, they hate the light and instinctively will do anything to avoid it, including attempting to extinguish it. They will destroy the light in their own children and in all other beings subject to their power.
+   #+end_notes
+** 
+    :PROPERTIES:
+    :reveal_background: https://drive.google.com/uc?export=view&id=11T6s_u4aGNTnf-HqkxtawUtMg3ISKYhL
+    :reveal_background_trans: slide
+    :reveal_background_size: 1200px
+    :END:
+
+*** 
+    :PROPERTIES:
+    :reveal_background: https://drive.google.com/uc?export=view&id=11VhSFh6zD1P_nheRi0nhD9Hcc_c7BKd8
+    :reveal_background_trans: slide
+    :reveal_background_size: 900px
+    :END:
+
+ 
+** The Holocaust (Shoah)
+  :PROPERTIES:
+  :CUSTOM_ID: the-holocaust-shoah
+  :END:
+- the 20th c. gave us the example of Hitler's *Final Solution* -- the attempt to exterminate the world's population of Jews.
+- It has been called *holocaust* which in the Bible means an *offering* to God
+- Some propose today that it be called *shoah* which means *catastrophe*
+- *Note the difference the two words imply*
+
+#+BEGIN_NOTES
+
+Note: - For Jews, the challenge of the Holocaust involves the relationship of the destruction of Europes Jews to the notion that there is a God who governs history according to a plan and that all the events of Jewish history have a meaning in the plan of God. - For Christians, the problem is slightly different and involves the following question: In the death camps, where was Christ?
+
+- In the modern West, no single experience raises the questions associated with the problem of evil with greater power than the *Holocaust*.
+- The *Holocaust* illustrates the general point of how religious people identify evil in terms of a contradiction between the facts of experience and the reality of the sacred.
+- The *Holocaust* challenges some of the central affirmations of Jewish and Christian faith.
+
+
+#+END_NOTES
+
+** Slavery
+- For our country the effects of slavery are still affected by racism
+- In the American context there is perhaps no better example of *evil* than the presence and justification for slavery -- from the earliest years of the Republic
+- the Bible and Christianity were used to justify slavery and are still used to justify *racism*
+
+#+begin_notes
+
+#+end_notes
+** Genocide e.g. Native American
+- From an even earlier period in the Caucasian invasion of North America is the genocide perpetrated on Native Americans by Europeans colonizing North America
+- there are models in the Bible that illustrate *total annihilation*
+
+“blot out their names from under heaven” (/Deut. 29:20/). Indeed, he vowed to destroy them and the land “like the destruction of Sodom and Gomorrah…which the Lord destroyed in his fierce anger…’” (/Deut. 29:23/)
+
+/cherem/ or "ban" refers to the total destruction of an enemy (of Israel) but ultimately came to refer to an *offering* to God
+
+#+begin_notes
+
+#+end_notes
+** Extinction Environmental Catastrophe
+- many would argue that the mounting catastrophe of the abuse of the environment and the possibility of the extinction of life as we know it may be the largest example of all
+- Is it a matter of utter self-concern, a disregard for those who come after, a willful deceit?
+
+#+begin_notes
+
+#+end_notes
+** Some bibliographical links
+
+*** Justifications for slavery
+
+- [[https://www.ushistory.org/us/27f.asp][southern justification for slavery]]
+- [[http://abolition.e2bn.org/slavery_112.html][arguments & justifications for slavery]]
+- [[https://andilit.com/2013/12/03/5-justifications-for-american-slavery-that-break-my-heart/][5 excuses for slavery]]
+- [[https://historyengine.richmond.edu/episodes/view/3535][19th c. docs]]
+- [[https://time.com/5171819/christianity-slavery-book-excerpt/][use of bible]]
+
+*** Justifications for genocide
+
+- [[https://www.history.com/news/native-americans-genocide-united-states][Native
+  Americans]]
+- [[https://www.nj.gov/education/holocaust/curriculum/NorthAmericanGenocide.pdf][curriculum for]] 
+- Curriculum guide for [[https://www.nj.gov/education/holocaust/curriculum/NorthAmericanGenocide.pdf][North American genocide]]
+- [[https://historynewsnetwork.org/article/7302][overview]]
+- [[https://www.thenation.com/article/archive/naming-americas-own-genocide/][book review naming it "genocide"]]
+- [[https://www.redletterchristians.org/christian-defense-genocide-david-bartons-justification-devastation-native-americans/][far right "Christian" justification]]
+ 
+*** Other links 
+- James Hatley: [[http://extinctionstudies.org/people/hatley/][Extinction studies]] growing out of his interest in Shoah etc. RELG 101 @ Salisbury
+- Curriculum guide for [[https://www.nj.gov/education/holocaust/curriculum/genslave.pdf][slavery / genocide]]
+- [[https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html?action=click&contentCollection=Magazine&region=TopBar&module=HomePage-Title&pgtype=Multimedia][1619 Project NY Times Mag on slavery in US]]
+- [[http://www.slate.com/articles/news_and_politics/cover_story/2016/01/native_american_slavery_historians_uncover_a_chilling_chapter_in_u_s_history.html][Overlap]] of Native American enslavement & African slavery

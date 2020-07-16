@@ -1,0 +1,179 @@
+#+Author: Dale Hathaway
+#+Title: Hesse's Siddhartha 
+#+Date:2018-02-14 Wed  
+#+Email: hathawayd@winthrop.edu
+#+OPTIONS: org-reveal-title-slide:"%t"
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:2  num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+
+*  Hesse Introduction
+**  Hesse overview
+ <https://www.hermann-hesse.de/en/biography>
+#+ATTR_REVEAL: :frag (appear)
+- Religion
+    - Father Christian minister
+    - living in a world of a diversity of religions
+    - life-long *search*
+#+ATTR_REVEAL: :frag (appear)
+- Life crisis (“author of crisis”)
+    - influence of Freud & psychoanalysis
+    - we saw in Sacred Quest that psychoanalysis can be seen to function something like a religion
+#+ATTR_REVEAL: :frag (appear)
+- Travel to India
+**  Hearing his "voice"
+"For many years, I have been convinced that the European spirit is on the wane, and is in need of a return to its Asian roots. I have admired Buddha for many years, and have been reading Indian literature since my earliest youth. Later, I became more familiar with Lao Tsu and the other Chinese philosophers“
+#+ATTR_REVEAL: :frag (appear)
+- We can hear his voice in an excerpt from this essay on language:  https://www.hermann-hesse.de/node/2586
+**  Setting of the novel
+cf. translator's preface
+#+ATTR_REVEAL: :frag (appear)
+- On the one hand, set in imagined India of 5-6th c. BCE
+- On the other hand, written in "Machine Age Europe"
+* Introduction to Hinduism
+
+** 
+   :PROPERTIES:
+   :reveal_background: https://www.toonpool.com/user/997/files/episcopalian_hindu_heaven_1368285.jpg
+   :reveal_background_trans: slide
+   :END:
+*** Hinduism Vocabulary
+
+| Vocabulary   |              |
+|--------------+--------------|
+| Brahman      | Brahmin      |
+| Buddha       | Krishna      |
+| Lakshmi      | Mara         |
+| Maya         | Nirvana      |
+| Samadhi      | Samana       |
+| Sansara      | Upanishads   |
+| Vedas        | Vishnu       |
+
+*** resources for Vocabulary
+-  Both /Sacred Quest/ and /Siddhartha/ (Bernofsky edition) have
+   glossaries
+#+ATTR_REVEAL: :frag (appear)
+-  Each of the following have reliable glossaries
+#+ATTR_REVEAL: :frag (appear)
+   -  http://www.dharma.org/resources/glossary
+   -  http://www.accesstoinsight.org/glossary.html
+
+* Complexity of subject
+
+-  The concepts of *Hindu* and *Hinduism* are problematic for several
+   reasons.
+#+ATTR_REVEAL: :frag (appear)
+-  *Hindu* and *Hinduism* are words of Persian origin from the 12th
+   century C.E.; thus, they are not native to India.
+-  Those who have conceptualized *Hinduism* have been western European
+
+** What do we mean by "religion" (cf. Our definition)
+
+-  notion of sacred reality
+-  made manifest in human experience
+-  in such a way as to produce long-lasting ways of thinking, feeling &
+   activity
+-  with respect to problems of ordering & understanding existence
+
+** Questions
+#+ATTR_REVEAL: :frag (appear)
+1. When you attempt to understand a new religious tradition, what is the
+   most important thing to learn? Would you focus on its doctrines, the
+   way it tells stories, its art, its rituals, or its institutions?
+   Would you focus on something else?
+2. If you were trying to explain your own religious tradition to someone
+   who knew nothing about it, what would be the most important thing for
+   that person to learn?
+
+* Hinduism
+-  Hinduism is not *just* a part or aspect of Indian life or culture; it
+   is far more encompassing than that.
+#+ATTR_REVEAL: :frag (appear)
+-  It structures and influences every aspect of Hindu life, including
+#+ATTR_REVEAL: :frag (appear)
+   -  arts,
+   -  music,
+   -  medicine,
+   -  etc.
+#+BEGIN_NOTES
+Note: and the like, which may explain the lack of a specific
+self-referential term.
+
+
+
+#+END_NOTES
+** Timeline
+
+[[https://www.preceden.com/timelines/274460-buddhism---hinduism]]
+
+** Veda
+#+ATTR_REVEAL: :frag (appear)
+-  most authoritative text for Hinduism
+-  composed between 2300 and 1200 B.C.E.
+-  e.g. The oldest and most important of these collections contains more
+   than a thousand songs to various gods and goddesses and is aptly
+   named the Rig, meaning praise. Scholars believe it was composed
+   between 2300 and 1200 B.C.E.
+-  many different gods sung to
+
+** Humans
+
+-  The Veda regarded humans as being individual souls
+#+ATTR_REVEAL: :frag (appear)
+   -  and members of a stratified society.
+   -  For the Aryans, the essence of human life is the soul, which they
+      associated with the *breath*, designated by the word *atman*.
+#+ATTR_REVEAL: :frag (appear)
+-  The Aryans' strong emphasis on *ritual* over *doctrine and belief* -
+   was the basis of the Vedic tradition.
+#+BEGIN_NOTES
+Note: The Veda regarded humans as being individual souls and members of
+a stratified society. For the Aryans, the essence of human life is the
+soul, which they associated with the breath, designated by the word
+tman. The Sanskrit atman has cognates in the English word atmosphere and
+the German word atmen, which means to breathe.
+
+
+#+END_NOTES
+
+* Classical Hinduism
+#+ATTR_REVEAL: :frag (appear)
+-  Transformations of thought in the Axial Age (c. 800--200 B.C.E.) led
+   to the re-evaluation of Vedic ritual and new ideas about the nature
+   of human existence.
+-  Deeper spiritual questions led to the examination of human nature and
+   the possibility of an *afterlife*.
+-  (/This evolution in Indian religion was roughly contemporaneous with similar developments in other civilizations, including ancient Greece, China, Mesopotamia, and Israel./)
+-  The function of religion changed from that of *cosmic maintenance* to
+   one of *personal enlightenment* and transformation.
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+-  Classical Hinduism established the central problem of human existence
+   for Hindus -- *samsara*, the cycle of continual *transmigrations of
+   the soul*.
+-  *Karma*, even good *karma*, keeps a person bound to the cycle of
+   transmigration. One path the Hindu tradition offers for the
+   attainment of *moksha*, or ultimate release, is the path of wisdom.
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (appear)
+-  The path of wisdom found in the Axial Age, when the most important
+   Hindu responses to the anxieties about death and rebirth were
+   recorded in a collection of texts called the *Upanishads*. The oldest
+   of the *Upanishads* was probably composed between 800--400 B.C.E.,
+   but actually written down much later.
+-  Modern Hinduism has had to face challenges brought by the advent of
+   Islam and Western culture.
+#+BEGIN_NOTES
+Note: Both incursions into India have left profound and lasting imprints
+on Hinduism.
+#+END_NOTES
+
+** Overview
+
+[[https://youtu.be/8Nn5uqE3C9w]]
